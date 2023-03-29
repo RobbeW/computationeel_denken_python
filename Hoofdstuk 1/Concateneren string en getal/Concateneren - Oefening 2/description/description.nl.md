@@ -20,13 +20,14 @@ oppervlakte = zijde * zijde
 
 **Invoer:**
 ```
-De lengte van de zijde bedraagt: 16.42 centimeter. 
+De lengte van de zijde bedraagt: 16.42
 ```
 
 **Uitvoer:**
 Print de omtrek en oppervlakte van het vierkant naar het scherm in de volgende vorm: 
 ```
-"De omtrek van het vierkant is ... " en "De oppervlakte van het vierkant is ... "
+"De omtrek van het vierkant is ... centimeter." 
+"De oppervlakte van het vierkant is ... vierkante centimeter."
 ```
 
 ## Tips: 
