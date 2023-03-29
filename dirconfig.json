@@ -1,0 +1,11 @@
+{
+  "visibility": "private",
+  "evaluation": {
+    "handler": "python",
+    "time_limit": 15,
+    "memory_limit": 100000000
+  },
+  "programming_language": "python",
+  "author": "Robbe Wulgaert <robbe.wulgaert@sintlievenscollege.be>",
+  "contact": "robbe.wulgaert@sintlievenscollege.be"
+}
