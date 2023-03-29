@@ -28,10 +28,11 @@ toets_3 = 11.5
 ## Uitvoer: 
 
 * Print de totaalscore, het gemiddelde en het percentage van de scores naar het scherm in de volgende vorm: 
+
 ```
-"De totaalscore is: " + totaalscore + "/60."
-"Het gemiddelde is: " + gemiddelde + "/20."
-"Het percentage is: " + percentage + "%."
+De totaalscore is: ... /60.
+Het gemiddelde is: ... /20.
+Het percentage is: ... %.
 ```
 
 * Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
