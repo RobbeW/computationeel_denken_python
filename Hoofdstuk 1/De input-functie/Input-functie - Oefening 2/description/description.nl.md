@@ -7,7 +7,7 @@ Bij de vorige oefening maakte je het algoritme om een online bestelling te regel
 ## Gevraagd:
 
 * **Bouw verder op de code uit jouw vorige oefening;** 
-* Vraag de gebruiker naar zijn/haar/hun `huisnummer`en `postcode`;  
+* Vraag de gebruiker naar zijn/haar/hun `huisnummer`, `postcode` en `plaats`;  
 * Sla de ingevoerde gegevens op in variabelen;
 
 
