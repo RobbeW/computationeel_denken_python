@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Complexe Operatoren - Oefening 2",
+      "en": "Complex Operators - Exercise 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "KkZ7tCfhJdn_6qtEp6XFRiqYjszPUzC8isTZ-7C9_7BRfkgvdU9YuzI8_bsyBdkW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

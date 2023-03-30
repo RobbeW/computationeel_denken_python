@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Complex Operators - Oefening 4",
+      "en": "Complex Operators - Exercise 4"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "hgbg_yJtzVEIF9CMAAN2TN_U6C4hVvGHUa_4c4XZ3hhsCiuXwFsijITtsgfBBQrX",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
