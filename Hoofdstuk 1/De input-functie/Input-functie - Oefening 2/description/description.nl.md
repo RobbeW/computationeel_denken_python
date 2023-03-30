@@ -15,7 +15,7 @@ Bij de vorige oefening maakte je het algoritme om een online bestelling te regel
 ```
 Voer je voornaam in: Karim
 Voer je familienaam in: Cerit
-Voer je straatnaam in: Koekoekstraat 77
+Voer je straatnaam in: Koekoekstraat
 Voer je huisnummer in: 3.1
 Voer je postcode in: 9000
 Voer je stad/gemeente in: Gent
