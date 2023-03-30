@@ -21,6 +21,6 @@ Voer je straatnaam in: Koekoekstraat 77
 ## Uitvoer:
 Print de ingevoerde gegevens op het scherm in de vorm: 
 ```
-De bestelling wordt verzonden naar: [voornaam] [familienaam], [straatnaam].
+De bestelling wordt verzonden naar: [voornaam] [familienaam] in de [straatnaam].
 ```
 
