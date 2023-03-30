@@ -14,7 +14,7 @@ Bij een online bestelling moet de gebruiker zijn adresgegevens invullen, waarond
 ```
 Voer je voornaam in: Karim
 Voer je familienaam in: Cerit
-Voer je straatnaam in: Koekoekstraat 77
+Voer je straatnaam in: Koekoekstraat
 ```
 
 
