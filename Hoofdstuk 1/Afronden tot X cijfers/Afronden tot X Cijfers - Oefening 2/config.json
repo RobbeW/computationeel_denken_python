@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Afronden tot X Cijfers - Oefening 2",
+      "en": "Rounding Numbers - Exercise 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "Pt8efY-FUQMDcN4C22MeqIpN-JG5dreKVhi-NU_b6wj_cU_9HEGqsF2njIaPe_Pp",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
