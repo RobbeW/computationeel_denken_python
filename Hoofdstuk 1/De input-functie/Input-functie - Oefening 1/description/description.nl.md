@@ -1,4 +1,4 @@
-# Oefening 1 - Variabele & Strings
+# Input-Functie - Oefening 1
 
 ## Doel:
 
