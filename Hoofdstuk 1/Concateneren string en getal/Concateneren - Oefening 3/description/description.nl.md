@@ -1,33 +1,31 @@
 # Concateneren - Oefening 3
 
-## Gegeven: 
+## Gegeven:
 
-Fred is ook benieuwd naar de grootte van de goal. Het kader van de goal is 7.32 meter lang en 2.44 meter hoog.
+Een rechthoek heeft een bepaalde lengte en breedte.
 
-<img src="https://images.pexels.com/photos/149356/pexels-photo-149356.jpeg" width="50%"/>
+## Gevraagd:
 
-## Gevraagd: 
+* Schrijf een programma dat **vraagt** naar de lengte en breedte van een rechthoek (== input-functie);
+* Bereken de **oppervlakte** van de rechthoek;
+* Bereken de **omtrek** van de rechthoek;
+* Print de oppervlakte en omtrek van de rechthoek op het scherm.
 
-* Schrijf een programma dat de gebruiker `vraagt` naar de `lengte` en `hoogte` van de goal `(== input-functie)`;
-* Bereken de `omtrek` van het kader;
-* Bereken de `oppervlakte` van het kader;
-* `Print` de `omtrek` en de `oppervlakte` van het kader op het scherm.
-
-## Invoer: 
+## Invoer:
 ```
-Voer de lengte van de goal in: 7.32
-Voer de hoogte van de goal in: 2.44
+Voer de lengte van de rechthoek in: 10.75
+Voer de breedte van de rechthoek in: 5.66
 ```
 
-## Uitvoer: 
+## Uitvoer:
 ```
-De omtrek van het kader is ... meter.
-De oppervlakte van het kader is ... vierkante meter.
+De oppervlakte van de rechthoek is ... meter.
+De omtrek van de rechthoek is ... meter.
 ```
 
-## Tips: 
-* Gebruik de `input()-functie` om de gebruiker naar de `lengte` en `hoogte` van de goal te vragen;
-* Vergeet niet om de `input` om te zetten naar een `float` of `int`;
-* Bereken de `omtrek` van het kader met de formule: `omtrek = 2 * (lengte + hoogte)`;
-* Bereken de `oppervlakte` van het kader met de formule: `oppervlakte = lengte * hoogte`; 
-* `Print` de berekende `omtrek en oppervlakte` van het kader naar het scherm met behulp van de `print()-functie.`
+
+## Tips:
+* Gebruik de `input()`-functie om de gebruiker naar de lengte en breedte van de rechthoek te vragen. Vergeet niet om de input om te zetten naar een `float` of `int`.
+* Bereken de oppervlakte van de rechthoek met de formule: `oppervlakte = lengte * breedte`.
+* Bereken de omtrek van de rechthoek met de formule: `omtrek = 2 * (lengte + breedte)`.
+* Print de berekende oppervlakte en omtrek van de rechthoek naar het scherm met behulp van de `print()`-functie.

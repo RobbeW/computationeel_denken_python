@@ -5,7 +5,7 @@
   "description": {
     "names": {
       "nl": "Concateneren - Oefening 1",
-      "en": "Combining - Exercise 1"
+      "en": "Concatenation - Exercise 1"
     }
   },
   "evaluation": {
@@ -16,7 +16,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "6z_z_utrpe7U7knG_Bs9WIiIaCiB-BXgaUYi29VMvy62NUUy5j5tPNmJzimUY2uD",
+    "token": "nZnht3aqzqwunW5tGfwA9N9PUTs35sQ4jPmxFymJY7hNMX_dS3uZMCQr6UEaBUyn",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Concateneren - Oefening 3",
-      "en": "Combining - Exercise 3"
+      "nl": "Concateneren - Oefening 5",
+      "en": "Combining - Exercise 5"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
 
   ],
   "internals": {
-    "token": "k-pdEXM9pbg8gI2FIXgQwKJ3JwFiHgHu9gUet5zdhEY7PhtJFA-XH3bDsrpMkdKg",
+    "token": "y-NAFk-Q4kTC6tVCA4dpBG8RCWr7rzxugFgf4BIPmjRd5HBADq5GCjvDmC-GiZg5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
