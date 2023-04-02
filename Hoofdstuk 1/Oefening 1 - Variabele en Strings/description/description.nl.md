@@ -23,5 +23,4 @@ Alice
 ## Uitvoer: 
 ```
 Alice
-Alice
 ```
