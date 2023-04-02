@@ -1,26 +1,27 @@
-# Input-functie - Oefening 1
+# Oefening 1 - Variabele & Strings
 
-## Gegeven:
+## Doel:
 
-Bij een online bestelling moet de gebruiker zijn adresgegevens invullen, waaronder voornaam, familienaam en straatnaam.
+In deze oefening leer je een 
+* variabele aanmaken;
+* een string aan de variabele toevoegen;
+* de input-functie gebruiken;
+* en de inhoud van de variabelen naar het scherm printen.
 
-## Gevraagd:
+## Opgave: 
 
-* Schrijf een programma dat de gebruiker vraagt naar zijn/haar/hun `voornaam`, `familienaam` en `straatnaam` `(== input-functie)`;
-* Sla de ingevoerde gegevens op in variabelen;
+1. Maak een variabele met de naam `bericht` en wijs er de string `"Hallo, mijn naam is "` aan toe;
+2. Vraag de gebruiker om zijn/haar/hun naam in te voeren. Gebruik hiervoor de `input()`-functie;
+3. Voeg de ingevoerde naam toe aan de variabele `bericht`.
+4. Print de inhoud van de variabele `bericht` naar het scherm.
 
-
-## Invoer:
+## Invoer: 
 ```
-Voer je voornaam in: Karim
-Voer je familienaam in: Cerit
-Voer je straatnaam in: Koekoekstraat
-```
-
-
-## Uitvoer:
-Print de ingevoerde gegevens op het scherm in de vorm: 
-```
-De bestelling wordt verzonden naar: [voornaam] [familienaam] in de [straatnaam].
+Alice
 ```
 
+## Uitvoer: 
+```
+Voer je naam in: Alice
+Hallo, mijn naam is Alice
+```
