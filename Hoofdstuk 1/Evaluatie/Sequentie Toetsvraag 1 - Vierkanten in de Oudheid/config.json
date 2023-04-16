@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Sequentie Toetsvraag 1 - Vierkanten in de Oudheid",
+      "en": "Sequence Test Exercise 1 - Squares in Ancient Greece"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "WPFxacpi_GXNHWnedbswxx8SkXd4iuGzYQXK53SjjqPs4jKZZi5cx2F8re6XChm9",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
