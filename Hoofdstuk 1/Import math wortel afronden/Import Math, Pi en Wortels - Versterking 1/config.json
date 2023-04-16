@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import Math, Pi en Wortels - Versterking",
+      "en": "Import Math, Pi and Square Root - Rehearsal"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "xS3Zi-nTrrCbT7nNMsj4S6jb6q7QwUFvZjt2y9eQCJ4tDcBKaUi98acH-izVH93y",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

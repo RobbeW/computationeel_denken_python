@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import Math, Pi en Wortels - Oefening 3",
+      "en": "Import Math, Pi and Square Root - Exercise 3"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "wDMI6SfI8QCkyaGbh4zGGmxbdzhMEze9sZxcGp-PVavDwuFEUF5-MPDEHibjPHft",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

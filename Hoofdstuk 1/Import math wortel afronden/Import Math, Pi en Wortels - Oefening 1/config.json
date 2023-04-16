@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import Math, Pi en Wortels - Oefening 1",
+      "en": "Import Math, Pi and Square Roots - Exercise 1"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "yZ6c38wJhaV7tW7qJ4Dkgt3HEDu_tVGnNdVuuEUrn33uFKpX_urk92kjYhJAdTMk",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
