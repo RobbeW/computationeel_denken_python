@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werken met IF, ELIF en ELSE - Oefening 2",
+      "en": "IF, ELIF and ELSE functions - Exercise 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "EDvgYmvu7VjkjENC8n8EwB6DIID6FR9PRJ6pJxeRQeDQz3gB4ezQyMRFsHFNqPrf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

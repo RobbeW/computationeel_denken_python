@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Online Webshop - Deel 1",
+      "en": "Sale"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "_uQDjIC4cSB_xr_SHj5HjJtuHfCAhHqGTMqPVADQUe9TczQCVFfZa8yBe5Tuiy_K",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
