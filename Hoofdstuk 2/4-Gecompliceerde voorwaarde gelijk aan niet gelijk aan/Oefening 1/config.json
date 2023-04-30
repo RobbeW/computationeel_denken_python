@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarden - Gelijk-Ongelijk - Oefening 1",
+      "en": "Complicated Conditions - Equals-Unequals - Exercise 1"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "4uKYrCsC8RxETYJbuWXSrExjsRU8jmRMQ8_TntY6umRa87Sy3VPfumbTDWxxxjav",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

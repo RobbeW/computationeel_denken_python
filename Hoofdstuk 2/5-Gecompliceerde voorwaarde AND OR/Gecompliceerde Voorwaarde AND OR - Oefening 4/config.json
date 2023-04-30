@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarde AND OR - Oefening 4",
+      "en": "Complicated Condition AND OR - Exercise 4"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "mStATUimJpNgTuAtf-QAuJ8KcasYuzfBw3uy6svUwKtbhiVvdH2T4PNsm8c3niCE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
