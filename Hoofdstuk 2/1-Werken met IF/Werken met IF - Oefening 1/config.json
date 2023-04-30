@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Online Webshop - Deel 1",
-      "en": "Sale"
+      "nl": "Werken met IF - Oefening 1",
+      "en": "Using the IF-function - Exercise 1"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
   },
   "labels": [
     "python",
-    "VBTL"
+    "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
