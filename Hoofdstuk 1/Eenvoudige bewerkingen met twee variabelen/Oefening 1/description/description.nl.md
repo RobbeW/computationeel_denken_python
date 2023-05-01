@@ -27,12 +27,12 @@ toets_3 = 11.5
 
 ## Uitvoer: 
 
-* Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar het scherm in de volgende vorm: 
+* Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar het scherm: 
 
 ```
-De totaalscore is: ... /60.
-Het gemiddelde is: ... /20.
-Het percentage is: ... %.
+37
+12.333333333333334
+61.66666666666667
 ```
 
 * Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
