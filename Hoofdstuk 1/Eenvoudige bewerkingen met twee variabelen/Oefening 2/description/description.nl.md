@@ -16,9 +16,10 @@ Er is een vaste kost van 2.000 euro voor het drukken van een tijdschrift. Per ex
 Hoeveel exemplaren moeten gedrukt worden? 500
 ```
 ## Uitvoer: 
+We printen de `totale kostprijs` en de `prijs per exemplaar` naar het scherm.
 ```
-De totale kostprijs van het tijdschrift is ... euro.
-De prijs per exemplaar is ... euro.
+4500
+9
 ```
 
 ## Tips:
