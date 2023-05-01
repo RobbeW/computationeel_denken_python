@@ -1,7 +1,29 @@
-**Opgave:**
-Lees twee (gehele) getallen in en onderzoek welke van de twee het grootste is. Hou er rekening mee dat beide getallen gelijk kunnen zijn.
+# Gecompliceerde Voorwaarde - Gelijk aan of niet gbelijk aan - Oefening 2
 
-Toon de bevindingen van jouw onderzoek op het scherm. 
+## Gegeven: 
+Twee **gehele** getallen worden ingevoerd.
 
-**Tip:** 
-soortgelijk programma kan je gebruiken bij het ontwerpen van een scorebord bij voetbal, basketbal ... 
+## Gevraagd: 
+* Schrijf een programma dat vraagt naar twee gehele getallen (== input-functie);
+* Bepaalof beide getallen gelijk zijn aan elkaar; 
+* Indien niet, onderzoek welk getal groter is;
+* Print de bevindingen op het scherm.
+
+## Invoer: 
+```
+Voer het eerste getal in: 7
+Voer het tweede getal in: 21
+
+```
+## Uitvoer: 
+```
+De getallen zijn ongelijk.
+Het grootste getal is 21.
+
+```
+
+## Tips: 
+* Gebruik de `input()-functie` om de gebruiker naar de twee gehele getallen te vragen;
+* Vergeet niet om de input om te zetten naar een `int`;
+* Gebruik voorwaardelijke uitspraken (`if`, `elif`, `else`) om te bepalen of als ze gelijk zijn ofwelk getal het grootste is;
+* Print de bevindingen naar het scherm met behulp van de `print()-functie`.
