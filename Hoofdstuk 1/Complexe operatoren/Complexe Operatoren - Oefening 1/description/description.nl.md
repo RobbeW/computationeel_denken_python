@@ -1,15 +1,30 @@
 # Complexe Operatoren - Oefening 1
 
-**Gegeven:**
+## Gegeven:
+Een geheel getal wordt ingevoerd in de computer. 
 
-Om de gemiddelde snelheid van een jogger te berekenen, moet je de afstand en de tijd kennen die de jogger heeft afgelegd.
+## Gevraagd: 
+We schrijven een programma dat het kwadraat berekent van het gegeven getal en daarna nagaat of het kwadraat een even- of oneven getal is. 
+* Schrijf een programma dat vraagt naar een geheel getal (`== input-functie`);
+* Bepaal het **kwadraat** van dat geheel getal;
+* Bepaal de restwaarde van het **kwadraat** / 2;
+* Print de bevindingen op het scherm.
 
-**Gevraagd:**
+## Invoer: 
+```
+Voer een geheel getal in: 7
+```
+## Uitvoer: 
+```
+Het kwadraat van het getal is: ...
+De restwaarde van het ... / 2 = 
 
-* Vraag aan de gebruiker om het aantal kilometers en de tijd (in minuten) in te voeren dat hij/zij/hun heeft gejogd;
-* Bereken de gemiddelde snelheid van de jogger door de afstand te delen door de tijd (in uren);
-* Print de gemiddelde snelheid van de jogger naar het scherm in de volgende vorm: "Jouw gemiddelde loopsnelheid is [snelheid] km/h".
-* Voer tests uit met verschillende afstanden en tijden, zoals 5 kilometer in 30 minuten, enzovoort. 
-* Zorg ervoor dat de code correct werkt en de juiste snelheid weergeeft.
-* Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
+```
+
+## Tips: 
+* Gebruik de `input()-functie` om de gebruiker naar het gehele getal te vragen. 
+* Vergeet niet om de input om te zetten naar een `int`.
+* Gebruik de `% operator` om de restwaarde van een getal te berekenen.
+* Bereken het kwadraat van het getal met behulp van de `** operator`: macht = getal ** 2.
+* Print de bevindingen op het scherm met behulp van de `print()-functie`.
 
