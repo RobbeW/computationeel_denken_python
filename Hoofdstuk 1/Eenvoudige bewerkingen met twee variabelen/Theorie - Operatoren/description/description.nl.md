@@ -10,4 +10,4 @@ In deze video leer je volgende **operatoren** gebruiken:
 * delen / 
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/w-gOixTDEoY?list=PL7qul8TV_7p5uroDMWERGL7Sr1-4bZw7M" title="Python &amp; Wiskunde -  Lesvideo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/iEAJB6D0Fzs" title="Python in de Klas - Eenvoudige Operatoren" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
