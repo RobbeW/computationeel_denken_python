@@ -12,4 +12,4 @@ In deze video leer je:
 * een alternatieve methode hanteren om een vierkantswortel te trekken. 
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/w-gOixTDEoY?list=PL7qul8TV_7p5uroDMWERGL7Sr1-4bZw7M" title="Python &amp; Wiskunde -  Lesvideo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/GEusGALMCh4" title="Python in de Klas - Import Math, Pi en Vierkantswortels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
