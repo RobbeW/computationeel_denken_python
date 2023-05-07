@@ -9,11 +9,12 @@
     "pythia_judge": "output"
   },
   "labels": [
-"Robbe", "Python"
+    "Robbe",
+    "Python"
   ],
   "access": "public",
   "internals": {
-    "token": "wG6x-76WA4yGK-j-xMmGNgTYJ-DCIhD7jmbxiKSZ5bx9i8vm_EA6XaYAWxkEGadd",
+    "token": "kA37-nuxqwPQYzGf-VhDa-SbrBSUvTKw8GYv6xQfgXT25_XFAfrDW9d-t7jFYHzy",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
