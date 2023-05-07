@@ -7,9 +7,7 @@ In deze video leer je:
 * een variabele aanmaken; 
 * drie datatypes `string`, `integer`en `float`herkennen; 
 * data met type `string`, via de `input-functie`, toekennen aan een `variabele`; 
-* data met type `integer`, via de `input-functie`, toekennen aan een variabele; 
-* data met type `float`, via de `input-functie`, toekennen aan een variabele; 
-* datatypes converteren van `string` naar `integers` of `float`. 
+* data met type `string` printen naar het scherm. 
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/MffQQA7-IKU" title="Python in de Klas -  Input-Functie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/w-gOixTDEoY?list=PL7qul8TV_7p5uroDMWERGL7Sr1-4bZw7M" title="Python &amp; Wiskunde -  Lesvideo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
