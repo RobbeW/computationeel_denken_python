@@ -1,4 +1,4 @@
-# Eenvoudige Bewerkingen - Oefening 2
+# Eenvoudige Bewerkingen - Oefening 1
 
 ## Gegeven:
 
