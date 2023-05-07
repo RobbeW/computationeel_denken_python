@@ -1,4 +1,4 @@
-# Eenvoudige Bewerkingen - Oefening 1
+# Integers en Floats - Oefening 1
 
 ## Gegeven:
 
