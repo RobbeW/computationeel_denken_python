@@ -5,7 +5,6 @@
 
 In deze video leer je: 
 * een variabele aanmaken; 
-* drie datatypes `string`, `integer`en `float`herkennen; 
 * data met type `string`, via de `input-functie`, toekennen aan een `variabele`; 
 * data met type `string` printen naar het scherm. 
 
