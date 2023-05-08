@@ -1,4 +1,4 @@
-# Theorie - De Input-Functie
+# Theorie - Werken met IF en ELSE
 
 
 ## Doel:
