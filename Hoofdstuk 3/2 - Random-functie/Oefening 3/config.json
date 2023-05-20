@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Random Functie - Oefening 3 Dobbelstenen",
+      "en": "Random Function - Exercise 3 Rolling Dice"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "NqZgaMnuaevhgEsECXamCRpf3KK8hJ_WSdBNFK3Mj4WJuWGbSsDpCNFHFX8mpmk6",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

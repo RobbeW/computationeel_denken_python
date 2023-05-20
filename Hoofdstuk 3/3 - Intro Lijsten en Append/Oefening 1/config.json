@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Lijsten en Herhalingen - Oefening 1",
+      "en": "Lists and Iterations - Exercise 1"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "NVb-VVWtCyHir7Re9aZmMeMCXiPRGb3PTQiTTA9QqTbVPAprnxR3uvtzhNQBF_-b",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

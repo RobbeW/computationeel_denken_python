@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Oefening 4",
+      "en": "For i in Range - Exercise 4"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "rJRZ5DsVvAHWXD-tNfnkWuKIUInY9xtrDX6apRJJ9c-JMAeUbkUW7mK782u35rij",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
