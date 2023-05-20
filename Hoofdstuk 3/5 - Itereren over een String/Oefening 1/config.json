@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Omgekeerd!",
-      "en": "In reverse!"
+      "nl": "Itereren over een String - Oefening 1",
+      "en": "Iterate Using a String - Exercise 1"
     }
   },
   "evaluation": {
