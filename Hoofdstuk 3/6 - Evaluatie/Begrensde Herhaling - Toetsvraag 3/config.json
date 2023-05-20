@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Toetsvraag 3 - Griekse Vierkanten (Deel II)",
+      "en": "For i in Range - Test Exercise 3 - Greek Squares (Part II)"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "_bRbJqeEB4UHKIyYX_db763uTtmx-8yjg9ZrrvwDeegDMq3AuBJ_DWdnTjrtMcv5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

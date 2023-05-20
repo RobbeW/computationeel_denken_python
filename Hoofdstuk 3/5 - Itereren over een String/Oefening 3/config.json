@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Itereren over een String - Oefening 3",
+      "en": "Iterate Using a String - Exercise 3"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "fe2Mb_mAfFSivDGNImfIbmN5hd-MJmE4UUQP6wUNWu5Wz7IyzVF3jBqqWZ3vyfiq",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
