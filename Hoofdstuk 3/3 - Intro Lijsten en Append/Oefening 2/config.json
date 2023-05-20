@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Oefening 12",
-      "en": "Ex. 12"
+      "nl": "Oefening 2",
+      "en": "Exercise 2"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
   },
   "labels": [
     "python",
-    "VBTL"
+    "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
