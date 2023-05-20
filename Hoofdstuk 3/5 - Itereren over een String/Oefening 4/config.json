@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Oefening 10",
-      "en": "Ex. 10"
+      "nl": "Itereren over een String - Oefening 4",
+      "en": "Iterate Using a String - Exercise 4"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
   },
   "labels": [
     "python",
-    "VBTL"
+    "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
