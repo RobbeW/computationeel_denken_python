@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Vermoeden van Collatz",
+      "en": "Collatz' Conjecture"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "AjjxTAucGVM7cm_VXNwa5dmMN7ZK3h7EG8uMMbvDtcWcj7I7rNxBFDH5SyIu82G3",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

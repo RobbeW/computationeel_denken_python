@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Opstellen Voorwaardelijke Herhaling - Oefening 3",
+      "en": "Conditional Loop - Exercise 3"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "W6mw4qwt7pNYHHM-zkrErp6t2tHXucnY3yzRmgwNBRwA4kmPWknJqK_ViXWWqpK4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
