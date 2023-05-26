@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Spelen met Herhalingen - Oefening 2",
+      "en": "Playing with Loops - Exercise 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "5mx7TEKvzt6RjYg84zpEkvCiHcb-YvnKuHyfpT3qIZqzIrqUXcbcIDiUWtV4xEPC",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

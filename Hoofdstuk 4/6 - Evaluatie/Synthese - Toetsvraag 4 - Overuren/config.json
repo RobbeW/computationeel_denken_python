@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Synthese Toetsvraag 4 - Overuren",
+      "en": "Synthesis Exercise 4 - Working Overtime"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "bx3mbwZRG3GMkJGbqNcAHBBn7r5eqQHE6npnM5pxuGJaVThtzRiKiwJJjkg2-ZK6",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

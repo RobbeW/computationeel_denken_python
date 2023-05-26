@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Synthese Toetsvraag 5 - Spaarbank",
+      "en": "Synthesis Exercise 5 - Savings"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "27h_4CWbVFe7BTYR7xbFQgjnubIJqA-hTMmb8S83zhJ7VWtvbIf3wwFeMwJT9wgj",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

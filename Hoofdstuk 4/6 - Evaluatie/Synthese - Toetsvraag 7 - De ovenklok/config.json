@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Synthese Toetsvraag 7 - De Ovenklok",
+      "en": "Synthesis Exercise 7 - Oven Clock"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "9Q6E4kpPQySTCYfCDMwBdffQ8xQDiWnWgCcZ56ycxAtwKrZhISuHUPWwH5Ca9VIA",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
