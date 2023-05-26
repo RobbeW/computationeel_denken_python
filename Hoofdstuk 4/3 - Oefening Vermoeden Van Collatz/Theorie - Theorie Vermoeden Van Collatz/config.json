@@ -8,13 +8,14 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": ["robbe wulgaert", "python"
-
+  "labels": [
+    "robbe wulgaert",
+    "python"
   ],
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "wG6x-76WA4yGK-j-xMmGNgTYJ-DCIhD7jmbxiKSZ5bx9i8vm_EA6XaYAWxkEGadd",
+    "token": "c7jMQbZAEMnY-sxHPNWQFAnDm-_SUfxRaZCvmu5FfVy9SCrp7YYb-XwMVfujHj3Z",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
