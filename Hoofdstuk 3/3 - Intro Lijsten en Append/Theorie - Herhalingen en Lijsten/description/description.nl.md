@@ -1,15 +1,14 @@
-# Theorie - De Input-Functie
+# Theorie - Herhalingen en Lijsten
 
 
 ## Doel:
 
 In deze video leer je: 
-* een variabele aanmaken; 
-* drie datatypes `string`, `integer`en `float`herkennen; 
-* data met type `string`, via de `input-functie`, toekennen aan een `variabele`; 
-* data met type `integer`, via de `input-functie`, toekennen aan een variabele; 
-* data met type `float`, via de `input-functie`, toekennen aan een variabele; 
-* datatypes converteren van `string` naar `integers` of `float`. 
+* een lijst aanmaken; 
+* de index van een lijst duiden; 
+* items toevoegen (append) aan een lijst; 
+* items zoeken in een lijst via de index; 
+* lijsten combineren met herhalingen. 
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/w-gOixTDEoY?list=PL7qul8TV_7p5uroDMWERGL7Sr1-4bZw7M" title="Python &amp; Wiskunde -  Lesvideo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/8Wy1iShDy3g?list=PL7qul8TV_7p5mZ_LFp_KHUVn1WglOU-is" title="Python in de Klas - Lijsten en Herhalingen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
