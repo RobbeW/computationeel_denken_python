@@ -1,15 +1,12 @@
-# Theorie - De Input-Functie
+# Theorie - Het Vermoeden van Collatz
 
 
 ## Doel:
 
 In deze video leer je: 
-* een variabele aanmaken; 
-* drie datatypes `string`, `integer`en `float`herkennen; 
-* data met type `string`, via de `input-functie`, toekennen aan een `variabele`; 
-* data met type `integer`, via de `input-functie`, toekennen aan een variabele; 
-* data met type `float`, via de `input-functie`, toekennen aan een variabele; 
-* datatypes converteren van `string` naar `integers` of `float`. 
+* een voorwaardelijke herhaling opstellen; 
+* een if/else-functie integreren in zo'n herhaling; 
+* computationele uitwerking van het Vermoeden van Collatz.
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/w-gOixTDEoY?list=PL7qul8TV_7p5uroDMWERGL7Sr1-4bZw7M" title="Python &amp; Wiskunde -  Lesvideo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/M3gEhfHvkwo?list=PL7qul8TV_7p5mZ_LFp_KHUVn1WglOU-is" title="Python in de Klas - Vermoeden van Collatz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
