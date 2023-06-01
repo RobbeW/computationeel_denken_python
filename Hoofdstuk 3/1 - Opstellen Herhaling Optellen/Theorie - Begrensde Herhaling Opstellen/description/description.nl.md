@@ -1,4 +1,4 @@
-# Theorie - De Input-Functie
+# Theorie - De Begrensde Herhaling
 
 
 ## Doel:
