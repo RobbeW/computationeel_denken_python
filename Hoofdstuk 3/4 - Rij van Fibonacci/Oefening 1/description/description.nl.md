@@ -33,7 +33,7 @@ Voer het getal in van de Fibonacci-reeks dat u wilt zien (tussen 1 en 100): 13
 
 ## Uitvoer: 
 ```
-Het 20e getal in de Fibonacci-reeks is ...
+Het 13 e getal in de Fibonacci-reeks is ...
 ```
 
 ## Tips: 
