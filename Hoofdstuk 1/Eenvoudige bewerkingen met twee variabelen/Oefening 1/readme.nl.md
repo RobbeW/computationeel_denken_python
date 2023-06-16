@@ -1,5 +1,5 @@
 Deze oefening werd gemaakt door Robbe Wulgaert. 
-Meer informatie: www.robbewulgaert.be
+Meer informatie: [www.robbewulgaert.be](www.robbewulgaert.be)
 
 Heb je een fout opgemerkt? 
-Surf naar www.robbewulgaert.be/contact en laat het me weten! 
+[Laat het me weten!](www.robbewulgaert.be/contact)
