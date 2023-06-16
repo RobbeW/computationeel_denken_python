@@ -1,6 +1,3 @@
-# Theorie - Datatypes
-
-
 ## Doel:
 
 In deze video leer je een 
