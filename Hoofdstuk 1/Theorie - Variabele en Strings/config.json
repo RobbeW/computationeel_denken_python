@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "nl": "Theorie - Variabele en Strings",
-      "en": "Theory - Variables and Strings"
+      "nl": "Theorie - Datatypes",
+      "en": "Theory - Datatypes"
     }
   },
   "evaluation": {
