@@ -12,9 +12,8 @@ Lees een zin in en verdubbel alle klinkers in deze zin.
 ## Invoer: 
 ```
 Voer een zin in: De slag bij Kortrijk in 1302 was vooral een sociaal conflict.
-
-
 ```
+
 ## Uitvoer: 
 ```
 De geconverteerde zin is: Dee slaag biij Koortriijk iin 1302 waas vooooraal eeeen soociiaaaal coonfliict.
