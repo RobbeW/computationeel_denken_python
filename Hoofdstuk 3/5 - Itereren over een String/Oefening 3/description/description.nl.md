@@ -20,7 +20,8 @@ Voer een zin in: De slag bij Kortrijk in 1302 was vooral een sociaal conflict.
 De geconverteerde zin is: Dee slaag biij Koortriijk iin 1302 waas vooooraal eeeen soociiaaaal coonfliict.
 ```
 
-## Tips: 
-* Gebruik de `input()-functie` om een zin in te lezen.
-* Gebruik een `for-lus` om doorheen de verzameling aan klinkers te lopen.
-* Gebruik de `replace-functie` om de gedetecteerde klinkers te verdubbelen. 
+{: .callout.callout-succes}
+>## Tips: 
+>* Gebruik de `input()-functie` om een zin in te lezen.
+>* Gebruik een `for-lus` om doorheen de verzameling aan klinkers te lopen.
+>* Gebruik de `replace-functie` om de gedetecteerde klinkers te verdubbelen.
