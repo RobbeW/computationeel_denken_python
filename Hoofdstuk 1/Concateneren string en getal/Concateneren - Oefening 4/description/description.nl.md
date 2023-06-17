@@ -1,5 +1,3 @@
-# Concateneren - Oefening 4
-
 **Gegeven:**
 
 Een vierkant is een rechthoek met gelijke zijden. Om de `omtrek` van een vierkant te berekenen, moet je de `lengte` van alle vier de zijden bij elkaar optellen. De formule voor de omtrek van een vierkant is:
