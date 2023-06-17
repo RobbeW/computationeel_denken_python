@@ -1,5 +1,3 @@
-# Complexe Operatoren - Oefening 4
-
 ## Gegeven:
 
 De stelling van Pythagoras stelt dat in een rechthoekige driehoek de **som van de kwadraten van de lengtes van de twee kortste zijden gelijk is aan het kwadraat van de lengte van de langste zijde (de hypotenusa)**. De formule voor de stelling van Pythagoras is:
