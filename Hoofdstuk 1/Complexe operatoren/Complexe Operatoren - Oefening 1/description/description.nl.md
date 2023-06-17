@@ -1,5 +1,3 @@
-# Complexe Operatoren - Oefening 1
-
 ## Gegeven:
 Een geheel getal wordt ingevoerd in de computer. 
 
