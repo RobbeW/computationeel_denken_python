@@ -1,5 +1,3 @@
-# Concateneren - Oefening 2
-
 ## Gegeven:
 
 Bij de vorige oefening maakte je het algoritme om een online bestelling te regelen. Helaas zijn de gegevens onvolledig. Volgens de toeleverancier ontbreken enkele gegevens. 
