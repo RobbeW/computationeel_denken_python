@@ -1,5 +1,3 @@
-# Complexe Operatoren - Oefening 3
-
 ## Gegeven:
 
 Bij het betalen van een bedrag in euro's, kunnen verschillende soorten biljetten en munten worden gebruikt. Om het aantal biljetten en munten te bepalen dat nodig is om een bepaald bedrag te betalen, moet je het bedrag eerst opdelen in biljetten en munten van verschillende waardes.
