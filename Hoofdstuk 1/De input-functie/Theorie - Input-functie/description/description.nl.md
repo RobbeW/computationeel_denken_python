@@ -1,6 +1,3 @@
-# Theorie - De Input-Functie
-
-
 ## Doel:
 
 In deze video leer je: 
