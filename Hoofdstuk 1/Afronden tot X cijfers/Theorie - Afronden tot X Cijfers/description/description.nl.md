@@ -1,6 +1,3 @@
-# Theorie - Afronden tot X Cijfers
-
-
 ## Doel:
 
 In deze video leer je: 
