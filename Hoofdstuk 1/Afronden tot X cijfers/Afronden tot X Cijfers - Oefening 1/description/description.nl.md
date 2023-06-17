@@ -1,5 +1,3 @@
-# Afronden tot X Cijfers - Oefening 1
-
 ## Gegeven:
 
 Jeroen is schrijnwerker en moet met een machine grote houten platen versnijden tot gelijke rechthoeken. 
