@@ -1,5 +1,3 @@
-# Input-Functie - Oefening 1
-
 ## Doel:
 
 In deze oefening leer je een 
