@@ -1,5 +1,3 @@
-# Concateneren - Oefening 5
-
 ## Gegeven: 
 
 Fred is ook benieuwd naar de grootte van de goal. Het kader van de goal is 7.32 meter lang en 2.44 meter hoog.
