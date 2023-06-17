@@ -1,5 +1,3 @@
-# Complexe Operatoren - Oefening 2
-
 ## Gegeven: 
 
 Bij het delen van twee getallen kan het resultaat een rest met of zonder quotiënt zijn. De `% operator` in Python geeft de rest van een deling **zonder** het quotiënt.
