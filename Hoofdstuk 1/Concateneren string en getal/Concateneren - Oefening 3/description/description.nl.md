@@ -1,5 +1,3 @@
-# Concateneren - Oefening 3
-
 ## Gegeven:
 
 Een rechthoek heeft een bepaalde lengte en breedte.
