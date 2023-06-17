@@ -1,6 +1,3 @@
-# Theorie - Complexe Operatoren
-
-
 ## Doel:
 
 In deze video leer je: 
