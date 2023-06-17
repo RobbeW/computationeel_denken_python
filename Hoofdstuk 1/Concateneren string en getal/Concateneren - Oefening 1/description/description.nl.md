@@ -1,5 +1,3 @@
-# Concateneren - Oefening 1
-
 ## Gegeven:
 
 Om een online bestelling te regelen, hebben we enkele gegevens nodig van onze klant.
