@@ -1,6 +1,3 @@
-# Theorie - Concateneren Strings en Getallen
-
-
 ## Doel:
 
 In deze video leer je: 
