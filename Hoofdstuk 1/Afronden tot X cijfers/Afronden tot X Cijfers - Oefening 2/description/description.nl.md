@@ -1,5 +1,3 @@
-# Afronden tot X Cijfers - Oefening 2
-
 ## Gegeven:
 
 Fred moet de middelcirkel tekenen op een voetbalveld. Een middencirkel heeft een **straal of radius van 9.15 meter.** 
