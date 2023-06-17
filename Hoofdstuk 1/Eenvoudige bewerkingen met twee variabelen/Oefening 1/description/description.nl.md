@@ -1,5 +1,3 @@
-# Integers en Floats - Oefening 1
-
 ## Gegeven:
 
 Om de totaalscore, het gemiddelde en het percentage van een reeks toetsen te berekenen, moet je: 
