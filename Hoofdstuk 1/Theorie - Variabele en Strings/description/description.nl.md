@@ -2,8 +2,8 @@
 
 In deze video leer je een 
 * variabele aanmaken;
-* een input-functie gebruiken; 
-* het datatype van een variabele wijzigen naar een integer of een float.
+* een stukje data met **datatype** ```string``` inladen;
+* een resultaat naar het scherm schrijven met de ```print-functie```.
 
   
 <div class ="dodona-centered-group">
