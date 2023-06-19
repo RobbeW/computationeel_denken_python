@@ -5,7 +5,7 @@ Twee **gehele** getallen worden ingevoerd.
 
 ## Gevraagd: 
 * Schrijf een programma dat vraagt naar twee gehele getallen (== input-functie);
-* Bepaalof beide getallen gelijk zijn aan elkaar; 
+* Bepaal of beide getallen gelijk zijn aan elkaar; 
 * Indien niet, onderzoek welk getal groter is;
 * Print de bevindingen op het scherm.
 
