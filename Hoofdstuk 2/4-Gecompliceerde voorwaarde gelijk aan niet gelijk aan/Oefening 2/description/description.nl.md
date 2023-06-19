@@ -1,4 +1,4 @@
-# Gecompliceerde Voorwaarde - Gelijk aan of niet gbelijk aan - Oefening 2
+# Gecompliceerde Voorwaarde - Gelijk aan of niet gelijk aan - Oefening 2
 
 ## Gegeven: 
 Twee **gehele** getallen worden ingevoerd.
