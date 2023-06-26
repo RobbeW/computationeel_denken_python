@@ -8,13 +8,13 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": ["Robbe Wulgaert", 
-             "Python"
-
+  "labels": [
+    "Robbe Wulgaert",
+    "Python"
   ],
   "access": "public",
   "internals": {
-    "token": "FwBKhtHiVncnmxk6CWhIbU4-__dtgApanfKP5c384sNdxU3gJnGNAuu8mG9XrxUp",
+    "token": "Gz2hu-x_v6wynqaKsmb-RbhV76JD6jB4XkSxhs6aA-sk2G3QiW7sq-qZC_nBhjQr",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
