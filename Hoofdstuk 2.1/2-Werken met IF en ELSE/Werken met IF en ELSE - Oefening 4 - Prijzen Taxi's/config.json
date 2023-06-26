@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werken met IF en ELSE - Prijzen Taxi's",
+      "en": "IF and ELSE functions - Taxi Prices"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "3dYmenkczIHZDv4UsenJ6JE-BUJPXS3J_bc7MWArrtk2HwgKYviGWZTnJdD8rZir",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

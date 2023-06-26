@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werken met IF en ELSE - Gratis Verzending Deel 2",
+      "en": "IF and ELSE functions - Free Shipping Part 2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "7jHmwGgZDpEvsyRT6fMtibkMhBhzyFtw--F9FNCSkQ7-Jw378cAui8t6XYjvN_tn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

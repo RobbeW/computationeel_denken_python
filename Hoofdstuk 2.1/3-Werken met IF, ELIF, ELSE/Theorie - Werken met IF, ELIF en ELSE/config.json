@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Werken met IF, ELIF en ELSE",
+      "en": "Theory - IF, ELIF and ELSE functions"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Robbe Wulgaert"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "wrGd4JDiMkfTCZzdsX6YQ8IJnn_Y3qpd4IPtSYhW7HRpsB3xwWP7ruMcivqyEgR-",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

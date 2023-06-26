@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werken met IF, ELIF en ELSE - Korting op Pizza's",
+      "en": "IF, ELIF and ELSE functions - Pizza Promotion"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "9V6kP9NwNtM3Z2TgIIhPtqE6YqkbCiMxgTm7jnXKPWegZpSUE78_28qxMuGrunsz",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

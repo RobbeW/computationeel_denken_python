@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werken met IF, ELIF en ELSE - Museumbezoek Griekenland",
+      "en": "IF, ELIF and ELSE functions - Museum Visit Greece"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "Nfv4pWRBGbkxwzQEIpBCpsKmISKyGaIs4UrGcBMVWIcQUr8QBK-qPpfu2cYwbecP",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
