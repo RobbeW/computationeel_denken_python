@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Pizza bestellen",
+      "en": "Ordering Pizza"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "Ib4yG4XJ6w_JuVIXE4ARRHfFQTYkezA3UIP_QAa8ISE2QZ38XWTTvr7QSpIg8I9s",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
