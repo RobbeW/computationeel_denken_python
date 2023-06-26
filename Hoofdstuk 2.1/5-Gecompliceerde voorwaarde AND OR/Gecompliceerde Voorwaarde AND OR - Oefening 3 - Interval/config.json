@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarde AND OR - Interval",
+      "en": "Complicated Conditions AND OR - Interval"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "CHbsykXJYGPERyjwAixR23IE4pThGfnpDrGyR5BkdDVB5_Yyqzp3xPZ32YE2FJYW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

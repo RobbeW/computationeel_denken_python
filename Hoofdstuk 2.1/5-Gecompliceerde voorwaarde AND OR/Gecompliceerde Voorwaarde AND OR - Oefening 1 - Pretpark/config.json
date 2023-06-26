@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarde AND OR - Pretpark",
+      "en": "Complicated Conditions AND OR - Theme Park"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "8ZYEFENjuf9vpVb-D2Kqehu-Tekqjp-gaJEteJwIDnu4VUAWUyEsykKe6AYFBeag",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

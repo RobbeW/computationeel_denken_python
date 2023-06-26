@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarde AND OR - Tekorten",
+      "en": "Complicated Conditions AND OR - Failing Tests"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "WuJzjJqFR4rAtFSjpBVhqTbUxcCghG5y3wNb9x7wrE7SxaKGjCUCCkENwqgW2_iZ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

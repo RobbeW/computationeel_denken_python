@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Gecompliceerde Voorwaarden - AND OR",
+      "en": "Theory - Complicated Conditions - AND OR"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Robbe Wulgaert"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "xTraA5f7DX6mm_bjZQqBS6GQB3ChgWR9ItfzzQhWdGDCiaS2RwsY-QpDQRpzYRw5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

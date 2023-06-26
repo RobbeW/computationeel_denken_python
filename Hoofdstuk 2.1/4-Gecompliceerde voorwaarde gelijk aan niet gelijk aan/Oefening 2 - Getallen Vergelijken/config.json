@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarden - Gelijk-Ongelijk - Getallen Vergelijken",
+      "en": "Complicated Conditions - Equal Unequal - Comparing Numbers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "wcIw75QS-VPTDuk7WEvmtjiQt2IGzEu_gGJmhQ9TtiTtadDFvIvngIf4wcFtRN6x",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

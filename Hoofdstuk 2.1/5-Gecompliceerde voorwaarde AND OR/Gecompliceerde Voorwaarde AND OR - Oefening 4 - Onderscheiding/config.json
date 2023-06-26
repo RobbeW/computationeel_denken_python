@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarde AND OR - Onderscheiding",
+      "en": "Complicated Condition AND OR - Cum Laude"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "WHjEZWQwG252q-bFkTsH9yqdqsZ3FvZaXvjMgM2eXZsjnM9IrtzWbhisAZDWvNyf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

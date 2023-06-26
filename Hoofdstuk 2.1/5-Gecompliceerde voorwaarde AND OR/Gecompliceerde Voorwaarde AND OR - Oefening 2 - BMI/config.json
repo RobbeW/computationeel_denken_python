@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarde AND OR - BMI",
+      "en": "Complicated Conditions AND OR - BMI"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "nBi4sttmUWZ7xQf-ncmeIXPru_u39DQ9rqVAmMIFX_KjFt5iR9nQAVEuuADpxyR4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

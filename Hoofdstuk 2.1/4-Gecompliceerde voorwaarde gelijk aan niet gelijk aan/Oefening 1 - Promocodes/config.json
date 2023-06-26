@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Gecompliceerde Voorwaarden - Gelijk-Ongelijk - Promocodes",
+      "en": "Complicated Conditions - Equals-Unequals - Promo Codes"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "nhUUIsCf-YQiMCvPI9G_JGwK5jbKW8QjkEJ_kJa5EcnXSVaWYzSgs_MXuKYc4K_J",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
