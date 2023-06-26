@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Toetsvraag 4 - Zwembad bij de Buren",
+      "en": "Test Exercise 4 - Neighbour's Swimming Pool"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "IDh5RZUkvS8YbyR4Dg5cuHEh9CMB9eFArSPnEBkDq8TKijm8T82PRIJEC9hc3q9T",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
