@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Afronden tot X Cijfers - Middencirkel",
+      "en": "Rounding Numbers - Soccer Field"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "NtrZ9megQ7KiFeSC7QjWCIwBGkAGZtSBDAFDMweB5rMiAV88Tp4IKe9GR-SmhHEm",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

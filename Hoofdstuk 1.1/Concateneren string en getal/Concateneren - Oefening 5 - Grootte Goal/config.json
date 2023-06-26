@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Concateneren - Afmetingen Voetbalgoal",
+      "en": "Combining - Measurements Soccer Goal"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["Python", "Robbe Wulgaert"
+
+  ],
+  "internals": {
+    "token": "k-pdEXM9pbg8gI2FIXgQwKJ3JwFiHgHu9gUet5zdhEY7PhtJFA-XH3bDsrpMkdKg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

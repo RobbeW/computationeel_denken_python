@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Concateneren String en Getal",
+      "en": "Theory - Combining Strings and Numbers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "i-bkBkz-zIjkXn_7FwQfbPAtS-yWn7tBMIvvW4PY6ZjD38Gevt5IY4PQqT3-9hrD",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

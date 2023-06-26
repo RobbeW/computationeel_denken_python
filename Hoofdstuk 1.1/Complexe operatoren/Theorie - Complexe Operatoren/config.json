@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Complexe Operatoren",
+      "en": "Theory - Advanced Operators"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "ks3QPRgbT_EetmphRPXCsAyqH7QFU8zBmj_hjbRsaGYA7Vfu5WEtvqDhcnFP4SVy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

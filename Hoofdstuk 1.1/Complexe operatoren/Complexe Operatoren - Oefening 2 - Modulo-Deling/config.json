@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Complexe Operatoren - De Modulo-Deling",
+      "en": "Complex Operators - Modulo"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "gdYMxjZepsmsGbUmZJwCXmwT93KaYTR9GRD5w2epPphvs3Sv5iqi8h-uwTCaS_qm",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

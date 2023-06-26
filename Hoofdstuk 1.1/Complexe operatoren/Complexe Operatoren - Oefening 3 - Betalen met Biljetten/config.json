@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Complexe Operatoren - Betalen in Biljetten",
+      "en": "Complex Operators - Paying with Bills"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "Nf6MX5IkwCWN8_e4PEpt5PiMJpX5c3xaEP4m9jVSzkT3vBxVpdic7KzfYXVVPWce",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

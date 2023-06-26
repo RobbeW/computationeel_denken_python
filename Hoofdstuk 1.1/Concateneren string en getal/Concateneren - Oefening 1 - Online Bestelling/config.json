@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Concateneren - Online Bestelling",
+      "en": "Concatenation - Online Order"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python", 
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "6z_z_utrpe7U7knG_Bs9WIiIaCiB-BXgaUYi29VMvy62NUUy5j5tPNmJzimUY2uD",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

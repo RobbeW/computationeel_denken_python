@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Afronden tot X Cijfers",
+      "en": "Theory - Rounding Numbers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "yDHFDwYDErvtFTw77RmYtuidIMzYsQUdugwe3ZNDaGMSBxTuAUd7yzF6cI89wteK",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
