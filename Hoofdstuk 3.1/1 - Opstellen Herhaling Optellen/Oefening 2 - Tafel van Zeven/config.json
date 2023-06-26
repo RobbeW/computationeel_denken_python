@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Tafel van 7",
+      "en": "For i in Range - Multiplying 7"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "yKvbPaTqW5pgbREQHqnzbuugts2I78Fqx4mWMB-VxEbGtWtPUae_xtCR2mbNyIzT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

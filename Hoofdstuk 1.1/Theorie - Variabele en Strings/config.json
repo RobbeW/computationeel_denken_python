@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Datatypes",
+      "en": "Theory - Datatypes"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "ZQ6FpN2a_i6qBIc67DqIw87mBDAKX9DNGHjqsMKzJDMCxc-ImumZsj_GyicdKJp6",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

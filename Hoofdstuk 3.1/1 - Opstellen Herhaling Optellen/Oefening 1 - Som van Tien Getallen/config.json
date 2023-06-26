@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling  - Som van Tien Getallen",
+      "en": "For i in Range - Sum of Ten Digits"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "wHxQ92Rd2x9HIu7c-QFqERKK5E65NE-Svz97HVHa8qq7fYEEiAbEgwv97gczqiqB",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

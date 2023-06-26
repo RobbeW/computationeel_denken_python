@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - IF-Functie",
+      "en": "Theory - IF function"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["Robbe Wulgaert", "Python"
+
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "266yQ9bYaKZPuSdejtfBhDS7fQsURa68-Ef2SCjVQsEA65tA4qazDAXWgGj9nHJc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

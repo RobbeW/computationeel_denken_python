@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Opstellen Voorwaardelijke Herhaling - 300 Gram Suiker",
+      "en": "Conditional Loop - 300 Grams of Sugar"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "sNH6RyMWRKXZ6wXknsbnY53EnBEBIkDibjD6IVkymIhcmQ_M2z9Ep8ktfSNNZtZT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Griekse Vierkanten",
+      "en": "For i in Range - Greek Squares"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "xxqBpdaM_n5hh_U3RytPUu4pJNmQA7QQNayNRRgIF4FRYUQXiEqt69T-R-W_PDNR",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

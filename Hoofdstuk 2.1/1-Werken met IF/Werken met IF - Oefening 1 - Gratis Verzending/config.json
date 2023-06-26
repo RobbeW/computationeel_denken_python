@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werken met IF - Gratis Verzending",
+      "en": "Using the IF-function - Free Postage"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "uYhbXIfqXYzfiy99p9Yvx8rgExQkQhj6MSksnC4Z7jS2vqzS3Wf84pgw2Iqp2AmW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

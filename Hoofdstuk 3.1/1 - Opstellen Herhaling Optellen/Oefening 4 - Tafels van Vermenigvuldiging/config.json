@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Tafels van Vermenigvuldiging",
+      "en": "For i in Range - Tables of Multiplication"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "S7HSaDT8mkSNbsB2sTAPACyuCZxEmhBKCWVDr83QrU8j2IcWh8yXx_KyHPnwgkZg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
