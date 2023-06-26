@@ -11,11 +11,12 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": ["Robbe Wulgaert", "Python"
-
+  "labels": [
+    "Robbe Wulgaert",
+    "Python"
   ],
   "internals": {
-    "token": "VBnIXV4zv_9Ip6frXRtzPycP8Ms7MJDW89W3-GHNZRyaKjFNjWTRki_tU5Y45Jft",
+    "token": "dFmTyVKnpW2BgHkMVpVey7T_NqN4R6NFrsVSEv5I3HGR5xdTyrFEM-xjNAsuNEQG",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

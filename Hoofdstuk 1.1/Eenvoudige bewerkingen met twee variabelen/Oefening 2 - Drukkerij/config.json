@@ -12,11 +12,12 @@
     "pythia_judge": "output"
   },
   "labels": [
-    "python", "Robbe Wulgaert"
+    "python",
+    "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "AxKiRFg8HqhMhYgbrgQCpZYuf6fyzsgRyd78td3q-pY4d2IVrIFIdg79G_zasABA",
+    "token": "4-TVf2SbXdbkaEwVtUEimYJNGaUm8wNNPqsAWaBww-WY4Q8yamvvCJapirJAPi3B",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
