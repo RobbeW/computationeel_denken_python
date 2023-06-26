@@ -10,6 +10,7 @@ Er is een reservaat met een kudde van 120 antilopen. De kudde groeit elk jaar me
 Jaar 1: 127 antilopen
 Jaar 2: 135 antilopen
 ...
+Er zullen minstens 300 antilopen zijn na X jaar.
 ```
 
 {: .callout.callout-success}
