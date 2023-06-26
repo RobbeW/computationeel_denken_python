@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Input-Functie en Datatypes",
+      "en": "Theory - Input Function and Data Types"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["Python", "Robbe Wulgaert"
+
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "M42pwZyhPCQKwjXhthtR8eMESFSWWUUGuGCRptWYPH8Cw6UqxqG_aWuyRxGZHmYZ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

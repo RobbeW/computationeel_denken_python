@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Import Math, Pi en Wortels",
+      "en": "Theory - Import Math, Pi and Square Roots"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["Robbe Wulgaert", "Python"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "DtaY-fRDH6cxHgveyBjH3PUatwRfiZqFSISA-BWVbpVPy3AxuBHvBQHHwtXUrgbS",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

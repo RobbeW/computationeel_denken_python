@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Integers en Floats - Rapportcijfers",
+      "en": "Integers and Floats - Grades"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python", "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "b8j3PPKKm_CgwMDu2xh4yKgqciRsdAWpK8eqCPUJ4YQIwZxysD9xpw3K_5_jpHSc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

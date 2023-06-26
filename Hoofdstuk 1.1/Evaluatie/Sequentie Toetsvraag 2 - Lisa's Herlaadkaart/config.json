@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Sequentie Toetsvraag 2 - Lisa's Herlaadkaart",
+      "en": "Sequence Test Exercise 2 - Lisa's Prepaid Card"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "pRBw5TY95BVkGBWk29tVAmyPrYvIC3YXg6cbM9y2PenJxQcGne-FNXXXgIQdzfxU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

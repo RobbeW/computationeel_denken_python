@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import Math, Pi en Wortels - Straal Voetbal",
+      "en": "Import Math, Pi and Square Roots - Radius Soccer Ball"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["Robbe Wulgaert", "Python"
+
+  ],
+  "internals": {
+    "token": "VBnIXV4zv_9Ip6frXRtzPycP8Ms7MJDW89W3-GHNZRyaKjFNjWTRki_tU5Y45Jft",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

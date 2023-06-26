@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import Math, Pi en Wortels - Behangpapier",
+      "en": "Import Math, Pi and Square Root - Decorating the Home"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "UQi5RpNjkqJemRfHbbwV2TQYnuxifd8Jy4uD65ECUCqnW_V4RVGSq_mvuyihBYbW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

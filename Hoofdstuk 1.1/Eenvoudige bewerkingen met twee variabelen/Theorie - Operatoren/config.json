@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Eenvoudige Bewerkingen en Operatoren",
+      "en": "Theory - Simple Calculations and Operators"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Robbe Wulgaert",
+    "Python"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "kA37-nuxqwPQYzGf-VhDa-SbrBSUvTKw8GYv6xQfgXT25_XFAfrDW9d-t7jFYHzy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import Math, Pi en Wortels - Omtrek, Oppervlakte en Pythagoras",
+      "en": "Import Math, Pi and Square Root - Size, Surface Area and Pythagoras"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "Robbe Wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "uCPDwTH4RPYdKd_fcSn2h2p56YGdveR8a_a26afK8ugXwdWCV4-F5zzK9t94DM-N",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

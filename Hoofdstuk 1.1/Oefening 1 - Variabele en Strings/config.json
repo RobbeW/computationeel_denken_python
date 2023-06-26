@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Oefening 1 - Alice",
+      "en": "Excercise 1 - Alice"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["Python", "Robbe Wulgaert"
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "fNwnXFYNm96HNnfCvNBHfYWYwm2r-7FVeNsfFZUS7UHF_xz2HFv2mAci945emXtg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
