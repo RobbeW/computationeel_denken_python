@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Random Functie - Test Jouw Maaltafels",
+      "en": "Random Function - Test The Tables of Multiplication"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "jPCMXT7mBuBJDVrJs4MYsNAek7yqdqWmtnzMdB9uxQxBmeaaAZveUHNGA5vn8p_b",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

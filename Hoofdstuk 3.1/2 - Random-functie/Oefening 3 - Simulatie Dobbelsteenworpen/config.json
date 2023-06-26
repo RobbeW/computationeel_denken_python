@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Random Functie - Simulatie Dobbelsteenworpen",
+      "en": "Random Function - Simulating Rolling Dice"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "JdbUs-vI2BQ9H2hs6eZDXcRDCcV2xQ2JjeAnXyHbcuIArvzIUnu-ircecaagPIgX",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

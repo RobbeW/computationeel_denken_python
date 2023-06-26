@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Rij van Fibonacci",
+      "en": "Theory - Fibonacci's Row"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "robbe wulgaert",
+    "python"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "5MgaScFFYqYUhZ_asJ2FVkw_DWnHFfMTCfq8RU9UV4wUcpgbHPUyNrE2k4eCBtmI",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Random-Functie",
+      "en": "Theory - Random Function"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "robbe wulgaert",
+    "python"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "f4jYy3TR6nyNPY9VpexAnC9W2u7JTMBD9nibxCxMJWDbkd6CIu39s4U37SyZJD-X",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

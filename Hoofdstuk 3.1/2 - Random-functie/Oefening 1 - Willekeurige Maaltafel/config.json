@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Random Functie - Willekeurige Maaltafel",
+      "en": "Random Function - Random Multiplication"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "VbKjmgh657ZXUcURnTSchZI5w9KCHruJM6AwhdbYtWTpj4Dca8bzyWRg7vjzDXr5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

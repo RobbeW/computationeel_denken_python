@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Herhalingen en Lijsten",
+      "en": "Theory - Iterations and Lists"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "robbe wulgaert",
+    "python"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "7dMG_v56D-pKk9SHZetVBZU5C7p9tPYfyxqycjNKzfYVgfc4HRxw_9yFNJUiIakC",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
