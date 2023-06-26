@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Itereren over een String - Vervang Alle Klinkers",
+      "en": "Iterate Using a String - Swap All Vowels"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "aHdP7X74pEZFwGebQdNwJa866q6U_ciCtF2pmNC5ziC589HP6URc_33prTjjckZu",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Theorie - Itereren over een String",
+      "en": "Theory - Iterate using a String"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "robbe wulgaert",
+    "python"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "5bK3cIV_YZIMC4b4BNZqKgIYNwQHSu3RcKbvYTIMDNyU7DJK2-_B6uPtKzkHiYGp",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Som der Kwadraten",
+      "en": "For i in Range - Sum of Squares"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "Drrnif7tCPyet6xpat8ycVjcJAabuCuTnhU2DjPCDr9C4JM94jGD6xvpyfMJrsbc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

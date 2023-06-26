@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Itereren over een String - Letters Tellen",
+      "en": "Iterate Using a String - Counting Characters"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "rz2cBk8-4CEjykHgdxxFd5iZYGxsGRcMCYej73xh4hxqyQpJegbJsUNDQqsI9BTH",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

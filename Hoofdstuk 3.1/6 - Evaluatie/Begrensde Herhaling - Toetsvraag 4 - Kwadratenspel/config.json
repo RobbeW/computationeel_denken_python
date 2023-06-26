@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Ken jij het kwadraat van ...?",
+      "en": "For i in Range - Do you know the square of ...?"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "NgrrrmUdCbaCVwuWFJYjmQvEJB5JdNDUsgnvc3MtEQxJTx497JPxmd2qgNe3P72A",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

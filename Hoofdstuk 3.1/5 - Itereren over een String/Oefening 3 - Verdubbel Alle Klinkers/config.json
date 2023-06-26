@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Itereren over een String - Verdubbel Klinkers",
+      "en": "Iterate Using a String - Double all Vowels"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "AuDDVJzErQ6tXvueeWpI9_id9KHSj3WMcZshKgyWSpCnSvC3yedrBiTa8vkr349n",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
