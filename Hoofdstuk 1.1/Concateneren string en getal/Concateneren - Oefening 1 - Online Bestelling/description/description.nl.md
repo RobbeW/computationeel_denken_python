@@ -1,7 +1,9 @@
 ## Gegeven
 
 Om een online bestelling te regelen, hebben we enkele gegevens nodig van onze klant.
-## Gevraagd:
+
+
+## Gevraagd
 
 * Vraag de gebruiker naar zijn/haar/hun `voornaam`, `familienaam` en `straatnaam`;  
 * Sla de ingevoerde gegevens op in logische variabelen;
