@@ -1,4 +1,4 @@
-## Gegeven:
+## Gegeven
 Een probleem uit de Oudheid was het verdubbelen van een vierkant. 
 Hier zie je dat de **oppervlakte** van **vierkant PQRS** het **dubbel** is van **vierkant ABCD.**
 
@@ -6,25 +6,25 @@ Hier zie je dat de **oppervlakte** van **vierkant PQRS** het **dubbel** is van *
 
 
 
-## Gevraagd: 
+## Gevraagd
 * Bereken de `oppervlakte` van vierkant PQRS, dat het dubbel is van vierkant ABCD;
 * Bereken de `lengte` van een zijde van vierkant PQRS;
 * Rond de berekende `oppervlakte` en `lengte` af tot twee decimalen;
 * Print de berekende `oppervlakte` en `zijde` van vierkant PQRS op het scherm in verzorgde volzinnen.
 
-## Invoer:
+## Invoer
 ```
 Voer de lengte van een zijde van vierkant ABCD in (in meter): 15.763
 ```
 
-## Uitvoer: 
+## Uitvoer
 ```
 De oppervlakte van vierkant PQRS is ... vierkante meter.
 De lengte van een zijde van vierkant PQRS is ... meter.
 ```
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik de `input()-functie` om de gebruiker naar de lengte van een zijde van vierkant ABCD te vragen. 
 >* Vergeet niet om de input om te zetten naar een `float` of `int`.
 >* Bereken de `lengte` van een zijde van vierkant PQRS dppr de formule voor de oppervlakte om te vormen.
