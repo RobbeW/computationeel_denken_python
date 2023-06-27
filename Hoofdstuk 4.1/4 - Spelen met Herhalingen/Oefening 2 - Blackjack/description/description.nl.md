@@ -38,4 +38,4 @@ Bijvoorbeeld:
 >* Gebruik de `random.randint()-functie` om een willekeurige kaart te genereren tussen 1 en 10.
 >* Houd de `som` bij in een variabele die je elke keer verhoogt met de waarde van de nieuwe kaart.
 >* Print de som en de winst of verlies met behulp van de `print()-functie`; 
->* Gebruik `if`, `elif`en `else-functies`om te beslissen hoeveel de gebruiker wint. 
+>* Gebruik `if`, `elif`en `else-statements` om te beslissen hoeveel de gebruiker wint. 
