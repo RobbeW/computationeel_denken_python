@@ -1,11 +1,11 @@
-## Gegeven:
+## Gegeven
 
 Om de totaalscore, het gemiddelde en het percentage van een reeks toetsen te berekenen, moet je: 
 * de individuele scores optellen `(== de totaalscore)`; 
 * delen door het aantal toetsen `(== het gemiddelde)`;
 * en vervolgens het percentage berekenen.
 
-## Gevraagd:
+## Gevraagd
 
 * Vraag aan de gebruiker om de score van drie toetsen op 20 in te voeren `(== de input-functie)`.
 * Bereken de **totaalscore** door de individuele scores **op te tellen.**
@@ -13,7 +13,7 @@ Om de totaalscore, het gemiddelde en het percentage van een reeks toetsen te ber
 * Bereken het **percentage** van het gemiddelde door het gemiddelde te **vermenigvuldigen met 5.**
 
 
-## Invoer:
+## Invoer
 Alice heeft volgende toetspunten die je moet verwerken met jouw algoritme. 
 
 ```
@@ -23,7 +23,7 @@ toets_3 = 11.5
 
 ```
 
-## Uitvoer: 
+## Uitvoer
 
 * Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar het scherm: 
 
