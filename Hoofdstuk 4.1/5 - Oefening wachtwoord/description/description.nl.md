@@ -1,7 +1,7 @@
-## Gegeven: 
+## Gegeven
 Er is een correcte gebruikersnaam en wachtwoord om toegang te krijgen tot het systeem van het bedrijf.
 
-## Gevraagd: 
+## Gevraagd
 Schrijf een programma dat vraagt naar de gebruikersnaam en het wachtwoord `(== input-functie)`;
 Controleer of de ingevoerde `gebruikersnaam` en `wachtwoord` juist zijn;
 Print een van de volgende berichten af:
@@ -12,21 +12,21 @@ Print een van de volgende berichten af:
 * Voeg een `while-functie`toe die de gebruiker, bij een foutief aanmeldpoging, blijft vragen naar het `wachtwoord`en de `gebruikersnaam`. 
 
 
-## Invoer: 
+## Invoer
 ```
 Voer uw gebruikersnaam in: janedoe
 Voer uw wachtwoord in: wachtwoord123
 
 
 ```
-## Uitvoer: 
+## Uitvoer
 ```
 Toegang verleend
 ```
 
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik de `input()-functie` om de gebruiker naar de `gebruikersnaam` en het `wachtwoord` te vragen;
 >* Gebruik voorwaardelijke uitspraken (`if`, `elif`, `else`) met de operatoren `and` en `or` om te bepalen welke beoordeling hoort bij de ingevoerde `gebruikersnaam` en het `wachtwoord`;
 >* Print de beoordeling naar het scherm met behulp van de print()-functie; 
