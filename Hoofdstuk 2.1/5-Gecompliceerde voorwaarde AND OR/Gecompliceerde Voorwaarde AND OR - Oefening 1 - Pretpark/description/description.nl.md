@@ -1,18 +1,18 @@
-## Gegeven: 
+## Gegeven
 Een pretpark doet dit weekend een heuse reclamestunt. Al wie tussen 12 **en** 16 jaar oud is, mag gratis binnen. Al de anderen moeten een dagticket kopen van 35 euro.
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat vraagt naar je `naam` en `leeftijd` `(== input-functie)`;
 * Bepaal of je gratis binnen mag of niet op basis van je `leeftijd`;
 * `Print` op het scherm of je gratis binnen mag of dat je een dagticket moet kopen.
 
-## Invoer: 
+## Invoer
 ```
 Voer je naam in: Emma
 Voer je leeftijd in: 14
 ```
 
-## Uitvoer: 
+## Uitvoer
 ```
 Emma , je mag gratis binnen!
 ```
@@ -22,7 +22,7 @@ Emma , je moet een dagticket kopen van 35 euro.
 ```
 
 {: .callout.callout-success}
->## Tips:  
+>## Tips
 >* Gebruik de `input()-functie` om de gebruiker naar zijn/haar `naam` en `leeftijd` te vragen. 
 >* Vergeet niet om de input voor de leeftijd om te zetten naar een `int`.
 >* Gebruik een voorwaardelijke uitspraak (`if`, `else`) om te bepalen of de persoon gratis binnen mag of een dagticket moet kopen op basis van zijn/haar leeftijd.
