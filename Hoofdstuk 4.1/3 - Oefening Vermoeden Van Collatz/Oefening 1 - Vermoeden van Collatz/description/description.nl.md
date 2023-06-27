@@ -1,9 +1,7 @@
-# Het vermoeden van Collatz
-
-## Gegeven: 
+## Gegeven
 Het vermoeden van Collatz is een vermoeden in de getaltheorie dat zegt dat een bepaalde iteratie (=herhaling) in alle gevallen uitloopt op het getal 1, om het even welk getal n als beginwaarde gekozen wordt.
 
-## Gevraagd: 
+## Gevraagd
 * Neem een **geheel getal n** als `beginwaarde`;
 * Bereken een volgend getal met onderstaande regels:
 * `Als n even is, dan deel je het door 2 (=n/2)`
@@ -12,14 +10,14 @@ Het vermoeden van Collatz is een vermoeden in de getaltheorie dat zegt dat een b
 * Bij elke herhaling, `printen` telkens dit getal op het scherm;
 * Bij het einde van onze oefeningen **printen** we **"Stop!"**. 
 
-## Invoer: 
+## Invoer
 
 ```
 Voer een geheel getal in: 327
 
 ```
 
-## Uitvoer: 
+## Uitvoer
 ``` 
 982
 491.0
