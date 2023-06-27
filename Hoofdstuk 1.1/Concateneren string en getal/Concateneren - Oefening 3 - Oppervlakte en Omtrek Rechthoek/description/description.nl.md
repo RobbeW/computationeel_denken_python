@@ -1,28 +1,28 @@
-## Gegeven:
+## Gegeven
 
 Een rechthoek heeft een bepaalde lengte en breedte.
 
-## Gevraagd:
+## Gevraagd
 
 * Schrijf een programma dat **vraagt** naar de lengte en breedte van een rechthoek (== input-functie);
 * Bereken de **oppervlakte** van de rechthoek;
 * Bereken de **omtrek** van de rechthoek;
 * Print de oppervlakte en omtrek van de rechthoek op het scherm.
 
-## Invoer:
+## Invoer
 ```
 Voer de lengte van de rechthoek in: 10.75
 Voer de breedte van de rechthoek in: 5.66
 ```
 
-## Uitvoer:
+## Uitvoer
 ```
 De oppervlakte van de rechthoek is ... meter.
 De omtrek van de rechthoek is ... meter.
 ```
 
 {: .callout.callout-success}
->## Tips:
+>## Tips
 >* Gebruik de `input()`-functie om de gebruiker naar de lengte en breedte van de rechthoek te vragen. Vergeet niet om de input om te zetten naar een `float` of `int`.
 >* Bereken de oppervlakte van de rechthoek met de formule: `oppervlakte = lengte * breedte`.
 >* Bereken de omtrek van de rechthoek met de formule: `omtrek = 2 * (lengte + breedte)`.
