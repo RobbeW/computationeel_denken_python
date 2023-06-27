@@ -1,13 +1,13 @@
-## Gegeven: 
+## Gegeven
 De tien tafels van vermenigvuldiging.
 
-## Gevraagd: 
+## Gevraagd
 Schrijf een programma dat de tien tafels van vermenigvuldiging afdrukt.
 
-## Invoer: 
+## Invoer
 Gene invoer verwacht van de gebruiker. 
 
-## Uitvoer: 
+## Uitvoer
 ```
 Tafel van 1 :
 1 x 1 = 1
