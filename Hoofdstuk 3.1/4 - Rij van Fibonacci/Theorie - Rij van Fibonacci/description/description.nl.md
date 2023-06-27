@@ -1,7 +1,4 @@
-# Theorie - Rij van Fibonacci
-
-
-## Doel:
+## Doel
 
 In deze video leer je: 
 * de schoonheid van de 'rij van Fibonacci' uitleggen; 
@@ -12,5 +9,5 @@ In deze video leer je:
 
 
 <div class ="dodona-centered-group">
-<iframe width="960" height="540" src="https://www.youtube.com/embed/np-c87b9nHk?list=PL7qul8TV_7p5mZ_LFp_KHUVn1WglOU-is" title="Python in de Klas - Fibonacci" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/np-c87b9nHk?list=PL7qul8TV_7p5mZ_LFp_KHUVn1WglOU-is" title="Python in de Klas - Fibonacci" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
