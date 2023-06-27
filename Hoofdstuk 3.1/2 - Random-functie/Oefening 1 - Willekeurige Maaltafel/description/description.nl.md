@@ -1,12 +1,12 @@
-## Gegeven: 
+## Gegeven
 We willen een willekeurige maaltafel op het scherm weergeven. Bijvoorbeeld: 1 x 7 = ... 2 x 7 ... 
 
-## Gevraagd: 
+## Gevraagd
 Schrijf een programma dat de maaltafels print van een **willekeurig geheel getal**. 
 Print de maaltafels naar het scherm. 
 
 
-## Uitvoer: 
+## Uitvoer
 ```
 1 x a = ... 
 2 x a = ... 
@@ -17,7 +17,7 @@ Print de maaltafels naar het scherm.
 ```
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik de `random.randint(a, b) functie` uit de `random module` om een willekeurig getal tussen a en b (inclusief) te genereren. 
 >* Dit willekeurig getal gebruiken we als **tweede factor** in ons product. 
 >* Gebruik een `for-lus` om de tien tafels te berekenen.
