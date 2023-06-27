@@ -1,23 +1,23 @@
-## Gegeven: 
+## Gegeven
 Een getal kan positief, negatief of gelijk aan nul zijn.
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat een getal inleest;
 * `Als` het getal groter is dan of gelijk aan nul, `print` de tekst "positief of nul" naar het scherm;
 * `Als` het getal kleiner is dan nul, `print` de tekst "negatief" naar het scherm.
 
-## Invoer: 
+## Invoer
 ```
 Voer een getal in: 5
 ```
 
-## Uitvoer: 
+## Uitvoer
 ```
 Het getal is positief. 
 ```
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik de `input()-functie` om de gebruiker naar een getal te vragen. 
 >* Vergeet niet om de invoer om te zetten naar een `float` of `int`.
 >* Test voldoende met andere invoer (negatief getal). 
