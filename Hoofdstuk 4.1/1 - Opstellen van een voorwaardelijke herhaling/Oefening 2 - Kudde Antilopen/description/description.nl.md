@@ -1,4 +1,4 @@
-## Gegegven
+## Gegeven
 Er is een reservaat met een kudde van 120 antilopen. De kudde groeit elk jaar met ongeveer 6%.
 
 ## Gevraagd 
