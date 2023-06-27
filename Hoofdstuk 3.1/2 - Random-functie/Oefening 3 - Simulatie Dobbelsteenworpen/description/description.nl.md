@@ -1,20 +1,20 @@
-## Gegeven: 
+## Gegeven
 Schrijf een programma dat **40 worpen** met twee dobbelstenen simuleert. 
 Nadien verschijnt het **gemiddelde** van de 40 worpen op het scherm.
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat 40 worpen met twee dobbelstenen simuleert;
 * Bereken het gemiddelde van de 40 worpen;
 * Print het gemiddelde van de worpen op het scherm.
 
-## Uitvoer: 
+## Uitvoer
 ```
 Het gemiddelde van de 40 worpen is ...
 
 ```
 
 {: .callout.callout-success}
->## Tps: 
+>## Tps
 >* Gebruik de `random.randint(a, b)` functie uit de random module om een willekeurig getal tussen a en b (inclusief) te genereren. 
 >* Dit stelt een worp met een dobbelsteen voor.
 >* Gebruik een `for-lus` om de 40 worpen te simuleren.
