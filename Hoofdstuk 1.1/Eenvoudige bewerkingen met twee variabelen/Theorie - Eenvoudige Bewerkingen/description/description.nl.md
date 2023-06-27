@@ -1,7 +1,7 @@
 # Theorie - Integers en Floats
 
 
-## Doel:
+## Doel
 
 In deze video leer je volgende **operatoren** gebruiken:
 * een variabele aanmaken;
