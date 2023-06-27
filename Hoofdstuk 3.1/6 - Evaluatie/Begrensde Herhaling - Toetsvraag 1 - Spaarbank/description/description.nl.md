@@ -1,8 +1,8 @@
-## Gegeven:
+## Gegeven
 
 Simon beslist om zijn loon uit de studentenjob te sparen via de bank. Hij zet een bedrag opzij en wil berekenen hoeveel geld er op de rekening zal staan na **vijf jaar**. Elk jaar stijgt het bedrag op de rekening met **2.0% (= de interest).**
 
-## Gevraagd:
+## Gevraagd
 
 * Schrijf een programma dat vraagt naar het startbedrag, 
 * het aantal jaar dat Simon wil sparen 
@@ -13,7 +13,7 @@ Simon beslist om zijn loon uit de studentenjob te sparen via de bank. Hij zet ee
 * Bereken het **eindbedrag** na het opgegeven aantal jaren;
 * Print het eindbedrag op het scherm.
 
-## Invoer: 
+## Invoer
 ```
 Voer het startbedrag in (tussen 500 en 1000): 750.65
 Voer het aantal jaar in dat je wil sparen: 5
@@ -22,7 +22,7 @@ Voer de jaarlijkse interest in (als een percentage): 2
 ```
 
 
-## Uitvoer: 
+## Uitvoer
 ```
 Na 1 jaar staat er ... euro op de rekening. 
 Na 2 jaar staat er ... euro op de rekening.
