@@ -1,4 +1,4 @@
-## Gegeven: 
+## Gegeven
 Lisa eindigt de maand met 2.90 euro over op haar herlaadkaart.
 De kosten na het verlopen van de bundel zijn:
 
@@ -9,19 +9,19 @@ De kosten na het verlopen van de bundel zijn:
 <img src="https://ire-s3-prod-mv-cms.s3.eu-west-1.amazonaws.com/pages/content/uploads/2019/12/10122700/overstappen-1-1-1.png"/>
 
 
-## Gevraagd: 
+## Gevraagd
 * Bereken hoeveel minuten Lisa nog kan bellen;
 * Bereken hoeveel sms'en Lisa nog kan versturen;
 * Bereken hoeveel MB internet Lisa nog kan gebruiken.
 * Print de berekende waarden op het scherm in volzinnen.
 
-## Invoer:
+## Invoer
 
 ``` 
 Hoeveel heeft Lisa over op haar herlaadkaart?
 ``` 
 
-## Uitvoer:
+## Uitvoer
 ``` 
 Met het overgebleven bedrag kan Lisa nog ... minuten bellen.
 Met het overgebleven bedrag kan Lisa nog ... sms'en versturen.
@@ -30,7 +30,7 @@ Met het overgebleven bedrag kan Lisa nog ... MB internet gebruiken.
 ``` 
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik de gegeven kosten om te berekenen hoeveel minuten bellen, sms'en en MB internet Lisa nog kan gebruiken met het overgebleven bedrag.
 >* Gebruik de `math.floor()-functie` om de berekende waarden naar **beneden af te ronden.**
 >* Print de berekende waarden naar het scherm met behulp van de `print()-functie`. 
