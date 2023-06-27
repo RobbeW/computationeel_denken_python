@@ -1,13 +1,11 @@
-# De Tafel van 7
-
-## Gegeven: 
+## Gegeven
 We willen de tafel van 7 zo efficiënt als mogelijk afdrukken op het scherm. 
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat de tafel van 7 afdrukt tot '10 x 7';
 * Elk resultaat moet op een nieuwe regel verschijnen.
 
-## Uitvoer:
+## Uitvoer
 ```
 1 x 7 = 7
 2 x 7 = 14
@@ -22,7 +20,7 @@ We willen de tafel van 7 zo efficiënt als mogelijk afdrukken op het scherm.
 
 ```
 
-## Tips: 
+## Tips
 * Gebruik een `for-lus` in combinatie met de `range()-functie` om de tafel van 7 tot '10 x 7' af te drukken.
 * In elke iteratie van de lus, bereken je het product van het huidige getal en 7.
 * Gebruik de `print()-functie` om elk product op een nieuwe regel op het scherm te printen.
