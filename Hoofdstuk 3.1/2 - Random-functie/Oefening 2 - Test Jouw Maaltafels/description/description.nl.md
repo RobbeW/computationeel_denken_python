@@ -1,8 +1,8 @@
-## Gegeven: 
+## Gegeven
 Het programma genereert twee **willekeurige getallen** tussen 1 en 10.
 
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat twee getallen genereert tussen 1 en 10.
 * Het programma `print` beide getallen naar het scherm.
 * Vervolgens vraagt het programma aan de gebruiker om het `product` van deze twee getallen te berekenen.
@@ -11,7 +11,7 @@ Het programma genereert twee **willekeurige getallen** tussen 1 en 10.
 * Het programma moet in totaal 10 van deze oefeningen stellen en aan het einde de totaalscore tonen.
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik de `random.randint()-functie` om twee willekeurige getallen tussen 1 en 10 te genereren.
 >* Gebruik de `input()-functie` om de gebruiker om het product van de twee getallen te vragen.
 >* Gebruik de `int()-functie` om de invoer van de gebruiker om te zetten in een getal.
