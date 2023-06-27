@@ -1,4 +1,4 @@
-##Gegeven:
+##Gegeven
 
 Kobe wilt aan autodelen doen bij Greenwheels, aangezien er een parkeertekort is in de stad. Er Hij moet kiezen uit één van de volgende pakketten.
 
@@ -8,19 +8,18 @@ Kobe wilt aan autodelen doen bij Greenwheels, aangezien er een parkeertekort is 
 
 <img src="https://www.netsolutions.com/insights/wp-content/uploads/2019/07/essential-features-for-building-a-ride-sharing-app.jpg"/>
 
-## Gevraagd:
+## Gevraagd
 
 Maak een programma dat, afhankelijk van de maandelijks **gereden kilometers en tijd**, jouw de voordeligste optie geeft en de ingeschatte kosten.
 Rond de bedragen af tot een getal met twee decimalen! 
-## Invoer: 
+## Invoer
 ```
 Vul jouw maandelijks gereden kilometers in: 307
 Vul jouw totale rijtijd in (in uur): 4.5
 
 ```
 
-## Uitvoer: 
-
+## Uitvoer
 ```
 Pakket ... is het meest voordelig.
 Je betaalt daarmee: ... euro.
