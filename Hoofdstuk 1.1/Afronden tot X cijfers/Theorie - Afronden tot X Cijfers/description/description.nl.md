@@ -1,4 +1,4 @@
-## Doel:
+## Doel
 
 In deze video leer je: 
 * een variabele aanmaken; 
@@ -6,5 +6,5 @@ In deze video leer je:
 * een getal afronden tot X cijfers na de komma. 
 
 <div class ="dodona-centered-group">
-<iframe width="960" height="540" src="https://www.youtube.com/embed/ITjP7wFO6LE" title="Python in de Klas - Afronden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/ITjP7wFO6LE" title="Python in de Klas - Afronden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
