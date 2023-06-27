@@ -1,4 +1,4 @@
-## Gegeven: 
+## Gegeven
 * Sla de eerste 100 getallen van de rij van Fibonacci op in een lijst;
 * Vraag daarna aan de gebruiker welk van de 100 getallen hij wil zien;
 * Druk dat getal af.
@@ -18,24 +18,24 @@ u(2) = 1
 u(n) = u(n - 1) + u(n - 2)
 ```
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat de eerste 100 getallen van de Fibonacci-reeks berekent en deze in een lijst opslaat;
 * Vraag de gebruiker welk getal van de Fibonacci-reeks (tussen 1 en 100) hij wil zien;
 * Print het gekozen getal van de Fibonacci-reeks op het scherm.
 
-## Invoer: 
+## Invoer
 ```
 Voer het getal in van de Fibonacci-reeks dat u wilt zien (tussen 1 en 100): 13
 
 ```
 
-## Uitvoer: 
+## Uitvoer
 ```
 Het 13 e getal in de Fibonacci-reeks is ...
 ```
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Gebruik een `lijst` om de eerste 100 getallen van de Fibonacci-reeks op te slaan;
 >* We laten die `lijst`starten als volgt: `fibonaci = [0, 1]`
 >* Gebruik een `for-lus` om de getallen van de Fibonacci-reeks te berekenen en aan de lijst toe te voegen;
