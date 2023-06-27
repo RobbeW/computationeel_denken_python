@@ -1,4 +1,4 @@
-## Doel:
+## Doel
 
 In deze video leer je: 
 * een variabele aanmaken; 
