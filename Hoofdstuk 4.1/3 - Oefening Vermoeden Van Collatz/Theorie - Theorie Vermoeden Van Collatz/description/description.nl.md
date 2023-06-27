@@ -1,7 +1,4 @@
-# Theorie - Het Vermoeden van Collatz
-
-
-## Doel:
+## Doel
 
 In deze video leer je: 
 * een voorwaardelijke herhaling opstellen; 
@@ -9,5 +6,5 @@ In deze video leer je:
 * computationele uitwerking van het Vermoeden van Collatz.
 
 <div class ="dodona-centered-group">
-<iframe width="960" height="540" src="https://www.youtube.com/embed/M3gEhfHvkwo?list=PL7qul8TV_7p5mZ_LFp_KHUVn1WglOU-is" title="Python in de Klas - Vermoeden van Collatz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/M3gEhfHvkwo?list=PL7qul8TV_7p5mZ_LFp_KHUVn1WglOU-is" title="Python in de Klas - Vermoeden van Collatz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
