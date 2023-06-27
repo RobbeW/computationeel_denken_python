@@ -1,8 +1,8 @@
-## Gegeven:
+## Gegeven
 
 Simon beslist om zijn loon uit de studentenjob te sparen via de bank. Hij zet een **willekeurig bedrag (van 500 tot en met 1000 euro)** opzij en wil berekenen hoeveel geld er op de rekening zal staan na **vijf jaar**. Elk jaar stijgt het bedrag op de rekening met **2.0% (= de interest).**
 
-## Gevraagd:
+## Gevraagd
 
 Schrijf de code met volgende drie getallen, namelijk: 
 * Startbedrag *(=willekeurig bedrag van 500 tot en met 1000 euro)* 
@@ -14,13 +14,13 @@ Laat elk jaar de tussenstand verschijnen op het scherm.
 Laat het eindresultaat verschijnen op het scherm met een **verzorgd stukje tekst**. 
 Zorg dat je in dat stukje tekst kan afleiden wat het startbedrag, aantal jaar sparen en interest waren. 
 
-## Invoer: 
+## Invoer
 ```
 Hoeveel jaar wilt u sparen? 5
 
 ```
 
-## Uitvoer: 
+## Uitvoer
 ```
 Na X jaar sparen aan een interest van Y % staat er Z euro op de spaarrekening. 
 
