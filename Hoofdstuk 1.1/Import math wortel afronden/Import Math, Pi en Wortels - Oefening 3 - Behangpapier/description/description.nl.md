@@ -1,26 +1,26 @@
-## Gegeven: 
+## Gegeven
 
 Om te berekenen hoeveel rollen behangpapier er nodig zijn om een muur te behangen, moet je de `lengte` en de `hoogte` van de muur weten en de afmetingen van het behangpapier. 
 Eén rol behangpapier is `10 meter lang` en `52 cm breed`.
 
-## Gevraagd: 
+## Gevraagd
 * Schrijf een programma dat `vraagt` naar de `lengte` en `hoogte` van de muur (== `input-functie`);
 * Bereken het aantal rollen behangpapier dat nodig is om de muur te behangen;
 * `Print` het aantal benodigde rollen behangpapier op het scherm.
 
-## Invoer: 
+## Invoer
 ```
 Voer de lengte van de muur in (in meter): 20
 Voer de hoogte van de muur in (in meter): 2.8
 ```
 
-## Uitvoer: 
+## Uitvoer
 ```
 Het aantal benodigde rollen behangpapier is ... rollen.
 ```
 
 {: .callout.callout-success}
->## Tips: 
+>## Tips
 >* Start jouw algoritme met `import math`. 
 >* Gebruik de `input()-functie` om de gebruiker naar de lengte en hoogte van de muur te vragen. 
 >* Vergeet niet om de `input` om te zetten naar een `float` of `int`.
