@@ -11,13 +11,13 @@ Een rechthoek heeft een bepaalde lengte en breedte.
 
 ## Invoer
 ```
-Voer de lengte van de rechthoek in: 10.75
-Voer de breedte van de rechthoek in: 5.66
+Voer de lengte van de rechthoek in meter in: 10.75
+Voer de breedte van de rechthoek in meter in: 5.66
 ```
 
 ## Uitvoer
 ```
-De oppervlakte van de rechthoek is ... meter.
+De oppervlakte van de rechthoek is ... vierkante meter.
 De omtrek van de rechthoek is ... meter.
 ```
 
