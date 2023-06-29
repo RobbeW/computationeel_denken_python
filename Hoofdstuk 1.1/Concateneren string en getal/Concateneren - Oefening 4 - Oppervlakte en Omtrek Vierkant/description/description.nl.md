@@ -18,7 +18,7 @@ oppervlakte = zijde * zijde
 
 ## Invoer
 ```
-De lengte van de zijde in cm bedraagt: 16.42 centimeter. 
+Voer de lengte van de zijde in centimeter in:  16.42
 ```
 
 ## Uitvoer
