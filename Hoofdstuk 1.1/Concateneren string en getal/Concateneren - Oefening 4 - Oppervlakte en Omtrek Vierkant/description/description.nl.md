@@ -1,6 +1,6 @@
 ## Gegeven
 
-Een vierkant is een rechthoek met gelijke zijden. Om de `omtrek` van een vierkant te berekenen, moet je de `lengte` van alle vier de zijden bij elkaar optellen. De formule voor de omtrek van een vierkant is:
+Een vierkant is een rechthoek met 4 even lange zijden. Om de `omtrek` van een vierkant te berekenen, moet je de `lengte` van alle vier de zijden bij elkaar optellen. De formule voor de omtrek van een vierkant is:
 ```
 omtrek = 4 * zijde
 ```
@@ -18,13 +18,13 @@ oppervlakte = zijde * zijde
 
 ## Invoer
 ```
-De lengte van de zijde bedraagt: 16.42 centimeter. 
+De lengte van de zijde in cm bedraagt: 16.42 centimeter. 
 ```
 
 ## Uitvoer
 Print de omtrek en oppervlakte van het vierkant naar het scherm in de volgende vorm: 
 ```
-"De omtrek van het vierkant is ... " en "De oppervlakte van het vierkant is ... "
+"De omtrek van het vierkant is ... cm en de oppervlakte van het vierkant is ... vierkante centimeter."
 ```
 
 {: .callout.callout-success}
