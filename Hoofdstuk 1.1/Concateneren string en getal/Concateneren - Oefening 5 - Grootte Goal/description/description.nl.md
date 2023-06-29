@@ -13,8 +13,8 @@ Fred is ook benieuwd naar de grootte van de goal. Het kader van de goal is 7.32 
 
 ## Invoer
 ```
-Voer de lengte van de goal in: 7.32
-Voer de hoogte van de goal in: 2.44
+Voer de lengte van de goal in meter in: 7.32
+Voer de hoogte van de goal in meter in: 2.44
 ```
 
 ## Uitvoer
