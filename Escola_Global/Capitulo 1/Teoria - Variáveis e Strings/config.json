@@ -9,15 +9,14 @@
     "pythia_judge": "output"
   },
   "labels": [
-      "Python", 
-      "Robbe Wulgaert",
-      "Escola Global"
-
+    "Python",
+    "Robbe Wulgaert",
+    "Escola Global"
   ],
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "VT7DZRv_E_WWtuD2CH4xGBKRCe637CMxdIFR3R-TDq2AG_r38j9XWCKEjAwnMwAR",
+    "token": "QRqHv5RbmQDSW859iFYxWc_3bwZvXkC6D5q_crDy2Y99kBUShczJ7wgn-5dRdUMP",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
