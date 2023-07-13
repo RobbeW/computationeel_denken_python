@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "nl": "Teoria - Função de entrada e tipos de dados",
+      "en": "Teoria - Função de entrada e tipos de dados"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Python",
+    "Robbe Wulgaert", 
+    "Escola Global"
+  ],
+  "type": "content",
+  "access": "public",
+  "internals": {
+    "token": "sWGvga_Rmr-DcKRb43kRJusIcRPBKIGnf-erDdGe9VmYshFMZ6cEMbUv7cyRurwU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

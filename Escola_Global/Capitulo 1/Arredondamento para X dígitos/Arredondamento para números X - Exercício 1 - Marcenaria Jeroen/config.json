@@ -1,0 +1,24 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Arredondamento para números X - Marcenaria Jeroen",
+      "en": "Arredondamento para números X - Marcenaria Jeroen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+      "Robbe Wulgaert",
+      "Python", 
+      "Escola Global"
+
+  ],
+  "internals": {
+    "token": "yPbQQHiS2KBq7_FhYxqrue3kTgStiieGfv_VVg5gIS4YxNn5FqgMfE7ghqc8h_v8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
