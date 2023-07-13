@@ -1,23 +1,22 @@
 {
   "description": {
     "names": {
-      "nl": "Teoria - Arredondamento para X Graus",
-      "en": "Teoria - Arredondamento para X Graus"
+      "nl": "Introdução",
+      "en": "Introdução"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
   "labels": [
-      "python", 
-      "Robbe Wulgaert",
-      "Escola Global"
-
+    "Robbe Wulgaert",
+    "Python",
+    "Escola Global"
   ],
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "zrpRGPCwtCU3qHHIwJHbiFmhIuAWZMI36umrfanBZvg_E-RbRWAyA6Kh23r8Y55f",
+    "token": "27HVa2RF5hbARIP7bV8cc68Xd7FICPFqNUigPMPB22AfxdkZtjTRM4A5HI-jgkuF",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

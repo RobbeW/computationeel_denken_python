@@ -13,12 +13,12 @@
   },
   "labels": [
     "python",
-    "Robbe Wulgaert",
+    "Robbe Wulgaert", 
     "Escola Global"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "V99pDtPNX-7iPt6rXPiSw6xIHFdPu3Z422D8GzUhFk7WbHk7M4eqJFT7pRsKWTes",
+    "token": "cFC6XTt6XNj9KVqcUmdtX5VjEm5jncRCqZnUzu9ws6S9Kr8r87XXiXFxgtpW9Ii-",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -1,15 +1,15 @@
 {
   "description": {
     "names": {
-      "nl": "Teoria - Arredondamento para X Graus",
-      "en": "Teoria - Arredondamento para X Graus"
+      "nl": "Teoria - Tipos de dados",
+      "en": "Teoria - Tipos de dados"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
   "labels": [
-      "python", 
+      "Python", 
       "Robbe Wulgaert",
       "Escola Global"
 
@@ -17,7 +17,7 @@
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "zrpRGPCwtCU3qHHIwJHbiFmhIuAWZMI36umrfanBZvg_E-RbRWAyA6Kh23r8Y55f",
+    "token": "VT7DZRv_E_WWtuD2CH4xGBKRCe637CMxdIFR3R-TDq2AG_r38j9XWCKEjAwnMwAR",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

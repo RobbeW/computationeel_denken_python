@@ -1,6 +1,6 @@
-Deze oefening werd gemaakt door Robbe Wulgaert. 
+Este exercício foi criado por Robbe Wulgaert. 
 
-Meer informatie: [www.robbewulgaert.be](www.robbewulgaert.be)
+Mais informações: [www.robbewulgaert.be](www.robbewulgaert.be)
 
-Heb je een fout opgemerkt? 
-[Laat het me weten!](www.robbewulgaert.be/contact)
+Notaste algum erro? 
+[Avisa-me!](www.robbewulgaert.be/contact)
