@@ -18,7 +18,7 @@ Introduzir o raio: 9.15
 ```
 
 ## Saída
-``` Imprimir`` os resultados na tela na forma: 
+`Imprimir` os resultados na tela na forma: 
 ```
 A circunferência é: ... metros.
 A área é: ... metros quadrados.
