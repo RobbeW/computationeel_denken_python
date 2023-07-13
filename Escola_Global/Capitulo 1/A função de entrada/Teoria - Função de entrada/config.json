@@ -10,13 +10,13 @@
   },
   "labels": [
     "Python",
-    "Robbe Wulgaert",
+    "Robbe Wulgaert", 
     "Escola Global"
   ],
   "type": "content",
   "access": "public",
   "internals": {
-    "token": null,
+    "token": "sWGvga_Rmr-DcKRb43kRJusIcRPBKIGnf-erDdGe9VmYshFMZ6cEMbUv7cyRurwU",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
