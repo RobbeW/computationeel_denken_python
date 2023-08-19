@@ -4,7 +4,13 @@ In deze video leer je:
 * meerdere variabelen aanmaken;
 * datatype `string` gebruiken; 
 * meerdere outputs (een `variabele`, een `string` ...) naar het scherm printen met één `print-functie`;
-* het kommateken gebruiken om te `concateneren`. 
+* het **kommateken** gebruiken om te `concateneren` mét spatieteken, of het **plusteken** om te concateneren zonder spatie.
+
+{: .callout.callout-info}
+>## **Samengevat**
+>Wanneer je wil `concateneren`, kan je gebruiken van een **kommateken** of een **plusteken**;
+>Het **kommateken** zal automatisch een spatie invoeren;
+>Het **plusteken** zal dat niet doen. 
 
 
 <div class ="dodona-centered-group">
