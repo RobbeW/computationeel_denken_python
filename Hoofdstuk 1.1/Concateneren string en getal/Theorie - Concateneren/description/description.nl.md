@@ -8,9 +8,9 @@ In deze video leer je:
 
 {: .callout.callout-info}
 >## **Samengevat**
->* Wanneer je wil `concateneren`, kan je gebruiken van een **kommateken** of een **plusteken**;
->* Het **kommateken** zal automatisch een spatie invoeren;
->* Het **plusteken** zal dat niet doen. 
+>* Wanneer je wil `concateneren`, kan je gebruiken van een **komma (,)** of een **plus (+)**;
+>* Het **komma** zal automatisch een spatie invoeren;
+>* Het **plus** zal dat niet doen. 
 
 
 <div class ="dodona-centered-group">
