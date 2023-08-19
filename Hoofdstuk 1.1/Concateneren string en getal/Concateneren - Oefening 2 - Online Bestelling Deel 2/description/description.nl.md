@@ -25,3 +25,8 @@ Print de ingevoerde gegevens op het scherm in de vorm:
 De bestelling wordt verzonden naar: [voornaam] [familienaam], [straatnaam], [huisnummer], [postcode].
 ```
 
+{: .callout.callout-info}
+>## **Tip!**
+>* Wanneer je wil `concateneren`, kan je gebruiken van een **komma (,)** of een **plus (+)**;
+>* Een **komma** zal automatisch een spatie invoeren;
+>* Een **plus** zal dat niet doen. 
