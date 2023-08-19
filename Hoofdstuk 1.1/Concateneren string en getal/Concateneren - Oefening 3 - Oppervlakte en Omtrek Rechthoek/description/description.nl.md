@@ -23,7 +23,10 @@ De omtrek van de rechthoek is ... meter.
 
 {: .callout.callout-success}
 >## Tips
->* Gebruik de `input()`-functie om de gebruiker naar de lengte en breedte van de rechthoek te vragen. Vergeet niet om de input om te zetten naar een `float` of `int`.
->* Bereken de oppervlakte van de rechthoek met de formule: `oppervlakte = lengte * breedte`.
->* Bereken de omtrek van de rechthoek met de formule: `omtrek = 2 * (lengte + breedte)`.
->* Print de berekende oppervlakte en omtrek van de rechthoek naar het scherm met behulp van de `print()`-functie.
+>* Gebruik de `input()`-functie om de gebruiker naar de lengte en breedte van de rechthoek te vragen. Vergeet niet om de input om te zetten naar een `float` of `int`;
+>* Bereken de oppervlakte van de rechthoek met de formule: `oppervlakte = lengte * breedte`;
+>* Bereken de omtrek van de rechthoek met de formule: `omtrek = 2 * (lengte + breedte)`;
+>* Print de berekende oppervlakte en omtrek van de rechthoek naar het scherm met behulp van de `print()`-functie;
+>* Wanneer je wil `concateneren`, kan je gebruiken van een **komma (,)** of een **plus (+)**;
+>* Een **komma** zal automatisch een spatie invoeren;
+>* Een **plus** zal dat niet doen. 
