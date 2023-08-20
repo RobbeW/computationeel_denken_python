@@ -26,7 +26,8 @@ De bestelling wordt verzonden naar: [voornaam] [familienaam], [straatnaam], [hui
 ```
 
 {: .callout.callout-info}
->## **Tip!**
+>## **Tips!**
 >* Wanneer je wil `concateneren`, kan je gebruiken van een **komma (,)** of een **plus (+)**;
 >* Een **komma** zal automatisch een spatie invoeren;
->* Een **plus** zal dat niet doen. 
+>* Een **plus** zal dat niet doen;
+>* Denk goed na over de datatypes van `huisnummer`en `postcode`. Wanneer we er niet mee zullen rekenen, moeten we deze dan wel omzetten naar `integer`of `float`?
