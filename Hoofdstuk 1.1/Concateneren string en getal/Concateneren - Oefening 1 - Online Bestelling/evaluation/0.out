@@ -2,3 +2,25 @@ Voer je voornaam in:
 Voer je familienaam in: 
 Voer je straatnaam in: 
 De bestelling wordt verzonden naar: Karim Cerit in de Koekoekstraat.
+
+Voer je voornaam in: 
+Voer je familienaam in: 
+Voer je straatnaam in: 
+De bestelling wordt verzonden naar: Sherlock Holmes in de Bakerstreet.
+
+Voer je voornaam in: 
+Voer je familienaam in: 
+Voer je straatnaam in: 
+De bestelling wordt verzonden naar: Donald Duck in de Kwakstraat.
+
+Voer je voornaam in: 
+Voer je familienaam in: 
+Voer je straatnaam in: 
+De bestelling wordt verzonden naar: Harry Potter in de Ligusterlaan.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 3
+output block size: ends with
+comparison: exact match
