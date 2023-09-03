@@ -13,8 +13,8 @@ Bij de vorige oefening maakte je het algoritme om een online bestelling te regel
 ```
 Voer je voornaam in: Karim
 Voer je familienaam in: Cerit
-Voer je straatnaam: Koekoekstraat 77
-Voer je huisnummer in: 3.1
+Voer je straatnaam: Koekoekstraat
+Voer je huisnummer in: 77
 Voer je postcode in: 9000
 ```
 
@@ -22,7 +22,7 @@ Voer je postcode in: 9000
 ## Uitvoer
 Print de ingevoerde gegevens op het scherm in de vorm: 
 ```
-De bestelling wordt verzonden naar: [voornaam] [familienaam], [straatnaam], [huisnummer], [postcode].
+De bestelling wordt verzonden naar: [voornaam] [familienaam], [straatnaam] [huisnummer], [postcode].
 ```
 
 {: .callout.callout-info}

@@ -3,4 +3,32 @@ Voer je familienaam in:
 Voer je straatnaam in: 
 Voer je huisnummer in: 
 Voer je postcode in: 
-De bestelling wordt verzonden naar: Karim Cerit, Koekoekstraat, 3.1, 9000.
+De bestelling wordt verzonden naar: Karim Cerit, Koekoekstraat 77, 9000.
+
+Voer je voornaam in: 
+Voer je familienaam in: 
+Voer je straatnaam in: 
+Voer je huisnummer in: 
+Voer je postcode in: 
+De bestelling wordt verzonden naar: Sherlock Holmes, Bakerstreet 221B, NW1.
+
+Voer je voornaam in: 
+Voer je familienaam in: 
+Voer je straatnaam in: 
+Voer je huisnummer in: 
+Voer je postcode in: 
+De bestelling wordt verzonden naar: Donald Duck, Kwakstraat 13, 37326.
+
+Voer je voornaam in: 
+Voer je familienaam in: 
+Voer je straatnaam in: 
+Voer je huisnummer in: 
+Voer je postcode in: 
+De bestelling wordt verzonden naar: Harry Potter, Ligusterlaan 4, LW.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 5
+output block size: ends with
+comparison: exact match
