@@ -1,3 +1,26 @@
 Hoeveel exemplaren moeten gedrukt worden? 
 4500
 9.0
+
+Hoeveel exemplaren moeten gedrukt worden? 
+8000
+6.666666666666667
+
+Hoeveel exemplaren moeten gedrukt worden? 
+2750
+18.333333333333332
+
+Hoeveel exemplaren moeten gedrukt worden? 
+2050
+205.0
+
+Hoeveel exemplaren moeten gedrukt worden? 
+2005
+2005.0
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match
