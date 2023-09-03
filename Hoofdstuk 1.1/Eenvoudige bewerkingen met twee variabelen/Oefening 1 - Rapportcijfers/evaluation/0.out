@@ -1,6 +1,34 @@
 toets_1 = 
 toets_2 = 
 toets_3 = 
-37
+37.0
 12.333333333333334
 61.66666666666667
+
+toets_1 = 
+toets_2 = 
+toets_3 = 
+32.0
+10.666666666666666
+53.33333333333333
+
+toets_1 = 
+toets_2 = 
+toets_3 = 
+1.5
+0.5
+2.5
+
+toets_1 = 
+toets_2 = 
+toets_3 = 
+30.0
+10.0
+50.0
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 3
+output block size: ends with
+comparison: exact match
