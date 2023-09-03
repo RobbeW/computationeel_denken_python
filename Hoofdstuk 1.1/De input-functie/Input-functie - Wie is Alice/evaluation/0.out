@@ -1,2 +1,21 @@
 Voer je naam in: 
 Hallo, mijn naam is Alice
+
+Voer je naam in: 
+Hallo, mijn naam is Jan
+
+Voer je naam in: 
+Hallo, mijn naam is Piet
+
+Voer je naam in: 
+Hallo, mijn naam is Joris
+
+Voer je naam in: 
+Hallo, mijn naam is Korneel
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match
