@@ -17,8 +17,8 @@ Voer de breedte in: 220.50
 ```
 
 ## Uitvoer
-`Print` de uitkomsten op het scherm in de vorm: 
+**Print** de uitkomsten op het scherm in de vorm: 
 ```
-De omtrek bedraagt: ... centimeter.
-De oppervlakte bedraagt: ... vierkante centimeter.
+De omtrek bedraagt: ... cm.
+De oppervlakte bedraagt: ... cm².
 ```

@@ -7,5 +7,5 @@ omtrek = round(2*(lengte + breedte),2)
 oppervlakte = round(lengte * breedte, 2)
 
 # Print de resultaten met 2 decimalen
-print("De omtrek bedraagt:", omtrek, "centimeter.")
-print("De oppervlakte bedraagt:", oppervlakte, "vierkante centimeter.")
+print("De omtrek bedraagt:", omtrek, "cm.")
+print("De oppervlakte bedraagt:", oppervlakte, "cm².")
