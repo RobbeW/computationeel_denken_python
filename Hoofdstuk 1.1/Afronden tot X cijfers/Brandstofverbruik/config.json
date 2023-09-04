@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "description": {
+    "names": {
+      "nl": "Afronden tot X Cijfers - Brandstofverbruik"
+    }
+  },
+  "labels": [
+
+  ],
+  "access": "public"
+}
