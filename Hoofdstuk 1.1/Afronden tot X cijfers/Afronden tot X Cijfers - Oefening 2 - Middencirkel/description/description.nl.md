@@ -1,9 +1,9 @@
 ## Gegeven
 
-Fred moet de middelcirkel tekenen op een voetbalveld. Een middencirkel heeft een **straal of radius van 9.15 meter.** 
-Om deze berekening zo accuraat al mogelijk te maken, gebruiken we `pi`. Voor deze oefening houden we `pi op 3.14.` 
+Fred moet de middelcirkel tekenen op een voetbalveld. Hoeveel bedraagt de omtrek en oppervlakte van deze cirkel?
+Om deze berekening zo accuraat al mogelijk te maken, gebruiken we `PI`. Voor deze oefening houden we `PI` op `3.1415`. 
 
-<img src="https://pbs.twimg.com/profile_images/770903539463909376/8ZHqA88S_400x400.jpg"/>
+![Een middelcirkel op een voetbalveld.](media/3dprinter.jpg "Foto door Izuddin Helmi Adnan op Unsplash."){:data-caption="Een middelcirkel op een voetbalveld." width="45%"}
 
 ## Gevraagd
 
@@ -18,10 +18,10 @@ Voer de straal in: 9.15
 ```
 
 ## Uitvoer
-`Print` de uitkomsten op het scherm in de vorm: 
+**Print** de uitkomsten op het scherm in de vorm: 
 ```
-De omtrek bedraagt: ... meter.
-De oppervlakte bedraagt: ... vierkante meter.
+De omtrek bedraagt: ... m.
+De oppervlakte bedraagt: ... m².
 ```
 
 
