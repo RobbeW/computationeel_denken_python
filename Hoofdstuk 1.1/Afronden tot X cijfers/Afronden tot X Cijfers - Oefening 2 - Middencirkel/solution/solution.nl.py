@@ -1,4 +1,4 @@
-# Definieer PI (constnate)
+# Definitie van PI (constante)
 PI = 3.1415
 
 # Vraag de gebruiker naar de straal
