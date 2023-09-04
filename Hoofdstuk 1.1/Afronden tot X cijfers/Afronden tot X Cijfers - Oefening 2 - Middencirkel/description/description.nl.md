@@ -3,7 +3,7 @@
 Fred moet de middelcirkel tekenen op een voetbalveld. Hoeveel bedraagt de omtrek en oppervlakte van deze cirkel?
 Om deze berekening zo accuraat al mogelijk te maken, gebruiken we `PI`. Voor deze oefening houden we `PI` op `3.1415`. 
 
-![Een middelcirkel op een voetbalveld.](media/3dprinter.jpg "Foto door Izuddin Helmi Adnan op Unsplash."){:data-caption="Een middelcirkel op een voetbalveld." width="45%"}
+![Een middelcirkel op een voetbalveld.](media/izuddin-helmi-adnan.jpg "Foto door Izuddin Helmi Adnan op Unsplash."){:data-caption="Een middelcirkel op een voetbalveld." width="45%"}
 
 ## Gevraagd
 
