@@ -17,5 +17,5 @@ Schrijf een programma dat voor een ingelezen V<span style="vertical-align: sub;"
 #### Voorbeeld
 Bij invoer `0.574` als V<span style="vertical-align: sub;">ref</span> verschijnt als uitvoer:
 ```
-De stroomsterkte is 1.435
+De stroomsterkte is 1.4349999999999998
 ```
