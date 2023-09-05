@@ -8,7 +8,7 @@ In deze oefening leer je een
 
 ## Opgave
 
-* Maak een variabele met de naam `bericht` en wijs er de string `"Hallo, mijn naam is "` aan toe;
+* Maak een variabele met de naam `bericht` en wijs er de string `"Hallo, mijn naam is"` aan toe;
 * Vraag de gebruiker om zijn/haar/hun naam in te voeren. Gebruik hiervoor de `input()`-functie;
 * Voeg de ingevoerde naam toe aan de variabele `bericht`;
 * Print de inhoud van de variabele `bericht` naar het scherm.
@@ -23,3 +23,11 @@ Alice
 Voer je naam in: Alice
 Hallo, mijn naam is Alice
 ```
+
+## Tip!
+Een kommateken voegt automatisch een spatie toe binnen de **print-functie**. We verduidelijken hieronder: 
+```
+print('Hallo, mijn naam is ', variabele_naam
+-> Hallo, mijn naam is  Robbe
+```
+Het **spatieteken** aan het einde van de eerste string, dus voor het sluiten van de aanhalingstekens, wordt hier gecombineerd met de **spatie** die ontstaat door het **kommateken**. 
