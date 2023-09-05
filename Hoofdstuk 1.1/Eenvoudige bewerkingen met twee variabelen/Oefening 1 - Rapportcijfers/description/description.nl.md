@@ -33,5 +33,5 @@ toets_3 = 11.5
 ```
 
 {: .callout.callout-info}
->## Tips: 
+>#### Tips: 
 >* Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
