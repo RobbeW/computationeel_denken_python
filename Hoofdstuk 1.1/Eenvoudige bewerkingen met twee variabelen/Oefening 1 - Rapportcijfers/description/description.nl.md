@@ -16,11 +16,10 @@ Om de totaalscore, het gemiddelde en het percentage van een reeks toetsen te ber
 ## Invoer
 Alice heeft volgende toetspunten die je moet verwerken met jouw algoritme. 
 
-```
+```R
 toets_1 = 17
 toets_2 = 8.5
 toets_3 = 11.5 
-
 ```
 
 ## Uitvoer
@@ -33,6 +32,6 @@ toets_3 = 11.5
 61.66666666666667
 ```
 
-{: .callout.callout-success}
+{: .callout.callout-info}
 >## Tips: 
 >* Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
