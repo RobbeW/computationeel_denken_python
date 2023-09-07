@@ -6,8 +6,8 @@ In deze oefening leer je een
 
 ## Opgave
 
-1. Maak een variabele met de naam `naam`;
-2. Print de inhoud van de variabele `naam` naar het scherm.
+1. Maak een variabele met de naam `voornaam`;
+2. Print de inhoud van de variabele `voornaam` naar het scherm.
 
 ## Invoer
 ```
