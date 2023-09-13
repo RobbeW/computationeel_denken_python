@@ -24,7 +24,7 @@ We printen de `totale kostprijs` en de `prijs per exemplaar` naar het scherm.
 ```
 
 {: .callout.callout-info}
->## Tips:
+>#### Tips
 >* Gebruik de formule `totale kostprijs = vaste kost + (aantal exemplaren * kost per exemplaar)`.
 >* Gebruik `input()-functie` om de gebruiker naar het aantal exemplaren te vragen. Vergeet niet om de input om te zetten naar een integer.
 >* Print de `totale kostprijs` en de `prijs per exemplaar` op het scherm met behulp van de `print()-functie`. 
