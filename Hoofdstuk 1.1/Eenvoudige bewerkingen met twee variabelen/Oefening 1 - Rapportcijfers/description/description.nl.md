@@ -7,19 +7,19 @@ Om de totaalscore, het gemiddelde en het percentage van een reeks toetsen te ber
 
 ## Gevraagd
 
-* Vraag aan de gebruiker om de score van drie toetsen op 20 in te voeren `(== de input-functie)`.
-* Bereken de **totaalscore** door de individuele scores **op te tellen.**
-* Bereken het **gemiddelde** van de drie punten door de totaalscore te **delen door 3.**
-* Bereken het **percentage** van het gemiddelde door het gemiddelde te **vermenigvuldigen met 5.**
+* Vraag aan de gebruiker om de score van drie toetsen **op 20** in te voeren `(== de input-functie)`.
+* Bereken de **totaalscore**;
+* Bereken het **gemiddelde**;
+* Zet het gemiddelde om in een **percentage**.
 
 
 ## Invoer
 Alice heeft volgende toetspunten die je moet verwerken met jouw algoritme. 
 
 ```R
-toets_1 = 17
-toets_2 = 8.5
-toets_3 = 11.5 
+toets_1 = 11
+toets_2 = 16.5
+toets_3 = 10 
 ```
 
 ## Uitvoer
@@ -27,9 +27,9 @@ toets_3 = 11.5
 * Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar het scherm: 
 
 ```
-37
-12.333333333333334
-61.66666666666667
+37.5
+12.5
+62.5
 ```
 
 {: .callout.callout-info}
