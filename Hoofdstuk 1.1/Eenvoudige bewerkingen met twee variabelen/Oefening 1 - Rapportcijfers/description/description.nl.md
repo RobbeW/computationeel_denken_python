@@ -24,7 +24,7 @@ toets_3 = 10
 
 ## Uitvoer
 
-* Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar het scherm: 
+Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar het scherm: 
 
 ```
 37.5
