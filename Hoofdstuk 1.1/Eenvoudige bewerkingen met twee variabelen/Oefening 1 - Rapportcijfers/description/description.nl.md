@@ -34,4 +34,4 @@ Print de `totaalscore`, het `gemiddelde` en het `percentage` van de scores naar 
 
 {: .callout.callout-info}
 >#### Tips: 
->* Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
+> Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
