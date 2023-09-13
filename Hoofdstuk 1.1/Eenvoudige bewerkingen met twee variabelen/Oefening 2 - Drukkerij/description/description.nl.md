@@ -1,6 +1,6 @@
 ## Gegeven:
 
-Er is een vaste kost van 2.000 euro voor het drukken van een tijdschrift. Per exemplaar komt er 5 euro bij voor het papier, het drukwerk en de bindkosten.
+Er is een vaste kost van 2 000 euro voor het drukken van een tijdschrift. Per exemplaar komt er 5 euro bij voor het papier, het drukwerk en de bindkosten.
 
 ## Gevraagd:
 
@@ -9,18 +9,21 @@ Er is een vaste kost van 2.000 euro voor het drukken van een tijdschrift. Per ex
 * Bereken de **prijs per exemplaar**;
 * Print de totale kostprijs en de prijs per exemplaar op het scherm.
 
-## Invoer: 
-```
+## Invoer:
+
+```python
 Hoeveel exemplaren moeten gedrukt worden? 500
 ```
-## Uitvoer: 
+
+## Uitvoer:
+
 We printen de `totale kostprijs` en de `prijs per exemplaar` naar het scherm.
-```
+```python
 4500
-9
+9.0
 ```
 
-{: .callout.callout-success}
+{: .callout.callout-info}
 >## Tips:
 >* Gebruik de formule `totale kostprijs = vaste kost + (aantal exemplaren * kost per exemplaar)`.
 >* Gebruik `input()-functie` om de gebruiker naar het aantal exemplaren te vragen. Vergeet niet om de input om te zetten naar een integer.
