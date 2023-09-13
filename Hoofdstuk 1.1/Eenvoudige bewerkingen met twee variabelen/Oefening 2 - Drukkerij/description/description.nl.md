@@ -18,7 +18,7 @@ Hoeveel exemplaren moeten gedrukt worden? 500
 ## Uitvoer:
 
 We printen de `totale kostprijs` en de `prijs per exemplaar` naar het scherm.
-```python
+```
 4500
 9.0
 ```
