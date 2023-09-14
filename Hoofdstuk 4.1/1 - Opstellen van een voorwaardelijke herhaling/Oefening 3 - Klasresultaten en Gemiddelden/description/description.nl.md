@@ -5,7 +5,7 @@ Een klas van een vooraf **onbekend aantal leerlingen** heeft elk een score op 20
 * Verzamel een voor een de resultaten van de leerlingen via de `input-functie`. 
 * Bereken het **aantal leerlingen.**
 * Sluit de invoer af met een negatief getal. Dan stopt de herhaling!
-* Print het** aantal leerlinge**n en het **klasgemiddelde op 20**.
+* Print het **aantal leerlingen** en het **klasgemiddelde op 20**.
 * Rond het gemiddelde af tot één decimaal. 
 
 ## Invoer
