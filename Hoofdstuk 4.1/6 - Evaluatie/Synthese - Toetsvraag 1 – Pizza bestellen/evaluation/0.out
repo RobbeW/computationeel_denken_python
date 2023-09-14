@@ -3,3 +3,10 @@ Hoeveel pepertjes wenst u?
 Hoeveel olijfjes wenst u? 
 De totaalprijs van de pizza bedraagt 13.7 euro.
 
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 3
+output block size: ends with
+comparison: exact match
