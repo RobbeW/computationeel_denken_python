@@ -1,10 +1,10 @@
-Geef een getal in: 
-Geef een getal in: 
-Geef een getal in: 
-Geef een getal in: 
-Geef een getal in: 
-Geef een getal in: 
-Geef een getal in: 
 Aantal ingevoerde getallen: 6
 Som van de ingevoerde getallen: 92.0
 Aantal getallen groter dan 10: 5
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 
+output block size: ends with
+comparison: exact match
