@@ -1,2 +1,8 @@
-Voer een positief geheel getal in: 
 De delers van 25 die een positief geheel getal als quotiënt uitkomen zijn: [1, 5, 25]
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match
