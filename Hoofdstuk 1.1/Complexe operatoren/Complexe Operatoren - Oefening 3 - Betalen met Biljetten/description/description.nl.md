@@ -2,7 +2,9 @@
 
 Bij het betalen van een bedrag in euro's, kunnen verschillende soorten biljetten en munten worden gebruikt. Om het **minimale aantal** biljetten en munten te bepalen dat nodig is om een bepaald bedrag te betalen, moet je het bedrag eerst opdelen in biljetten en munten van verschillende waardes.
 
-Het `aantal biljetten` van 50 euro dat nodig is om het bedrag te betalen kunnen we achterhalen met volgende code:
+![Verschillende euro biljetten.](media/markus-spiske.jpg "Foto door Markus Spiske op Unsplash."){:data-caption="Verschillende euro biljetten." width="35%"}
+
+Het minimale **aantal biljetten** van € 50 dat nodig is om het bedrag te betalen kunnen we achterhalen met volgende code:
 
 ```python
 bedrag = int( input( "Voer het te betalen bedrag in euro's in: " ) )
@@ -11,8 +13,6 @@ aantal_vijftig = bedrag // 50 # dit berekent het quotiënt zonder rest.
 restbedrag = bedrag % 50      # dit berekent de rest zonder quotiënt en kent deze toe aan de variabele restbedrag. 
                               # vervolgens kan je verder werken met dit restbedrag
 ```
-
-![Verschillende euro biljetten.](media/markus-spiske.jpg "Foto door Markus Spiske op Unsplash."){:data-caption="Verschillende euro biljetten." width="35%"}
 
 ## Gevraagd
 
