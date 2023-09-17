@@ -12,6 +12,11 @@ De invoer `100.0` levert als uitvoer
 4.5 liter
 ```
 
+De invoer `150.0` levert als uitvoer
+```
+6.75 liter
+```
+
 De invoer `45.0` levert als uitvoer
 ```
 2.02 liter
