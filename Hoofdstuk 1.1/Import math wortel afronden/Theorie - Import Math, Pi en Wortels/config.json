@@ -5,9 +5,6 @@
       "en": "Theory - Import Math, Pi and Square Roots"
     }
   },
-  "evaluation": {
-    "pythia_judge": "output"
-  },
   "labels": [
     "Robbe Wulgaert",
     "Python"
