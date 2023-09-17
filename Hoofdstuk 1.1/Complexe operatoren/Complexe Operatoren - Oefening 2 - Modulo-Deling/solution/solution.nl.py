@@ -6,4 +6,4 @@ getal2 = int(input("Voer het tweede getal in: "))
 rest_zonder_quotient = getal1 % getal2
 
 # Print de rest zonder quotiënt
-print("De rest zonder quotiënt is:", rest_zonder_quotient)
+print( getal1,"delen door", getal2, "heeft als rest", rest_zonder_quotient )
