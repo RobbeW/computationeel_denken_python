@@ -18,7 +18,7 @@ Voer een geheel getal in: 7
 
 ```
 Het kwadraat van het getal is: ...
-De restwaarde van ... / 2 = 
+De restwaarde van ... / 2 = ...
 ```
 
 {: .callout.callout-info}
