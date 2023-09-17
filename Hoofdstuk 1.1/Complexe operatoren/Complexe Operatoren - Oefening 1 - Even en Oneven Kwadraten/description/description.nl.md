@@ -22,7 +22,7 @@ De restwaarde van ... / 2 =
 ```
 
 {: .callout.callout-info}
->## Tips
+>#### Tips
 >* Gebruik de **modulo-operator** `%` om de restwaarde van een getal te berekenen.
 >* Bereken het kwadraat van het getal met behulp van `**`. Zo geldt er `macht = getal ** 2`.
 
