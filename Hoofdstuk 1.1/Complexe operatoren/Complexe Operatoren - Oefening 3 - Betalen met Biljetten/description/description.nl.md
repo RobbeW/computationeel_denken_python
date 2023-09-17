@@ -39,6 +39,6 @@ munt 1: 1
 
 {: .callout.callout-info}
 >#### Tips
->* Voer tests uit met verschillende bedragen, zoals 100 euro, 73 euro, 37 euro, enzovoort. Zorg ervoor dat de code correct werkt en het juiste aantal biljetten en munten weergeeft.
->* Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
+> - Voer tests uit met verschillende bedragen, zoals € 100, € 73, € 37, enzovoort. Zorg ervoor dat de code correct werkt en het juiste aantal biljetten en munten weergeeft.
+> - Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
 
