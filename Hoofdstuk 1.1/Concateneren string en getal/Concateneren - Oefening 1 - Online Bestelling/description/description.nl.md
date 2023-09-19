@@ -13,7 +13,7 @@ Om een online bestelling te regelen, hebben we enkele gegevens nodig van onze kl
 ```
 Voer je voornaam in: Karim
 Voer je familienaam in: Cerit
-Voer je straatnaam: Koekoekstraat
+Voer je straatnaam in: Koekoekstraat
 ```
 
 
