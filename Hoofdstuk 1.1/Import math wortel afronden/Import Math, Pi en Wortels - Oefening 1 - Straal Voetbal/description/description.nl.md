@@ -1,30 +1,31 @@
-Robbe is bezig met het opstellen van een wiskunde-oefening over een voetbal, maar vindt nergens de straal van zo een voetbal. Hij vindt wel de omtrek van de voetbal. 
+Robbe is bezig met het opstellen van een wiskunde-oefening over een voetbal, maar vindt nergens de straal van zo een voetbal. 
+Hij vindt wel de omtrek van de voetbal. 
+
+![Voetbalbehendigheid.](media/footbal.gif "Voetbalbehendigheid."){:data-caption="Voetbalbehendigheid." width="480px"}
 
 ## Gegeven
-
-De `omtrek` van een cirkel is 70 cm. De formule voor de `omtrek` van een cirkel is:
-```
-omtrek = 2 * straal * pi
-```
+Gegeven is de omtrek van een cirkel. 
 
 ## Gevraagd
-* `Importeer` de benodigde `math-functies`;
-* Bereken de `straal` van de cirkel met een precisie van `2 decimalen`;
+
+- **Importeer** de benodigde `math`-bibliotheek;
+- Bereken de **straal** van de cirkel met een precisie van **twee decimalen**;
 
 ## Invoer
+Voor een voetbal krijg je bijvoorbeeld een omtrek van 70 cm.
+
 ```
 De omtrek van de cirkel bedraagt: 70
 ```
 
 ## Uitvoer
-`Print` de berekende `straal` op het scherm in de volgende vorm: 
+Geef de berekende `straal` weer op het scherm in de volgende vorm, waarbij je de straal **afrondt** op twee decimalen.
+
 ```
-"De straal van de voetbal is ... centimeter."
+De straal van de cirkel is ... cm.
 ```
 
-{: .callout.callout-success}
+{: .callout.callout-info}
 >## Tips
->* Gebruik `import math` om de benodigde math-functies te importeren;
->* Gebruik de formule voor de `omtrek` van een cirkel en de gegeven omtrek om de `straal` te berekenen;
->* Gebruik `round()` om de berekende straal af te ronden op 2 decimalen;
->* `Print` het resultaat op het scherm met behulp van de `print()-functie`.
+> - Gebruik `import math` om de benodigde math-functies te importeren;
+> - Geef het resultaat weer op het scherm met behulp van de `print()`-functie.

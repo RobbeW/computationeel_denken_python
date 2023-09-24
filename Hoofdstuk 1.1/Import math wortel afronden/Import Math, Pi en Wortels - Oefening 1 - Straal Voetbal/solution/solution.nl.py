@@ -10,4 +10,5 @@ straal = omtrek / (2 * math.pi)
 straal_afgerond = round(straal, 2)
 
 # Print het resultaat
-print("De straal van de voetbal is", straal_afgerond, "centimeter.")
+print()
+print("De straal van de cirkel is", straal_afgerond, "cm.")
