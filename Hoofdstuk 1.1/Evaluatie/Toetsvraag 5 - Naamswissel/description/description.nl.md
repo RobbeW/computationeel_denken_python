@@ -3,7 +3,7 @@
 
 Schrijf een programma dat de voornaam en naam van twee personen **omwisselt**. 
 
-#### Voorbeelden
+#### Voorbeeld
 
 Bij de invoer:
 ```
