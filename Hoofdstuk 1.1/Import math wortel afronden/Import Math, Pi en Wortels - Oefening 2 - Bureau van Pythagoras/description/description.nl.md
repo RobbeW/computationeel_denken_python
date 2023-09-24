@@ -6,9 +6,9 @@ Gelukkig kan dit eenvoudig met behulp van **de stelling van Pythagoras**:
 >#### Stelling van Pythagoras
 > In een rechthoekige driehoek is de som van de kwadraten van de rechthoekszijden gelijk aan het kwadraat van de schuine zijde.
 
-Hieronder zie je een figuur die stelling beter illustreert.
+Hieronder zie je een figuur die stelling beter illustreert, er geldt in deze figuur dus $$a^2+b^2 = c^2$$.
 
-![EDe stelling van Pythagoras.](media/pythagoras.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .light-only width="30%"}
+![De stelling van Pythagoras.](media/pythagoras.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .light-only width="30%"}
 
 ![De stelling van Pythagoras.](media/pythagoras_dark.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .dark-only width="30%"}
 
