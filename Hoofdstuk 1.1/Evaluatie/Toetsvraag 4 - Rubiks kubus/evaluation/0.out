@@ -47,7 +47,7 @@ Voer het aantal kubbussen in één ribbe in:
 Deze Rubiks kubus bevat 6534 vierkanten.
 -----------------------------------------
 tab name: Feedback
-python input without prompt: true
+python input without prompt: false
 block count: multi
 input block size: 1
 output block size: ends with
