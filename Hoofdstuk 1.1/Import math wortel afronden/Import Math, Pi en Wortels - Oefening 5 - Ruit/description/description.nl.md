@@ -1,6 +1,6 @@
 ## Gegeven
 
-Een **ruit** met een grote $$D$$ en kleine $$d$$ diagonaal.
+Een **ruit** met een grote diagonaal (D) en kleine diagonaal (d).
 
 ![Een ruit.](media/rhombus.png "Een ruit."){:data-caption="Een ruit." .light-only width="30%"}
 
