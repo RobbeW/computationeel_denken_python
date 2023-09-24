@@ -14,8 +14,8 @@ extra_kosten_afstand = math.ceil(afstand / 10) * 0.30
 # Bereken de totale prijs
 totaalprijs = basisprijs + extra_kosten_massa + extra_kosten_afstand
 
-# Rond de totaalprijs af naar twee decimalen
-totaalprijs = round(totaalprijs, 2)
+# Rond de totaalprijs af naar één decimaal
+totaalprijs = round(totaalprijs, 1)
 
 # Print de totaalprijs op het scherm
 print("De prijs om het pakje te versturen is", totaalprijs, "euro.")
