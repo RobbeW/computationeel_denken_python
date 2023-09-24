@@ -11,4 +11,5 @@ zijde_c = math.sqrt(zijde_a ** 2 + zijde_b ** 2)
 zijde_c_afgerond = round(zijde_c, 2)
 
 # Print het resultaat
-print("De lengte van de schuine zijde [c] is", zijde_c_afgerond, "centimeter.")
+print()
+print("De lengte van de schuine zijde [c] is", zijde_c_afgerond, "cm.")
