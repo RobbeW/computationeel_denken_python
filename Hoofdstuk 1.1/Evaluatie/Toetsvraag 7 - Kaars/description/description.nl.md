@@ -4,7 +4,7 @@ In de middeleeuwen ging men kaarsen gebruiken voor **tijdmeting**. Het waren ver
 
 ## Gevraagd
 
-Stel dat voor een kaars van 30 cm, elke markering van één cm overeenkomt met één uur. Dan blijft na 6 uur nog 24 cm van de kaars over.
+Stel dat voor een kaars van 30 cm, elke markering van 1 cm overeenkomt met één uur. Dan blijft na 6 uur nog 24 cm van de kaars over.
 
 Schrijf een programma dat eerst de **naam van de monnik** vraagt, daarna de **beginlengte** van de kaars en tot slot hoeveel cm er nog **overblijft**. Bereken met deze gegevens **hoeveel uur** de kaars reeds brandt. Je mag ervan uitgaan dat de lengtes steeds als natuurlijke getallen ingevoerd worden.
 
