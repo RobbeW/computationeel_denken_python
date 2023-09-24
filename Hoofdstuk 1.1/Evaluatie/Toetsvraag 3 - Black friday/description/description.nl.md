@@ -6,7 +6,7 @@ Black Friday is ontstaan in Verenigde Staten en valt op de vierde donderdag in n
 
 ## Gevraagd
 
-Schrijf een programma dat aan een klant een **bedrag** en een **korting** vraagt. Vervolgens berekent het programma de prijs die de klant nog moet betalen.
+Schrijf een programma dat aan een klant achtereenvolgens een **bedrag** en een **korting** vraagt. Vervolgens berekent het programma de prijs die de klant nog moet betalen.
 
 #### Voorbeelden
 
@@ -18,5 +18,16 @@ Voer de hoeveelheid korting in: 50
 
 Verschijnt er:
 ```
-Je moet nog € betalen.
+Je moet nog € 67.2 betalen.
+```
+
+Bij de invoer:
+```
+Voer het bedrag in: 114.0
+Voer de hoeveelheid korting in: 60
+```
+
+Verschijnt er:
+```
+Je moet nog € 45.6 betalen.
 ```
