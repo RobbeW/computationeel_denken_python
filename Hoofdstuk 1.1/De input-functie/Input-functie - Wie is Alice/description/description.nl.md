@@ -3,7 +3,7 @@
 In deze oefening leer je een 
 * variabele aanmaken;
 * een string aan de variabele toevoegen;
-* de input-functie gebruiken;
+* de `input()`-functie gebruiken;
 * en de inhoud van de variabelen naar het scherm printen.
 
 ## Opgave
@@ -25,9 +25,14 @@ Hallo, mijn naam is Alice
 ```
 
 ## Tip!
-Een kommateken voegt automatisch een spatie toe binnen de **print-functie**. We verduidelijken hieronder: 
+Een kommateken voegt **automatisch** een spatie toe binnen de `print()`-functie. We verduidelijken hieronder: 
+```python
+print('Hallo, mijn naam is ', variabele_naam)
 ```
-print('Hallo, mijn naam is ', variabele_naam
--> Hallo, mijn naam is  Robbe
+
+Indien `variabele_naam` dan `Robbe` is, dan verschijnt er:
 ```
-Het **spatieteken** aan het einde van de eerste string, dus voor het sluiten van de aanhalingstekens, wordt hier gecombineerd met de **spatie** die ontstaat door het **kommateken**. 
+Hallo, mijn naam is  Robbe
+```
+
+Je merkt dat er een spatie **teveel** staat! Het **spatieteken** aan het einde van de eerste string, dus voor het sluiten van de aanhalingstekens, wordt hier gecombineerd met de **spatie** die ontstaat door het **kommateken**. 
