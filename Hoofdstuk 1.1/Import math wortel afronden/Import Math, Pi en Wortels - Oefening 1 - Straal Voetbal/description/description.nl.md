@@ -26,6 +26,6 @@ De straal van de cirkel is ... cm.
 ```
 
 {: .callout.callout-info}
->## Tips
+>#### Tips
 > - Gebruik `import math` om de benodigde math-functies te importeren;
 > - Geef het resultaat weer op het scherm met behulp van de `print()`-functie.

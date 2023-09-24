@@ -3,7 +3,7 @@ Robbe installeert een nieuwe bureau in zijn werkkamer. Hij moet hierbij de lengt
 Gelukkig kan dit eenvoudig met behulp van **de stelling van Pythagoras**:
 
 {: .callout.callout-success}
->## Stelling van Pythagoras
+>#### Stelling van Pythagoras
 > In een rechthoekige driehoek is de som van de kwadraten van de rechthoekszijden gelijk aan het kwadraat van de schuine zijde.
 
 Hieronder zie je een figuur die stelling beter illustreert.
@@ -27,7 +27,6 @@ Mogelijk invoer kan zijn:
 ```
 De lengte van zijde [a] is: 137.11
 De lengte van zijde [b] is: 66.78
-
 ```
 
 ## Uitvoer
@@ -36,6 +35,6 @@ De lengte van de schuine zijde [c] is ... cm.
 ```
 
 {: .callout.callout-info}
->## Tips
+>#### Tips
 > - Vergeet niet om de invoer om te zetten naar het juiste datatype;
 > - Gebruik `math.sqrt()` om de wortel van een getal te berekenen.
