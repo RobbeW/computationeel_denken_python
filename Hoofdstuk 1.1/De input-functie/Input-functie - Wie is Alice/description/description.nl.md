@@ -30,7 +30,7 @@ Een kommateken voegt **automatisch** een spatie toe binnen de `print()`-functie.
 print('Hallo, mijn naam is ', variabele_naam)
 ```
 
-Indien `variabele_naam` dan `Robbe` is, dan verschijnt er:
+Indien in `variabele_naam` dan `Robbe` opgeslagen werd, verschijnt er:
 ```
 Hallo, mijn naam is  Robbe
 ```
