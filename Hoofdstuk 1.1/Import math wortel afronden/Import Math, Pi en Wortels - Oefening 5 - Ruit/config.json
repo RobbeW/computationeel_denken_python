@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Omtrek, Oppervlakte en Pythagoras",
-      "en": "Import Math, Pi and Square Root - Size, Surface Area and Pythagoras"
+      "nl": "Import Math, Pi en Wortels - Omtrek en oppervlakte"
     }
   },
   "evaluation": {
