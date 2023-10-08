@@ -11,7 +11,7 @@ Er zijn twee opties voor prijsberekeningen bij een vervoersmaatschappij:
 Indien beide taxi's even duur zijn, kies dan TAX-B.
 
 #### Voorbeeld
-Indien je `20` km zou afleggen verschijnt er:
+Indien je `20.0` km zou afleggen verschijnt er:
 
 ```
 De voordeligste formule is: BXL-TAX
