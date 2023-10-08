@@ -20,7 +20,7 @@ if not os.path.exists(solutiondir):
 tab_name = 'Feedback'
 settings = f'''
 tab name: {tab_name}
-python input without prompt: true
+python input without prompt: false
 block count: multi
 input block size: 1
 output block size: ends with
