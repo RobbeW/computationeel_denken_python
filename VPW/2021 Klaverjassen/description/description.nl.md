@@ -18,7 +18,7 @@ Deze gedeelde hand bevat de vier soorten kaarten, van links naar rechts: ruiten 
 {:class="table table-striped table-condensed" style="width:auto;margin-left:auto;margin-right:auto;"}
 
 Bereken de waarde van mijn hand, gegeven een bepaalde troef, uitgedrukt in punten. Figuur 1 heeft 14 troefpunten (14 voor S9) en 7 gewone punten (2
-voor RB, 3 voor HD, 2 voor KB), indien schoppen (S) troef is. Het antwoord is de som, 21. In het geval van harten (H) troef is het antwoord 7.
+voor RB, 3 voor HD, 2 voor KB), indien **schoppen** (`S`) troef is. Het antwoord is de som, 21. In het geval van **harten** (`H`) troef is het antwoord 7.
 
 
 ## Opgave
