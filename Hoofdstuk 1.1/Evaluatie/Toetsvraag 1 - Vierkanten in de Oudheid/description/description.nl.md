@@ -24,6 +24,6 @@ De lengte van een zijde van vierkant PQRS is ... m.
 ```
 
 {: .callout.callout-info}
->## Tips
+>#### Tips
 > - Vergeet niet om de input om te zetten naar een `float` of `int`.
 > - Bereken de `lengte` van een zijde van vierkant PQRS door de formule voor de oppervlakte om te vormen.
