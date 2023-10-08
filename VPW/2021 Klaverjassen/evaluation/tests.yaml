@@ -1,0 +1,4 @@
+- tab: Feedback
+  testcases:
+  - stdin: "2\nS\nRB R7 S9 S7 HD H7 KB K7\nH\n10\nRB R7 S9 S7 HD H7 KB K7"
+    stdout: "1 21\n2 7"
