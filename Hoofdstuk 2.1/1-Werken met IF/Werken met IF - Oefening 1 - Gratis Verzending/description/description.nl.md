@@ -16,5 +16,5 @@ Je komt in aanmerking voor gratis verzending.
 ```
 
 {: .callout.callout-info}
->#### Tips
+>#### Tip
 > Gebruik een `if`-statement om te controleren of het `aankoopbedrag` hoger is dan 20 euro.
