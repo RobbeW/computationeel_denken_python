@@ -1,7 +1,7 @@
-t = int( input( "Enter T: " ) )
+t = int( input(  ) )
 for i in range(t):
-    b = int( input( "Enter number of animals" ) )
-    ruimtes_str = input( "Enter animal spaces" )
+    b = int( input(  ) )
+    ruimtes_str = input( )
     ruimtes = ruimtes_str.split()
     som = 0
     for ruimte in ruimtes:
