@@ -14,7 +14,7 @@ Lisa heeft nog een bepaald bedrag over op haar herlaadkaart. Haar bundel is echt
 - Bereken hoeveel MB internet Lisa nog kan gebruiken;
 - Geef deze informatie weer op het scherm.
 
-#### Voorbeelden
+#### Voorbeeld 1
 Bij de invoer: 
 ``` 
 Hoeveel heeft Lisa over op haar herlaadkaart? 2.9
@@ -26,6 +26,7 @@ Met het overgebleven bedrag kan Lisa nog 29 sms'en versturen.
 Met het overgebleven bedrag kan Lisa nog 19 MB internet gebruiken.
 ``` 
 
+#### Voorbeeld 2
 Bij de invoer: 
 ``` 
 Hoeveel heeft Lisa over op haar herlaadkaart? 3.57
