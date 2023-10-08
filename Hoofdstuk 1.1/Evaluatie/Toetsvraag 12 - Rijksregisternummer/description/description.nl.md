@@ -1,6 +1,6 @@
 ## Gegeven
 
-Het rijksregisternummer is een uniek identificatienummer toegekend aan natuurlijke personen die ingeschreven zijn in België. Iedere burger met ofwel een Belgisch identiteitsdocument ofwel een Belgisch verblijfsdocument heeft een rijksregisternummer.
+Het <a href="https://sma-help.bosa.belgium.be/nl/faq/waar-vind-ik-mijn-rijksregisternummer" target="_blank">rijksregisternummer</a> is een uniek identificatienummer toegekend aan natuurlijke personen die ingeschreven zijn in België. Iedere burger met ofwel een Belgisch identiteitsdocument ofwel een Belgisch verblijfsdocument heeft een rijksregisternummer.
 
 Het rijksregisternummer staat achteraan op de identiteitskaart. 
 
