@@ -1,24 +1,17 @@
 ## Gegeven
-Een getal a wordt ingelezen en doorloopt een volledige beslissingsboom. 
+Een getal $$a$$ wordt ingelezen en doorloopt een volledige beslissingsboom. 
 
 ## Gevraagd
-* Lees een getal a in.
-* `Als` a groter is dan 20, bereken dan b als volgt: b = a ** 2 - 2 * a.
-* `Anders`: is a kleiner dan of gelijk aan 20, bereken dan b als volgt: b = a ** 2 + 2 * a.
-* `Print` getal b naar het scherm.
+* Lees een **geheel getal** $$a$$ in.
+* Is $$a$$ groter dan 20, bereken dan $$b$$ als volgt: $$b = a^2 - 2 \cdot a$$;
+* In het andere geval, bereken dan $$b$$ als volgt: $$b = a^2 + 2 \cdot a$$.
+* Toon tot slot het getal $$b$$.
 
-## Invoer
+#### Voorbeeld
 ```
 Voer een getal a in: 25
 ```
-
-## Uitvoer
+Leidt tot de uitvoer:
 ```
 Het berekende getal b is: 575
 ```
-
-{: .callout.callout-success}
->## Tips
->* Gebruik de `input()-functie` om de gebruiker naar een getal te vragen. Vergeet niet om de invoer om te zetten naar een `float` of `int`.
->* Gebruik een `if-statement` om te controleren of het getal a groter is dan 20.
->* Bereken de waarde van b op basis van de voorwaarde en gebruik de `print()-functie` om het berekende getal b naar het scherm te sturen.
