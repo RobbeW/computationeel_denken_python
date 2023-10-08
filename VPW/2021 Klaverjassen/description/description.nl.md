@@ -25,7 +25,8 @@ voor RB, 3 voor HD, 2 voor KB), indien **schoppen** (`S`) troef is. Het antwoord
 
 De eerste regel bevat het aantal testgevallen. Er zijn twee regels per testgeval:
 
-regel één bevat de troef soort (R, S, H, of K), en regel twee de gedeelde hand van acht kaarten, uitgedrukt in soort (karakter één) en waarde (zie tabel), gescheiden door een spatie.
+- regel één bevat de troef soort (`R`, `S`, `H`, of `K`);
+- regel twee de gedeelde hand van acht kaarten, uitgedrukt in soort (karakter één) en waarde (zie tabel), gescheiden door een spatie.
 
 #### Voorbeelden
 Mogelijk invoer is:
