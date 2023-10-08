@@ -1,7 +1,7 @@
 import math
 
 # Vraag de gebruiker hoeveel Lisa over heeft op haar herlaadkaart
-saldo = float(input("Hoeveel heeft Lisa over op haar herlaadkaart?"))
+saldo = float(input("Hoeveel heeft Lisa over op haar herlaadkaart? "))
 print()
 
 # Bereken hoeveel minuten Lisa nog kan bellen

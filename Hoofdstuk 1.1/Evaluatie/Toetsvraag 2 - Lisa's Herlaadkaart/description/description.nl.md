@@ -1,9 +1,9 @@
 ## Gegeven
 Lisa heeft nog een bepaald bedrag over op haar herlaadkaart. Haar bundel is echter vervallen en de kosten zijn nu:
 
-- € 0.20 per begonnen min om te bellen;
-- € 0.10 per sms;
-- € 0.15 per begonnen MB internet.
+- € 0,20 per begonnen min om te bellen;
+- € 0,10 per sms;
+- € 0,15 per begonnen MB internet.
 
 ![Verschillende smartphone gebruikers.](media/creative-christians.jpg "Foto door Creative Christians op Unsplash."){:data-caption="Verschillende smartphone gebruikers." width="40%"}
 
@@ -17,7 +17,7 @@ Lisa heeft nog een bepaald bedrag over op haar herlaadkaart. Haar bundel is echt
 ## Invoer
 
 ``` 
-Hoeveel heeft Lisa over op haar herlaadkaart?
+Hoeveel heeft Lisa over op haar herlaadkaart? 
 ``` 
 
 ## Uitvoer
@@ -25,7 +25,6 @@ Hoeveel heeft Lisa over op haar herlaadkaart?
 Met het overgebleven bedrag kan Lisa nog ... minuten bellen.
 Met het overgebleven bedrag kan Lisa nog ... sms'en versturen.
 Met het overgebleven bedrag kan Lisa nog ... MB internet gebruiken.
-
 ``` 
 
 {: .callout.callout-info}
