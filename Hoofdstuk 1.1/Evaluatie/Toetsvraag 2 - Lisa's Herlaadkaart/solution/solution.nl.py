@@ -2,16 +2,15 @@ import math
 
 # Vraag de gebruiker hoeveel Lisa over heeft op haar herlaadkaart
 saldo = float(input("Hoeveel heeft Lisa over op haar herlaadkaart? "))
-print()
 
 # Bereken hoeveel minuten Lisa nog kan bellen
-min_bellen = round( saldo / 0.20 )
+min_bellen = round( saldo / 0.20, 2 )
 
 # Bereken hoeveel sms'en Lisa nog kan versturen
 aantal_sms = round( saldo / 0.10, 2)
 
 # Bereken hoeveel MB internet Lisa nog kan gebruiken
-mb_internet = round( saldo / 0.15 )
+mb_internet = round( saldo / 0.15, 2 )
 
 # Rond de berekende waarden af naar beneden met de math.floor()-functie
 min_bellen_afgerond = math.floor(min_bellen)
