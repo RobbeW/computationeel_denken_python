@@ -2,9 +2,9 @@
 Een probleem uit de oudheid was het verdubbelen van een vierkant. 
 Hier zie je dat de **oppervlakte** van **vierkant PQRS** het **dubbel** is van **vierkant ABCD.**
 
-![Vierkanten uit de oudheid.](media/image.png "Vierkanten uit de oudheid."){:data-caption="Vierkanten uit de oudheid." .light-only width="33%"}
+![Vierkanten uit de oudheid.](media/image.png "Vierkanten uit de oudheid."){:data-caption="Vierkanten uit de oudheid." .light-only width="25%"}
 
-![Vierkanten uit de oudheid.](media/image_dark.png "Vierkanten uit de oudheid."){:data-caption="Vierkanten uit de oudheid." .dark-only width="33%"}
+![Vierkanten uit de oudheid.](media/image_dark.png "Vierkanten uit de oudheid."){:data-caption="Vierkanten uit de oudheid." .dark-only width="25%"}
 
 ## Gevraagd
 * Bereken de `oppervlakte` van vierkant PQRS, dat het dubbel is van vierkant ABCD;
