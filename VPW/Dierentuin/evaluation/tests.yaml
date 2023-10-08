@@ -1,0 +1,4 @@
+- tab: Feedback
+  testcases:
+  - stdin: "2\n 3 \n 14 5 283 \n 6\n 54 62 800 10000 4 99"
+    stdout: "1 302\n2 11019"
