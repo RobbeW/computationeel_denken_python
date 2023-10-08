@@ -4,7 +4,7 @@ Het rijksregisternummer is een uniek identificatienummer toegekend aan natuurlij
 
 Het rijksregisternummer staat achteraan op de identiteitskaart. 
 
-![Een voorbeeld van een rijksregisternummer.](media/rijksregisternummer.jpg "Een voorbeeld van een rijksregisternummer."){:data-caption="Een voorbeeld van een rijksregisternummer." width="744px"}
+![Een voorbeeld van een rijksregisternummer.](media/rijksregisternummer.jpg "Een voorbeeld van een rijksregisternummer."){:data-caption="Een voorbeeld van een rijksregisternummer." width="30%"}
 
 Dit nummer bestaat uit elf cijfers, waarvan de eerste zes cijfers corresponderen met de **geboortedatum**, in de volgorde jaar, maand en dag. De volgende 5 cijfers bestaan uit de **dagteller** van het aantal geboortes die dag en daarna een **controlegetal**.
 
