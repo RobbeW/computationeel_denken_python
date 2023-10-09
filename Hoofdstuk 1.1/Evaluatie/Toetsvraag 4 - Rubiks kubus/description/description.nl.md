@@ -10,7 +10,7 @@ Tegenwoordig bestaan er heel wat varianten, zo heeft onderstaande variant ribben
 
 Schrijf een programma dat het **aantal kubussen** in één enkele ribbe vraagt en vervolgens berekent hoeveel vierkanten er in **alle zijvlakken samen** zitten.
 
-#### Voorbeelden
+#### Voorbeeld 1
 
 Bij de invoer:
 ```
@@ -22,6 +22,7 @@ Verschijnt er:
 Deze Rubiks kubus bevat 54 vierkanten.
 ```
 
+#### Voorbeeld 2
 Bij de invoer:
 ```
 Voer het aantal kubbussen in één ribbe in: 4
