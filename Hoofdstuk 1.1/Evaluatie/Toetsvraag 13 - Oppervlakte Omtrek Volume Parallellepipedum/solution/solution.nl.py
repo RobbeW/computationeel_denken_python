@@ -17,6 +17,6 @@ omtrek = (schuine_zijde + (zijde_c+zijde_a))*2
 volume = zijde_b * (zijde_c+zijde_a) * (zijde_a+zijde_c)
 
 # Output: 
-print(round(opp,2))
-print(round(omtrek,2))
-print(round(volume,2))
+print('De oppervlakte van één zijvlak bedraagt', round(opp,2), 'vierkante cm.')
+print('De omtrek van één zijvlak bedraagt', round(omtrek,2),'cm.')
+print('Het volume van de parallellepipedum bedraagt', round(volume,2), 'kubieke cm.')
