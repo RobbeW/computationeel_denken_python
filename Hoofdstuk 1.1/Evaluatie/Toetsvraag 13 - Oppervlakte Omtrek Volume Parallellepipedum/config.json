@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Sequentie Toetsvraag 13 - Oppervlakte Omtrek Volume Parallellepipedum",
-      "en": "Sequence Evaluation Question 13 - Surface Area, Perimeter, Volume Parallellepiped"
+      "nl": "Sequentie Toetsvraag - Oppervlakte Omtrek Volume Parallellepipedum",
+      "en": "Sequence Evaluation Question - Surface Area, Perimeter, Volume Parallellepiped"
     }
   },
   "evaluation": {
