@@ -2,7 +2,8 @@
 Een parallellepipedum (probeer dat maar eens driemaal na elkaar uit te spreken) is een ruimtefiguur waarvan elk zijvlak opgebouwd is uit een parallellogram. 
 Via de figuur hieronder zie je drie gegeven afmetingen, A, B en C.
 
-<img src="https://github.com/RobbeW/computationeel_denken_python/blob/main/Hoofdstuk%201.1/Evaluatie/Toetsvraag%2013%20-%20Oppervlakte%20Omtrek%20Volume%20Parallellepipedum/description/parallellepipedum.png" width="50%"/>
+![De parallellepipedum met ABC-notaties.](media/parallellepipedum.png "De parallellepipedum met ABC-notaties"){:data-caption="De parallellepipedum met ABC-notaties" width="50%"}
+
 
 ## Gevraagd: 
 * Schrijf een programma dat `vraagt` naar de lengte van A, B en C; 
