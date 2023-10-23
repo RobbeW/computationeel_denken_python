@@ -7,6 +7,6 @@ Het volume van de parallellepipedum bedraagt 942.14 kubieke cm.
 tab name: Feedback
 python input without prompt: false
 block count: multi
-input block size: 1
+input block size: 3
 output block size: ends with
 comparison: exact match
