@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Sequentie Toetsvraag - Aparte cijfers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Python"
+  ],
+  "access": "public"
+}
