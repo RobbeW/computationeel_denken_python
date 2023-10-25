@@ -9,6 +9,5 @@ A = 2 * math.pi * r * h + 2 * math.pi * r**2
 V = math.pi * r**2 * h
 
 # Uitvoer verzorgen
-print()
 print("Oppervlakte:", round(A, 3), "cm²." )
 print("Volume:", round(V, 3), "cm³." )
