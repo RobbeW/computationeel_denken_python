@@ -6,14 +6,10 @@ Yassin zit in het tweede leerjaar. Hij leert over hondertallen, duizendtallen, e
 ## Gevraagd
 Schrijf een programma dat een geheel getal aan de gebruiker **vraagt** en vervolgens het cijfer van de honderdtallen, duizentallen, eenheden en tientallen op het scherm weergeeft.
 
-#### Voorbeelden
+#### Voorbeeld
 
-Bij de invoer:
-```
-Voer het getal in: 4761
-```
+Voor het getal `4761` verschijnt er:
 
-verschijnt er:
 ```
 Duizendtallen = 4
 Honderdtallen = 7

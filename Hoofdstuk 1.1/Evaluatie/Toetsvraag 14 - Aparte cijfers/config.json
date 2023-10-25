@@ -8,7 +8,8 @@
     "pythia_judge": "output"
   },
   "labels": [
-    "Python"
+    "python",
+    "modulo"
   ],
   "access": "public"
 }
