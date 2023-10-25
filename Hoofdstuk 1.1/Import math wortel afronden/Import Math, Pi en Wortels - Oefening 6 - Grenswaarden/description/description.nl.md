@@ -22,8 +22,11 @@ Voor de invoer `-5.2` verschijnt:
 -6 ≤ -5.2 < -5
 ```
 
-
 Voor de invoer `1.0` verschijnt:
 ```
 1 ≤ 1.0 < 2
 ```
+
+{: .callout.callout-info}
+>#### Tip
+> Kopieer het symbool van kleiner dan of gelijk aan ≤.
