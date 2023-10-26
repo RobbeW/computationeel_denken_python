@@ -33,6 +33,9 @@ cases = [(4.7,),(-5.2,),(1.0,)]
 while len(cases) < ntests:
     cases.append( tuple(round(random.uniform(-10,10),1) for _ in range(1)) ) 
 
+for i in range(17):
+    cases.append( (1-1/10**i,))
+
 # configure test files
 infile = open(os.path.join(evaldir, '0.in'), 'w')
 outfile = open(os.path.join(evaldir, '0.out'), 'w')
