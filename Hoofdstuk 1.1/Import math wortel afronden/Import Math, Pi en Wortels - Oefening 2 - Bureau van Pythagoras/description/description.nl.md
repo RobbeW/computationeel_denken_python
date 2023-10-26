@@ -21,6 +21,8 @@ Hieronder zie je een figuur die stelling beter illustreert, er geldt in deze fig
 De lengte van de schuine zijde is ... cm.
 ```
 
+**Rond** hierbij **af** op 2 cijfers na de komma.
+
 ## Invoer
 Mogelijk invoer kan zijn:
 
