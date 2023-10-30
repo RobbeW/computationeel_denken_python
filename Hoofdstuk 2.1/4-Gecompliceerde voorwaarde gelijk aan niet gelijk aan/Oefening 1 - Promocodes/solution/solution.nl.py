@@ -6,7 +6,7 @@ kortingscode = input("Voer de kortingscode in (indien van toepassing): ")
 if kortingscode == "november10":
     bestelde_bedrag *= ( 1 - 0.10 )
 elif kortingscode == "Twitch20":
-    bestelde_bedrag *= ( 1 - 0.20 )
+    bestelde_bedrag *= ( 1 - 0.20)
 
 # Pas de korting toe en voeg de leveringskosten toe
 te_betalen_bedrag = round( bestelde_bedrag + 4.80, 2 )

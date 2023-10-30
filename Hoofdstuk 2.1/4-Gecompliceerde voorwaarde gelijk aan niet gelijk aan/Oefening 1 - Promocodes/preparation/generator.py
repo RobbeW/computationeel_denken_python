@@ -29,11 +29,11 @@ comparison: exact match
 
 # generate test data
 ntests= 20
-kortingscodes = ["Twitch20", "november10",""]
+kortingscodes = ["Twitch20", "november10"," "]
 cases = [(50, "Twitch20"), (33.0, "november10")]
 while len(cases) < ntests:
     code = random.choices(kortingscodes, weights=[1,1,3])
-    case = (round(random.uniform(15,80), 1) +random.randint(0,1)*0.05, code)
+    case = (round(round(random.uniform(15,80), 1) +random.randint(0,1)*0.05, 2), code[0])
     cases.append(case)
 
 
