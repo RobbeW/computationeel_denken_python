@@ -5,7 +5,6 @@ bestelde_bedrag = float(input("Voer het aankoopbedrag in: "))
 if bestelde_bedrag >= 100:
     bestelde_bedrag *= 0.9
     print("Je krijgt 10% korting.")
-    print("Je krijgt gratis verzending.")
 
 # Bepaal of de gebruiker gratis verzending krijgt
 if bestelde_bedrag < 20:
