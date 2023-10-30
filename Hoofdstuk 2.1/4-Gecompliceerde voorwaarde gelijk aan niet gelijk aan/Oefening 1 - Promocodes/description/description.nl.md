@@ -8,7 +8,7 @@ Schrijf een programma dat vraagt naar het bestelde bedrag en een eventuele korti
 
 #### Voorbeeld
 ```
-Voer het bestelde bedrag in: 50.00
+Voer het bestelde bedrag in: 50.0
 Voer de kortingscode in (indien van toepassing): Twitch20
 ```
 
