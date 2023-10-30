@@ -17,5 +17,5 @@ Het grootste getal is 21.
 ```
 
 {: .callout.callout-info}
->## Tip
+>#### Tip
 > Gebruik `str( getal ) + '.'` om het punt aan een getal te concateneren.
