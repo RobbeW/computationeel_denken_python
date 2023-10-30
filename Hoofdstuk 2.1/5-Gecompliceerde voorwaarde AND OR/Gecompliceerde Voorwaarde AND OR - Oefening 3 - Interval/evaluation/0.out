@@ -1,2 +1,56 @@
-Voer een decimaal getal in: 
-Het getal ligt tussen 8 (inbegrepen) en 14 (niet inbegrepen).
+Het getal 10.5 behoort tot [8, 14[.
+
+Het getal 6.2  behoort niet tot [8, 14[.
+
+Het getal 4.0 behoort tot [4, 6[.
+
+Het getal 6.0  behoort niet tot [4, 6[.
+
+Het getal 29.7  behoort niet tot [15, 24[.
+
+Het getal 16.5 behoort tot [10, 25[.
+
+Het getal 23.1 behoort tot [13, 28[.
+
+Het getal 1.2 behoort tot [1, 10[.
+
+Het getal 24.9  behoort niet tot [20, 23[.
+
+Het getal 19.4 behoort tot [15, 25[.
+
+Het getal 11.9 behoort tot [3, 13[.
+
+Het getal 4.9 behoort tot [2, 30[.
+
+Het getal 15.8 behoort tot [14, 17[.
+
+Het getal 4.2  behoort niet tot [10, 25[.
+
+Het getal 18.9 behoort tot [15, 30[.
+
+Het getal 9.4 behoort tot [8, 30[.
+
+Het getal 21.8 behoort tot [18, 29[.
+
+Het getal 25.7 behoort tot [8, 30[.
+
+Het getal 15.9 behoort tot [5, 17[.
+
+Het getal 18.6 behoort tot [18, 24[.
+
+Het getal 4.9  behoort niet tot [13, 20[.
+
+Het getal 13.0  behoort niet tot [18, 25[.
+
+Het getal 15.2  behoort niet tot [18, 20[.
+
+Het getal 18.2 behoort tot [15, 25[.
+
+Het getal 14.9 behoort tot [13, 30[.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 3
+output block size: ends with
+comparison: exact match

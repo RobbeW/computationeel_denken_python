@@ -1,31 +1,22 @@
 ## Gegeven
-Een decimaal getal wordt ingelezen.
+Een halfopen interval [a,b[ en een decimaal getal c worden ingelezen.
 
 ## Gevraagd
-* Schrijf een programma dat vraagt naar een decimaal getal `(== input-functie)`;
-* Controleer of het ingelezen getal tussen 8 (inbegrepen) en 14 (niet inbegrepen) ligt;
-* `Print` op het scherm of het getal binnen de gegeven grenzen ligt of nie
+Schrijf een programma dat vraagt naar de getallen a, b en c. Daarna wordt gecontroleerd of het getal c tot het interval [a,b[ behoort. Dit wordt vervolgens op het scherm weergegeven.
 
-## Invoer
+#### Voorbeeld
+Bij de invoer
 ```
+Voer een ondergrens in: 8
+Voer een bovengrens in: 14
 Voer een decimaal getal in: 10.5
-
 ```
 
-## Uitvoer
+verschijnt er:
 ```
-Het getal ligt tussen 8 (inbegrepen) en 14 (niet inbegrepen).
-
-```
-of 
-```
-Het getal ligt niet tussen 8 (inbegrepen) en 14 (niet inbegrepen).
-
+Het getal 10.5 behoort tot [8, 14[.
 ```
 
-{: .callout.callout-success}
->## Tips
->* Gebruik de `input()-functie` om de gebruiker naar een decimaal getal te vragen. 
->* Vergeet niet om de input om te zetten naar een `float`.
->* Gebruik een voorwaardelijke uitspraak (`if`, `else`) om te bepalen of het ingelezen getal tussen 8 (inbegrepen) en 14 (niet inbegrepen) ligt.
->* `Print` de uitkomst naar het scherm met behulp van de `print()-functie`.
+{: .callout.callout-info}
+>#### Tip
+> Vorm de getallen om naar tekst via `str(a)`, waarna je de tekst kan concateneren door middel van `+`.
