@@ -7,18 +7,18 @@ totale_aankoop = aantal_normaal * 12.80 + aantal_large * 16.80
 
 # Bepaal de toegepaste korting op basis van het aankoopbedrag
 if totale_aankoop > 55:
-    korting = 30
+    korting = 0.3
 elif totale_aankoop > 40:
-    korting = 20
+    korting = 0.2
 elif totale_aankoop > 30:
-    korting = 12
+    korting = 0.12
 elif totale_aankoop > 25:
-    korting = 8
+    korting = 0.8
 else:
     korting = 0
 
 # Bereken de te betalen prijs na korting
-prijs_na_korting = totale_aankoop * (1 - korting / 100)
+prijs_na_korting = totale_aankoop * (1 - korting)
 
 # Print de te betalen prijs op het scherm
 print(f"De te betalen prijs na korting is {prijs_na_korting:.2f} euro.")

@@ -1,3 +1,36 @@
-Voer het aantal normale pizza's in: 
-Voer het aantal large pizza's in: 
 De te betalen prijs na korting is 33.92 euro.
+
+De te betalen prijs na korting is 41.44 euro.
+
+De te betalen prijs na korting is 62.16 euro.
+
+De te betalen prijs na korting is 16.80 euro.
+
+De te betalen prijs na korting is 12.80 euro.
+
+De te betalen prijs na korting is 133.28 euro.
+
+De te betalen prijs na korting is 118.16 euro.
+
+De te betalen prijs na korting is 112.56 euro.
+
+De te betalen prijs na korting is 136.08 euro.
+
+De te betalen prijs na korting is 33.79 euro.
+
+De te betalen prijs na korting is 59.36 euro.
+
+De te betalen prijs na korting is 29.57 euro.
+
+De te betalen prijs na korting is 127.12 euro.
+
+De te betalen prijs na korting is 47.60 euro.
+
+De te betalen prijs na korting is 94.64 euro.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: ends with
+comparison: exact match

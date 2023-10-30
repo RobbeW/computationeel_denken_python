@@ -4,41 +4,28 @@ In een (meeneem)pizzarestaurant hebben ze deze maand een speciale promotiecampag
 
 Normale prijslijst:
 
-* pizza normaal: 12.80 euro
-* pizza large: 16.80 euro
+* pizza normaal: € 12,80
+* pizza large: € 16,80
 
 Kortingen:
 
-* Bij een aankoopbedrag hoger dan 25 euro krijg je 8% korting.
-* Bij een aankoopbedrag hoger dan 30 euro krijg je 12% korting.
-* Bij een aankoopbedrag hoger dan 40 euro krijg je 20% korting.
-* Bij een aankoopbedrag hoger dan 55 euro krijg je 30% korting.
+* Bij een totaal aankoopbedrag hoger dan € 25 krijg je 8% korting.
+* Bij een totaal aankoopbedrag hoger dan € 30 krijg je 12% korting.
+* Bij een totaal aankoopbedrag hoger dan € 40 krijg je 20% korting.
+* Bij een totaal aankoopbedrag hoger dan € 55 krijg je 30% korting.
 
+![mmm, pizza.](media/brenna-huff.jpg "Foto door Brenna Huff op Unsplash."){:data-caption="mmm, pizza." width="40%"}
 
 ## Gevraagd
-* Schrijf een programma dat vraagt naar het aantal normale en large pizza's (== input-functie);
-* Bereken het totale aankoopbedrag;
-* Bepaal de toegepaste korting op basis van het aankoopbedrag;
-* Bereken de te betalen prijs na korting;
-* Print de te betalen prijs op het scherm.
+Schrijf een programma dat achtereenvolgens vraagt naar het **aantal** **normale** en *large pizza's*. Bereken daarna de totale kostprijs en geef dit weer op het scherm.
 
-## Invoer
+#### Voorbeeld
 ```
 Voer het aantal normale pizza's in: 2
 Voer het aantal large pizza's in: 1
 ```
 
-## Uitvoer
+Leidt tot:
 ```
-De te betalen prijs na korting is ... euro.
-
+De te betalen prijs na korting is 33.92 euro.
 ```
-
-{: .callout.callout-success}
->## Tips
->* Gebruik de `input()-functie` om de gebruiker naar het aantal normale en large pizza's te vragen. 
->* Vergeet niet om de input om te zetten naar een `int`.
->* Bereken het `totale aankoopbedrag` door de prijs per pizza te vermenigvuldigen met het aantal bestelde pizza's.
->* Gebruik voorwaardelijke uitspraken `(if, elif, else)` om de juiste korting op basis van het aankoopbedrag te bepalen.
->* Bereken de te betalen prijs na korting door het aankoopbedrag te verminderen met de toegepaste korting.
->* `Print` de berekende te betalen prijs na korting naar het scherm met behulp van de `print()-functie`.
