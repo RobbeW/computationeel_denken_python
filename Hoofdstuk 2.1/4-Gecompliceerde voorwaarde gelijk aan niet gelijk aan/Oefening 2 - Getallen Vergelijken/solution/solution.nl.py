@@ -8,7 +8,7 @@ if eerste_getal == tweede_getal:
 # Als ze niet gelijk zijn, controleer welk getal groter is
 elif eerste_getal > tweede_getal:
     print("De getallen zijn ongelijk.")
-    print("Het grootste getal is", eerste_getal, ".")
+    print("Het grootste getal is", str(eerste_getal) + ".")
 else:
     print("De getallen zijn ongelijk.")
-    print("Het grootste getal is", tweede_getal, ".")
+    print("Het grootste getal is", str(tweede_getal) + ".")
