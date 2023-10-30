@@ -19,4 +19,4 @@ Het getal 10.5 behoort tot [8, 14[.
 
 {: .callout.callout-info}
 >#### Tip
-> Vorm de getallen om naar tekst via `str(a)`, waarna je de tekst kan concateneren door middel van `+`.
+> Vorm de getallen om naar tekst via `str( a )`, waarna je de tekst kan concateneren door middel van `+`.
