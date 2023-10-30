@@ -14,10 +14,10 @@ Kortingen:
 * Bij een totaal aankoopbedrag hoger dan € 40 krijg je 20% korting.
 * Bij een totaal aankoopbedrag hoger dan € 55 krijg je 30% korting.
 
-![mmm, pizza.](media/brenna-huff.jpg "Foto door Brenna Huff op Unsplash."){:data-caption="mmm, pizza." width="40%"}
+![mmm, pizza.](media/giorgio-trovato.jpg "Foto door Giorgio Trovato op Unsplash."){:data-caption="mmm, pizza." width="40%"}
 
 ## Gevraagd
-Schrijf een programma dat achtereenvolgens vraagt naar het **aantal** **normale** en *large pizza's*. Bereken daarna de totale kostprijs en geef dit weer op het scherm.
+Schrijf een programma dat achtereenvolgens vraagt naar het **aantal** **normale** en *large pizza's*. Bereken daarna de totale kostprijs en geef dit weer op het scherm. **Rond af** op 2 cijfers na de komma.
 
 #### Voorbeeld
 ```
