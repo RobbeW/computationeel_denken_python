@@ -8,7 +8,7 @@ if leeftijd <= 26:
     print(f"Hallo, {naam}. Je hebt gratis toegang tot het museum.")
 elif leeftijd >= 65:
     toegangsprijs = 5
-    print(f"Hallo, {naam}. Je moet {toegangsprijs} euro betalen voor de toegang tot het museum.")
+    print(f"Hallo, {naam}. Je moet € {toegangsprijs} betalen voor de toegang tot het museum.")
 else:
     toegangsprijs = 9
-    print(f"Hallo, {naam}. Je moet {toegangsprijs} euro betalen voor de toegang tot het museum.")
+    print(f"Hallo, {naam}. Je moet € {toegangsprijs} betalen voor de toegang tot het museum.")
