@@ -2,7 +2,8 @@ Een cilinder is een meetkundig lichaam met een cirkelvormig grondvlak en evenwij
 
 ![Enkele cilinders.](media/jessica-lewis.jpg "Foto door Jessica Lewis op Unsplash."){:data-caption="Enkele cilinders." width="40%"}
 
-## Opgave
+## Gevraagd
+
 Schrijf een programma dat in **volgorde** de straal en de hoogte inleest en nadien de oppervlakte en het volume uitrekent. Je rondt hierbij af op 3 cijfers na de komma.
 
 #### Voorbeeld
