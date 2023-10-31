@@ -5,4 +5,4 @@ jaartal = int( input( 'Geef het jaartal in:' ) )
 eeuw = jaartal // 100 + 1
 
 # Weergeven op het scherm
-print( eeuw, 'e eeuw')
+print( str(eeuw) + 'e eeuw')

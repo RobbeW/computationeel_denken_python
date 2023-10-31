@@ -15,10 +15,10 @@ Schrijf een programma dat vertelt tot welke eeuw een jaartal behoort.
 #### Voorbeeld
 De invoer `1699` leidt tot uitvoer:
 ```
-17 e eeuw
+17e eeuw
 ```
 
 En bij invoer `1700` verschijnt er:
 ```
-18 e eeuw
+18e eeuw
 ```
