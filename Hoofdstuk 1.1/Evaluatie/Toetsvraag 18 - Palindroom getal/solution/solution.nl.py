@@ -9,5 +9,4 @@ E = getal % 10
 palindroomgetal = getal * 10**3 + E * 10**2 + T * 10 + H
 
 # Weergeven op het scherm
-print()
 print( palindroomgetal, 'is een palindroomgetal.' )
