@@ -18,7 +18,8 @@ else:
     korting = 0
 
 # Bereken de te betalen prijs na korting
-prijs_na_korting = totale_aankoop * (1 - korting)
+prijs_na_korting = round(totale_aankoop * (1 - korting), 2)
 
 # Print de te betalen prijs op het scherm
-print(f"De te betalen prijs na korting is {prijs_na_korting:.2f} euro.")
+print()
+print("De te betalen prijs na korting is", prijs_na_korting, "euro.")
