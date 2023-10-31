@@ -8,7 +8,8 @@
     "pythia_judge": "output"
   },
   "labels": [
-    "python"
+    "python",
+    "import math"
   ],
   "access": "public",
   "internals": {
