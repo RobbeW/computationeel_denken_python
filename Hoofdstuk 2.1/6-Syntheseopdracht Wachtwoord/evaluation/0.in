@@ -6,3 +6,8 @@ johndoe
 wachtwoord123
 admin
 root
+------------------------------
+<DEFINITION>
+def versleutel( wachtwoord ):
+    return "123"
+</DEFINITION>
