@@ -13,6 +13,6 @@ input block size: 2
 output block size: ends with
 comparison: exact match
 <DEFINITION>
-def hash(wachtwoord):
+def versleutel( wachtwoord ):
     return "123"
 </DEFINITION>
