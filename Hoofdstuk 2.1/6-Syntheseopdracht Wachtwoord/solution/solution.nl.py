@@ -7,6 +7,7 @@ ingevoerde_gebruikersnaam = input("Voer uw gebruikersnaam in: ")
 ingevoerde_wachtwoord = input("Voer uw wachtwoord in: ")
 
 # Controleer de invoer
+print()
 if ingevoerde_gebruikersnaam == correcte_gebruikersnaam and ingevoerde_wachtwoord == correct_wachtwoord:
     print("Toegang verleend")
 elif ingevoerde_gebruikersnaam == correcte_gebruikersnaam and ingevoerde_wachtwoord != correct_wachtwoord:

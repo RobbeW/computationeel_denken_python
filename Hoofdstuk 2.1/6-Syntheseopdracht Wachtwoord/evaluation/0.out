@@ -1,3 +1,18 @@
-Voer uw gebruikersnaam in: 
-Voer uw wachtwoord in: 
 Toegang verleend
+
+Incorrect wachtwoord
+
+Incorrecte gebruikersnaam
+
+Incorrecte gebruikersnaam en wachtwoord
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: ends with
+comparison: exact match
+<DEFINITION>
+def hash(wachtwoord):
+    return "123"
+</DEFINITION>
