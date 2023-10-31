@@ -1,13 +1,14 @@
 janedoe
+probeersel
+janedoe
+wachtwoord12
+janedoe
 wachtwoord123
+janedoe
+Wachtwoord123
 janedoe
 Password
 johndoe
 wachtwoord123
 admin
 root
-------------------------------
-<DEFINITION>
-def versleutel( wachtwoord ):
-    return "123"
-</DEFINITION>

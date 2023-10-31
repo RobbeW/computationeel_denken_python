@@ -20,21 +20,19 @@ Indien het versleutelingsmechanisme wel goed is, dan werkt een loginprocedure *(
 - Vergelijk daarna beide versleutelde wachtwoorden.
 
 ## Gevraagd
-Schrijf een programma dat vraagt naar de gebruikersnaam en het wachtwoord `(== input-functie)`;
-Controleer of de ingevoerde `gebruikersnaam` en `wachtwoord` juist zijn;
+Schrijf een programma dat vraagt naar de gebruikersnaam en het wachtwoord en controleer vervolgens of dit overeenkomt met de gegevens van gebruiker `janedoe`. Er werd onderaan een eenvoudig versleutelingalgoritme gegeven, je kan dit gebruiken via `versleutel( wachtwoord )`. Het resultaat van deze (eigen functie) is een **versleutelde** versie van de variabele `wachtwoord`.
+
 Print een van de volgende berichten af:
-* 'Toegang verleend' als de `gebruikersnaam` **en** het `wachtwoord` correct zijn;
-* 'Incorrect wachtwoord' als alleen het `wachtwoord` foutief is;
-* 'Incorrecte gebruikersnaam' als alleen de `gebruikersnaam` foutief is;
-* 'Incorrecte gebruikersnaam en wachtwoord' als zowel de `gebruikersnaam` als het `wachtwoord` foutief zijn.
+- 'Incorrecte gebruikersnaam' als de `gebruikersnaam` foutief is;
+- 'Toegang verleend' als de `gebruikersnaam` **en** het `wachtwoord` correct zijn;
+- 'Incorrect wachtwoord' als alleen het `wachtwoord` foutief is;
 
-
-## Invoer
+#### Voorbeeld
 ```
 Voer uw gebruikersnaam in: janedoe
-Voer uw wachtwoord in: wachtwoord123
+Voer uw wachtwoord in: probeersel
 ```
-## Uitvoer
+leidt tot de uitvoer:
 ```
-Toegang verleend
+Incorrect wachtwoord
 ```

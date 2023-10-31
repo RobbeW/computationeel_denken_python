@@ -1,15 +1,17 @@
+Incorrect wachtwoord
+
+Incorrect wachtwoord
+
 Toegang verleend
+
+Incorrect wachtwoord
 
 Incorrect wachtwoord
 
 Incorrecte gebruikersnaam
 
-Incorrecte gebruikersnaam en wachtwoord
+Incorrecte gebruikersnaam
 -----------------------------------------
-<DEFINITION>
-def versleutel( wachtwoord ):
-    return "123"
-</DEFINITION>
 tab name: Feedback
 python input without prompt: true
 block count: multi

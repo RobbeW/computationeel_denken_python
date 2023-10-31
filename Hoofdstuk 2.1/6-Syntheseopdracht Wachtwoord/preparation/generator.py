@@ -29,7 +29,8 @@ comparison: exact match
 
 # generate test data
 ntests= 25
-cases = [("janedoe", "wachtwoord123"), ("janedoe", "Password"), ("johndoe","wachtwoord123"), ("admin", "root")]
+cases = [("janedoe", "probeersel"), ("janedoe", "wachtwoord12"), ("janedoe", "wachtwoord123"), 
+         ("janedoe", "Wachtwoord123"), ("janedoe", "Password"), ("johndoe","wachtwoord123"), ("admin", "root")]
 
 
 # configure test files
