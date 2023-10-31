@@ -5,7 +5,7 @@
   - stdin: "81\n76"
     stdout: 'Beoordeling: oké'
   - stdin: "33\n48"
-    stdout: 'Beoordeling: één tekort'
+    stdout: 'Beoordeling: niet oké'
   - stdin: "50\n53"
     stdout: 'Beoordeling: oké'
   - stdin: "50\n50"
@@ -49,7 +49,7 @@
   - stdin: "11\n36"
     stdout: 'Beoordeling: niet oké'
   - stdin: "40\n48"
-    stdout: 'Beoordeling: één tekort'
+    stdout: 'Beoordeling: niet oké'
   - stdin: "85\n99"
     stdout: 'Beoordeling: oké'
   - stdin: "5\n1"
