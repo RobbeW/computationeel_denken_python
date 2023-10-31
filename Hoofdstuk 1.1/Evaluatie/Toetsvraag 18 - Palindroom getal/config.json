@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Sequentie Toetsvraag - Palindroom"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "modulo"
+  ],
+  "access": "public"
+}
