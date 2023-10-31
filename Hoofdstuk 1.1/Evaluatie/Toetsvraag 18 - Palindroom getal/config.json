@@ -11,5 +11,9 @@
     "python",
     "modulo"
   ],
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "5X8mCIjrp7KsZekyTnqEAPKSCm5un4h7etTi2J8WX5UiTGTxrzRihVZUt4-6wGzF",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
