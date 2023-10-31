@@ -1,0 +1,62 @@
+- tab: Feedback
+  testcases:
+  - stdin: "55\n48"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "81\n76"
+    stdout: 'Beoordeling: oké'
+  - stdin: "33\n48"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "50\n53"
+    stdout: 'Beoordeling: oké'
+  - stdin: "50\n50"
+    stdout: 'Beoordeling: oké'
+  - stdin: "50\n49"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "82\n56"
+    stdout: 'Beoordeling: oké'
+  - stdin: "69\n90"
+    stdout: 'Beoordeling: oké'
+  - stdin: "77\n50"
+    stdout: 'Beoordeling: oké'
+  - stdin: "38\n88"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "59\n50"
+    stdout: 'Beoordeling: oké'
+  - stdin: "68\n44"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "51\n56"
+    stdout: 'Beoordeling: oké'
+  - stdin: "69\n88"
+    stdout: 'Beoordeling: oké'
+  - stdin: "26\n86"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "76\n3"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "34\n78"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "23\n3"
+    stdout: 'Beoordeling: niet oké'
+  - stdin: "94\n79"
+    stdout: 'Beoordeling: oké'
+  - stdin: "18\n94"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "40\n86"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "59\n75"
+    stdout: 'Beoordeling: oké'
+  - stdin: "38\n81"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "11\n36"
+    stdout: 'Beoordeling: niet oké'
+  - stdin: "40\n48"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "85\n99"
+    stdout: 'Beoordeling: oké'
+  - stdin: "5\n1"
+    stdout: 'Beoordeling: niet oké'
+  - stdin: "13\n83"
+    stdout: 'Beoordeling: één tekort'
+  - stdin: "52\n71"
+    stdout: 'Beoordeling: oké'
+  - stdin: "8\n2"
+    stdout: 'Beoordeling: niet oké'

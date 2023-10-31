@@ -9,7 +9,12 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "TESTed",
+    "test_suite": "tests.yaml",
+    "options": {
+      "mode": "batch",
+      "allow_fallback": true
+    }
   },
   "labels": [
     "python",
