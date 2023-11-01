@@ -17,5 +17,9 @@
     "Vlaamse Programmeerwedstrijd",
     "Editie 2021"
   ],
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "nWGPt9_BVzBHuPf9f9QIdTcUThT7d-N4T44wUdcMNw-YEpawAbuAv_3SPaVPRsmQ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
