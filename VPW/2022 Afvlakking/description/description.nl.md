@@ -4,11 +4,13 @@ Je krijgt een figuur zoals hieronder: van links naar rechts gezien gaat het zwar
 Gevraagd: wat is het minimaal aantal vakjes dat zwart gekleurd moet worden om dat te bekomen?
 
 ![Opgave.](media/image-0.png "Opgave."){:data-caption="Opgave." .light-only width="30%"}
+
 ![Opgave.](media/image_dark-0.png "Opgave."){:data-caption="Opgave." .dark-only width="30%"}
 
 Deze figuur laat zien - met de groene vakjes - dat 6 vakjes volstaan: meer is niet nodig.
 
 ![Oplossing.](media/image-1.png "Oplossing."){:data-caption="Oplossing." .light-only width="30%"}
+
 ![Oplossing.](media/image_dark-1.png "Oplossing."){:data-caption="Oplossing." .dark-only width="30%"}
 
 #### Voorbeeld
