@@ -17,5 +17,9 @@
     "Vlaamse Programmeerwedstrijd",
     "Editie 2022"
   ],
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "WRWvKE9H7Qsj6DCuxhFV9_gVcmHsyktv9hSgSNSmHRYSr7PRgWzHCUgrTaFQwV7S",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
