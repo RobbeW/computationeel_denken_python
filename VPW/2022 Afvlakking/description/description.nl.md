@@ -15,11 +15,11 @@ Deze figuur laat zien - met de groene vakjes - dat 6 vakjes volstaan: meer is ni
 
 #### Voorbeeld
 
-De eerste regel van de invoer bevat het aantal testgevallen. Per testgeval volgt dan  één regel met een aantal natuurlijke getallen, van elkaar gescheiden door één enkele spatie. Het eerste getal op elke regel geeft aan hoeveel getallen er nog volgen. De volgende getallen geven de hoogte aan van de zwarte balken. De getallen overeenkomend met het voorbeeld hiervoor zijn
+De eerste regel van de invoer bevat het aantal testgevallen. Per testgeval volgt dan één regel met een aantal natuurlijke getallen, van elkaar gescheiden door één enkele spatie. Het eerste getal op elke regel geeft aan hoeveel getallen er nog volgen. De volgende getallen geven de hoogte aan van de balken. De getallen overeenkomend met het voorbeeld hiervoor zijn
 
 $$ \mathsf{8 \quad 1 \quad 4 \quad 3 \quad 2 \quad 5 \quad 3 \quad 6 \quad 5} $$
 
-omdat er 8 zwarte balken zijn, waarvan de eerste hoogte 1 heeft, de tweede hoogte 4, de derde hoogte 3, enzovoort.
+omdat er 8 balken zijn, waarvan de eerste hoogte 1 heeft, de tweede hoogte 4, de derde hoogte 3, enzovoort.
 
 ```
 3
