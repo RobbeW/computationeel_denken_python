@@ -3,7 +3,7 @@ Tekstverwerkers hebben een algoritme nodig om een alinea's tekst op te splitsen 
 Er bestaan verschillende algoritmen om dit te realiseren en in het algemeen geven die aanleiding tot alinea's die er verschillend uitzien. Meestal wenst men een opsplitsing die niet al te "rafelig" is, d.w.z. dat alle regels zo goed als mogelijk de maximale lengte benutten. Een manier om de "rafeligheid" te kwantificeren is d.m.v. de som van de kwadraten van de verschillen tussen de maximaal toegelaten lengte en de effectieve lengte van de verschillende regels. In formulevorm wordt dit:
 
 $$
-\sum_{i=1}^{\text{aantal regels}}( \text{maximale lengte} - \text{lengte regel }i)^2
+\mathsf{ \sum_{i=1}^{\text{aantal regels}}( \text{maximale lengte} - \text{lengte regel }i)^2 }
 $$
 
 Een eenvoudig algoritme om een opsplitsing van een alinea te maken is het volgende: maak telkens regels die zo lang mogelijk zijn, d.w.z. dat wanneer een woord nog volledig op een regel past, dit woord dan op die regel geplaatst wordt. Het is pas wanneer een woord niet meer op de huidige regel past dat een nieuwe regel wordt begonnen. Omdat dit algoritme geen rekening houdt met de woorden die nog komen noemen we dit een gulzig algoritme.
@@ -20,7 +20,7 @@ makkie
 De rafeligheid van deze alinea is:
 
 $$
-(7 − 6)^2 + (7 − 3)^2 + (7 − 6)^2 = 1 + 16 + 1 = 18.
+\mathsf{(7 − 6)^2 + (7 − 3)^2 + (7 − 6)^2 = 1 + 16 + 1 = 18}
 $$
 
 ## Opgave

@@ -1,7 +1,7 @@
 ## Opgave
 
-Je krijgt een figuur zoals hieronder: van links naar rechts gezien gaat het zwart op en neer. Het doel is een figuur te bekomen die (ook weer van links naar rechts gezien) niet meer daalt, dus enkel stijgt of gelijk blijft. 
-Gevraagd: wat is het minimaal aantal vakjes dat zwart gekleurd moet worden om dat te bekomen?
+Je krijgt een figuur zoals hieronder: van links naar rechts gezien gaat het op en neer. Het doel is een figuur te bekomen die (ook weer van links naar rechts gezien) niet meer daalt, dus enkel stijgt of gelijk blijft. 
+Gevraagd: wat is het minimaal aantal vakjes dat gekleurd moet worden om dat te bekomen?
 
 ![Opgave.](media/image-0.png "Opgave."){:data-caption="Opgave." .light-only width="30%"}
 
