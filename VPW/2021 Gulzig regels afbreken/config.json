@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "description": {
+    "names": {
+      "nl": "Gulzig regels afbreken"
+    }
+  },
+  "evaluation": {
+    "handler": "TESTed",
+    "test_suite": "tests.yaml",
+    "options": {
+      "mode": "batch",
+      "allow_fallback": true
+    }
+  },
+  "labels": [
+    "Vlaamse Programmeerwedstrijd",
+    "Editie 2021"
+  ],
+  "access": "public"
+}
