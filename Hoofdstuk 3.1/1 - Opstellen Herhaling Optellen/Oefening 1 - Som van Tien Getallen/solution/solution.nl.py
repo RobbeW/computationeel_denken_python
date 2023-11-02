@@ -7,5 +7,4 @@ for i in range(10):
     som += getal  # voeg het ingevoerde getal toe aan de som
 
 # print de som van de getallen
-print()
-print("De som van de getallen is", som)
+print("De som van de getallen is", str(som)+".")
