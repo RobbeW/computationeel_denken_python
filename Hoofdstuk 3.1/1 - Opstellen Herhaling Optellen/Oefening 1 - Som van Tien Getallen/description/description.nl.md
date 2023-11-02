@@ -9,6 +9,6 @@ De som van deze getallen is 110.
 ```
 
 {: .callout.callout-info}
->## Tips
+>#### Tips
 >- Gebruik een `for`-lus in combinatie met de `range()`-functie om de gebruiker tien keer om een getal te vragen.
 >- Bereken de **som** van de getallen door telkens het ingevoerde getal bij de som op te tellen.
