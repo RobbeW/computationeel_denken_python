@@ -1,33 +1,28 @@
 ## Gegeven
-Het Grieks vierkant is een vierkant bestaande uit vier identieke kleinere vierkanten. De oppervlakte van elk kleiner vierkant is een vierde van het omliggende vierkant. 
+Plato bestudeerde vierkanten opgebouwd uit vier identieke kleinere vierkanten. De oppervlakte van elk kleiner vierkant is een vierde van het omliggende vierkant. 
 
-Het grootste vierkant heeft een oppervlakte van 144 vierkante meter. 
+![De vierkanten van Plato.](media/image.png "De vierkanten van Plato.."){:data-caption="De vierkanten van Plato." .light-only width="30%"}
+
+![De vierkanten van Plato.](media/image_dark.png "De vierkanten van Plato."){:data-caption="De vierkanten van Plato." .dark-only width="30%"}
 
 
 ## Gevraagd
-Schrijf een programma dat de `oppervlakte` en de `lengte van de zijde` van elkeen van de vier vierkanten berekent. 
+Schrijf een programma dat de oppervlakte van het grootste vierkant vraagt en vervolgens de zijden van de kleiner wordende vierkanten berekent.
 
-## Invoer
+#### Voorbeeld
+Indien het grootste vierkant een oppervlakte van `144` m² heeft, dan verschijnt er
 ```
-De oppervlakte, in vierkante meter, van vierkant 1 is: 144
-
-```
-
-## Uitvoer
-```
-De lengte van de zijde van vierkant 1 is ... meter.
-De oppervlakte van vierkant 2 ... vierkante meter.
-De lengte van de zijde van vierkant 2 is ... meter.
-De oppervlakte van vierkant 3 ... vierkante meter.
-De lengte van de zijde van vierkant 3 is ... meter.
-De oppervlakte van vierkant 4 ... vierkante meter.
-De lengte van de zijde van vierkant 4 is ... meter.
-
+De lengte van de zijde van vierkant 1 is 12.0 m.
+De oppervlakte van vierkant 2 is 36.0 m².
+De lengte van de zijde van vierkant 2 is 6.0 m.
+De oppervlakte van vierkant 3 is 9.0 m².
+De lengte van de zijde van vierkant 3 is 3.0 m.
+De oppervlakte van vierkant 4 is 2.25 m².
+De lengte van de zijde van vierkant 4 is 1.5 m.
 ```
 
-{: .callout.callout-success}
->## Tips
->* De oppervlakte van elk kleiner vierkant kan worden berekend door de oppervlakte van het grote vierkant te delen door 4.
->* De lengte van de zijde van elk kleiner vierkant kan worden berekend door de **wortel** te nemen van de oppervlakte van het kleinere vierkant. 
->* Gebruik hiervoor de `math.sqrt()-functie` uit de `math module`. 
->* Vergeet niet om de math module eerst te importeren met `import math`.
+{: .callout.callout-info}
+>#### Tips
+> - Vergeet niet om de math module eerst te importeren met `import math`.
+> - De lengte van de zijde van elk kleiner vierkant kan worden berekend door de **wortel** te nemen van de oppervlakte van het kleinere vierkant. 
+
