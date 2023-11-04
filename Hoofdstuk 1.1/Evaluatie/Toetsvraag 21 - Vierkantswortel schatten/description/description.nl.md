@@ -14,7 +14,7 @@ Er is echter een methode om ook een vrij goede schatting te maken van het eerste
 - Bepaal tot slot het gemiddelde van $$\mathsf{b}$$ en $$\mathsf{c}$$ en rond af op één cijfer na de komma.
 
 
-Voor het voorbeeld met $$\mathsf{a = 32}$$, bekomen we dus $$\mathsf{b = 5}$$ en $$\mathsf{c = 6,4}$$. Het gemiddelde van deze getallen is $$\mathsf{5,7}$$. De vierkantswortel van $$\mathsf{32}$$ met het rekentoestel uitrekenen levert ongeveer $$\mathsf{5,656 854\ldots}$$ De schatting is dus zeer goed!
+Voor het voorbeeld met $$\mathsf{a = 32}$$, bekomen we dus $$\mathsf{b = 5}$$ en $$\mathsf{c = 6,4}$$. Het gemiddelde van deze getallen is $$\mathsf{5,7}$$. De vierkantswortel van $$\mathsf{32}$$ met het rekentoestel uitrekenen levert ongeveer $$\mathsf{5,656\,854\ldots}$$ De schatting is dus zeer goed!
 
 ## Gevraagd
 Schrijf een programma dat een natuurlijk getal aan de gebruiker vraagt en vervolgens via bovenstaande werkwijze een schatting bepaalt. Daarna wordt de schatting vergeleken met een nauwkeurige berekening (op 3 cijfers nauwkeurig).
