@@ -7,7 +7,7 @@ De tafels van vermenigvuldiging worden van in de lagere school goed geoefend.
 - Schrijf een programma dat een geheel getal aan de gebruiker vraagt en vervolgens de tafels (tot 10 x) op het scherm weergeeft.
 - Elk resultaat moet op een nieuwe regel verschijnen.
 
-## Uitvoer
+#### Voorbeeld
 Bij invoer `7` verschijnt er:
 ```
 1 x 7 = 7
