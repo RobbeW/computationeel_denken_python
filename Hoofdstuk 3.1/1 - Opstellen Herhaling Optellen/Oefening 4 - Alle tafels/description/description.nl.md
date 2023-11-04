@@ -1,10 +1,9 @@
 ## Gevraagd
 Schrijf een programma dat **de tien eerste** tafels van vermenigvuldiging op het scherm weergeeft.
 
-
 #### Voorbeeld
 
-Er verschijnt
+Er verschijnt dus:
 ```
 Tafel van 1 :
 1 x 1 = 1
@@ -19,7 +18,6 @@ Tafel van 2 :
 2 x 10 = 20
 
 ...
-enz...
 ...
 
 Tafel van 10 :
@@ -31,6 +29,6 @@ Tafel van 10 :
 
 {: .callout.callout-info}
 >#### Tips: 
->- Gebruik twee geneste for-lussen om de tafels van vermenigvuldiging te genereren. 
+>- Gebruik **twee** geneste `for`-lussen om de tafels van vermenigvuldiging te genereren. 
 >- De **buitenste** lus gaat van 1 tot 10 en vertegenwoordigt **de tafel** die wordt geprint. 
 >- De **binnenste** lus gaat ook van 1 tot 10 en vertegenwoordigt de **vermenigvuldigen**.
