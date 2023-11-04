@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Tafels van Vermenigvuldiging",
-      "en": "For i in Range - Tables of Multiplication"
+      "nl": "Begrensde Herhaling - Alle tafels"
     }
   },
   "evaluation": {
