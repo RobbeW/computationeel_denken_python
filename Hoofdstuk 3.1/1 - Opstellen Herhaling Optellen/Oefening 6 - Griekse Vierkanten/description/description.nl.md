@@ -7,7 +7,7 @@ Plato bestudeerde vierkanten opgebouwd uit vier identieke kleinere vierkanten. D
 
 
 ## Gevraagd
-Schrijf een programma dat de oppervlakte van het grootste vierkant vraagt en vervolgens de zijden van de kleiner wordende vierkanten berekent.
+Schrijf een programma dat de oppervlakte van het grootste vierkant vraagt en vervolgens de zijden van de kleiner wordende vierkanten berekent. **Rond** telkens **af** op 2 cijfers na de komma.
 
 #### Voorbeeld
 Indien het grootste vierkant een oppervlakte van `144` m² heeft, dan verschijnt er
