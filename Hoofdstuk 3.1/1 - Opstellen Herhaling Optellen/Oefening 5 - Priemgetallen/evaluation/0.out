@@ -24,29 +24,29 @@ De priemgetallen kleiner dan 100 zijn:
 83
 89
 97
-Er zijn 25 priemgetallen die hieraan voldoen.
+Er werden 25 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 10 zijn:
 2
 3
 5
 7
-Er zijn 4 priemgetallen die hieraan voldoen.
+Er werden 4 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 3 zijn:
 2
-Er zijn 1 priemgetallen die hieraan voldoen.
+Er werden 1 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 5 zijn:
 2
 3
-Er zijn 2 priemgetallen die hieraan voldoen.
+Er werden 2 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 7 zijn:
 2
 3
 5
-Er zijn 3 priemgetallen die hieraan voldoen.
+Er werden 3 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 330 zijn:
 2
@@ -115,7 +115,7 @@ De priemgetallen kleiner dan 330 zijn:
 311
 313
 317
-Er zijn 66 priemgetallen die hieraan voldoen.
+Er werden 66 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 228 zijn:
 2
@@ -167,7 +167,7 @@ De priemgetallen kleiner dan 228 zijn:
 211
 223
 227
-Er zijn 49 priemgetallen die hieraan voldoen.
+Er werden 49 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 279 zijn:
 2
@@ -229,7 +229,7 @@ De priemgetallen kleiner dan 279 zijn:
 269
 271
 277
-Er zijn 59 priemgetallen die hieraan voldoen.
+Er werden 59 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 365 zijn:
 2
@@ -304,7 +304,7 @@ De priemgetallen kleiner dan 365 zijn:
 349
 353
 359
-Er zijn 72 priemgetallen die hieraan voldoen.
+Er werden 72 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 464 zijn:
 2
@@ -397,7 +397,7 @@ De priemgetallen kleiner dan 464 zijn:
 457
 461
 463
-Er zijn 90 priemgetallen die hieraan voldoen.
+Er werden 90 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 433 zijn:
 2
@@ -483,7 +483,7 @@ De priemgetallen kleiner dan 433 zijn:
 419
 421
 431
-Er zijn 83 priemgetallen die hieraan voldoen.
+Er werden 83 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 471 zijn:
 2
@@ -577,7 +577,7 @@ De priemgetallen kleiner dan 471 zijn:
 461
 463
 467
-Er zijn 91 priemgetallen die hieraan voldoen.
+Er werden 91 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 417 zijn:
 2
@@ -660,7 +660,7 @@ De priemgetallen kleiner dan 417 zijn:
 397
 401
 409
-Er zijn 80 priemgetallen die hieraan voldoen.
+Er werden 80 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 310 zijn:
 2
@@ -726,7 +726,7 @@ De priemgetallen kleiner dan 310 zijn:
 283
 293
 307
-Er zijn 63 priemgetallen die hieraan voldoen.
+Er werden 63 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 205 zijn:
 2
@@ -775,7 +775,7 @@ De priemgetallen kleiner dan 205 zijn:
 193
 197
 199
-Er zijn 46 priemgetallen die hieraan voldoen.
+Er werden 46 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 481 zijn:
 2
@@ -870,7 +870,7 @@ De priemgetallen kleiner dan 481 zijn:
 463
 467
 479
-Er zijn 92 priemgetallen die hieraan voldoen.
+Er werden 92 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 157 zijn:
 2
@@ -909,7 +909,7 @@ De priemgetallen kleiner dan 157 zijn:
 139
 149
 151
-Er zijn 36 priemgetallen die hieraan voldoen.
+Er werden 36 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 354 zijn:
 2
@@ -983,7 +983,7 @@ De priemgetallen kleiner dan 354 zijn:
 347
 349
 353
-Er zijn 71 priemgetallen die hieraan voldoen.
+Er werden 71 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 240 zijn:
 2
@@ -1038,7 +1038,7 @@ De priemgetallen kleiner dan 240 zijn:
 229
 233
 239
-Er zijn 52 priemgetallen die hieraan voldoen.
+Er werden 52 priemgetallen gevonden.
 
 De priemgetallen kleiner dan 205 zijn:
 2
@@ -1087,7 +1087,7 @@ De priemgetallen kleiner dan 205 zijn:
 193
 197
 199
-Er zijn 46 priemgetallen die hieraan voldoen.
+Er werden 46 priemgetallen gevonden.
 -----------------------------------------
 tab name: Feedback
 python input without prompt: true

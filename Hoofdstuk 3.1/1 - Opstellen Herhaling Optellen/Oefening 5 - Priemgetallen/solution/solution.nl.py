@@ -15,4 +15,4 @@ for i in range(2, grenswaarde):
         teller += 1
         print(i)
     
-print("Er zijn", teller, "priemgetallen die hieraan voldoen.")
+print( "Er werden", teller, "priemgetallen gevonden." )
