@@ -4,6 +4,8 @@ Tijdens de reis in Griekenland bezoek Fred een museum. Aan de ingang hangen volg
 - Toegangsprijs van **5 euro** voor bezoekers van 65 jaar of ouder;
 - Toegangsprijs van **9 euro** voor andere bezoekers.
 
+![Het Acropolis museum in Athene.](media/luna-zhang.jpg "Foto door Luna Zhang op Unsplash."){:data-caption="Het Acropolis museum in Athene." width="40%"}
+
 ## Gevraagd
 - Vraag in **deze volgorde** van de gebruiker naar hun `naam` en `leeftijd`.
 - Bepaal de toegangsprijs op basis van hun `leeftijd`.
