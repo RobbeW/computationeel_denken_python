@@ -11,5 +11,9 @@
     "python",
     "import math"
   ],
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "B3rc9Jn7ihs83e6gugm2F2tRpKHP_38gRSm8dMNRzMv4TK3mBsyfTZNZ_3NtwB2M",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
