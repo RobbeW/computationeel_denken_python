@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Sequentie Toetsvraag - Tegels snijden"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "import math"
+  ],
+  "access": "public"
+}
