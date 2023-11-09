@@ -7,10 +7,11 @@ Hier zie je dat de **oppervlakte** van **vierkant PQRS** het **dubbel** is van *
 ![Vierkanten uit de oudheid.](media/image_dark.png "Vierkanten uit de oudheid."){:data-caption="Vierkanten uit de oudheid." .dark-only width="25%"}
 
 ## Gevraagd
-* Bereken de `oppervlakte` van vierkant PQRS, dat het dubbel is van vierkant ABCD;
-* Bereken de `lengte` van een zijde van vierkant PQRS;
-* Rond de berekende `oppervlakte` en `lengte` af tot twee decimalen;
-* Print de berekende `oppervlakte` en `zijde` van vierkant PQRS op het scherm in verzorgde volzinnen.
+- Vraag naar de zijde van het vierkant ABCD;
+- Bereken de `oppervlakte` van vierkant PQRS, dat het dubbel is van vierkant ABCD;
+- Bereken de `lengte` van een zijde van vierkant PQRS;
+- Rond de berekende `oppervlakte` en `lengte` af tot twee decimalen;
+- Print de berekende `oppervlakte` en `zijde` van vierkant PQRS op het scherm in verzorgde volzinnen.
 
 ## Invoer
 ```
