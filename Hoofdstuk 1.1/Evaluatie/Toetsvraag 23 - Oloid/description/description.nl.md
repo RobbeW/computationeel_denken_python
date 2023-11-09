@@ -1,7 +1,5 @@
 ## Gegeven
-Een oloïde is een geometrisch lichaam, opgebouwd uit twee cirkels, dat uitgevonden werd door de wiskundige en kunstenaar Paul Schatz.
-
-Kenmerkend is dat dit lichaam een tuimelende beweging maakt indien deze over een tafelblad rolt. Dit 'rollen' blijkt uitermate geschikt voor het mengen van vloeistoffen.
+Een oloïde is een geometrisch lichaam, opgebouwd uit twee cirkels, dat uitgevonden werd door de wiskundige en kunstenaar Paul Schatz. Kenmerkend is dat dit lichaam een tuimelende beweging maakt indien deze over een tafelblad rolt. Dit 'rollen' blijkt uitermate geschikt voor het mengen van vloeistoffen.
 
 ![Een rollende oloïde.](media/ani_oloid.gif "Een rollende oloïde."){:data-caption="Een rollende oloïde." width="240px"}
 
