@@ -7,4 +7,5 @@ minuten = (sec - uren * 60 * 60) // 60
 seconden = sec % 60
 
 # Uitvoer
+print()
 print(str(uren)+':'+str(minuten)+':'+str(seconden))
