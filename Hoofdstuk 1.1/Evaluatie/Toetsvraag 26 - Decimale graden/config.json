@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Sequentie Toetsvraag - Decimale graden"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "import math"
+  ],
+  "access": "public"
+}
