@@ -1,3 +1,4 @@
+## Gegeven
 Een **dozijn** eieren is een alternatieve benaming voor 12 eieren. Een **gros** eieren is 12 dozijn, of anders gezegd is een gros een dozijn dozijnen.
 
 ![Een onconventionele verpakking van 18 eieren.](media/eggshortagehero.gif "Een onconventionele verpakking van 18 eieren."){:data-caption="Een onconventionele verpakking van 18 eieren." width="40%"}
