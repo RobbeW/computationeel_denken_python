@@ -8,12 +8,12 @@ Een kippenhouder verzamelt een hoeveelheid eieren. Vraag naar het aantal gros, h
 Geef het uiteindelijke resultaat vervolgens weer op het scherm in onderstaande vorm.
 
 #### Voorbeelden
-Indien de landbouwer 2 gros, 1 dozijn en 3 eieren heeft en er 6 aan toevoegt, dan verschijnt er:
+Indien de kippenhouder 2 gros, 1 dozijn en 3 eieren heeft en er 6 aan toevoegt, dan verschijnt er:
 ```
 Totale aantal eieren: 2 gros, 1 dozijn en 9 eieren.
 ```
 
-Indien de landbouwer 0 gros, 3 dozijn en 4 eieren heeft en er 16 aan toevoegt, dan verschijnt er:
+Indien de kippenhouder 0 gros, 3 dozijn en 4 eieren heeft en er 16 aan toevoegt, dan verschijnt er:
 ```
 Totale aantal eieren: 0 gros, 4 dozijn en 8 eieren.
 ```
