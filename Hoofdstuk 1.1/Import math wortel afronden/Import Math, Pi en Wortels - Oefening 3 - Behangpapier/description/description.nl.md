@@ -20,7 +20,7 @@ Voer de hoogte van de muur in (in meter): 2.8
 ## Uitvoer
 
 ```
-Het aantal benodigde rollen behangpapier is ... rollen.
+Het aantal benodigde rollen behangpapier is 11 rollen.
 ```
 
 {: .callout.callout-info}
