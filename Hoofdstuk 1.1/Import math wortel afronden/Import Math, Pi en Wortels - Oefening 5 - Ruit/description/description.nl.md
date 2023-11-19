@@ -22,11 +22,11 @@ Voer de lengte van de kleine diagonaal in (in cm): 6
 
 ## Uitvoer
 ```
-De omtrek van de ruit is ... cm.
-De oppervlakte van de ruit is ... cm².
+De omtrek van de ruit is 20.0 cm.
+De oppervlakte van de ruit is 24.0 cm².
 ```
 
 {: .callout.callout-info}
 >#### Tips
 > - Vergeet niet om de input om te zetten naar een `float` of `int`;
-> - Gebruik **de stelling van Pythagoras** `a² + b² = c²` om de omtrek te berekenen.
+> - Gebruik **de stelling van Pythagoras** in een **rechthoekige** driehoek (`a² + b² = c²`) om de omtrek te berekenen.
