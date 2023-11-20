@@ -29,7 +29,7 @@ comparison: exact match
 
 # generate test data
 ntests= 20
-cases = [(2,1,3,6),(0,3,4,16)]
+cases = [(2,1,3,6),(0,3,4,16), (0,11,4,8)]
 while len(cases) < ntests:
     gross = random.randint(0,10)
     dozijn = random.randint(0,11)
