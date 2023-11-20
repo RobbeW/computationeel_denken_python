@@ -19,7 +19,7 @@ De eerste regel van de invoer bevat het aantal testgevallen. Per testgeval volgt
 
 $$ \mathsf{8 \quad 1 \quad 4 \quad 3 \quad 2 \quad 5 \quad 3 \quad 6 \quad 5} $$
 
-omdat er 8 balken zijn, waarvan de eerste hoogte 1 heeft, de tweede hoogte 4, de derde hoogte 3, enzovoort.
+omdat er 8 balken zijn, waarvan de eerste hoogte 1 heeft, de tweede hoogte 4, de derde hoogte 3, enzovoort...
 
 ```
 3
