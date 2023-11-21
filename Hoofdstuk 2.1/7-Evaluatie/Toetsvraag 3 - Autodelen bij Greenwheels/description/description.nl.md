@@ -1,4 +1,4 @@
-##Gegeven
+## Gegeven
 
 Kobe wilt aan autodelen doen bij Greenwheels, aangezien er een parkeertekort is in de stad. Er Hij moet kiezen uit één van de volgende pakketten.
 
