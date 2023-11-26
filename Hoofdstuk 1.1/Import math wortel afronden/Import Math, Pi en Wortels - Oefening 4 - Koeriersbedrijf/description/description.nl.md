@@ -2,7 +2,7 @@
 
 Een koeriersbedrijf hanteert volgende regels voor het bepalen van de prijs van een pakje:
 
-- een vaste `basisprijs` van 2.00 euro
+- een vaste `basisprijs` van € 2,00
 - `massa`: extra per **begonnen** 20 gram: € 0,40 
   Dit betekent dat voor een massa van 25 gram er € 0,80 betaald moet worden
 - `afstand`: extra per **begonnen** 10 km: € 0,30
