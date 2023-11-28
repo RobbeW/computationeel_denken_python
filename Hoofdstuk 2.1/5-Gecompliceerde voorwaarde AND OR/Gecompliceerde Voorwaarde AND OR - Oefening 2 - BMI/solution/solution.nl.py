@@ -17,6 +17,5 @@ else:
     categorie = "obesitas"
 
 # Print de BMI en de bijhorende categorie
-print()
 print("Jouw BMI bedraagt:", bmi)
 print("Dit komt overeen met de categorie:", categorie)
