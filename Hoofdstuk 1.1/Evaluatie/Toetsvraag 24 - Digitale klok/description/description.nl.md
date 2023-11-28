@@ -1,3 +1,6 @@
+<div class="text-end">
+    <a class="btn btn-filled with-icon" href="https://dodona.be/nl/courses/2419/" target="_blank"><i class="mdi mdi-backburger mdi-24" title="link"></i>Link naar de vorige oefeningen</a>
+</div>
 
 ![Een digitale klok.](media/clock.jpg "Foto door Lucas Santos op Unsplash."){:data-caption="Een digitale klok." width="40%"}
 

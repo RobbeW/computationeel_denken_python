@@ -1,3 +1,7 @@
+<div class="text-end">
+    <a class="btn btn-filled with-icon" href="https://dodona.be/nl/courses/2419/" target="_blank"><i class="mdi mdi-backburger mdi-24" title="link"></i>Link naar de vorige oefeningen</a>
+</div>
+
 ## Gegeven
 Elke leerling kent wel de vierkantswortel van 25, maar hoe nauwkeurig kan iemand de vierkantswortel van 32 schatten? Het onderstaande is meteen duidelijk:
 
