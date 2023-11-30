@@ -16,5 +16,5 @@ Indien beide taxi's even duur zijn, kies dan TAX-B.
 Indien je `20.0` km zou afleggen verschijnt er:
 
 ```
-De voordeligste formule is: BXL-TAX
+De voordeligste formule is: TAX-B
 ```
