@@ -1,8 +1,8 @@
 ## Gegeven
-Gratis verzending is beschikbaar **als** het `aankoopbedrag` gelijk is aan, of hoger is dan, 20 euro. 
-**Anders** kost de verzending 4 euro. 
+Gratis verzending is beschikbaar **als** het `aankoopbedrag` gelijk is aan, of hoger is dan, € 20. 
+**Anders** kost de verzending € 4. 
 
-Is het aankoopbedrag 100 euro of meer dan krijgt de klant 10% korting.
+Is het aankoopbedrag € 100 of meer dan krijgt de klant 10% korting.
 
 ## Gevraagd
 - Schrijf een programma dat vraagt naar het `aankoopbedrag` bij de webshop;
