@@ -1,5 +1,5 @@
 ## Gegeven
-Tijdens de reis in Griekenland bezoek Fred een museum. Aan de ingang hangen volgende tarieven en regels: 
+Tijdens de reis in Griekenland bezoekt Fred een museum. Aan de ingang hangen volgende tarieven en regels: 
 - **Gratis** toegang voor bezoekers van 26 jaar of jonger; 
 - Toegangsprijs van **5 euro** voor bezoekers van 65 jaar of ouder;
 - Toegangsprijs van **9 euro** voor andere bezoekers.
