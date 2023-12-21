@@ -1,7 +1,3 @@
-<div class="text-end">
-    <a class="btn btn-filled with-icon" href="https://dodona.be/nl/courses/2419/" target="_blank"><i class="mdi mdi-backburger mdi-24" title="link"></i>Link naar de vorige oefeningen</a>
-</div>
-
 ## Gegeven
 
 De <a href='https://nl.wikipedia.org/wiki/ISO_8601' target='_blank'>ISO 8601</a> standaard legt vast hoe datums genoteerd worden. In deze standaard vindt men ook de  afspraak dat een nieuwe eeuw begint bij het aanbreken van een jaar dat eindigt op jaartal 00.

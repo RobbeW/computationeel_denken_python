@@ -1,7 +1,3 @@
-<div class="text-end">
-    <a class="btn btn-filled with-icon" href="https://dodona.be/nl/courses/2419/" target="_blank"><i class="mdi mdi-backburger mdi-24" title="link"></i>Link naar de vorige oefeningen</a>
-</div>
-
 ## Gegeven
 Een oloïde is een geometrisch lichaam, opgebouwd uit twee cirkels, dat uitgevonden werd door de wiskundige en kunstenaar Paul Schatz. Kenmerkend is dat dit lichaam een tuimelende beweging maakt indien deze over een tafelblad rolt. Dit 'rollen' blijkt uitermate geschikt voor het mengen van vloeistoffen.
 
