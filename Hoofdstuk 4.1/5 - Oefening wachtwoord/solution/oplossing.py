@@ -13,7 +13,7 @@ while Toegang == False:
     if gebruikersnaam == juiste_gebruikersnaam and wachtwoord == juiste_wachtwoord:
         print("Toegang verleend")
         Toegang = True
-    elif gebruikersnaam != juiste_gebruikersnaam and wachtwoord == juiste_wachtwoord:
+    elif gebruikersnaam != juiste_gebruikersnaam:
         print("Incorrecte gebruikersnaam")
         gebruikersnaam = input("Voer uw gebruikersnaam opnieuw in: ")
         wachtwoord = input("Voer uw wachtwoord opnieuw in: ")
