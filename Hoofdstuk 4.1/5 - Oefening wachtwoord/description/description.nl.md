@@ -2,13 +2,12 @@
 Er is een correcte gebruikersnaam en wachtwoord om toegang te krijgen tot het systeem van het bedrijf.
 
 ## Gevraagd
-Schrijf een programma dat vraagt naar de gebruikersnaam en het wachtwoord `(== input-functie)`;
+Schrijf een programma dat vraagt naar de `gebruikersnaam` en het `wachtwoord` `(== input-functie)`;
 Controleer of de ingevoerde `gebruikersnaam` en `wachtwoord` juist zijn;
 Print een van de volgende berichten af:
 * 'Toegang verleend' als de `gebruikersnaam` **en** het `wachtwoord` correct zijn;
-* 'Incorrect wachtwoord' als alleen het `wachtwoord` foutief is;
-* 'Incorrecte gebruikersnaam' als alleen de `gebruikersnaam` foutief is;
-* 'Incorrecte gebruikersnaam en wachtwoord' als zowel de `gebruikersnaam` als het `wachtwoord` foutief zijn; 
+* 'Incorrect wachtwoord' als alleen het `wachtwoord` foutief is, maar de `gebruikersnaam` is juist;
+* 'Incorrecte gebruikersnaam' als de `gebruikersnaam` foutief is;
 * Voeg een `while-functie`toe die de gebruiker, bij een foutief aanmeldpoging, blijft vragen naar het `wachtwoord`en de `gebruikersnaam`. 
 
 
