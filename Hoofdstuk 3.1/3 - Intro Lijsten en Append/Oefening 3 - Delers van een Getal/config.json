@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Lijsten en Herhalingen - Delers van een Getal",
+      "en": "Lists and Loops - Dividers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "R9AV3iSQT2n3752IDmxQ7svNQKRNrDMYV-cRyDDPUrImk6BBkckxy3-YV3SxhCGp",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
