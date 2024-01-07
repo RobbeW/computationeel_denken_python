@@ -1,5 +1,5 @@
 ## Gegeven
-We krijgen een reeks van getallen, waarvan sommigen groter zijn dan tien. 
+We krijgen een reeks van getallen (datatype=`float`), waarvan sommigen groter zijn dan tien. 
 
 ## Gevraagd
 
@@ -30,7 +30,7 @@ Aantal getallen groter dan 10: ...
 {: .callout.callout-success}
 >## Tips
 >* Gebruik de `input()-functie` om de gebruiker om een getal te vragen. 
->* Vergeet niet om de input om te zetten naar een `int` of `float`.
+>* Vergeet niet om de input om te zetten naar een `float`.
 >* Gebruik een `while-lus` om de getallen te verzamelen totdat een 0 wordt ingevoerd.
 >* Bewaar de getallen in variabelen die je bijwerkt elke keer een nieuw getal wordt ingevoerd.
 >* Gebruik een `if-functie` en een `voorwaarde` om te controleren of een getal groter is dan 10 en werk indien nodig het aantal bij.
