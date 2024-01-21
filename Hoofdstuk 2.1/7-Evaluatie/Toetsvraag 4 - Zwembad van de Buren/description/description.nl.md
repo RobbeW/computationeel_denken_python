@@ -1,34 +1,27 @@
 ## Gegeven
 
-Twee buren, Eddy en Thierry, in de wijk maken onophoudelijk ruzie over wie er nu het grootste zwembad heeft liggen in de tuin. In tijden van energiebesparing niet de beste beslissing ... maar die ruzie is snel beslecht met een eenvoudige berekening!   
+Twee buren, Eddy en Freddy, in de wijk maken onophoudelijk ruzie over wie er nu het grootste zwembad heeft liggen in de tuin. In tijden van energiebesparing niet de beste beslissing... maar die ruzie is snel beslecht met een eenvoudige berekening!   
 
-
-<img src="https://i.pinimg.com/originals/9e/80/77/9e807701eca9373638dd8bacebae3093.jpg"/>
+![Een cirkelvormig oplaasbaar zwembad.](media/Gartenpool_2011-by-RaBoe_01.jpeg "Foto door Raboe001 op Wikimedia Commons."){:data-caption="Een cirkelvormig oplaasbaar zwembad." width="40%"}
 
 ## Gevraagd
 
 * Maak een programma dat, van de twee cirkelvormige zwembaden, de `diameter` en `diepte` vraagt aan de gebruiker. 
-* Bereken nadien het `volume` van beide zwembaden en toon deze op het scherm. 
-* Rond af tot twee decimalen. 
-* Geef op het scherm weer welke van de twee buren het grootste zwembad heeft. 
+* Bereken nadien het `volume` van beide zwembaden en toon deze op het scherm. Rond hierbij af tot twee decimalen. 
+* Geef tot slot op het scherm weer welke van de twee buren het grootste zwembad heeft. 
 
 ## Invoer
+Vraag **eerst** naar de **diameter** en **diepte** van het zwembad van Eddy (in m), nadien vraag je dit in **dezelfde volgorde** van Freddy.
+
+#### Voorbeeld
+
+Indien het zwembad van Eddy een diameter van 5,3 m en een diepte van 1.3 m heeft en het zwembad van Freddy 5,9 m als diameter en een diepte van 1.1 m heeft, dan verschijnt er:
+
 ```
-Het zwembad van Eddy heeft een diameter van 10.6 meter en een diepte van 1.3 meter. 
-Het zwembad van Thierry heeft een diameter van 12.26 meter en een diepte van 1.1 meter. 
-```
-```
-Geef de diepte in van het zwembad van Eddy: 1.3
-Geef de diameter in van het zwembad van Eddy: 10.6
-Geef de diepte in van het zwembad van Thierry: 1.1
-Geef de diameter in van het zwembad van Thierry: 12.26
+Freddy heeft het grootste zwembad van de buurt.
+Het zwembad heeft een volume van  30.07 m³
 ```
 
-## Uitvoer
-```
-... heeft het grootste zwembad van de buurt.
-Het zwembad heeft een volume van ... kubieke meter. 
-```
-
-## Tips
-* Vergeet niet om gebruik te maken van `import math`om de correcte notatie van pi in te laden. 
+{: .callout.callout-info}
+>#### Tips
+> Gebruik de constante `math.pi` nadat je `math` importeerde.
