@@ -14,7 +14,7 @@ Vraag **eerst** naar de **diameter** en **diepte** van het zwembad van Eddy (in 
 
 #### Voorbeeld
 
-Indien het zwembad van Eddy een diameter van 5,3 m en een diepte van 1.3 m heeft en het zwembad van Freddy 5,9 m als diameter en een diepte van 1.1 m heeft, dan verschijnt er:
+Indien het zwembad van Eddy een diameter van 5,3 m en een diepte van 1.3 m heeft en het zwembad van Freddy 5,9 m als diameter en een diepte van 1,1 m heeft, dan verschijnt er:
 
 ```
 Freddy heeft het grootste zwembad van de buurt.
