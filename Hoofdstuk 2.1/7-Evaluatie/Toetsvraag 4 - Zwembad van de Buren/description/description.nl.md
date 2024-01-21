@@ -18,7 +18,7 @@ Indien het zwembad van Eddy een diameter van 5,3 m en een diepte van 1.3 m heeft
 
 ```
 Freddy heeft het grootste zwembad van de buurt.
-Het zwembad heeft een volume van  30.07 m³.
+Het zwembad heeft een volume van 30.07 m³.
 ```
 
 {: .callout.callout-info}
