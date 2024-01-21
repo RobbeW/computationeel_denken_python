@@ -12,4 +12,4 @@ elif kortingscode == "Twitch20":
 te_betalen_bedrag = round( bestelde_bedrag + 4.80, 2 )
 
 # Print het te betalen bedrag op het scherm
-print(f"Het te betalen bedrag is", te_betalen_bedrag, "euro.")
+print("Het te betalen bedrag is", te_betalen_bedrag, "euro.")
