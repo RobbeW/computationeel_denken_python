@@ -19,7 +19,7 @@ if volume_eddy > volume_freddy:
     print("Het zwembad heeft een volume van ", round(volume_eddy, 2), "m³.")
 elif volume_eddy < volume_freddy:
     print("Freddy heeft het grootste zwembad van de buurt.")
-    print("Het zwembad heeft een volume van ", round(volume_freddy, 2), "m³")
+    print("Het zwembad heeft een volume van ", round(volume_freddy, 2), "m³.")
 else:
     print("Eddy en Freddy hebben even grote zwembaden.")
-    print("Beide zwembaden hebben een volume van ", round(volume_eddy, 2), "m³")
+    print("Beide zwembaden hebben een volume van ", round(volume_eddy, 2), "m³.")
