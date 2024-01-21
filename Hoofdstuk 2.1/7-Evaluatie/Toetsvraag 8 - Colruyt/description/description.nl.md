@@ -1,4 +1,4 @@
-Op de website van de Colruyt vinden we onderstaande promo voor een **verpakking** met 4 porties aardbeienyoghurt van €3,29.
+Op de website van de Colruyt vinden we onderstaande promo voor één **verpakking** met 4 porties aardbeienyoghurt van €3,29.
 
 ![Yoghurt](media/colruyt.png "Yoghurt"){:data-caption="Korting op de yoghurt." width="450px"}
 
