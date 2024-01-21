@@ -3,12 +3,12 @@ We schrijven een programma dat leerlingen automatisch feedback kan geven bij het
 
 ## Gevraagd
 
-Lees eerst een **resultaat** in, en vraag daarna naar het **totaal** van de toets.
+Lees eerst een **resultaat** in en vraag daarna naar het **totaal** van de toets.
 
 Het programma geeft als feedback:
 
 * '*Proficiat!*' als je 80% of meer hebt,
-* '*Goed gewerkt!*' Als je 60% of meer hebt en minder dan 80% scoort,
+* '*Goed gewerkt!*' als je 60% of meer hebt en minder dan 80% scoort,
 * Bij minder dan 60% word je doorverwezen naar de inhaalles of remediëring met de boodschap '*Oei, het lijkt ons aangewezen als je deze leerstof nog eens doorneemt via een inhaalles of remediëring.*'
 
 #### Voorbeelden

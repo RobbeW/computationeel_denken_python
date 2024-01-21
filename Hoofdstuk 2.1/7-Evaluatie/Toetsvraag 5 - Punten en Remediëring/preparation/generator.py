@@ -29,7 +29,7 @@ comparison: exact match
 
 # generate test data
 ntests= 20
-cases = [ (7.25,10),(11,13) ]
+cases = [ (7.25,10),(11,13), (12,20),(8,10),(7,14) ]
 
 while len( cases ) < ntests:
     max = random.randint(8,30)
