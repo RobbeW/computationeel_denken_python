@@ -14,11 +14,11 @@ Vraag naar het aantal subpixels en controleer of dit aantal deelbaar is door dri
 Indien er `2082` subpixels geteld worden, dan verschijnt de volgende boodschap:
 
 ```
-Het scherm bevat zeker een defect!
+Het scherm is waarschijnlijk ok.
 ```
 
 Indien er `2048` subpixels geteld worden, dan verschijnt de volgende boodschap:
 
 ```
-Het scherm is waarschijnlijk ok.
+Het scherm bevat zeker een defect!
 ```
