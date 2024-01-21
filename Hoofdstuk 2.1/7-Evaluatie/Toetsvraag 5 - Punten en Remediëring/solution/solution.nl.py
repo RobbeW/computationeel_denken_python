@@ -1,10 +1,13 @@
-# Lees de score op 10 in voor wiskunde
+# Lees de score in
 score = float(input("Voer jouw punt in: "))
+totaal = float(input("Voer het totaal in in: "))
+
+perc = score / totaal
 
 # Beoordeel de score en print de bijbehorende feedback
-if score >= 8:
+if perc >= 0.8:
     print("Proficiat!")
-elif 6 <= score < 8:
+elif perc >= 0.6:
     print("Goed gewerkt!")
 else:
     print("Oei, het lijkt ons aangewezen als je deze leerstof nog eens doorneemt via een inhaalles of remediëring.")
