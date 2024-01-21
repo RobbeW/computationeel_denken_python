@@ -18,7 +18,7 @@ Schrijf een programma dat in volgorde naar het aantal uren maandelijkse rijtijd 
 Indien beide formules even duur zijn, kies dan voor het prepaid pakket.
 
 #### Voorbeeld
-Indien een persoon in een maand nauwelijk 4,5 uur met de wagen rijdt en hierbij 307 km aflegt, dan verschijnt er:
+Indien een persoon in een maand nauwelijks 4,5 uur met de wagen rijdt en hierbij 307 km aflegt, dan verschijnt er:
 
 ```
 Prepaid rijbudget is het meest voordelig.
