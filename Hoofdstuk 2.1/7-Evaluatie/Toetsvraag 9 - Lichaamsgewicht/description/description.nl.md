@@ -3,7 +3,7 @@ De ideale lichaamsmassa $$\mathsf{m}$$ (in kg) voor kinderen kan geschat worden 
 Voor kinderen jonger dan één jaar kan dat via deze formule:
 
 $$
-\mathsf{m = \dfrac{1}{2}a_m +4}
+\mathsf{m = \dfrac{1}{2}\cdot a_m +4}
 $$
 
 met $$\mathsf{a_m}$$ de leeftijd in maanden.
