@@ -12,7 +12,7 @@ Het programma geeft als feedback:
 * Bij minder dan 60% word je doorverwezen naar de inhaalles of remediëring met de boodschap '*Oei, het lijkt ons aangewezen als je deze leerstof nog eens doorneemt via een inhaalles of remediëring.*'
 
 #### Voorbeelden
-Bij een toets van 7.25 op 10 verschijnt er:
+Bij een toets van 7,25 op 10 verschijnt er:
 ```
 Goed gewerkt!
 ``` 
