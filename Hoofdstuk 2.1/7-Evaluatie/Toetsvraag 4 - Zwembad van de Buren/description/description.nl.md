@@ -22,5 +22,5 @@ Het zwembad heeft een volume van  30.07 m³.
 ```
 
 {: .callout.callout-info}
->#### Tips
+>#### Tip
 > Gebruik de constante `math.pi` nadat je `math` importeerde.
