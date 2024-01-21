@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Deelbaar",
-      "en": "Test Exercise - Divide by ..."
+      "nl": "Selectie Toetsvraag - Pixels"
     }
   },
   "evaluation": {

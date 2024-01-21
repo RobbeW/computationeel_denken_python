@@ -2,7 +2,7 @@
 getal = int(input("Voer een getal in: "))
 
 # Controleer de deelbaarheid door 4 en druk de juiste boodschap af
-if getal % 4 == 0:
-    print("Scherm is in orde!")
+if getal % 3 == 0:
+    print("Het scherm is waarschijnlijk ok.")
 else:
-    print("Scherm bevat een defect!")
+    print("Het scherm bevat zeker een defect!")

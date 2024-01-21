@@ -1,27 +1,24 @@
 ## Gegeven
 
-Om de berekening binnenin een programma voor beeldschermproductie te optimaliseren; moeten we de deelbaarheid van de schermen berekenen. Elk Q-OLED scherm bestaat uit pixels en elke individuele pixel bestaat uit een rode subpixel, een groene subpixel, een blauwe subpixel en een witte subpixel (om extra lichtsterkte bij wit kleur te bekomen). Deze **vier** subpixels vormen dus samen één pixel. 
+De meeste computerschermen bestaan uit een hoeveelheid pixels. Deze zijn opgebouwd uit subpixels, meestal is er een **rode**, een **groene** en een **blauwe** subpixel (RGB). Deze **drie** subpixels vormen dus samen één pixel. 
 
-
-<img src="https://www.displaymate.com/iPhone_12Pro_Diamond_Sub-Pixels_1P.jpg"/>
+![Een muisaanwijzer opgebouwd uit pixels.](media/umberto.jpg "Foto door Umberto op Unsplash."){:data-caption="Een muisaanwijzer opgebouwd uit pixels." width="35%"}
 
 ## Gevraagd
 
-Om te controleren dat alle pixels voldoende subpixels hebben, schrijf je een programma dat controleert op de deelbaarheid door vier. 
+Een beeldscherm passeert na assemblage vaak door een kwaliteitskeuring. Een computer telt vervolgens het aantal subpixels, indien dit niet deelbaar is door 3, dan bevat het scherm minstens één **dode** pixel en is het dus defect.
 
-* Ga na of een getal deelbaar is door 4. 
-* Zo ja: print het getal is deelbaar door 4. Scherm is in orde!
-* Zo neen print: Het is niet deelbaar door 4. Scherm bevat een defect! 
+Vraag naar het aantal subpixels en controleer of dit aantal deelbaar is door drie. Geef een passende boodschap mee.
 
-## Invoer
-```
-Voer een getal in: 2082
+#### Voorbeelden
+Indien er `2082` subpixels geteld worden, dan verschijnt de volgende boodschap:
 
 ```
-
-## Uitvoer
-```
-Scherm bevat een defect!
+Het scherm bevat zeker een defect!
 ```
 
+Indien er `2048` subpixels geteld worden, dan verschijnt de volgende boodschap:
 
+```
+Het scherm is waarschijnlijk ok.
+```
