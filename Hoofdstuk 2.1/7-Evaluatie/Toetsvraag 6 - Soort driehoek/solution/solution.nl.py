@@ -1,4 +1,4 @@
-# Lees de score in
+# Lees de zijden in
 a = int( input( "Geef de eerste zijde in: ") )
 b = int( input( "Geef de tweede zijde in: ") )
 c = int( input( "Geef de derde zijde in: ") )
