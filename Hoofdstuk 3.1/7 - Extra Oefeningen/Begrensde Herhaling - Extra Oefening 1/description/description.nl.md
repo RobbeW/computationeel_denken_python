@@ -1,17 +1,16 @@
 ## Gegeven:
 
-Ontwikkel een programma dat de machten van van een bepaald getal afdrukt. 
+Ontwikkel een programma dat de machten van van een bepaald **geheel getal** afdrukt. 
 Ik wil echter dat de gebruiker kan bepalen bij welke macht we starten en eindigen. 
 
 We gebruiken bij deze oefening dus een `startgetal`, `startexponent` en `eindexponent`.  
 
 ## Gevraagd:
 
-* Schrijf een programma dat vraagt naar het getal, 
-* Print dat getal naar het scherm; 
+* Schrijf een programma dat vraagt naar het getal,
 * Vraag de gebruiker naar de gewenste `startexponent`; 
 * Vraag de gebruiker naar de gewenste `eindexponent`; 
-* `Print` de resultaten naar het scherm. 
+* `Print` de resultaten naar het scherm in een zin. 
 
 
 ## Invoer: 
