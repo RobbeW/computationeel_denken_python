@@ -1,12 +1,16 @@
-# Vraag de gebruiker om het startgetal, startexponent en eindexponent
-startgetal = int(input("Voer een startgetal in: "))
-startexponent = int(input("Voer een startexponent in: "))
-eindexponent = int(input("Voer een eindexponent in: "))
 
-# Print het startgetal
-print("Gekozen startgetal: " + str(startgetal))
+# Maak een lege lijst voor de namen
+namenlijst = []
 
-# Itereer over de exponenten van startexponent tot en met eindexponent
-for exponent in range(startexponent, eindexponent + 1):
-    resultaat = startgetal ** exponent
-    print(startgetal, "tot de macht", exponent, "is:", resultaat)
+# Vraag aan de leerkracht het aantal leerlingen in de klas
+aantal_leerlingen = int(input("Hoeveel leerlingen zijn er? "))
+
+# Voeg het aantal leerlingen toe aan de lijst
+for i in range(aantal_leerlingen):
+    naam = input("Voer de naam in van leerling " + str(i + 1) + ": ")
+    namenlijst.append(naam)
+
+# Begrensde herhaling om elke naam in de lijst af te drukken met het aantal letters
+for naam in namenlijst:
+    aantal_letters = len(naam)
+    print(naam + " heeft " + str(aantal_letters) + " letters.")
