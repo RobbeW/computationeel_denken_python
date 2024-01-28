@@ -5,7 +5,7 @@ Je hebt een lijst van namen: namen = ["Alice", "Bob", "Charlie", "David", "Eve"]
 
 ## Gevraagd:
 
-* Schrijf een programma dat door de lijst van namen loopt (=itereren)x,
+* Schrijf een programma dat door de lijst van namen loopt (=itereren),
 * `Print` elke naam naar het scherm samen met het aantal letters in die naam.
 
 
