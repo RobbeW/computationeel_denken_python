@@ -1,0 +1,25 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Extra Oefening - Klaslijst met namen",
+      "en": "For i in Range - Extra Exercise  - Class List with Names"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "robbe wulgaert",
+    "Python in de Klas",
+    "AI in de Klas"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "P87NxEA284gMAtTtWkU3TjSvQZYtevec6Z99JUqiGdBDcRd4NE9YSxctXUF5NR4H",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
