@@ -3,7 +3,7 @@ We schrijven een programma dat leerlingen automatisch feedback kan geven bij het
 
 ## Gevraagd
 
-Lees eerst een **resultaat** in en vraag daarna naar het **totaal** van de toets.
+Lees eerst een **resultaat** in en vraag daarna op welk **totaal** de toets stond.
 
 Het programma geeft als feedback:
 
