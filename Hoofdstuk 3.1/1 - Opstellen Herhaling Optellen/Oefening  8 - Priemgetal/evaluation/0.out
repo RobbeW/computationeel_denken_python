@@ -1,0 +1,46 @@
+2 is priem.
+
+13 is priem.
+
+15 is niet priem.
+
+331 is priem.
+
+229 is priem.
+
+280 is niet priem.
+
+366 is niet priem.
+
+465 is niet priem.
+
+434 is niet priem.
+
+472 is niet priem.
+
+418 is niet priem.
+
+311 is priem.
+
+206 is niet priem.
+
+482 is niet priem.
+
+158 is niet priem.
+
+355 is niet priem.
+
+241 is priem.
+
+206 is niet priem.
+
+276 is niet priem.
+
+182 is niet priem.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match

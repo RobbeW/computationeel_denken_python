@@ -1,0 +1,13 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Priemgetal"
+    }
+  },
+  "labels": [
+    "python"
+  ]
+}
