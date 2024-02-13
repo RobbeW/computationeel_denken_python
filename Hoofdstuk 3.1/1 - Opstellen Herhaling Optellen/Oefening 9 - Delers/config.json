@@ -1,0 +1,16 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Begrensde Herhaling - Delers"
+    }
+  },
+  "labels": [
+    "python"
+  ]
+}
