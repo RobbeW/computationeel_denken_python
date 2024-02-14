@@ -40,13 +40,12 @@ i = -1
 for test in cases:
     exportdata["tabs"][0]["contexts"].append({})
     i += 1
-    exportdata["tabs"][0]["contexts"][i]["before"] = []
     exportdata["tabs"][0]["contexts"][i]["testcases"] = []
     
     seed = test[0]
     # generate before expression
     beforecase = {"python": {"data": "import random; random.seed("+str(seed)+")"}}
-    exportdata["tabs"][0]["contexts"][i]["before"].append(beforecase)
+    exportdata["tabs"][0]["contexts"][i]["before"] = beforecase
      
     # generate test expression        
     testcase = {"description": "Uitvoeren met seed "+str(seed)+" leidt tot:",
