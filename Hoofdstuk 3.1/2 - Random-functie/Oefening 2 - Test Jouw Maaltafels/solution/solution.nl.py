@@ -3,8 +3,8 @@ import random
 # Variabele om de score van de gebruiker bij te houden
 score = 0
 
-# We doen dit tien keer
-for i in range(10):
+# We doen dit vijf keer
+for _ in range(5):
     # Genereer twee willekeurige getallen
     num1 = random.randint(1, 10)
     num2 = random.randint(1, 10)
@@ -24,4 +24,4 @@ for i in range(10):
         print("Dat is niet correct. Het juiste antwoord is", num1 * num2)
 
 # Print de totaalscore van de gebruiker
-print("Je totaalscore is", score, "op 10.")
+print("Je totaalscore is", score, "op 5.")

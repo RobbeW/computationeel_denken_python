@@ -1,0 +1,33 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "31\n14\n32\n60\n23\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 10\nGetal 2: 3\nDat is niet correct. Het juiste antwoord is 30\nGetal 1: 2\nGetal 2: 7\nGoed zo!\nGetal 1: 5\nGetal 2: 6\nDat is niet correct. Het juiste antwoord is 30\nGetal 1: 6\nGetal 2: 10\nGoed zo!\nGetal 1: 10\nGetal 2: 2\nDat is niet correct. Het juiste antwoord is 20\nJe totaalscore is 2 op 5.\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
