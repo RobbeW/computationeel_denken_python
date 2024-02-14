@@ -18,7 +18,7 @@ De gebruiker tikt nu foutief `31` in als product. Er verschijnt:
 Dat is niet correct. Het juiste antwoord is 30
 ```
 
-De tweede keer maakt de computer willekeurig de getallen `2` en `7` aan.
+De tweede keer maakt de computer **willekeurig** de getallen `2` en `7` aan.
 
 ```
 Getal 1: 2
@@ -39,5 +39,5 @@ Je totaalscore is 2 op 5.
 
 {: .callout.callout-info}
 >#### Tips
->- Gebruik een lus om het programma 10 keer te laten herhalen. 
->- Houd de score bij in een variabele die je telkens met 1 verhoogt als het antwoord van de gebruiker juist is.
+>- Gebruik een lus om het programma 5 keer te laten herhalen. 
+>- Hou de score bij in een variabele die je telkens met 1 verhoogt als het antwoord van de gebruiker juist is.
