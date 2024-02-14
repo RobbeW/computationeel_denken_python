@@ -12,6 +12,9 @@
           "testcases": [
             {
               "description": "Uitvoeren met seed 7247 leidt tot:",
+              "input": {
+
+              },
               "output": {
                 "stdout": {
                   "type": "text",
