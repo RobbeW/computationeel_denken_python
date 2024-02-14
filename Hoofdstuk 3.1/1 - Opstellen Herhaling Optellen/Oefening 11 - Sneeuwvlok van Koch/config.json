@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Begrensde herhaling - Sneeuwvlok van Koch"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python"
+  ],
+  "access": "public"
+}

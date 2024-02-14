@@ -1,0 +1,31 @@
+\documentclass[dvipsnames,tikz]{standalone}
+\usepackage{amsmath}
+\usepackage{arevmath}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{decorations.pathreplacing,calligraphy,3d}
+\usetikzlibrary{lindenmayersystems}
+
+\tikzset{main/.style={draw=black, circle, color=black}}
+
+\tikzset{
+	Koch curve/.style = {
+		l-system={
+			rule set={F -> F-F++F-F},
+			axiom=F++F++F,
+			step=1pt,
+			angle=60,
+			#1
+		}
+	}
+}
+
+\begin{document}
+	\foreach \order in {0,...,6} {
+		\begin{tikzpicture}[scale=0.75, main, line join=bevel]
+			\clip (-0.50,-5.50) rectangle (18,15.5);
+			\draw[main,line width=0.75mm, Koch curve={order=\order,step=500pt/3^(\order)}] l-system -- cycle;
+		\end{tikzpicture}
+	}
+\end{document}
