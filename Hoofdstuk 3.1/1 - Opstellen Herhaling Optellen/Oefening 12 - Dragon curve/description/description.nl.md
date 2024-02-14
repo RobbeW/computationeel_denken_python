@@ -4,9 +4,9 @@ De <a href="https://en.wikipedia.org/wiki/Dragon_curve" target="_blank">draakkro
 
 De draakkromme ontstaat door elk lijnstuk op een specifieke manier in **twee te verdelen**. De lengtes van de lijnstukken worden telkens kleiner gemaakt door deze te **delen** door $$\mathsf{\sqrt{2}}$$.
 
-![Vorming van de draakkromme.](media/image.png "Vorming van de draakkromme."){:data-caption="Vorming van de draakkromme." .light-only width="236px"}
+![Vorming van de draakkromme.](media/image.png "Vorming van de draakkromme."){:data-caption="Vorming van de draakkromme." .light-only width="354px"}
 
-![Vorming van de draakkromme.](media/image_dark.png "Vorming van de draakkromme."){:data-caption="Vorming van de draakkromme." .dark-only width="236px"}
+![Vorming van de draakkromme.](media/image_dark.png "Vorming van de draakkromme."){:data-caption="Vorming van de draakkromme." .dark-only width="354px"}
 
 ## Gevraagd
 Schrijf een programma dat de lengte van één zijde vraagt en **nadien** het nummer in de iteratie. Vervolgens worden de verschillende lengtes op het scherm weergegeven. Telkens **afgerond** op 2 cijfers na de komma.
