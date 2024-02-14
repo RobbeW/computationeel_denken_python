@@ -16,7 +16,7 @@ def write_json( data:dict ):
         json.dump(data, f, indent = 2)
 
 # generate test data
-ntests = 1
+ntests = 10
 cases = [ ]
 
 while len( cases ) < ntests:
@@ -40,12 +40,7 @@ for test in cases:
     exportdata["tabs"][0]["contexts"][i]["before"] = beforecase
     
     exportdata["tabs"][0]["contexts"][i]["testcases"] = []
-     
-    # generate test expression        
-    testcase = {"description": "Uitvoeren met seed "+str(seed)+" leidt tot:",
-                "input": {},
-                "output": {} }
-    
+       
     # PROGRAM IMPLEMENTATION
     random.seed(seed) #setting the seed
     score = 0
@@ -72,7 +67,13 @@ for test in cases:
             outputtxt += "Dat is niet correct. Het juiste antwoord is "+str(product)+"\n"
         
     outputtxt += "Je totaalscore is "+str(score)+" op 5.\n"
-
+    
+    
+    # generate test expression
+    inputdescr = str.replace(inputtxt, "\n", " - ")  
+    testcase = {"description": "Uitvoeren met seed "+str(seed)+" leidt tot het onderstaande (met als achtereenvolgende invoer "+inputdescr[:-3]+")",
+                "input": {},
+                "output": {} }
 
     # fill in the testcase
     testcase["input"]["stdin"] = {"type": "text", 
