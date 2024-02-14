@@ -56,6 +56,7 @@ for test in cases:
     
     # generate output to output file
     som = 0
+    random.seed(seed)
     for _ in range(n):
         worp1 = random.randint(1, 6)
         worp2 = random.randint(1, 6)

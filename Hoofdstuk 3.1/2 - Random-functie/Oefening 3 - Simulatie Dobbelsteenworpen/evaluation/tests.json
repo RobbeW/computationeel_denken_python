@@ -21,7 +21,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Het gemiddelde bij 50000 worpen is 7.01\n"
+                  "data": "Het gemiddelde bij 50000 worpen is 6.99\n"
                 }
               }
             }
@@ -93,7 +93,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Het gemiddelde bij 10000 worpen is 7.01\n"
+                  "data": "Het gemiddelde bij 10000 worpen is 7.02\n"
                 }
               }
             }
@@ -117,7 +117,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Het gemiddelde bij 5 worpen is 7.4\n"
+                  "data": "Het gemiddelde bij 5 worpen is 8.2\n"
                 }
               }
             }
@@ -141,7 +141,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Het gemiddelde bij 10 worpen is 8.0\n"
+                  "data": "Het gemiddelde bij 10 worpen is 7.3\n"
                 }
               }
             }
@@ -189,7 +189,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Het gemiddelde bij 1000 worpen is 6.93\n"
+                  "data": "Het gemiddelde bij 1000 worpen is 6.95\n"
                 }
               }
             }
@@ -213,7 +213,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Het gemiddelde bij 500 worpen is 6.83\n"
+                  "data": "Het gemiddelde bij 500 worpen is 6.84\n"
                 }
               }
             }

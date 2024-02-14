@@ -10,7 +10,8 @@
   },
   "evaluation": {
     "handler": "tested",
-    "test_suite": "tests.json"
+    "test_suite": "tests.json",
+    "time_limit": 120
   },
   "labels": [
     "python"
