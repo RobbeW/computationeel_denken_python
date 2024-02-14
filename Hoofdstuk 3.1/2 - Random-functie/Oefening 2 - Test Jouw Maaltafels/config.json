@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Random Functie - Test jouw maaltafels",
-      "en": "Random Function - Test the tables of multiplication"
+      "nl": "Import random - Test jouw maaltafels",
+      "en": "Import random - Test the tables of multiplication"
     }
   },
   "evaluation": {

@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Random Functie - Simulatie dobbelsteenworpen",
-      "en": "Random Function - Simulating rolling dice"
+      "nl": "Import random - Simulatie dobbelsteenworpen",
+      "en": "Import random - Simulating rolling dice"
     }
   },
   "evaluation": {

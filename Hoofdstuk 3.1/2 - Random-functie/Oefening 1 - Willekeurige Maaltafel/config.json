@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Random Functie - Willekeurige maaltafel",
-      "en": "Random Function - Random multiplication"
+      "nl": "Import random - Willekeurige maaltafel",
+      "en": "Import random - Random multiplication"
     }
   },
   "evaluation": {
