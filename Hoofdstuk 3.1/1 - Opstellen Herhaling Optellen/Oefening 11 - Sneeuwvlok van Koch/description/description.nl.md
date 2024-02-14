@@ -7,12 +7,7 @@ Het was wiskundige <a href="https://nl.wikipedia.org/wiki/Helge_von_Koch" target
 
 ![Vorming van Koch's sneeuwvlok.](media/image_dark.png "Vorming van Koch's sneeuwvlok."){:data-caption="Vorming van Koch's sneeuwvlok." .dark-only width="30%"}
 
-De sneeuwvlak van Koch heeft een oneindig grote omtrek, maar indien de zijde van de oorspronkelijke gelijkzijdige driehoek $$\mathsf{z}$$ noemt, dan kan je de omtrek $$\mathsf{P}$$ bij iteratie $$\mathsf{n}$$ berekenen via:
-
-$$
-    \mathsf{A = 3 \cdot z \cdot \left(\dfrac{4}{3} \right)^n}
-$$
-
+De sneeuwvlak van Koch heeft een oneindig grote omtrek, maar indien de zijde van de oorspronkelijke gelijkzijdige driehoek $$\mathsf{z}$$ noemt, dan kan je de omtrek $$\mathsf{P}$$ bij iteratie $$\mathsf{n}$$ berekenen door de **vorige omtrek** te **vermenigvuldigen** met **vier derden**.
 
 ## Gevraagd
 Schrijf een programma dat de zijde van de oorspronkelijke driehoek (in cm) vraag en nadien het nummer in de iteratie. Vervolgens worden de verschillende omtrekken op het scherm weergegeven. Telkens **afgerond** op 2 cijfers na de komma.
