@@ -52,6 +52,7 @@ for test in cases:
                 "output": {} }
     
     # generate output to output file
+    # Something not right withe the random seed...
     script = os.path.join(solutiondir, 'solution.nl.py')
     process= subprocess.run(
         ['python3', script],
