@@ -1,0 +1,109 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": [
+            {
+              "python": {
+                "data": "import random; random.seed(7247)"
+              }
+            }
+          ],
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot:",
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Tafel van 10 :\n1 x 10 = 10\n2 x 10 = 20\n3 x 10 = 30\n4 x 10 = 40\n5 x 10 = 50\n6 x 10 = 60\n7 x 10 = 70\n8 x 10 = 80\n9 x 10 = 90\n10 x 10 = 100"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": [
+            {
+              "python": {
+                "data": "import random; random.seed(8884)"
+              }
+            }
+          ],
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot:",
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Tafel van 4 :\n1 x 4 = 4\n2 x 4 = 8\n3 x 4 = 12\n4 x 4 = 16\n5 x 4 = 20\n6 x 4 = 24\n7 x 4 = 28\n8 x 4 = 32\n9 x 4 = 36\n10 x 4 = 40"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": [
+            {
+              "python": {
+                "data": "import random; random.seed(9864)"
+              }
+            }
+          ],
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot:",
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Tafel van 7 :\n1 x 7 = 7\n2 x 7 = 14\n3 x 7 = 21\n4 x 7 = 28\n5 x 7 = 35\n6 x 7 = 42\n7 x 7 = 49\n8 x 7 = 56\n9 x 7 = 63\n10 x 7 = 70"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": [
+            {
+              "python": {
+                "data": "import random; random.seed(6508)"
+              }
+            }
+          ],
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot:",
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Tafel van 3 :\n1 x 3 = 3\n2 x 3 = 6\n3 x 3 = 9\n4 x 3 = 12\n5 x 3 = 15\n6 x 3 = 18\n7 x 3 = 21\n8 x 3 = 24\n9 x 3 = 27\n10 x 3 = 30"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": [
+            {
+              "python": {
+                "data": "import random; random.seed(4979)"
+              }
+            }
+          ],
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot:",
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Tafel van 10 :\n1 x 10 = 10\n2 x 10 = 20\n3 x 10 = 30\n4 x 10 = 40\n5 x 10 = 50\n6 x 10 = 60\n7 x 10 = 70\n8 x 10 = 80\n9 x 10 = 90\n10 x 10 = 100"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
