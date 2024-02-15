@@ -22,11 +22,11 @@ Indien je **bijvoorbeeld** 100 punten willekeurig kiest, dan zal hiervan ongevee
 
 Bij `100000` simulaties is de uitvoer bijvoorbeeld:
 ```
-Bij 100000 simulaties bedraagt de schatting voor pi ongeveer: 3.10564
+Bij 100000 simulaties bedraagt de schatting voor pi ongeveer: 3.10748
 ```
 
 {: .callout.callout-info}
 >#### Tips
 >* Gebruik `random.randint(-100,100) / 100` om een willekeurig kommagetal tussen -1 en 1 te verkrijgen.
 >* Hou bij hoeveel punten binnenin de cirkel liggen.
->* Vergeet niet om de `random` module eerst te importeren.
+>* Vergeet niet om de `random` en `math` modules eerst te importeren.

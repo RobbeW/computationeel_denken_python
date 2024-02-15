@@ -1,0 +1,249 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(123)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 123 en invoer 100000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 100000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 100000 simulaties bedraagt de schatting voor pi ongeveer: 3.10748"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 en invoer 50000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 50000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 50000 simulaties bedraagt de schatting voor pi ongeveer: 3.11224"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 en invoer 500000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 500000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 500000 simulaties bedraagt de schatting voor pi ongeveer: 3.10695"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 en invoer 50000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 50000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 50000 simulaties bedraagt de schatting voor pi ongeveer: 3.10848"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 en invoer 10000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 10000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 10000 simulaties bedraagt de schatting voor pi ongeveer: 3.0836"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9833)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9833 en invoer 5 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 5
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 5 simulaties bedraagt de schatting voor pi ongeveer: 4.0"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(3027)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 3027 en invoer 10 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 10
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 10 simulaties bedraagt de schatting voor pi ongeveer: 4.0"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5147)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5147 en invoer 5000000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 5000000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 5000000 simulaties bedraagt de schatting voor pi ongeveer: 3.10828"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9689)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9689 en invoer 1000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 1000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 1000 simulaties bedraagt de schatting voor pi ongeveer: 3.056"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4656)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4656 en invoer 500 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 500
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Bij 500 simulaties bedraagt de schatting voor pi ongeveer: 3.032"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

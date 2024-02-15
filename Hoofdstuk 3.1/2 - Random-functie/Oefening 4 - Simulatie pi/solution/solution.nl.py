@@ -8,7 +8,7 @@ n = int(input("Geef het aantal simulaties in: "))
 
 # We doen dit zoveel keer
 for _ in range(n):
-    # Genereer twee willekeurige getallen tussen 1 en 6
+    # Genereer een willekeurig punt
     x = random.randint(-100, 100) / 100
     y = random.randint(-100, 100) / 100
     
