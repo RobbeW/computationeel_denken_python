@@ -21,7 +21,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 100000 simulaties bedraagt de schatting voor pi ongeveer: 3.10748"
+                  "data": "Bij 100000 simulaties bedraagt de schatting voor pi ongeveer: 3.10748\n"
                 }
               }
             }
@@ -45,7 +45,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 50000 simulaties bedraagt de schatting voor pi ongeveer: 3.11224"
+                  "data": "Bij 50000 simulaties bedraagt de schatting voor pi ongeveer: 3.11224\n"
                 }
               }
             }
@@ -69,7 +69,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 500000 simulaties bedraagt de schatting voor pi ongeveer: 3.10695"
+                  "data": "Bij 500000 simulaties bedraagt de schatting voor pi ongeveer: 3.10695\n"
                 }
               }
             }
@@ -93,7 +93,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 50000 simulaties bedraagt de schatting voor pi ongeveer: 3.10848"
+                  "data": "Bij 50000 simulaties bedraagt de schatting voor pi ongeveer: 3.10848\n"
                 }
               }
             }
@@ -117,7 +117,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 10000 simulaties bedraagt de schatting voor pi ongeveer: 3.0836"
+                  "data": "Bij 10000 simulaties bedraagt de schatting voor pi ongeveer: 3.0836\n"
                 }
               }
             }
@@ -141,7 +141,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 5 simulaties bedraagt de schatting voor pi ongeveer: 4.0"
+                  "data": "Bij 5 simulaties bedraagt de schatting voor pi ongeveer: 4.0\n"
                 }
               }
             }
@@ -165,7 +165,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 10 simulaties bedraagt de schatting voor pi ongeveer: 4.0"
+                  "data": "Bij 10 simulaties bedraagt de schatting voor pi ongeveer: 4.0\n"
                 }
               }
             }
@@ -189,7 +189,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 5000000 simulaties bedraagt de schatting voor pi ongeveer: 3.10828"
+                  "data": "Bij 5000000 simulaties bedraagt de schatting voor pi ongeveer: 3.10828\n"
                 }
               }
             }
@@ -213,7 +213,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 1000 simulaties bedraagt de schatting voor pi ongeveer: 3.056"
+                  "data": "Bij 1000 simulaties bedraagt de schatting voor pi ongeveer: 3.056\n"
                 }
               }
             }
@@ -237,7 +237,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Bij 500 simulaties bedraagt de schatting voor pi ongeveer: 3.032"
+                  "data": "Bij 500 simulaties bedraagt de schatting voor pi ongeveer: 3.032\n"
                 }
               }
             }
