@@ -3,7 +3,7 @@ Je kan de waarde van π *schatten* door middel van simulatie. Indien men en cirk
 Kies je nu willekeurig een punt met coördinaten $$\mathsf{(x,y)}$$ binnen dit vierkant, dan ligt dit ofwel binnen de cirkel, ofwel niet. Je kan dit achterhalen door de **afstand van het punt tot de oorsprong** $$\mathsf{(0,0)}$$ te berekenen via:
 
 $$
-\mathsf{\sqrt{(x-0)^2+(y-0)^2  = \sqrt{x^2+y^2}}}
+\mathsf{\sqrt{(x-0)^2+(y-0)^2}  = \sqrt{x^2+y^2}}
 $$
 
 Indien je **bijvoorbeeld** 100 punten willekeurig kiest, dan zal hiervan ongeveer $$\mathsf{\dfrac{\pi}{4}}$$ punten binnen de cirkel liggen (quasi 78 punten). Je bekomt dus een schatting voor π door het viervoud te bepalen van de verhouding van het aantal punten binnen de cirkel tot het totale aantal gekozen punten, in dit geval zal $$\mathsf{\pi \approx 4 \cdot \dfrac{78}{100} = 3,12}$$.
