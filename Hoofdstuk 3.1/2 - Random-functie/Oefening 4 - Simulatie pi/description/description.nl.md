@@ -15,12 +15,12 @@ Indien je **bijvoorbeeld** 100 punten willekeurig kiest, dan zal hiervan ongevee
 ## Gevraagd
 * Schrijf een programma dat vraagt hoeveel punten willekeurig gekozen moeten worden.
 * Kies vervolgens zoveel verschillende x- en y-coördinaten (zie tip onderaan). 
-* Controleer of het punt wel of niet binnen de cirkel met straal 1 ligt.
+* Controleer of het punt **binnen** de cirkel met straal 1 ligt.
 * Bepaal op het einde een schatting voor π, **rond** deze **af** op 5 cijfers na de komma.
 
 #### Voorbeeld
 
-Bij `1000.0` simulaties is de uitvoer bijvoorbeeld:
+Bij `100000` simulaties is de uitvoer bijvoorbeeld:
 ```
 Bij 100000 simulaties bedraagt de schatting voor pi ongeveer: 3.10564
 ```
