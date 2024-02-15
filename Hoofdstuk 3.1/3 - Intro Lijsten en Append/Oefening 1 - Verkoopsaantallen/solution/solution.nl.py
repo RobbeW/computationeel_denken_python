@@ -8,7 +8,6 @@ som = 0
 for vestiging in vestigingen:
     # Vraag de gebruiker om het verkoopbedrag voor deze vestiging
     bedrag = float(input("Voer het totaal in voor de winkel in " + vestiging + ": "))
-    print()
     
     # Voeg het bedrag toe aan de som
     som += bedrag
