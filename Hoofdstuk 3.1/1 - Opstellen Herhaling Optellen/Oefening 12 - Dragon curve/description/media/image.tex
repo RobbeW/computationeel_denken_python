@@ -21,9 +21,25 @@
 }
 
 \begin{document}
-	\foreach \order in {1,...,12,11,10, 9,8,7,6,5,4,3,2} {
+	\begin{tikzpicture}[scale=1.5, main, line join=bevel]
+		\clip (-1,-1) rectangle (2,1.75);
+		\draw[main, line width=1pt, PineGreen, Dragon curve={order=1,step=10mm}] l-system;
+	\end{tikzpicture}
+	
+	\foreach \order in {2,...,6} {
 		\begin{tikzpicture}[scale=1.5, main, line join=bevel]
 			\clip (-1,-1) rectangle (2,1.75);
+			
+			\draw[rotate =-45*(\order-2), main, line width=1pt/(1.2^(\order-2)), dotted, gray!30, Dragon curve={order=(\order-1),step=10mm/(1.4142^(\order-2))}] l-system;
+			
+			\draw[rotate =-45*(\order-1), main, line width=1pt/(1.2^(\order-1)), PineGreen, Dragon curve={order=\order,step=10mm/(1.4142^(\order-1))}] l-system;
+		\end{tikzpicture}
+	}
+	
+	\foreach \order in {7,...,12,11,10,9,8,7,6,5,4,3,2} {
+		\begin{tikzpicture}[scale=1.5, main, line join=bevel]
+			\clip (-1,-1) rectangle (2,1.75);
+			
 			\draw[rotate =-45*(\order-1), main, line width=1pt/(1.2^(\order-1)), PineGreen, Dragon curve={order=\order,step=10mm/(1.4142^(\order-1))}] l-system;
 		\end{tikzpicture}
 	}
