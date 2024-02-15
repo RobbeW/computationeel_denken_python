@@ -18,7 +18,7 @@ Het gemiddelde bij 10000 worpen is 7.01
 ```
 
 {: .callout.callout-info}
->#### Tps
+>#### Tips
 >* Gebruik de `random.randint(a, b)` om een worp met één dobbelsteen te *simuleren*;
 >* Houd de `som` van de worpen bij en bereken nadien het gemiddelde;
 >* Vergeet niet om de `random` module eerst te importeren.
