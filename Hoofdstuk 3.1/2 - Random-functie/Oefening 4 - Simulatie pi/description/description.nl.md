@@ -8,9 +8,9 @@ $$
 
 Indien je **bijvoorbeeld** 100 punten willekeurig kiest, dan zal hiervan ongeveer $$\mathsf{\dfrac{\pi}{4}}$$ punten binnen de cirkel liggen (quasi 78 punten). Je bekomt dus een schatting voor π door het viervoud te bepalen van de verhouding van het aantal punten binnen de cirkel tot het totale aantal gekozen punten, in dit geval zal $$\mathsf{\pi \approx 4 \cdot \dfrac{78}{100} = 3,12}$$.
 
-![π simuleren.](media/image.png "π simuleren."){:data-caption="π simuleren." .light-only width="40%"}
+![π simuleren.](media/image.png "π simuleren."){:data-caption="π simuleren." .light-only width="45%"}
 
-![π simuleren.](media/image_dark.png "π simuleren."){:data-caption="π simuleren." .dark-only width="40%"}
+![π simuleren.](media/image_dark.png "π simuleren."){:data-caption="π simuleren." .dark-only width="45%"}
 
 ## Gevraagd
 * Schrijf een programma dat vraagt hoeveel punten willekeurig gekozen moeten worden.
