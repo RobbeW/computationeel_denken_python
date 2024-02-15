@@ -22,19 +22,20 @@ settings = f'''
 tab name: {tab_name}
 python input without prompt: true
 block count: multi
-input block size: 1
+input block size: 2
 output block size: ends with
 comparison: exact match
 '''
 
 # generate test data
 ntests = 20
-cases = [(144.0,), (256.0,), (16.0,)]
+cases = [(144.0,4), (256.0,6), (16.0,4)]
 while len(cases) < ntests:
     getal = round(random.uniform(1.1,3.2), 1)
     opp = round( round(getal**2, 2)*64, 2)
-    if (opp,) not in cases:
-        cases.append( (opp,))
+    n = random.randint(2,8)
+    if (opp,n) not in cases:
+        cases.append( (opp,n))
 
 # configure test files
 infile = open(os.path.join(evaldir, '0.in'), 'w')
