@@ -5,9 +5,6 @@
       "en": "Theory - Iterations and Lists"
     }
   },
-  "evaluation": {
-    "pythia_judge": "output"
-  },
   "labels": [
     "robbe wulgaert",
     "python"
