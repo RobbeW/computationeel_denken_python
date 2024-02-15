@@ -25,4 +25,4 @@ Het maandtotaal bedraagt 675305.7 euro.
 
 {: .callout.callout-info}
 >#### Tip
->*Gebruik een variabele `som`om het maandtotaal te berekenen. 
+>Gebruik een variabele `som`om het maandtotaal te berekenen. 
