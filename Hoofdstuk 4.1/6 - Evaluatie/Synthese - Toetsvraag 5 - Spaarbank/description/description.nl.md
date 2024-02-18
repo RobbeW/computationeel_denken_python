@@ -15,14 +15,14 @@ Laat het eindresultaat verschijnen op het scherm met een **verzorgd stukje tekst
 Zorg dat je in dat stukje tekst kan afleiden wat het startbedrag, aantal jaar sparen en interest waren. 
 
 #### Voorbeeld
-Indien de gebruiker `5` jaar wenst te sparen verschijnt er bijvoorbeeld:
+Indien de gebruiker `5` jaar wenst te sparen en het willekeurige bedrag was bijvoorbeeld `526`, dan verschijnt er:
 
 ```
-Na 0 jaar staat er 726 euro op de rekening.
-Na 1 jaar staat er 740.52 euro op de rekening.
-Na 2 jaar staat er 755.33 euro op de rekening.
-Na 3 jaar staat er 770.44 euro op de rekening.
-Na 4 jaar staat er 785.85 euro op de rekening.
-Na 5 jaar sparen aan een interest van 2.0 % staat er 801.56 euro op de spaarrekening.
+Na 0 jaar staat er 526 euro op de rekening.
+Na 1 jaar staat er 536.52 euro op de rekening.
+Na 2 jaar staat er 547.25 euro op de rekening.
+Na 3 jaar staat er 558.2 euro op de rekening.
+Na 4 jaar staat er 569.36 euro op de rekening.
+Na 5 jaar sparen aan een interest van 2.0 % staat er 580.75 euro op de spaarrekening.
 ```
 
