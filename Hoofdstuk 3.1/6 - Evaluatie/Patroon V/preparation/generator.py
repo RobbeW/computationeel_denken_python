@@ -29,7 +29,7 @@ comparison: exact match
 
 # generate test data
 cases = []
-for i in range(3,21):
+for i in range(2,21):
     cases.append( (i,))
 
 # configure test files
