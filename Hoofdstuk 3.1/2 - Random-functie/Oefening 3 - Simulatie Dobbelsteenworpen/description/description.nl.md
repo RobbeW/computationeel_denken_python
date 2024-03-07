@@ -1,22 +1,24 @@
-## Gegeven
-Schrijf een programma dat **40 worpen** met twee dobbelstenen simuleert. 
-Nadien verschijnt het **gemiddelde** van de 40 worpen op het scherm.
-
 ## Gevraagd
-* Schrijf een programma dat 40 worpen met twee dobbelstenen simuleert;
-* Bereken het gemiddelde van de 40 worpen;
-* Print het gemiddelde van de worpen op het scherm.
+* Schrijf een programma dat naar een **aantal worpen** vraagt;
+* Vervolgens simuleert het programma evenveel worpen met **twee dobbelstenen**;
+* Je berekent telkens de som van het aantal *ogen*;
+* Op het einde wordt het gemiddelde van deze som berekend en op het scherm weergegeven. Je rondt hierbij af op 2 decimalen.
 
-## Uitvoer
+![Een worp van twee dobbelstenen.](media/dice.gif "Een worp van twee dobbelstenen."){:data-caption="Een worp van twee dobbelstenen." width="500px"}
+
+#### Voorbeelden
+Bij `10` worpen is de uitvoer bijvoorbeeld:
 ```
-Het gemiddelde van de 40 worpen is ...
-
+Het gemiddelde bij 10 worpen is 6.4
 ```
 
-{: .callout.callout-success}
->## Tps
->* Gebruik de `random.randint(a, b)` functie uit de random module om een willekeurig getal tussen a en b (inclusief) te genereren. 
->* Dit stelt een worp met een dobbelsteen voor.
->* Gebruik een `for-lus` om de 40 worpen te simuleren.
->* Houd de `som` van de worpen bij en bereken aan het einde het `gemiddelde` door de `som` te delen door 40.
->* Vergeet niet om de `random` module eerst te `importeren` met import random.
+Bij `10000` worpen is de uitvoer bijvoorbeeld:
+```
+Het gemiddelde bij 10000 worpen is 7.01
+```
+
+{: .callout.callout-info}
+>#### Tips
+>* Gebruik de `random.randint(a, b)` om een worp met één dobbelsteen te *simuleren*;
+>* Houd de `som` van de worpen bij en bereken nadien het gemiddelde;
+>* Vergeet niet om de `random` module eerst te importeren.

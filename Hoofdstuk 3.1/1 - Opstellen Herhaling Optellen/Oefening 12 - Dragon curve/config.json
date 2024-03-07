@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Begrensde herhaling - Draakkromme"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "wzYKfDVZJidHvGwEKxmARhs7IYfg4n6c3-RJUnA3SyY2FcBzQmsKBqz_KaH39grv",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

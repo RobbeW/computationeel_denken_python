@@ -4,18 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Random Functie - Test Jouw Maaltafels",
-      "en": "Random Function - Test The Tables of Multiplication"
+      "nl": "Import random - Test jouw maaltafels",
+      "en": "Import random - Test the tables of multiplication"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.json"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "python"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "3ADrNSNR9YVkM2dEvRvxh4bVPxK_WxFZnxsIi6Gu7cyZWXa7xTbET-CiFtapBuw-",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."

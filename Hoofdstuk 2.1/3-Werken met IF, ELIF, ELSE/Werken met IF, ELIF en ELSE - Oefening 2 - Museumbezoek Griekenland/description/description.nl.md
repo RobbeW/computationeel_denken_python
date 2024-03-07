@@ -18,7 +18,7 @@ Voer je naam in: Fred
 Voer je leeftijd in: 30
 ```
 
-verschijnt:
+Verschijnt:
 ```
 Hallo, Fred. Je moet € 9 betalen voor de toegang tot het museum.
 ```

@@ -1,0 +1,249 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande (met als achtereenvolgende invoer 31 - 14 - 32 - 60 - 23)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "31\n14\n32\n60\n23\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 10\nGetal 2: 3\nDat is niet correct. Het juiste antwoord is 30\nGetal 1: 2\nGetal 2: 7\nGoed zo!\nGetal 1: 5\nGetal 2: 6\nDat is niet correct. Het juiste antwoord is 30\nGetal 1: 6\nGetal 2: 10\nGoed zo!\nGetal 1: 10\nGetal 2: 2\nDat is niet correct. Het juiste antwoord is 20\nJe totaalscore is 2 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8884)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande (met als achtereenvolgende invoer 8 - 26 - 70 - 31 - 50)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "8\n26\n70\n31\n50\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 4\nGetal 2: 2\nGoed zo!\nGetal 1: 3\nGetal 2: 7\nDat is niet correct. Het juiste antwoord is 21\nGetal 1: 10\nGetal 2: 7\nGoed zo!\nGetal 1: 4\nGetal 2: 9\nDat is niet correct. Het juiste antwoord is 36\nGetal 1: 9\nGetal 2: 5\nDat is niet correct. Het juiste antwoord is 45\nJe totaalscore is 2 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9864)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande (met als achtereenvolgende invoer 6 - 48 - 26 - 50 - 40)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "6\n48\n26\n50\n40\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 7\nGetal 2: 1\nDat is niet correct. Het juiste antwoord is 7\nGetal 1: 8\nGetal 2: 6\nGoed zo!\nGetal 1: 8\nGetal 2: 3\nDat is niet correct. Het juiste antwoord is 24\nGetal 1: 10\nGetal 2: 5\nGoed zo!\nGetal 1: 5\nGetal 2: 8\nGoed zo!\nJe totaalscore is 3 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6508)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande (met als achtereenvolgende invoer 13 - 64 - 0 - 75 - 50)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "13\n64\n0\n75\n50\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 3\nGetal 2: 6\nDat is niet correct. Het juiste antwoord is 18\nGetal 1: 7\nGetal 2: 9\nDat is niet correct. Het juiste antwoord is 63\nGetal 1: 2\nGetal 2: 2\nDat is niet correct. Het juiste antwoord is 4\nGetal 1: 10\nGetal 2: 7\nDat is niet correct. Het juiste antwoord is 70\nGetal 1: 5\nGetal 2: 10\nGoed zo!\nJe totaalscore is 1 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande (met als achtereenvolgende invoer 94 - 46 - 56 - 10 - 12)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "94\n46\n56\n10\n12\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 10\nGetal 2: 9\nDat is niet correct. Het juiste antwoord is 90\nGetal 1: 8\nGetal 2: 6\nDat is niet correct. Het juiste antwoord is 48\nGetal 1: 8\nGetal 2: 7\nGoed zo!\nGetal 1: 3\nGetal 2: 4\nDat is niet correct. Het juiste antwoord is 12\nGetal 1: 3\nGetal 2: 4\nGoed zo!\nJe totaalscore is 2 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7647)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande (met als achtereenvolgende invoer 11 - 26 - 7 - 10 - 5)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "11\n26\n7\n10\n5\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 2\nGetal 2: 6\nDat is niet correct. Het juiste antwoord is 12\nGetal 1: 4\nGetal 2: 7\nDat is niet correct. Het juiste antwoord is 28\nGetal 1: 5\nGetal 2: 1\nDat is niet correct. Het juiste antwoord is 5\nGetal 1: 5\nGetal 2: 2\nGoed zo!\nGetal 1: 4\nGetal 2: 1\nDat is niet correct. Het juiste antwoord is 4\nJe totaalscore is 1 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande (met als achtereenvolgende invoer 63 - 15 - 51 - 18 - 28)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "63\n15\n51\n18\n28\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 9\nGetal 2: 7\nGoed zo!\nGetal 1: 3\nGetal 2: 5\nGoed zo!\nGetal 1: 8\nGetal 2: 7\nDat is niet correct. Het juiste antwoord is 56\nGetal 1: 6\nGetal 2: 3\nGoed zo!\nGetal 1: 6\nGetal 2: 4\nDat is niet correct. Het juiste antwoord is 24\nJe totaalscore is 3 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8765)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande (met als achtereenvolgende invoer 27 - 10 - 12 - 30 - 27)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "27\n10\n12\n30\n27\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 5\nGetal 2: 6\nDat is niet correct. Het juiste antwoord is 30\nGetal 1: 2\nGetal 2: 5\nGoed zo!\nGetal 1: 6\nGetal 2: 2\nGoed zo!\nGetal 1: 3\nGetal 2: 10\nGoed zo!\nGetal 1: 6\nGetal 2: 4\nDat is niet correct. Het juiste antwoord is 24\nJe totaalscore is 3 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5752)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande (met als achtereenvolgende invoer 72 - 20 - 53 - 56 - 36)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "72\n20\n53\n56\n36\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 9\nGetal 2: 8\nGoed zo!\nGetal 1: 2\nGetal 2: 10\nGoed zo!\nGetal 1: 6\nGetal 2: 9\nDat is niet correct. Het juiste antwoord is 54\nGetal 1: 8\nGetal 2: 7\nGoed zo!\nGetal 1: 9\nGetal 2: 4\nGoed zo!\nJe totaalscore is 4 op 5.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande (met als achtereenvolgende invoer 12 - 49 - 63 - 48 - 86)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "12\n49\n63\n48\n86\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Getal 1: 1\nGetal 2: 9\nDat is niet correct. Het juiste antwoord is 9\nGetal 1: 10\nGetal 2: 5\nDat is niet correct. Het juiste antwoord is 50\nGetal 1: 7\nGetal 2: 9\nGoed zo!\nGetal 1: 8\nGetal 2: 6\nGoed zo!\nGetal 1: 9\nGetal 2: 9\nDat is niet correct. Het juiste antwoord is 81\nJe totaalscore is 2 op 5.\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

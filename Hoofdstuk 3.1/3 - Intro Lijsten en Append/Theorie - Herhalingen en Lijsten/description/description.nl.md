@@ -3,7 +3,7 @@
 In deze video leer je: 
 * een lijst aanmaken; 
 * de index van een lijst duiden; 
-* items toevoegen (append) aan een lijst; 
+* items toevoegen (`append`) aan een lijst; 
 * items zoeken in een lijst via de index; 
 * lijsten combineren met herhalingen. 
 

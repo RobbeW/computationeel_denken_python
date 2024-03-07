@@ -7,10 +7,10 @@ Plato bestudeerde vierkanten opgebouwd uit vier identieke kleinere vierkanten. D
 
 
 ## Gevraagd
-Schrijf een programma dat de oppervlakte van het grootste vierkant vraagt en vervolgens de zijden van de kleiner wordende vierkanten berekent. **Rond** telkens **af** op 2 cijfers na de komma.
+Schrijf een programma dat de oppervlakte van het grootste vierkant **vraagt**. Vervolgens vraagt het programma hoeveel iteraties uitgevoerd moeten worden. Tot slot berekent de zijden van de steeds kleiner wordende vierkanten. **Rond** telkens **af** op 2 cijfers na de komma.
 
 #### Voorbeeld
-Indien het grootste vierkant een oppervlakte van `144` m² heeft, dan verschijnt er
+Indien het grootste vierkant een oppervlakte van `144` m² heeft en als er `4` iteraties uitgevoerd moeten worden, dan verschijnt er:
 ```
 De lengte van de zijde van vierkant 1 is 12.0 m.
 De oppervlakte van vierkant 2 is 36.0 m².
@@ -23,6 +23,7 @@ De lengte van de zijde van vierkant 4 is 1.5 m.
 
 {: .callout.callout-info}
 >#### Tips
-> - Vergeet niet om de math module eerst te importeren met `import math`.
+> - Vergeet niet om de `math` module eerst te importeren met `import math`.
 > - De lengte van de zijde van elk kleiner vierkant kan worden berekend door de **wortel** te nemen van de oppervlakte van het kleinere vierkant. 
+> - Rond **enkel** af in je `print` instructie, **niet** in de tussentijdse berekeningen.
 

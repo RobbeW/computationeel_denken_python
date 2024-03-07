@@ -1,0 +1,20 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Selectie Toetsvraag - Donkey Republic"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python"
+  ],
+  "internals": {
+    "token": "cQYb6g2fexyhSNthQ2NkjsVInF5ZJkW_cmcW8k_IpVSUWKRv9Fjr_ZbivzmYacUz",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

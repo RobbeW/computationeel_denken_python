@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Import random - Simulatie π",
+      "en": "Import random - Simulating π"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.json",
+    "time_limit": 120
+  },
+  "labels": [
+    "python"
+  ],
+  "internals": {
+    "token": "u8ARRsUWUNyMtPwGQYgfWVtZRXkQGERTyAzM4fGHjj_tXCm_vts9NGqE7tVD8eKI",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
