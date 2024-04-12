@@ -20,5 +20,5 @@ Blauw: 25
 
 {: .callout.callout-info}
 >#### Tips
-> * De gegeven code `list(map(int, invoer.split()))` vormt de **string** `227 33 25` om naar een lijst `[227 33 25]`;
+> * De gegeven code `list(map(int, invoer.split()))` vormt de **string** `227 33 25` om naar een **lijst** `[227 33 25]`;
 > * Je hoeft in deze oefening **geen** herhaling te implementeren, deze oefening werkt enkel met lijsten.
