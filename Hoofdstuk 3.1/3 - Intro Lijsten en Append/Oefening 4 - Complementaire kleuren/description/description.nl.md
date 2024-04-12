@@ -5,7 +5,7 @@ Complementaire kleuren zijn kleuren die recht tegenover elkaar staan in het RGB 
 
 Het is gemakkelijk om van een RGB kleurcode `[R, G, B]` de complementaire kleur te bepalen, men gebruikt de volgende formule:
 
-<span style="text-align: center;">`[255 - R, 255 - G, 255 - B]`</span>
+<p style="text-align: center;">`[255 - R, 255 - G, 255 - B]`</p>
 
 ## Gevraagd
 
