@@ -1,7 +1,7 @@
 ## Gegeven
 Het RGB-kleursysteem is een manier om een kleur uit te drukken met behulp van een combinatie van de drie primaire kleuren Rood-Groen-Blauw. De hoeveelheid van een kleur ligt in tussen 0 (niets van die kleur) en het 255 (alles van die kleur). 
 
-Er geldt bijvoorbeeld dat `[227, 33, 25]` staat voor 227 rood, 33 groen en 25 blauw, wat resulteert in <span style="background-color:rgb(227,33,25)">**deze kleur**</span>.
+Er geldt bijvoorbeeld dat `[227, 33, 25]` staat voor 227 rood, 33 groen en 25 blauw, wat resulteert in <span style="color:rgb(227,33,25)">**deze kleur**</span>.
 
 ![RGB waarden.](media/RGBvalues.gif "RGB waarden."){:data-caption="RGB waarden." width="498px"}
 
