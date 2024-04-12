@@ -1,15 +1,65 @@
-De delers van 25 die een positief geheel getal als quotiënt uitkomen zijn: [1, 5, 25]
+De delers van 25 zijn:
+[1, 5, 25]
 
-De delers van 125 die een positief geheel getal als quotiënt uitkomen zijn: [1, 5, 25, 125]
+De delers van 1 zijn:
+[1]
 
-De delers van 64 die een positief geheel getal als quotiënt uitkomen zijn: [1, 2, 4, 8, 16, 32, 64]
+De delers van 280 zijn:
+[1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280]
 
-De delers van 1024 die een positief geheel getal als quotiënt uitkomen zijn: [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+De delers van 329 zijn:
+[1, 7, 47, 329]
 
-De delers van 666 die een positief geheel getal als quotiënt uitkomen zijn: [1, 2, 3, 6, 9, 18, 37, 74, 111, 222, 333, 666]
+De delers van 227 zijn:
+[1, 227]
+
+De delers van 278 zijn:
+[1, 2, 139, 278]
+
+De delers van 364 zijn:
+[1, 2, 4, 7, 13, 14, 26, 28, 52, 91, 182, 364]
+
+De delers van 309 zijn:
+[1, 3, 103, 309]
+
+De delers van 204 zijn:
+[1, 2, 3, 4, 6, 12, 17, 34, 51, 68, 102, 204]
+
+De delers van 156 zijn:
+[1, 2, 3, 4, 6, 12, 13, 26, 39, 52, 78, 156]
+
+De delers van 353 zijn:
+[1, 353]
+
+De delers van 239 zijn:
+[1, 239]
+
+De delers van 204 zijn:
+[1, 2, 3, 4, 6, 12, 17, 34, 51, 68, 102, 204]
+
+De delers van 274 zijn:
+[1, 2, 137, 274]
+
+De delers van 180 zijn:
+[1, 2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 30, 36, 45, 60, 90, 180]
+
+De delers van 205 zijn:
+[1, 5, 41, 205]
+
+De delers van 226 zijn:
+[1, 2, 113, 226]
+
+De delers van 280 zijn:
+[1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280]
+
+De delers van 353 zijn:
+[1, 353]
+
+De delers van 107 zijn:
+[1, 107]
 -----------------------------------------
 tab name: Feedback
-python input without prompt: true
+python input without prompt: false
 block count: multi
 input block size: 1
 output block size: ends with

@@ -1,30 +1,23 @@
 ## Gegeven
-Een positief geheel getal. 
-
+Een strikt positief geheel getal. 
 
 ## Gevraagd
-* Vraag de gebruiker om een positief geheel getal in te voeren.
-* Voor elke mogelijke `deler` van dit `getal` (van 1 tot het getal zelf), bereken het `quotiënt` van het `getal`.
-* Controleer of dit `quotiënt` een positief geheel getal is (d.w.z., de rest na deling is nul) en dus geen decimaal getal.
-* `Als` dat zo is, voeg die deler toe aan een `lijst`. 
+Vraag de gebruiker om een strikt positief geheel getal in te voeren. Bepaal vervolgens alle echte delers van dat getal en sla deze op in een lijst, werk hierbij van klein naar groot.
 
-## Invoer
+
+#### Voorbeeld
 ```
 Voer een positief geheel getal in: 25
-
 ```
 
 ## Uitvoer
 ```
-De delers van 25 die een positief geheel getal als quotiënt uitkomen zijn: [...] 
-
-
+De delers van 25 zijn:
+[1, 5, 25]
 ```
-{: .callout.callout-success}
->## Tips
->* Gebruik de `input()-functie` om de gebruiker om een getal te vragen. 
->* Vergeet niet om de input om te zetten naar een `int`.
->* Gebruik een `for-lus` om door elk mogelijk deler van het getal te itereren.
->* Gebruik de `modulo-operator %` om de rest na deling te berekenen. 
->* Als het `getal % deler` gelijk is aan nul, dan is het quotiënt een positief geheel getal.
->* Voeg die deler dan toe aan een `lijst` via de `lijst.append-functie`. 
+
+{: .callout.callout-info}
+>#### Tips
+>* Gebruik een `for-lus` om door elk mogelijk deler van het getal te itereren;
+>* Gebruik de modulo-operator `%` om de rest na deling te berekenen;
+>* Gebruik `.append()` om een getal aan een lijst toe te voegen. Bijvoorbeeld `lijst.append(5)`.

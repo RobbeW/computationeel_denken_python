@@ -12,4 +12,5 @@ for i in range(1, getal + 1):
         delers.append(i)
 
 # Print de delers
-print("De delers van", getal, "die een positief geheel getal als quotiënt uitkomen zijn:", delers)
+print(f"De delers van {getal} zijn:")
+print(delers)
