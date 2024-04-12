@@ -1,0 +1,87 @@
+Rood: 227
+Groen: 33
+Blauw: 25
+
+Rood: 0
+Groen: 0
+Blauw: 0
+
+Rood: 255
+Groen: 255
+Blauw: 255
+
+Rood: 226
+Groen: 203
+Blauw: 155
+
+Rood: 238
+Groen: 203
+Blauw: 179
+
+Rood: 204
+Groen: 225
+Blauw: 106
+
+Rood: 12
+Groen: 138
+Blauw: 94
+
+Rood: 13
+Groen: 73
+Blauw: 160
+
+Rood: 237
+Groen: 155
+Blauw: 45
+
+Rood: 145
+Groen: 160
+Blauw: 192
+
+Rood: 22
+Groen: 7
+Blauw: 52
+
+Rood: 209
+Groen: 33
+Blauw: 11
+
+Rood: 156
+Groen: 228
+Blauw: 203
+
+Rood: 56
+Groen: 228
+Blauw: 8
+
+Rood: 133
+Groen: 155
+Blauw: 125
+
+Rood: 115
+Groen: 31
+Blauw: 139
+
+Rood: 45
+Groen: 177
+Blauw: 246
+
+Rood: 126
+Groen: 96
+Blauw: 66
+
+Rood: 184
+Groen: 49
+Blauw: 168
+
+Rood: 187
+Groen: 223
+Blauw: 205
+
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 1
+output block size: ends with
+comparison: exact match
