@@ -3,10 +3,10 @@ Bij de maandelijkse controle van de verkoopscijfers uit de verschillende vestigi
 Dit moet ze doen via een programma dat de namen van de vestigingen op het scherm laat verschijnen. 
 
 ## Gevraagd
-* Schrijf een programma dat itereert over een **lijst**; 
-* In deze **lijst** bevinden zich de namen van vijf vestigingen; 
+* Vul **eerst** onderstaande **lijst** `vestigingen` aan (kijk naar het voorbeeld);
+* Schrijf daarna een programma dat itereert over de lijst `vestigingen`; 
 * Telkens verschijnt de naam van de vestiging op het scherm; 
-* Daaronder vraagt het programma de invoer van Heike. 
+* Daaronder vraagt het programma de invoer van Heike;
 * Tenslotte toon je het totaal van de volledige maand. 
 
 #### Voorbeeld
