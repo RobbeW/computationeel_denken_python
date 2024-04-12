@@ -5,7 +5,7 @@ Ze wil de totalen van haar uitgaven per maand bepalen.
 ![Kredietkaarten.](media/cards.gif "Kredietkaarten."){:data-caption="Kredietkaarten." width="35%"}
 
 ## Opgave
-Gegeven zijn twee lijsten (paar kredietkaart) met haar maandelijkse uitgaven. 
+Gegeven zijn twee lijsten (per kredietkaart dus) met haar maandelijkse uitgaven. 
 Maak een nieuwe lijst met de totalen per maand.
 
 #### Voorbeeld
