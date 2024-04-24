@@ -9,7 +9,7 @@ Hierbij geeft hij als extra regel dat er 1 rijstkorrel op het eerste veld moet l
 ![Het rijstkorrelvraagstuk.](media/image.jpg "Het rijstkorrelvraagstuk."){:data-caption="Het rijstkorrelvraagstuk." width="40%"}
 
 ## Opgave
-SChrijf een programma dat voor **elk veld van het schaakbord** de hoeveelheid rijstkorrels afdrukt. 
+Schrijf een programma dat voor **elk veld van het schaakbord** de hoeveelheid rijstkorrels afdrukt. 
 
 #### Voorbeeld
 
