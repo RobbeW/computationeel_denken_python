@@ -23,6 +23,6 @@ Op veld 4 liggen 8 rijstkorrels.
 
 {: .callout.callout-info}
 >#### Tips
-> - Je moet bij deze oefening **niets** aan de gebruiker vragen.
+> - Je hoeft in deze oefening **niets** aan de gebruiker vragen.
 > - Denk eraan dat een schaakbord 8 rijen en 8 kolommen heeft. 
 
