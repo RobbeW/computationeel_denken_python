@@ -1,15 +1,15 @@
-Het eerste vierkant heeft oppervlakte 1.0 cm².
+Het eerste vierkant heeft als oppervlakte 1.0 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.5 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.25 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.125 cm².
 In iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0625 cm².
 
-Het eerste vierkant heeft oppervlakte 39.0625 cm².
+Het eerste vierkant heeft als oppervlakte 39.0625 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 19.5312 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 9.7656 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 4.8828 cm².
 
-Het eerste vierkant heeft oppervlakte 45.8329 cm².
+Het eerste vierkant heeft als oppervlakte 45.8329 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 22.9164 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 11.4582 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 5.7291 cm².
@@ -30,7 +30,7 @@ In iteratie 17 zijn er 262143 vierkanten in het totaal en is de oppervlakte van 
 In iteratie 18 zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0002 cm².
 In iteratie 19 zijn er 1048575 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0001 cm².
 
-Het eerste vierkant heeft oppervlakte 54.6121 cm².
+Het eerste vierkant heeft als oppervlakte 54.6121 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 27.306 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 13.653 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 6.8265 cm².
@@ -46,7 +46,7 @@ In iteratie 12 zijn er 8191 vierkanten in het totaal en is de oppervlakte van he
 In iteratie 13 zijn er 16383 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0067 cm².
 In iteratie 14 zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0033 cm².
 
-Het eerste vierkant heeft oppervlakte 97.8121 cm².
+Het eerste vierkant heeft als oppervlakte 97.8121 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 48.906 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 24.453 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 12.2265 cm².
@@ -59,7 +59,7 @@ In iteratie 9 zijn er 1023 vierkanten in het totaal en is de oppervlakte van het
 In iteratie 10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0955 cm².
 In iteratie 11 zijn er 4095 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0478 cm².
 
-Het eerste vierkant heeft oppervlakte 51.84 cm².
+Het eerste vierkant heeft als oppervlakte 51.84 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 25.92 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 12.96 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 6.48 cm².
@@ -75,7 +75,7 @@ In iteratie 12 zijn er 8191 vierkanten in het totaal en is de oppervlakte van he
 In iteratie 13 zijn er 16383 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0063 cm².
 In iteratie 14 zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0032 cm².
 
-Het eerste vierkant heeft oppervlakte 33.7561 cm².
+Het eerste vierkant heeft als oppervlakte 33.7561 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 16.878 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 8.439 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 4.2195 cm².
@@ -91,7 +91,7 @@ In iteratie 12 zijn er 8191 vierkanten in het totaal en is de oppervlakte van he
 In iteratie 13 zijn er 16383 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0041 cm².
 In iteratie 14 zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0021 cm².
 
-Het eerste vierkant heeft oppervlakte 24.7009 cm².
+Het eerste vierkant heeft als oppervlakte 24.7009 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 12.3504 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 6.1752 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 3.0876 cm².
@@ -101,11 +101,11 @@ In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van het 
 In iteratie 7 zijn er 255 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.193 cm².
 In iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0965 cm².
 
-Het eerste vierkant heeft oppervlakte 50.1264 cm².
+Het eerste vierkant heeft als oppervlakte 50.1264 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 25.0632 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 12.5316 cm².
 
-Het eerste vierkant heeft oppervlakte 11.8336 cm².
+Het eerste vierkant heeft als oppervlakte 11.8336 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 5.9168 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 2.9584 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 1.4792 cm².
@@ -114,7 +114,7 @@ In iteratie 5 zijn er 63 vierkanten in het totaal en is de oppervlakte van het k
 In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.1849 cm².
 In iteratie 7 zijn er 255 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0924 cm².
 
-Het eerste vierkant heeft oppervlakte 1.5376 cm².
+Het eerste vierkant heeft als oppervlakte 1.5376 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.7688 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.3844 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.1922 cm².
@@ -122,7 +122,7 @@ In iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte van het k
 In iteratie 5 zijn er 63 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.048 cm².
 In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.024 cm².
 
-Het eerste vierkant heeft oppervlakte 58.6756 cm².
+Het eerste vierkant heeft als oppervlakte 58.6756 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 29.3378 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 14.6689 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 7.3344 cm².
@@ -136,7 +136,7 @@ In iteratie 10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van he
 In iteratie 11 zijn er 4095 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0287 cm².
 In iteratie 12 zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0143 cm².
 
-Het eerste vierkant heeft oppervlakte 70.7281 cm².
+Het eerste vierkant heeft als oppervlakte 70.7281 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 35.364 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 17.682 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 8.841 cm².
@@ -154,13 +154,13 @@ In iteratie 14 zijn er 32767 vierkanten in het totaal en is de oppervlakte van h
 In iteratie 15 zijn er 65535 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0022 cm².
 In iteratie 16 zijn er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0011 cm².
 
-Het eerste vierkant heeft oppervlakte 39.9424 cm².
+Het eerste vierkant heeft als oppervlakte 39.9424 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 19.9712 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 9.9856 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 4.9928 cm².
 In iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 2.4964 cm².
 
-Het eerste vierkant heeft oppervlakte 12.6736 cm².
+Het eerste vierkant heeft als oppervlakte 12.6736 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 6.3368 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 3.1684 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 1.5842 cm².
@@ -176,19 +176,19 @@ In iteratie 12 zijn er 8191 vierkanten in het totaal en is de oppervlakte van he
 In iteratie 13 zijn er 16383 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0015 cm².
 In iteratie 14 zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0008 cm².
 
-Het eerste vierkant heeft oppervlakte 49.2804 cm².
+Het eerste vierkant heeft als oppervlakte 49.2804 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 24.6402 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 12.3201 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 6.16 cm².
 
-Het eerste vierkant heeft oppervlakte 75.5161 cm².
+Het eerste vierkant heeft als oppervlakte 75.5161 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 37.758 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 18.879 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 9.4395 cm².
 In iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 4.7198 cm².
 In iteratie 5 zijn er 63 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 2.3599 cm².
 
-Het eerste vierkant heeft oppervlakte 46.7856 cm².
+Het eerste vierkant heeft als oppervlakte 46.7856 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 23.3928 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 11.6964 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 5.8482 cm².
@@ -209,7 +209,7 @@ In iteratie 17 zijn er 262143 vierkanten in het totaal en is de oppervlakte van 
 In iteratie 18 zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0002 cm².
 In iteratie 19 zijn er 1048575 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0001 cm².
 
-Het eerste vierkant heeft oppervlakte 2.5281 cm².
+Het eerste vierkant heeft als oppervlakte 2.5281 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 1.264 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.632 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.316 cm².
@@ -229,7 +229,7 @@ In iteratie 16 zijn er 131071 vierkanten in het totaal en is de oppervlakte van 
 In iteratie 17 zijn er 262143 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0 cm².
 In iteratie 18 zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.0 cm².
 
-Het eerste vierkant heeft oppervlakte 14.0625 cm².
+Het eerste vierkant heeft als oppervlakte 14.0625 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 7.0312 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 3.5156 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 1.7578 cm².

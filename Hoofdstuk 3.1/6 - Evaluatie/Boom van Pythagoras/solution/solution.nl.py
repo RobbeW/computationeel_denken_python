@@ -4,7 +4,7 @@ z = float( input( "Geef de zijde in: " ) )
 n = int( input( "Geef het volgnummer in: " ) )
 
 # Berekeningen + uitvoer
-print("Het eerste vierkant heeft oppervlakte", round(z**2, 4), "cm².")
+print("Het eerste vierkant heeft als oppervlakte", round(z**2, 4), "cm².")
 aantal = 1
 for i in range(n):
     aantal = aantal + 2**(i+1)

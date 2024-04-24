@@ -17,7 +17,7 @@ Vervolgens bereken je in elke iteratie het totale aantal vierkanten en bepaal je
 Meet de allereerste zijde `1.0` cm en wil je de berekeningen tot iteratie `4`, dan verschijnt er:
 
 ```
-Het eerste vierkant heeft oppervlakte 1.0 cm².
+Het eerste vierkant heeft als oppervlakte 1.0 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.5 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.25 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 0.125 cm².
@@ -27,7 +27,7 @@ In iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte van het k
 Meet de allereerste zijde `6.25` cm en wil je de berekeningen tot iteratie `3`, dan verschijnt er:
 
 ```
-Het eerste vierkant heeft oppervlakte 39.0625 cm².
+Het eerste vierkant heeft als oppervlakte 39.0625 cm².
 In iteratie 1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 19.5312 cm².
 In iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 9.7656 cm².
 In iteratie 3 zijn er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant 4.8828 cm².
