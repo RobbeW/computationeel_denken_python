@@ -4,7 +4,7 @@
 
 De <a href="https://nl.wikipedia.org/wiki/Boom_van_Pythagoras" target="_blank">boom van Pythagoras</a> is een interessante fractaal bedacht door de Nederlandse wiskundige Albert E. Bosman, tijdens zijn tewerkstelling voor de Duitsers als ingenieur. In plaats van het ontwerpen van duikbootonderdelen tekenede hij deze frataal, als vorm van stille sabotage.
 
-![De boom van Pythagoras.](media/tree.jpg "De boom van Pythagoras."){:data-caption="De boom van Pythagoras." width="500px"}
+![De boom van Pythagoras.](media/tree.gif "De boom van Pythagoras."){:data-caption="De boom van Pythagoras." width="500px"}
 
 De boom ontstaat door te vertrekken met één centraal vierkant en er telkens twee identieke vierkanten op te tekenen zodat deze een rechthoekige driehoek omsluiten. De zijde van de vierkanten wordt telkens gedeeld door $$\mathsf{\sqrt{2}}$$.
 
