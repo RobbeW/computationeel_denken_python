@@ -12,7 +12,7 @@ Hierbij geeft hij als extra regel dat er 1 rijstkorrel op het eerste veld moet l
 SChrijf een programma dat voor **elk veld van het schaakbord** de hoeveelheid rijstkorrels afdrukt. 
 
 #### Voorbeeld
-Geeft de gebruiker `4` in, dan verschijnt er:
+
 ```
 Op veld 1 ligt 1 rijstkorrel.
 Op veld 2 liggen 2 rijstkorrels.

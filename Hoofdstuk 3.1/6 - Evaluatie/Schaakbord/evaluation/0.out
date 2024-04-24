@@ -62,10 +62,3 @@ Op veld 61 liggen 1152921504606846976 rijstkorrels.
 Op veld 62 liggen 2305843009213693952 rijstkorrels.
 Op veld 63 liggen 4611686018427387904 rijstkorrels.
 Op veld 64 liggen 9223372036854775808 rijstkorrels
------------------------------------------
-tab name: Feedback
-python input without prompt: true
-block count: multi
-input block size: 0
-output block size: ends with
-comparison: exact match
