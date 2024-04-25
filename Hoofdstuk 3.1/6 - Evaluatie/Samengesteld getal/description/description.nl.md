@@ -19,9 +19,9 @@ De eerste samengestelde getallen zijn de volgende:
 Schrijf een programma dat een getal vraagt en vervolgens weergeeft of dit samengesteld is.
 
 #### Voorbeelden
-Voor invoer `2` verschijnt er:
+Voor invoer `3` verschijnt er:
 ```
-2 is niet samengesteld.
+3 is niet samengesteld.
 ```
 
 Voor invoer `12` verschijnt er:
