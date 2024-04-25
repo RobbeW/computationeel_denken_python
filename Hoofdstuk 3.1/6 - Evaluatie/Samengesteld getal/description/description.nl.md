@@ -33,3 +33,7 @@ Voor invoer `24` verschijnt er:
 ```
 24 is een samengesteld getal.
 ```
+
+{: .callout.callout-info}
+> #### Tip
+> Zoek het niet te ver... Welke getallen zijn samengesteld? Of beter, welke getallen zijn **niet** samengesteld?
