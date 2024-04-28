@@ -1,0 +1,67 @@
+\documentclass[dvipsnames,tikz]{standalone}
+\usepackage{amsmath}
+\usepackage{arevmath}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{decorations.pathreplacing,calligraphy,3d}
+\usetikzlibrary{lindenmayersystems}
+
+\tikzset{main/.style={draw=black, circle, color=black}}
+
+% recursively draw a Pythagoras Tree fractal
+% \PythagorasTree{levels}{angle}
+\newcommand{\PythagorasTree}[2]{%
+	\ifnum#1=0\else
+	% randomly pick a color, prefer green and blue shades
+	\ifnum#1=1\def\mycol{Dandelion}\fi
+	\ifnum#1=2\def\mycol{LimeGreen}\fi
+	\ifnum#1=3\def\mycol{PineGreen}\fi
+	\ifnum#1=4\def\mycol{OliveGreen}\fi
+	\ifnum#1=5\def\mycol{NavyBlue}\fi
+	\ifnum#1=6\def\mycol{MidnightBlue}\fi
+	\ifnum#1=7\def\mycol{Periwinkle}\fi
+	\ifnum#1=8\def\mycol{RoyalPurple}\fi
+	\ifnum#1=9\def\mycol{Violet}\fi
+	\ifnum#1>9\def\mycol{BlueViolet!80}\fi
+	
+	\pgfmathsetmacro{\counter}{#1}
+		
+	% draw the rectangle of this level
+	\fill[\mycol] (0,0) rectangle (1,1);
+	
+	% decrement level counter
+	\pgfmathtruncatemacro{\next}{#1-1}
+	
+	% transform scope for left branch: move origin (1cm,0cm), rotate and scale
+	% with the length of the left cathetus.
+	\begin{scope}[
+		yshift=1cm,xshift=0cm,
+		rotate=#2,scale={cos(#2)}
+		]
+		\PythagorasTree{\next}{#2}
+	\end{scope}
+	
+	% now for the tricks: transform scope for right branch: move origin to the
+	% top point of the triangle, rotate reverse and scale with length of right
+	% cathetus.
+	\begin{scope}[
+		yshift={1cm * (1 + sin(#2)*cos(#2))},
+		xshift={1cm * (cos(#2)*cos(#2))},
+		rotate={#2-90},scale={sin(#2)}
+		]
+		\PythagorasTree{\next}{#2}
+	\end{scope}
+	\fi
+}
+
+\begin{document}
+	
+	\foreach \order in {2,...,12} {
+		\begin{tikzpicture}[scale=1]
+			% recursively draw tree
+			\clip (-3,0) rectangle (4,4);
+			\PythagorasTree{\order}{45}
+		\end{tikzpicture}
+	}
+	\end{document}}
