@@ -18,6 +18,8 @@ Op veld 1 ligt 1 rijstkorrel.
 Op veld 2 liggen 2 rijstkorrels.
 Op veld 3 liggen 4 rijstkorrels.
 Op veld 4 liggen 8 rijstkorrels.
+Op veld 5 liggen 16 rijstkorrels.
+Op veld 6 liggen 32 rijstkorrels.
 ...
 ```
 
