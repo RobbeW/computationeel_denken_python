@@ -13,6 +13,7 @@ Als het willkeurige getal `5` is, dan verschijnt er:
 
 {: .callout.callout-info}
 >#### Tips
+> - Je hoeft in deze oefening dus **niets** te vragen aan de gebruiker!
 > - Vergeet niet om de `random` module eerst te importeren met `import random`.
 > - Gebruik `random.randint(a, b)` functie.
 
