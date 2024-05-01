@@ -7,7 +7,7 @@
 ![Een worp van twee dobbelstenen.](media/dice.gif "Een worp van twee dobbelstenen."){:data-caption="Een worp van twee dobbelstenen." width="500px"}
 
 #### Voorbeelden
-Bij `10` worpen is de uitvoer bijvoorbeeld:
+Stel dat je `10` worpen simuleert. Aangezien het aantal ogen telkens tussen 2 en 12 ligt, zal het totale aantal ogen tussen 20 en 120 liggen. Het zou kunnen dat het totale aantal ogen tijdens die 10 worpen bijvoorbeeld 64 is. In dat geval verschijnt er:
 ```
 Het gemiddelde bij 10 worpen is 6.4
 ```
