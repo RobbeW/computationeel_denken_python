@@ -1,7 +1,3 @@
-<div class="text-end">
-    <a class="btn btn-filled with-icon" href="https://dodona.be/nl/courses/2419/#series-27454-hoofdstuk-3-begrensde-herhaling-for-statement" target="_blank"><i class="mdi mdi-backburger mdi-24" title="link"></i>Link naar de vorige oefeningen</a>
-</div>
-
 De <a href="https://nl.wikipedia.org/wiki/Boom_van_Pythagoras" target="_blank">boom van Pythagoras</a> is een interessante fractaal bedacht door de Nederlandse wiskundige Albert E. Bosman, tijdens zijn tewerkstelling voor de Duitsers als ingenieur. In plaats van het ontwerpen van duikbootonderdelen tekende hij deze fractaal, als vorm van stille sabotage.
 
 ![De boom van Pythagoras.](media/image.png "De boom van Pythagoras."){:data-caption="De boom van Pythagoras." width="40%"}

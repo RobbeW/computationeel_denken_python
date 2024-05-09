@@ -1,7 +1,3 @@
-<div class="text-end">
-    <a class="btn btn-filled with-icon" href="https://dodona.be/nl/courses/2419/#series-27454-hoofdstuk-3-begrensde-herhaling-for-statement" target="_blank"><i class="mdi mdi-backburger mdi-24" title="link"></i>Link naar de vorige oefeningen</a>
-</div>
-
 {: .callout.callout-danger}
 > #### Definitie
 > Een samengesteld getal is een natuurlijk getal groter dan 1, dat **minstens** twee keer door een priemgetal is te delen.
