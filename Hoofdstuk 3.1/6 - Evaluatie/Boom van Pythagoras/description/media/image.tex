@@ -6,8 +6,25 @@
 \usetikzlibrary{calc}
 \usetikzlibrary{decorations.pathreplacing,calligraphy,3d}
 \usetikzlibrary{lindenmayersystems}
+\usepackage{pgfbaselayers}
 
 \tikzset{main/.style={draw=black, circle, color=black}}
+
+
+\pgfdeclarelayer{lyr 0}
+\pgfdeclarelayer{lyr 1}
+\pgfdeclarelayer{lyr 2}
+\pgfdeclarelayer{lyr 3}
+\pgfdeclarelayer{lyr 4}
+\pgfdeclarelayer{lyr 5}
+\pgfdeclarelayer{lyr 6}
+\pgfdeclarelayer{lyr 7}
+\pgfdeclarelayer{lyr 8}
+\pgfdeclarelayer{lyr 9}
+\pgfdeclarelayer{lyr 10}
+\pgfdeclarelayer{lyr 11}
+\pgfdeclarelayer{lyr 12}
+\pgfsetlayers{lyr 12, lyr 11, lyr 10, lyr 9, lyr 8, lyr 7, lyr 6, lyr 5, lyr 4, lyr 3, lyr 2, lyr 1, lyr 0}
 
 % recursively draw a Pythagoras Tree fractal
 % \PythagorasTree{levels}{angle}
@@ -28,7 +45,9 @@
 	\pgfmathsetmacro{\counter}{#1}
 		
 	% draw the rectangle of this level
-	\fill[\mycol] (0,0) rectangle (1,1);
+	\begin{pgfonlayer}{lyr #1}
+		\fill[\mycol] (0,0) rectangle (1,1);
+	\end{pgfonlayer}
 	
 	% decrement level counter
 	\pgfmathtruncatemacro{\next}{#1-1}
