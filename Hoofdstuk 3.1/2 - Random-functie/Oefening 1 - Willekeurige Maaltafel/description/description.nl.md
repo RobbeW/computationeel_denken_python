@@ -4,6 +4,7 @@ Schrijf een programma dat de maaltafels print van een **willekeurig geheel getal
 #### Voorbeeld
 Als het willkeurige getal `5` is, dan verschijnt er:
 ```
+Tafel van 5 :
 1 x 5 = 5
 2 x 5 = 10 
 3 x 5 = 15

@@ -1,4 +1,4 @@
-Je kan de waarde van π *schatten* door middel van simulatie. Indien men en cirkel tekent met straal 1, dan heeft deze als oppervlakte π, deze cirkel ligt binnen een vierkant met zijde 2. Het vierkant heeft dus een oppervlakte van 4.
+Je kan de waarde van π *schatten* door middel van simulatie. Indien men een cirkel tekent met straal 1, dan heeft deze als oppervlakte π, deze cirkel ligt binnen een vierkant met zijde 2. Het vierkant heeft dus een oppervlakte van 4.
 
 Kies je nu willekeurig een punt met coördinaten $$\mathsf{(x,y)}$$ binnen dit vierkant, dan ligt dit ofwel binnen de cirkel, ofwel niet. Je kan dit achterhalen door de **afstand van het punt tot de oorsprong** $$\mathsf{(0,0)}$$ te berekenen via:
 
