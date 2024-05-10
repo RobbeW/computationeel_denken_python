@@ -1,7 +1,7 @@
 ## Gegeven
 Laura wil haar moeder helpen met het bakken van taarten. Ze gebruikt een eetlepel om 200 g suiker af te 'wegen'. Met elke eetlepel neemt Laura *ongeveer* 13 g.
 
-![Suiker 'afwegen'.](media/sugar.gif "Suiker 'afwegen'."){:data-caption="Suiker 'afwegen'." width="200px"}
+![Suiker 'afwegen'.](media/sugar.gif "Suiker 'afwegen'."){:data-caption="Suiker 'afwegen'." width="250px"}
 
 ## Gevraagd
 
