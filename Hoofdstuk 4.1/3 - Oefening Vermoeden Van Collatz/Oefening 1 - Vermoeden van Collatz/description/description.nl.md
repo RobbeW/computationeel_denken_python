@@ -1,33 +1,36 @@
 ## Gegeven
-Het vermoeden van Collatz is een vermoeden in de getaltheorie dat zegt dat een bepaalde iteratie (=herhaling) in alle gevallen uitloopt op het getal 1, om het even welk getal n als beginwaarde gekozen wordt.
+Het vermoeden van Collatz is een vermoeden in de getaltheorie dat zegt dat een bepaalde iteratie in alle gevallen resulteert in het getal 1, om het even welk getal n als beginwaarde gekozen wordt.
+
+De herhaling gaat als volgt:
+
+- is het getal even, halveer het dan;
+- is het getal oneven, neem dan het drievoud en tel er één bij op;
+
+Op onderstaande afbeelding zie je dit proces uitgevoerd voor de startwaarde 9 en startwaarde 6. De herhalingen hebben een verschillende lengte, maar resulteren steeds in het getal 1.
+
+![Een collatz-spiraal.](media/collatz.png "Een collatz-spiraal."){:data-caption="Een collatz-spiraal." width="40%"}
 
 ## Gevraagd
-* Neem een **geheel getal n** als `beginwaarde`;
-* Bereken een volgend getal met onderstaande regels:
-* `Als n even is, dan deel je het door 2 (=n/2)`
-* `Anders, als n oneven is, vermenigvuldig het met 3 en tel er 1 bij op (=n*3+1)`
-* We **itereren of herhalen** deze bewerkingen **zolang** `n != 1`;
-* Bij elke herhaling, `printen` telkens dit getal op het scherm;
-* Bij het einde van onze oefeningen **printen** we **"Stop!"**. 
 
-## Invoer
+Schrijf een programma dat aan de gebruiker het startgetal vraagt en nadien telkens het volgende getal bepaalt. Elke waarde wordt op het scherm weergegeven en het programma stopt bij 1.
 
-```
-Voer een geheel getal in: 327
+#### Voorbeelden
 
-```
-
-## Uitvoer
-``` 
-982
-491.0
-1474.0
-... 
-1.0
-Stop!
+Bij invoer 6 verschijnt er:
 
 ``` 
-{: .callout.callout-success}
->## Tips:
->* Gebruik de `% modulo`om te bepalen of `n`een even getal is; 
->* Bij het opstellen van een voorwaarde, let op dat je dubbele gelijkheidstekens `==`gebruikt. 
+6
+3
+10
+5
+16
+8
+4
+2
+1
+``` 
+
+{: .callout.callout-primary}
+>#### Trivia
+> Dit is een vermoeden of hypothese. Er is met andere woorden nog geen wiskundig bewijs voor gevonden. Het wiskundig genie <a href="https://nl.wikipedia.org/wiki/Paul_Erd%C5%91s" target="_blank">Paul Erdős</a> zei over deze hypothese: "De huidige wiskunde is nog niet klaar voor dergelijke problemen."
+
