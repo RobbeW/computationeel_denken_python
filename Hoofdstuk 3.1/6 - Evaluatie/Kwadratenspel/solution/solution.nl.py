@@ -20,4 +20,4 @@ for i in range(10):
         print("Fout,", getal**2, "is het juiste antwoord!")
 
 # Print de totaalscore van de gebruiker
-print("Je totaalscore is:", correcte_antwoorden, " / 10.")
+print("Je totaalscore is:", correcte_antwoorden, "/ 10.")
