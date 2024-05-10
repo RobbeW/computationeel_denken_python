@@ -1,0 +1,168 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '120'
+      stdout: "Jaar 1 : 127 antilopen\nJaar 2 : 134 antilopen\nJaar 3 : 142 antilopen\n\
+        Jaar 4 : 150 antilopen\nJaar 5 : 159 antilopen\nJaar 6 : 168 antilopen\nJaar\
+        \ 7 : 178 antilopen\nJaar 8 : 188 antilopen\nJaar 9 : 199 antilopen\nJaar\
+        \ 10 : 210 antilopen\nJaar 11 : 222 antilopen\nJaar 12 : 235 antilopen\nJaar\
+        \ 13 : 249 antilopen\nJaar 14 : 263 antilopen\nJaar 15 : 278 antilopen\nJaar\
+        \ 16 : 294 antilopen\nJaar 17 : 311 antilopen\nJaar 18 : 329 antilopen\nJaar\
+        \ 19 : 348 antilopen\nJaar 20 : 368 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 20 jaar.\n"
+  - testcases:
+    - stdin: '150'
+      stdout: "Jaar 1 : 159 antilopen\nJaar 2 : 168 antilopen\nJaar 3 : 178 antilopen\n\
+        Jaar 4 : 188 antilopen\nJaar 5 : 199 antilopen\nJaar 6 : 210 antilopen\nJaar\
+        \ 7 : 222 antilopen\nJaar 8 : 235 antilopen\nJaar 9 : 249 antilopen\nJaar\
+        \ 10 : 263 antilopen\nJaar 11 : 278 antilopen\nJaar 12 : 294 antilopen\nJaar\
+        \ 13 : 311 antilopen\nJaar 14 : 329 antilopen\nJaar 15 : 348 antilopen\nJaar\
+        \ 16 : 368 antilopen\nEr zullen minstens 350 antilopen zijn na 16 jaar.\n"
+  - testcases:
+    - stdin: '250'
+      stdout: "Jaar 1 : 265 antilopen\nJaar 2 : 280 antilopen\nJaar 3 : 296 antilopen\n\
+        Jaar 4 : 313 antilopen\nJaar 5 : 331 antilopen\nJaar 6 : 350 antilopen\nEr\
+        \ zullen minstens 350 antilopen zijn na 6 jaar.\n"
+  - testcases:
+    - stdin: '313'
+      stdout: "Jaar 1 : 331 antilopen\nJaar 2 : 350 antilopen\nEr zullen minstens\
+        \ 350 antilopen zijn na 2 jaar.\n"
+  - testcases:
+    - stdin: '61'
+      stdout: "Jaar 1 : 64 antilopen\nJaar 2 : 67 antilopen\nJaar 3 : 71 antilopen\n\
+        Jaar 4 : 75 antilopen\nJaar 5 : 79 antilopen\nJaar 6 : 83 antilopen\nJaar\
+        \ 7 : 87 antilopen\nJaar 8 : 92 antilopen\nJaar 9 : 97 antilopen\nJaar 10\
+        \ : 102 antilopen\nJaar 11 : 108 antilopen\nJaar 12 : 114 antilopen\nJaar\
+        \ 13 : 120 antilopen\nJaar 14 : 127 antilopen\nJaar 15 : 134 antilopen\nJaar\
+        \ 16 : 142 antilopen\nJaar 17 : 150 antilopen\nJaar 18 : 159 antilopen\nJaar\
+        \ 19 : 168 antilopen\nJaar 20 : 178 antilopen\nJaar 21 : 188 antilopen\nJaar\
+        \ 22 : 199 antilopen\nJaar 23 : 210 antilopen\nJaar 24 : 222 antilopen\nJaar\
+        \ 25 : 235 antilopen\nJaar 26 : 249 antilopen\nJaar 27 : 263 antilopen\nJaar\
+        \ 28 : 278 antilopen\nJaar 29 : 294 antilopen\nJaar 30 : 311 antilopen\nJaar\
+        \ 31 : 329 antilopen\nJaar 32 : 348 antilopen\nJaar 33 : 368 antilopen\nEr\
+        \ zullen minstens 350 antilopen zijn na 33 jaar.\n"
+  - testcases:
+    - stdin: '334'
+      stdout: "Jaar 1 : 354 antilopen\nEr zullen minstens 350 antilopen zijn na 1\
+        \ jaar.\n"
+  - testcases:
+    - stdin: '311'
+      stdout: "Jaar 1 : 329 antilopen\nJaar 2 : 348 antilopen\nJaar 3 : 368 antilopen\n\
+        Er zullen minstens 350 antilopen zijn na 3 jaar.\n"
+  - testcases:
+    - stdin: '127'
+      stdout: "Jaar 1 : 134 antilopen\nJaar 2 : 142 antilopen\nJaar 3 : 150 antilopen\n\
+        Jaar 4 : 159 antilopen\nJaar 5 : 168 antilopen\nJaar 6 : 178 antilopen\nJaar\
+        \ 7 : 188 antilopen\nJaar 8 : 199 antilopen\nJaar 9 : 210 antilopen\nJaar\
+        \ 10 : 222 antilopen\nJaar 11 : 235 antilopen\nJaar 12 : 249 antilopen\nJaar\
+        \ 13 : 263 antilopen\nJaar 14 : 278 antilopen\nJaar 15 : 294 antilopen\nJaar\
+        \ 16 : 311 antilopen\nJaar 17 : 329 antilopen\nJaar 18 : 348 antilopen\nJaar\
+        \ 19 : 368 antilopen\nEr zullen minstens 350 antilopen zijn na 19 jaar.\n"
+  - testcases:
+    - stdin: '139'
+      stdout: "Jaar 1 : 147 antilopen\nJaar 2 : 155 antilopen\nJaar 3 : 164 antilopen\n\
+        Jaar 4 : 173 antilopen\nJaar 5 : 183 antilopen\nJaar 6 : 193 antilopen\nJaar\
+        \ 7 : 204 antilopen\nJaar 8 : 216 antilopen\nJaar 9 : 228 antilopen\nJaar\
+        \ 10 : 241 antilopen\nJaar 11 : 255 antilopen\nJaar 12 : 270 antilopen\nJaar\
+        \ 13 : 286 antilopen\nJaar 14 : 303 antilopen\nJaar 15 : 321 antilopen\nJaar\
+        \ 16 : 340 antilopen\nJaar 17 : 360 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 17 jaar.\n"
+  - testcases:
+    - stdin: '320'
+      stdout: "Jaar 1 : 339 antilopen\nJaar 2 : 359 antilopen\nEr zullen minstens\
+        \ 350 antilopen zijn na 2 jaar.\n"
+  - testcases:
+    - stdin: '273'
+      stdout: "Jaar 1 : 289 antilopen\nJaar 2 : 306 antilopen\nJaar 3 : 324 antilopen\n\
+        Jaar 4 : 343 antilopen\nJaar 5 : 363 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 5 jaar.\n"
+  - testcases:
+    - stdin: '310'
+      stdout: "Jaar 1 : 328 antilopen\nJaar 2 : 347 antilopen\nJaar 3 : 367 antilopen\n\
+        Er zullen minstens 350 antilopen zijn na 3 jaar.\n"
+  - testcases:
+    - stdin: '270'
+      stdout: "Jaar 1 : 286 antilopen\nJaar 2 : 303 antilopen\nJaar 3 : 321 antilopen\n\
+        Jaar 4 : 340 antilopen\nJaar 5 : 360 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 5 jaar.\n"
+  - testcases:
+    - stdin: '49'
+      stdout: "Jaar 1 : 51 antilopen\nJaar 2 : 54 antilopen\nJaar 3 : 57 antilopen\n\
+        Jaar 4 : 60 antilopen\nJaar 5 : 63 antilopen\nJaar 6 : 66 antilopen\nJaar\
+        \ 7 : 69 antilopen\nJaar 8 : 73 antilopen\nJaar 9 : 77 antilopen\nJaar 10\
+        \ : 81 antilopen\nJaar 11 : 85 antilopen\nJaar 12 : 90 antilopen\nJaar 13\
+        \ : 95 antilopen\nJaar 14 : 100 antilopen\nJaar 15 : 106 antilopen\nJaar 16\
+        \ : 112 antilopen\nJaar 17 : 118 antilopen\nJaar 18 : 125 antilopen\nJaar\
+        \ 19 : 132 antilopen\nJaar 20 : 139 antilopen\nJaar 21 : 147 antilopen\nJaar\
+        \ 22 : 155 antilopen\nJaar 23 : 164 antilopen\nJaar 24 : 173 antilopen\nJaar\
+        \ 25 : 183 antilopen\nJaar 26 : 193 antilopen\nJaar 27 : 204 antilopen\nJaar\
+        \ 28 : 216 antilopen\nJaar 29 : 228 antilopen\nJaar 30 : 241 antilopen\nJaar\
+        \ 31 : 255 antilopen\nJaar 32 : 270 antilopen\nJaar 33 : 286 antilopen\nJaar\
+        \ 34 : 303 antilopen\nJaar 35 : 321 antilopen\nJaar 36 : 340 antilopen\nJaar\
+        \ 37 : 360 antilopen\nEr zullen minstens 350 antilopen zijn na 37 jaar.\n"
+  - testcases:
+    - stdin: '181'
+      stdout: "Jaar 1 : 191 antilopen\nJaar 2 : 202 antilopen\nJaar 3 : 214 antilopen\n\
+        Jaar 4 : 226 antilopen\nJaar 5 : 239 antilopen\nJaar 6 : 253 antilopen\nJaar\
+        \ 7 : 268 antilopen\nJaar 8 : 284 antilopen\nJaar 9 : 301 antilopen\nJaar\
+        \ 10 : 319 antilopen\nJaar 11 : 338 antilopen\nJaar 12 : 358 antilopen\nEr\
+        \ zullen minstens 350 antilopen zijn na 12 jaar.\n"
+  - testcases:
+    - stdin: '72'
+      stdout: "Jaar 1 : 76 antilopen\nJaar 2 : 80 antilopen\nJaar 3 : 84 antilopen\n\
+        Jaar 4 : 89 antilopen\nJaar 5 : 94 antilopen\nJaar 6 : 99 antilopen\nJaar\
+        \ 7 : 104 antilopen\nJaar 8 : 110 antilopen\nJaar 9 : 116 antilopen\nJaar\
+        \ 10 : 122 antilopen\nJaar 11 : 129 antilopen\nJaar 12 : 136 antilopen\nJaar\
+        \ 13 : 144 antilopen\nJaar 14 : 152 antilopen\nJaar 15 : 161 antilopen\nJaar\
+        \ 16 : 170 antilopen\nJaar 17 : 180 antilopen\nJaar 18 : 190 antilopen\nJaar\
+        \ 19 : 201 antilopen\nJaar 20 : 213 antilopen\nJaar 21 : 225 antilopen\nJaar\
+        \ 22 : 238 antilopen\nJaar 23 : 252 antilopen\nJaar 24 : 267 antilopen\nJaar\
+        \ 25 : 283 antilopen\nJaar 26 : 299 antilopen\nJaar 27 : 316 antilopen\nJaar\
+        \ 28 : 334 antilopen\nJaar 29 : 354 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 29 jaar.\n"
+  - testcases:
+    - stdin: '86'
+      stdout: "Jaar 1 : 91 antilopen\nJaar 2 : 96 antilopen\nJaar 3 : 101 antilopen\n\
+        Jaar 4 : 107 antilopen\nJaar 5 : 113 antilopen\nJaar 6 : 119 antilopen\nJaar\
+        \ 7 : 126 antilopen\nJaar 8 : 133 antilopen\nJaar 9 : 140 antilopen\nJaar\
+        \ 10 : 148 antilopen\nJaar 11 : 156 antilopen\nJaar 12 : 165 antilopen\nJaar\
+        \ 13 : 174 antilopen\nJaar 14 : 184 antilopen\nJaar 15 : 195 antilopen\nJaar\
+        \ 16 : 206 antilopen\nJaar 17 : 218 antilopen\nJaar 18 : 231 antilopen\nJaar\
+        \ 19 : 244 antilopen\nJaar 20 : 258 antilopen\nJaar 21 : 273 antilopen\nJaar\
+        \ 22 : 289 antilopen\nJaar 23 : 306 antilopen\nJaar 24 : 324 antilopen\nJaar\
+        \ 25 : 343 antilopen\nJaar 26 : 363 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 26 jaar.\n"
+  - testcases:
+    - stdin: '189'
+      stdout: "Jaar 1 : 200 antilopen\nJaar 2 : 212 antilopen\nJaar 3 : 224 antilopen\n\
+        Jaar 4 : 237 antilopen\nJaar 5 : 251 antilopen\nJaar 6 : 266 antilopen\nJaar\
+        \ 7 : 281 antilopen\nJaar 8 : 297 antilopen\nJaar 9 : 314 antilopen\nJaar\
+        \ 10 : 332 antilopen\nJaar 11 : 351 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 11 jaar.\n"
+  - testcases:
+    - stdin: '22'
+      stdout: "Jaar 1 : 23 antilopen\nJaar 2 : 24 antilopen\nJaar 3 : 25 antilopen\n\
+        Jaar 4 : 26 antilopen\nJaar 5 : 27 antilopen\nJaar 6 : 28 antilopen\nJaar\
+        \ 7 : 29 antilopen\nJaar 8 : 30 antilopen\nJaar 9 : 31 antilopen\nJaar 10\
+        \ : 32 antilopen\nJaar 11 : 33 antilopen\nJaar 12 : 34 antilopen\nJaar 13\
+        \ : 36 antilopen\nJaar 14 : 38 antilopen\nJaar 15 : 40 antilopen\nJaar 16\
+        \ : 42 antilopen\nJaar 17 : 44 antilopen\nJaar 18 : 46 antilopen\nJaar 19\
+        \ : 48 antilopen\nJaar 20 : 50 antilopen\nJaar 21 : 53 antilopen\nJaar 22\
+        \ : 56 antilopen\nJaar 23 : 59 antilopen\nJaar 24 : 62 antilopen\nJaar 25\
+        \ : 65 antilopen\nJaar 26 : 68 antilopen\nJaar 27 : 72 antilopen\nJaar 28\
+        \ : 76 antilopen\nJaar 29 : 80 antilopen\nJaar 30 : 84 antilopen\nJaar 31\
+        \ : 89 antilopen\nJaar 32 : 94 antilopen\nJaar 33 : 99 antilopen\nJaar 34\
+        \ : 104 antilopen\nJaar 35 : 110 antilopen\nJaar 36 : 116 antilopen\nJaar\
+        \ 37 : 122 antilopen\nJaar 38 : 129 antilopen\nJaar 39 : 136 antilopen\nJaar\
+        \ 40 : 144 antilopen\nJaar 41 : 152 antilopen\nJaar 42 : 161 antilopen\nJaar\
+        \ 43 : 170 antilopen\nJaar 44 : 180 antilopen\nJaar 45 : 190 antilopen\nJaar\
+        \ 46 : 201 antilopen\nJaar 47 : 213 antilopen\nJaar 48 : 225 antilopen\nJaar\
+        \ 49 : 238 antilopen\nJaar 50 : 252 antilopen\nJaar 51 : 267 antilopen\nJaar\
+        \ 52 : 283 antilopen\nJaar 53 : 299 antilopen\nJaar 54 : 316 antilopen\nJaar\
+        \ 55 : 334 antilopen\nJaar 56 : 354 antilopen\nEr zullen minstens 350 antilopen\
+        \ zijn na 56 jaar.\n"
+  - testcases:
+    - stdin: '263'
+      stdout: "Jaar 1 : 278 antilopen\nJaar 2 : 294 antilopen\nJaar 3 : 311 antilopen\n\
+        Jaar 4 : 329 antilopen\nJaar 5 : 348 antilopen\nJaar 6 : 368 antilopen\nEr\
+        \ zullen minstens 350 antilopen zijn na 6 jaar.\n"

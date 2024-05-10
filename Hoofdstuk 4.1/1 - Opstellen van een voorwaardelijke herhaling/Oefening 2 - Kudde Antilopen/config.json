@@ -4,12 +4,13 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Opstellen Voorwaardelijke Herhaling - Kudde Antilopen",
+      "nl": "Opstellen Voorwaardelijke Herhaling - Kudde antilopen",
       "en": "Conditional Loop - Herd"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
