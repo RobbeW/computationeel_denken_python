@@ -1,0 +1,26 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - statement:
+        python: "import random; random.seed(667)"
+    - stdout: "Na 1 lepels, heeft Laura 14.4 g suiker.\nNa 2 lepels, heeft Laura 25.8\
+        \ g suiker.\nNa 3 lepels, heeft Laura 40.7 g suiker.\nNa 4 lepels, heeft Laura\
+        \ 52.7 g suiker.\nNa 5 lepels, heeft Laura 63.7 g suiker.\nNa 6 lepels, heeft\
+        \ Laura 76.1 g suiker.\nNa 7 lepels, heeft Laura 90.6 g suiker.\nNa 8 lepels,\
+        \ heeft Laura 102.5 g suiker.\nNa 9 lepels, heeft Laura 115.7 g suiker.\n\
+        Na 10 lepels, heeft Laura 127.7 g suiker.\nNa 11 lepels, heeft Laura 140.4\
+        \ g suiker.\nNa 12 lepels, heeft Laura 152.8 g suiker.\nNa 13 lepels, heeft\
+        \ Laura 163.9 g suiker.\nNa 14 lepels, heeft Laura 176.9 g suiker.\nNa 15\
+        \ lepels, heeft Laura 190.3 g suiker.\nNa 16 lepels, heeft Laura 204.8 g suiker.\n"
+  - testcases:
+    - statement: 
+        python: "import random; random.seed(6039)"
+    - stdout: "Na 1 lepels, heeft Laura 14.7 g suiker.\nNa 2 lepels, heeft Laura 26.8\
+        \ g suiker.\nNa 3 lepels, heeft Laura 39.6 g suiker.\nNa 4 lepels, heeft Laura\
+        \ 54.3 g suiker.\nNa 5 lepels, heeft Laura 67.0 g suiker.\nNa 6 lepels, heeft\
+        \ Laura 79.3 g suiker.\nNa 7 lepels, heeft Laura 93.9 g suiker.\nNa 8 lepels,\
+        \ heeft Laura 107.9 g suiker.\nNa 9 lepels, heeft Laura 119.2 g suiker.\n\
+        Na 10 lepels, heeft Laura 132.5 g suiker.\nNa 11 lepels, heeft Laura 146.8\
+        \ g suiker.\nNa 12 lepels, heeft Laura 158.1 g suiker.\nNa 13 lepels, heeft\
+        \ Laura 171.3 g suiker.\nNa 14 lepels, heeft Laura 182.7 g suiker.\nNa 15\
+        \ lepels, heeft Laura 195.6 g suiker.\nNa 16 lepels, heeft Laura 208.2 g suiker.\n"
