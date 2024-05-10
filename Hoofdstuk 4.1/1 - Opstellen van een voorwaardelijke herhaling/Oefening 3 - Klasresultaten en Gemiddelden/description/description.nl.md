@@ -1,7 +1,7 @@
 ## Gegeven
 De leerlingen uit een klas van vooraf **ongekende grootte** kregen hun resultaten van een toets op 20.
 
-![De resultaten van Bart Simpson...](media/simpson.gif "De resultaten van Bart Simpson..."){:data-caption="De resultaten van Bart Simpson..." width="380px"}
+![De resultaten van Bart Simpson...](media/simpson.gif "De resultaten van Bart Simpson..."){:data-caption="De resultaten van Bart Simpson..." width="350px"}
 
 ## Gevraagd
 * Verzamel één voor één de resultaten van de leerlingen. 
