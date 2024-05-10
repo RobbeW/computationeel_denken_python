@@ -10,7 +10,7 @@
   },
   "evaluation": {
     "handler": "tested",
-    "test_suite": "tests.yaml"
+    "test_suite": "tests.json"
   },
   "labels": [
     "python",

@@ -1,88 +1,66 @@
 import os
-import sys
-import importlib
 import random
-import ruamel.yaml
-import subprocess
-
-yaml = ruamel.yaml.YAML()
+import json
 
 # set fixed seed for generating test cases
-random.seed(12345678)
+random.seed(123456789)
 
 # locate evaldir
-evaldir = os.path.join('..', 'evaluation')
+evaldir = os.path.join("..", "evaluation")
 if not os.path.exists(evaldir):
     os.makedirs(evaldir)
 
-# locate solutiondir
-solutiondir = os.path.join('..', 'solution')
-if not os.path.exists(solutiondir):
-    os.makedirs(solutiondir)
-
-def write_yaml( data:list ):
-    """ A function to write YAML file"""
-    with open(os.path.join('..', 'evaluation', 'tests.yaml'), 'w', encoding='utf-8') as f:
-        yaml.dump(data, f)
-
-
-module_name = 'solution'
-file_path = os.path.join(solutiondir, 'solution.nl.py')
-spec = importlib.util.spec_from_file_location(module_name, file_path)
-module = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(module)
+def write_json( data:dict ):
+    """ A function to write JSON file"""
+    with open(os.path.join("..", "evaluation", "tests.json"), "w", encoding="utf-8") as f:
+        json.dump(data, f, indent = 2)
 
 # generate test data
-ntests = 20
+ntests = 10
 cases = [ ]
 
 while len( cases ) < ntests:
     seed = random.randint(1,10000)
-    cases.append( seed )
-        
+    cases.append( (seed,) )
     
 # generate unit tests for functions
-yamldata = []
+exportdata = {"tabs": [] }
+exportdata["tabs"].append( {"name": "Feedback",
+                            "contexts": [] } )
 
-# input, expression, statement or stdin?
-input = 'stdin'
-# output, stdout or return?
-output = 'stdout'
-tabtitle = "Feedback"
+i = -1
 
-yamldata.append( {'tab': tabtitle, 'contexts': []})
-
-for i in range(len(cases)):
-    seed = cases[i]
-    yamldata[0]['contexts'].append( {'testcases' : []})
-    # generate test expression
-    # add input to input file
-    
-    # random
-    statement = {"statement": {"python", "import random; random.seed("+str(seed)+")"}}
-    yamldata[0]['contexts'][i]["testcases"].append( statement)
-
-    random.seed(seed)
-    # generate output to output file
-    script = os.path.join(solutiondir, 'solution.nl.py')
-    process= subprocess.run(
-        ['python3.8', script],
-        encoding='utf-8',
-        capture_output=True
-    )
-    
-    result_lines = process.stdout.split("\n")
-    result_lines = [x for x in result_lines[:-1]] ## drop last element
-
+for test in cases:
+    exportdata["tabs"][0]["contexts"].append({})
+    i += 1
         
+    seed = test[0]
+    # generate before expression
+    beforecase = {"python": {"data": "import random; random.seed("+str(seed)+")"}}
+    exportdata["tabs"][0]["contexts"][i]["before"] = beforecase
+    
+    exportdata["tabs"][0]["contexts"][i]["testcases"] = []
+    
     outputtxt = ""
-    for line in result_lines:
-        if not(line.startswith( 'Geef' )):
-            print(line)
-            outputtxt += line + "\n"
-            
-    testcase = { output: outputtxt }            
-    yamldata[0]['contexts'][i]["testcases"].append( testcase)
+    # PROGRAM IMPLEMENTATION
+    random.seed(seed) #setting the seed
+    
+    potje = 0 
+    aantal = 0
+    while potje < 200:
+        aantal += 1
+        potje += random.randint(110, 150)/10
+        outputtxt += f"Na {aantal} lepels, heeft Laura {round(potje, 1)} g suiker.\n"
 
+    # generate test expression
+    testcase = {"description": "Uitvoeren met seed "+str(seed)+" leidt tot het onderstaande",
+                "output": {} }
 
-write_yaml(yamldata)
+    # fill in the testcase
+    testcase["output"]["stdout"] = {"type": "text", 
+                                    "data": outputtxt }
+    
+
+    exportdata["tabs"][0]["contexts"][i]["testcases"].append( testcase )
+
+write_json( exportdata )
