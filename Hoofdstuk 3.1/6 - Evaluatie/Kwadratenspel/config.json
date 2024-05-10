@@ -4,12 +4,13 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Ken jij het kwadraat van ...?",
-      "en": "For i in Range - Do you know the square of ...?"
+      "nl": "Ken jij het kwadraat van ...?",
+      "en": " Do you know the square of ...?"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.json"
   },
   "labels": [
     "python",

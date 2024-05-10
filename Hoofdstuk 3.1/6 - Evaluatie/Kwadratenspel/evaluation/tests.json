@@ -1,0 +1,249 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande (met als achtereenvolgende invoer 400 - 41 - 9 - 196 - 81 - 121 - 149 - 361 - 361 - 13)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "400\n41\n9\n196\n81\n121\n149\n361\n361\n13\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 6\nFout, 36 is het juiste antwoord!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 12\nFout, 144 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 4\nFout, 16 is het juiste antwoord!\nJe totaalscore is 7 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8884)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande (met als achtereenvolgende invoer 49 - 8 - 36 - 26 - 361 - 169 - 16 - 289 - 324 - 81)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "49\n8\n36\n26\n361\n169\n16\n289\n324\n81\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 7\nGoed zo!\nZoek het kwadraat van 3\nFout, 9 is het juiste antwoord!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 13\nFout, 169 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 8\nFout, 64 is het juiste antwoord!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nJe totaalscore is 7 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9864)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande (met als achtereenvolgende invoer 26 - 2 - 247 - 121 - 256 - 25 - 361 - 81 - 20 - 224)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "26\n2\n247\n121\n256\n25\n361\n81\n20\n224\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 13\nFout, 169 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nZoek het kwadraat van 16\nFout, 256 is het juiste antwoord!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 15\nFout, 225 is het juiste antwoord!\nJe totaalscore is 5 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6508)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande (met als achtereenvolgende invoer 10 - 144 - 210 - 324 - 8 - 9 - 400 - 184 - 100 - 361)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "10\n144\n210\n324\n8\n9\n400\n184\n100\n361\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 5\nFout, 25 is het juiste antwoord!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 4\nFout, 16 is het juiste antwoord!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 10\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nJe totaalscore is 6 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande (met als achtereenvolgende invoer 359 - 36 - 225 - 22 - 259 - 169 - 25 - 49 - 25 - 64)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "359\n36\n225\n22\n259\n169\n25\n49\n25\n64\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 19\nFout, 361 is het juiste antwoord!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 16\nFout, 256 is het juiste antwoord!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 7\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is 6 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7647)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande (met als achtereenvolgende invoer 16 - 22 - 14 - 28 - 88 - 2 - 100 - 16 - 42 - 2)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "16\n22\n14\n28\n88\n2\n100\n16\n42\n2\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 9\nFout, 81 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nZoek het kwadraat van 10\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nJe totaalscore is 3 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande (met als achtereenvolgende invoer 324 - 196 - 36 - 18 - 256 - 169 - 144 - 25 - 144 - 64)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "324\n196\n36\n18\n256\n169\n144\n25\n144\n64\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 9\nFout, 81 is het juiste antwoord!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is 9 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8765)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande (met als achtereenvolgende invoer 20 - 144 - 16 - 81 - 121 - 16 - 36 - 400 - 117 - 42)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "20\n144\n16\n81\n121\n16\n36\n400\n117\n42\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nJe totaalscore is 7 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5752)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande (met als achtereenvolgende invoer 324 - 225 - 9 - 400 - 22 - 288 - 256 - 196 - 289 - 64)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "324\n225\n9\n400\n22\n288\n256\n196\n289\n64\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 17\nFout, 289 is het juiste antwoord!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is 8 op 10.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande (met als achtereenvolgende invoer 1 - 319 - 361 - 20 - 169 - 289 - 225 - 121 - 334 - 319)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "1\n319\n361\n20\n169\n289\n225\n121\n334\n319\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Zoek het kwadraat van 1\nGoed zo!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nJe totaalscore is 6 op 10.\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
