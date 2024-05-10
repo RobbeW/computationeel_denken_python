@@ -35,5 +35,5 @@ Na 16 lepels, heeft Laura 207.3 g suiker.
 ```
 
 {: .callout.callout-info}
->#### Tips
+>#### Tip
 >Vergeet de `random` module niet te importeren.
