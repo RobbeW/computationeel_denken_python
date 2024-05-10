@@ -40,11 +40,13 @@ for test in cases:
     exportdata["tabs"][0]["contexts"][i]["before"] = beforecase
     
     exportdata["tabs"][0]["contexts"][i]["testcases"] = []
-       
+    
+    choices = random.choices(["ja", "nee"], k = 6)
+    j = 0
+    
     # PROGRAM IMPLEMENTATION
     random.seed(seed) #setting the seed
     
-    choices = ["ja", "nee"]
     kaart_1 = random.randint(1, 10)
     kaart_2 = random.randint(1, 10)
     outputtxt = f"Je kreeg kaarten {kaart_1} en {kaart_2}\n"
@@ -54,13 +56,14 @@ for test in cases:
 
     # Vraag of de gebruiker nog een kaart wil
     if som >= 19:
-        keuze = random.choice(choices)
+        keuze = choices[j]
     else:
         keuze = "ja"
     inputtxt = keuze+"\n"
 
     # Zolang de gebruiker een kaart wil en de som niet groter is dan 21
     while keuze == 'ja' and som <= 21:
+        j +=1
         # Genereer een nieuwe kaart en verhoog de som
         nieuwe_kaart = random.randint(1, 10)
         som += nieuwe_kaart
@@ -72,7 +75,7 @@ for test in cases:
         # Als de som nog steeds niet groter is dan 21, vraag of de gebruiker nog een kaart wil
         if som < 21:
             if som >= 19:
-                keuze = random.choice(choices)
+                keuze = choices[j]
             else:
                 keuze = "ja"
             inputtxt += keuze+"\n"

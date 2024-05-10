@@ -275,17 +275,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 8939 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "description": "Uitvoeren met seed 8939 leidt tot het onderstaande (met als achtereenvolgende invoer ja - nee)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "ja\nja\n"
+                  "data": "ja\nnee\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Je kreeg kaarten 3 en 6\nDe nieuwe kaart is: 10\nDe som bedraagt nu: 19\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 25\nJe verliest!\n"
+                  "data": "Je kreeg kaarten 3 en 6\nDe nieuwe kaart is: 10\nDe som bedraagt nu: 19\nJe wint 2 euro!\n"
                 }
               }
             }
