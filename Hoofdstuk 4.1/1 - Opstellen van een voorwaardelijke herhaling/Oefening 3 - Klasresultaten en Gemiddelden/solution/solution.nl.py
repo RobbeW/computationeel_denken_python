@@ -7,7 +7,7 @@ flag = True
 while flag:
     # Vraag de score
     score = float( input( "Geef de score van de leerling op 20 in: " ) )
-    if flag := score > 0:
+    if flag := score >=0:
         # Voeg de score toe aan de totale score
         totaal_score += score
         # Verhoog het aantal leerlingen met 1
