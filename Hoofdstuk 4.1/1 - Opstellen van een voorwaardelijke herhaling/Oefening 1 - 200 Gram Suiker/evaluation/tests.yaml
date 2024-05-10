@@ -1,8 +1,6 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - statement:
-        python: "import random; random.seed(667)"
     - stdout: "Na 1 lepels, heeft Laura 14.4 g suiker.\nNa 2 lepels, heeft Laura 25.8\
         \ g suiker.\nNa 3 lepels, heeft Laura 40.7 g suiker.\nNa 4 lepels, heeft Laura\
         \ 52.7 g suiker.\nNa 5 lepels, heeft Laura 63.7 g suiker.\nNa 6 lepels, heeft\
@@ -13,8 +11,6 @@
         \ Laura 163.9 g suiker.\nNa 14 lepels, heeft Laura 176.9 g suiker.\nNa 15\
         \ lepels, heeft Laura 190.3 g suiker.\nNa 16 lepels, heeft Laura 204.8 g suiker.\n"
   - testcases:
-    - statement: 
-        python: "import random; random.seed(6039)"
     - stdout: "Na 1 lepels, heeft Laura 14.7 g suiker.\nNa 2 lepels, heeft Laura 26.8\
         \ g suiker.\nNa 3 lepels, heeft Laura 39.6 g suiker.\nNa 4 lepels, heeft Laura\
         \ 54.3 g suiker.\nNa 5 lepels, heeft Laura 67.0 g suiker.\nNa 6 lepels, heeft\
