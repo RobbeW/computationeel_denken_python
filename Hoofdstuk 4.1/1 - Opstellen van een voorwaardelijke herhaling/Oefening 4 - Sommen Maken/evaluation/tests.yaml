@@ -1,0 +1,102 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "11.0\n5.0\n25.0\n11.2\n17.8\n22.0\n0"
+      stdout: "Aantal ingevoerde getallen: 6\nSom van de ingevoerde getallen: 92.0\n\
+        Aantal getallen groter dan 10: 5\n"
+  - testcases:
+    - stdin: "12.0\n0"
+      stdout: "Aantal ingevoerde getallen: 1\nSom van de ingevoerde getallen: 12.0\n\
+        Aantal getallen groter dan 10: 1\n"
+  - testcases:
+    - stdin: "10.0\n10.0\n9.9\n10.1\n0"
+      stdout: "Aantal ingevoerde getallen: 4\nSom van de ingevoerde getallen: 40.0\n\
+        Aantal getallen groter dan 10: 1\n"
+  - testcases:
+    - stdin: "3.4\n15.1\n19.3\n19.6\n13.4\n18.5\n13.2\n19.4\n3.9\n23.7\n9.4\n23.9\n\
+        22.0\n2.0\n24.6\n9.8\n21.7\n12.6\n2.1\n6.3\n4.1\n2.7\n1.9\n21.8\n14.4\n0"
+      stdout: "Aantal ingevoerde getallen: 25\nSom van de ingevoerde getallen: 328.8\n\
+        Aantal getallen groter dan 10: 15\n"
+  - testcases:
+    - stdin: "24.6\n10.2\n18.2\n4.0\n6.2\n14.0\n12.8\n22.1\n15.0\n19.0\n9.9\n6.3\n\
+        3.5\n4.5\n10.7\n20.1\n6.0\n7.7\n6.2\n10.5\n21.7\n12.1\n0"
+      stdout: "Aantal ingevoerde getallen: 22\nSom van de ingevoerde getallen: 265.3\n\
+        Aantal getallen groter dan 10: 13\n"
+  - testcases:
+    - stdin: "2.0\n8.5\n10.7\n7.1\n15.9\n7.4\n24.7\n18.3\n18.8\n8.5\n3.7\n23.5\n23.7\n\
+        16.6\n21.3\n12.6\n21.6\n18.0\n18.8\n18.1\n6.8\n7.8\n15.9\n2.4\n0"
+      stdout: "Aantal ingevoerde getallen: 24\nSom van de ingevoerde getallen: 332.7\n\
+        Aantal getallen groter dan 10: 15\n"
+  - testcases:
+    - stdin: "7.6\n6.4\n17.5\n18.1\n18.0\n24.0\n9.0\n22.0\n10.4\n4.9\n3.4\n6.6\n5.8\n\
+        4.7\n22.9\n24.7\n4.7\n22.2\n7.8\n4.9\n7.0\n21.3\n11.9\n6.8\n12.5\n11.2\n11.8\n\
+        8.0\n6.3\n10.3\n0"
+      stdout: "Aantal ingevoerde getallen: 30\nSom van de ingevoerde getallen: 352.7\n\
+        Aantal getallen groter dan 10: 15\n"
+  - testcases:
+    - stdin: "6.7\n7.5\n13.6\n21.6\n22.0\n7.8\n8.4\n4.4\n21.0\n21.6\n7.1\n16.9\n22.3\n\
+        6.4\n17.0\n10.3\n6.0\n10.5\n5.7\n22.1\n5.9\n21.1\n7.0\n14.7\n20.3\n0"
+      stdout: "Aantal ingevoerde getallen: 25\nSom van de ingevoerde getallen: 327.9\n\
+        Aantal getallen groter dan 10: 14\n"
+  - testcases:
+    - stdin: "1.6\n4.1\n21.5\n1.8\n13.7\n18.6\n0"
+      stdout: "Aantal ingevoerde getallen: 6\nSom van de ingevoerde getallen: 61.3\n\
+        Aantal getallen groter dan 10: 3\n"
+  - testcases:
+    - stdin: "8.3\n3.8\n12.2\n22.3\n6.1\n16.6\n16.2\n12.7\n14.5\n17.1\n15.3\n3.1\n\
+        23.9\n22.5\n1.8\n9.3\n18.9\n22.3\n12.5\n15.1\n7.2\n12.3\n18.4\n23.0\n19.3\n\
+        0"
+      stdout: "Aantal ingevoerde getallen: 25\nSom van de ingevoerde getallen: 354.7\n\
+        Aantal getallen groter dan 10: 18\n"
+  - testcases:
+    - stdin: "9.1\n20.0\n18.8\n16.4\n2.3\n14.5\n18.7\n8.6\n18.9\n12.2\n11.4\n21.4\n\
+        24.3\n6.4\n16.6\n12.7\n1.9\n24.7\n1.3\n22.9\n0"
+      stdout: "Aantal ingevoerde getallen: 20\nSom van de ingevoerde getallen: 283.1\n\
+        Aantal getallen groter dan 10: 14\n"
+  - testcases:
+    - stdin: "22.8\n19.0\n18.7\n1.0\n8.3\n22.5\n14.8\n14.4\n1.0\n0"
+      stdout: "Aantal ingevoerde getallen: 9\nSom van de ingevoerde getallen: 122.5\n\
+        Aantal getallen groter dan 10: 6\n"
+  - testcases:
+    - stdin: "15.5\n10.2\n25.0\n10.4\n7.6\n2.9\n23.3\n20.2\n23.6\n3.4\n16.4\n22.8\n\
+        2.8\n16.9\n16.0\n11.7\n22.7\n18.9\n0"
+      stdout: "Aantal ingevoerde getallen: 18\nSom van de ingevoerde getallen: 270.3\n\
+        Aantal getallen groter dan 10: 14\n"
+  - testcases:
+    - stdin: "4.8\n23.4\n2.2\n20.2\n9.0\n21.2\n12.7\n13.4\n2.5\n17.2\n2.4\n3.3\n21.8\n\
+        2.7\n20.8\n15.0\n18.7\n3.5\n8.7\n22.5\n22.6\n5.2\n10.4\n12.4\n24.6\n6.0\n\
+        11.6\n7.8\n7.6\n12.1\n0"
+      stdout: "Aantal ingevoerde getallen: 30\nSom van de ingevoerde getallen: 366.3\n\
+        Aantal getallen groter dan 10: 17\n"
+  - testcases:
+    - stdin: "14.3\n20.1\n7.2\n15.7\n2.1\n2.7\n5.2\n19.0\n5.0\n4.8\n15.8\n3.6\n14.5\n\
+        0"
+      stdout: "Aantal ingevoerde getallen: 13\nSom van de ingevoerde getallen: 130.0\n\
+        Aantal getallen groter dan 10: 6\n"
+  - testcases:
+    - stdin: "11.2\n15.3\n4.7\n23.2\n12.0\n16.4\n21.0\n18.0\n22.0\n14.3\n2.2\n4.5\n\
+        7.5\n12.7\n7.0\n8.6\n20.2\n0"
+      stdout: "Aantal ingevoerde getallen: 17\nSom van de ingevoerde getallen: 220.8\n\
+        Aantal getallen groter dan 10: 11\n"
+  - testcases:
+    - stdin: "19.8\n13.6\n16.6\n10.9\n1.2\n11.4\n24.1\n21.9\n5.9\n24.9\n4.3\n14.7\n\
+        11.2\n14.4\n4.7\n11.0\n16.4\n4.4\n14.7\n7.2\n6.8\n8.3\n2.0\n14.7\n23.0\n9.7\n\
+        0"
+      stdout: "Aantal ingevoerde getallen: 26\nSom van de ingevoerde getallen: 317.8\n\
+        Aantal getallen groter dan 10: 16\n"
+  - testcases:
+    - stdin: "6.3\n13.6\n4.6\n21.9\n21.4\n2.4\n9.2\n2.0\n21.4\n16.4\n8.7\n5.7\n20.8\n\
+        6.6\n22.5\n2.8\n17.2\n21.5\n24.6\n5.9\n3.8\n11.9\n24.9\n14.9\n7.0\n16.4\n\
+        21.1\n7.4\n18.1\n15.1\n0"
+      stdout: "Aantal ingevoerde getallen: 30\nSom van de ingevoerde getallen: 396.1\n\
+        Aantal getallen groter dan 10: 17\n"
+  - testcases:
+    - stdin: "23.8\n13.9\n20.9\n9.0\n6.2\n5.2\n21.2\n8.9\n5.4\n2.5\n13.8\n6.7\n11.7\n\
+        16.1\n23.4\n0"
+      stdout: "Aantal ingevoerde getallen: 15\nSom van de ingevoerde getallen: 188.7\n\
+        Aantal getallen groter dan 10: 8\n"
+  - testcases:
+    - stdin: "16.4\n14.7\n23.7\n14.4\n19.4\n23.5\n1.5\n10.2\n19.9\n5.5\n18.2\n17.2\n\
+        7.5\n17.3\n21.8\n11.9\n16.6\n4.8\n2.1\n17.1\n17.8\n14.5\n4.1\n0"
+      stdout: "Aantal ingevoerde getallen: 23\nSom van de ingevoerde getallen: 320.1\n\
+        Aantal getallen groter dan 10: 17\n"
