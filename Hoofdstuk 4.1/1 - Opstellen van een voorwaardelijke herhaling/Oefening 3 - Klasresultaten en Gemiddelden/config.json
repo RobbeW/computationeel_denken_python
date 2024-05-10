@@ -4,12 +4,13 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Opstellen Voorwaardelijke Herhaling - Klasresultaten en Gemiddelde",
-      "en": "Conditional Loop - Class Results and Averages"
+      "nl": "Voorwaardelijke Herhaling - Klasresultaten en gemiddelde",
+      "en": "Conditional Loop - Class results and mean"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
