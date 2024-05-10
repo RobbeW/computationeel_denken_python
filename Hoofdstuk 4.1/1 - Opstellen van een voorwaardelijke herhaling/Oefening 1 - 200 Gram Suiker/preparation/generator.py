@@ -54,9 +54,11 @@ for test in cases:
 
     # generate test expression
     testcase = {"description": "Uitvoeren met seed "+str(seed)+" leidt tot het onderstaande",
+                "input" : {},
                 "output": {} }
 
     # fill in the testcase
+    testcase["input"]["stdin"] = "none"
     testcase["output"]["stdout"] = {"type": "text", 
                                     "data": outputtxt }
     

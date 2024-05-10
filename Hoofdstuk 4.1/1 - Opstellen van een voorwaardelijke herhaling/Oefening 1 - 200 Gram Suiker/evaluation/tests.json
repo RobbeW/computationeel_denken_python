@@ -23,6 +23,195 @@
               }
             }
           ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8884)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 12.2 g suiker.\nNa 2 lepels, heeft Laura 23.6 g suiker.\nNa 3 lepels, heeft Laura 35.7 g suiker.\nNa 4 lepels, heeft Laura 49.2 g suiker.\nNa 5 lepels, heeft Laura 63.8 g suiker.\nNa 6 lepels, heeft Laura 77.2 g suiker.\nNa 7 lepels, heeft Laura 89.6 g suiker.\nNa 8 lepels, heeft Laura 103.9 g suiker.\nNa 9 lepels, heeft Laura 118.4 g suiker.\nNa 10 lepels, heeft Laura 131.1 g suiker.\nNa 11 lepels, heeft Laura 144.1 g suiker.\nNa 12 lepels, heeft Laura 155.5 g suiker.\nNa 13 lepels, heeft Laura 168.1 g suiker.\nNa 14 lepels, heeft Laura 182.9 g suiker.\nNa 15 lepels, heeft Laura 196.3 g suiker.\nNa 16 lepels, heeft Laura 208.5 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9864)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 13.4 g suiker.\nNa 2 lepels, heeft Laura 24.4 g suiker.\nNa 3 lepels, heeft Laura 38.5 g suiker.\nNa 4 lepels, heeft Laura 51.5 g suiker.\nNa 5 lepels, heeft Laura 65.6 g suiker.\nNa 6 lepels, heeft Laura 77.5 g suiker.\nNa 7 lepels, heeft Laura 92.1 g suiker.\nNa 8 lepels, heeft Laura 104.8 g suiker.\nNa 9 lepels, heeft Laura 117.7 g suiker.\nNa 10 lepels, heeft Laura 131.6 g suiker.\nNa 11 lepels, heeft Laura 143.7 g suiker.\nNa 12 lepels, heeft Laura 158.1 g suiker.\nNa 13 lepels, heeft Laura 170.3 g suiker.\nNa 14 lepels, heeft Laura 181.9 g suiker.\nNa 15 lepels, heeft Laura 194.9 g suiker.\nNa 16 lepels, heeft Laura 209.6 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6508)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 11.8 g suiker.\nNa 2 lepels, heeft Laura 25.0 g suiker.\nNa 3 lepels, heeft Laura 38.7 g suiker.\nNa 4 lepels, heeft Laura 53.2 g suiker.\nNa 5 lepels, heeft Laura 64.8 g suiker.\nNa 6 lepels, heeft Laura 76.2 g suiker.\nNa 7 lepels, heeft Laura 91.0 g suiker.\nNa 8 lepels, heeft Laura 104.7 g suiker.\nNa 9 lepels, heeft Laura 117.6 g suiker.\nNa 10 lepels, heeft Laura 132.3 g suiker.\nNa 11 lepels, heeft Laura 144.6 g suiker.\nNa 12 lepels, heeft Laura 157.0 g suiker.\nNa 13 lepels, heeft Laura 171.5 g suiker.\nNa 14 lepels, heeft Laura 182.6 g suiker.\nNa 15 lepels, heeft Laura 196.5 g suiker.\nNa 16 lepels, heeft Laura 208.2 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 14.7 g suiker.\nNa 2 lepels, heeft Laura 29.1 g suiker.\nNa 3 lepels, heeft Laura 42.9 g suiker.\nNa 4 lepels, heeft Laura 56.0 g suiker.\nNa 5 lepels, heeft Laura 70.0 g suiker.\nNa 6 lepels, heeft Laura 85.0 g suiker.\nNa 7 lepels, heeft Laura 98.5 g suiker.\nNa 8 lepels, heeft Laura 110.4 g suiker.\nNa 9 lepels, heeft Laura 122.7 g suiker.\nNa 10 lepels, heeft Laura 134.5 g suiker.\nNa 11 lepels, heeft Laura 147.0 g suiker.\nNa 12 lepels, heeft Laura 158.1 g suiker.\nNa 13 lepels, heeft Laura 171.5 g suiker.\nNa 14 lepels, heeft Laura 185.2 g suiker.\nNa 15 lepels, heeft Laura 196.4 g suiker.\nNa 16 lepels, heeft Laura 207.7 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7647)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 11.6 g suiker.\nNa 2 lepels, heeft Laura 24.7 g suiker.\nNa 3 lepels, heeft Laura 37.0 g suiker.\nNa 4 lepels, heeft Laura 50.6 g suiker.\nNa 5 lepels, heeft Laura 63.3 g suiker.\nNa 6 lepels, heeft Laura 74.3 g suiker.\nNa 7 lepels, heeft Laura 87.1 g suiker.\nNa 8 lepels, heeft Laura 98.8 g suiker.\nNa 9 lepels, heeft Laura 111.0 g suiker.\nNa 10 lepels, heeft Laura 122.0 g suiker.\nNa 11 lepels, heeft Laura 136.5 g suiker.\nNa 12 lepels, heeft Laura 148.6 g suiker.\nNa 13 lepels, heeft Laura 159.9 g suiker.\nNa 14 lepels, heeft Laura 171.6 g suiker.\nNa 15 lepels, heeft Laura 183.0 g suiker.\nNa 16 lepels, heeft Laura 195.2 g suiker.\nNa 17 lepels, heeft Laura 207.0 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 14.5 g suiker.\nNa 2 lepels, heeft Laura 28.2 g suiker.\nNa 3 lepels, heeft Laura 40.3 g suiker.\nNa 4 lepels, heeft Laura 52.9 g suiker.\nNa 5 lepels, heeft Laura 66.9 g suiker.\nNa 6 lepels, heeft Laura 80.4 g suiker.\nNa 7 lepels, heeft Laura 93.6 g suiker.\nNa 8 lepels, heeft Laura 105.5 g suiker.\nNa 9 lepels, heeft Laura 118.7 g suiker.\nNa 10 lepels, heeft Laura 131.1 g suiker.\nNa 11 lepels, heeft Laura 145.6 g suiker.\nNa 12 lepels, heeft Laura 159.4 g suiker.\nNa 13 lepels, heeft Laura 172.4 g suiker.\nNa 14 lepels, heeft Laura 184.3 g suiker.\nNa 15 lepels, heeft Laura 196.6 g suiker.\nNa 16 lepels, heeft Laura 210.9 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8765)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 15.0 g suiker.\nNa 2 lepels, heeft Laura 27.8 g suiker.\nNa 3 lepels, heeft Laura 41.0 g suiker.\nNa 4 lepels, heeft Laura 52.6 g suiker.\nNa 5 lepels, heeft Laura 65.2 g suiker.\nNa 6 lepels, heeft Laura 78.3 g suiker.\nNa 7 lepels, heeft Laura 90.0 g suiker.\nNa 8 lepels, heeft Laura 102.0 g suiker.\nNa 9 lepels, heeft Laura 117.0 g suiker.\nNa 10 lepels, heeft Laura 131.9 g suiker.\nNa 11 lepels, heeft Laura 145.0 g suiker.\nNa 12 lepels, heeft Laura 157.2 g suiker.\nNa 13 lepels, heeft Laura 169.1 g suiker.\nNa 14 lepels, heeft Laura 180.9 g suiker.\nNa 15 lepels, heeft Laura 195.9 g suiker.\nNa 16 lepels, heeft Laura 208.8 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5752)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 14.4 g suiker.\nNa 2 lepels, heeft Laura 28.2 g suiker.\nNa 3 lepels, heeft Laura 39.7 g suiker.\nNa 4 lepels, heeft Laura 54.5 g suiker.\nNa 5 lepels, heeft Laura 67.6 g suiker.\nNa 6 lepels, heeft Laura 82.6 g suiker.\nNa 7 lepels, heeft Laura 96.9 g suiker.\nNa 8 lepels, heeft Laura 110.9 g suiker.\nNa 9 lepels, heeft Laura 124.5 g suiker.\nNa 10 lepels, heeft Laura 138.7 g suiker.\nNa 11 lepels, heeft Laura 151.1 g suiker.\nNa 12 lepels, heeft Laura 166.1 g suiker.\nNa 13 lepels, heeft Laura 179.9 g suiker.\nNa 14 lepels, heeft Laura 193.0 g suiker.\nNa 15 lepels, heeft Laura 207.2 g suiker.\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Na 1 lepels, heeft Laura 11.1 g suiker.\nNa 2 lepels, heeft Laura 25.6 g suiker.\nNa 3 lepels, heeft Laura 40.2 g suiker.\nNa 4 lepels, heeft Laura 53.1 g suiker.\nNa 5 lepels, heeft Laura 66.5 g suiker.\nNa 6 lepels, heeft Laura 80.7 g suiker.\nNa 7 lepels, heeft Laura 94.5 g suiker.\nNa 8 lepels, heeft Laura 107.5 g suiker.\nNa 9 lepels, heeft Laura 121.9 g suiker.\nNa 10 lepels, heeft Laura 136.3 g suiker.\nNa 11 lepels, heeft Laura 150.5 g suiker.\nNa 12 lepels, heeft Laura 161.5 g suiker.\nNa 13 lepels, heeft Laura 175.2 g suiker.\nNa 14 lepels, heeft Laura 187.8 g suiker.\nNa 15 lepels, heeft Laura 199.6 g suiker.\nNa 16 lepels, heeft Laura 214.0 g suiker.\n"
+                }
+              }
+            }
+          ]
         }
       ]
     }
