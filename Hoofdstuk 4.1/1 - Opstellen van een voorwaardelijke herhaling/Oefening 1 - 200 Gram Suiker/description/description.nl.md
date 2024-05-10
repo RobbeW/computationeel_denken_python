@@ -9,7 +9,7 @@ Na hoeveel lepels moet Laura stoppen om minimaal 200 g suiker af te wegen? *Simu
 
 Omdat elke schep **niet exact even groot** is, gebruik je `random.randint(110, 150) / 10` om een willekeurige hoeveelheid suiker tussen 11 en 15 g af te 'wegen'.
 
-Toon na elke schep hoeveel gram suiker Laura ongeveer heeft. 
+Toon na elke schep hoeveel gram suiker Laura ongeveer heeft. **Rond** bij deze weergave **af** op één decimaal.
 
 ## Voorbeeld
 
