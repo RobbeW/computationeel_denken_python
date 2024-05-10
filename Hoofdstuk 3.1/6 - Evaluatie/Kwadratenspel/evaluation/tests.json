@@ -21,7 +21,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 6\nFout, 36 is het juiste antwoord!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 12\nFout, 144 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 4\nFout, 16 is het juiste antwoord!\nJe totaalscore is 7 op 10.\n"
+                  "data": "Zoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 6\nFout, 36 is het juiste antwoord!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 12\nFout, 144 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 4\nFout, 16 is het juiste antwoord!\nJe totaalscore is: 7 / 10.\n"
                 }
               }
             }
@@ -45,7 +45,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 7\nGoed zo!\nZoek het kwadraat van 3\nFout, 9 is het juiste antwoord!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 13\nFout, 169 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 8\nFout, 64 is het juiste antwoord!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nJe totaalscore is 7 op 10.\n"
+                  "data": "Zoek het kwadraat van 7\nGoed zo!\nZoek het kwadraat van 3\nFout, 9 is het juiste antwoord!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 13\nFout, 169 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 8\nFout, 64 is het juiste antwoord!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nJe totaalscore is: 7 / 10.\n"
                 }
               }
             }
@@ -69,7 +69,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 13\nFout, 169 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nZoek het kwadraat van 16\nFout, 256 is het juiste antwoord!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 15\nFout, 225 is het juiste antwoord!\nJe totaalscore is 5 op 10.\n"
+                  "data": "Zoek het kwadraat van 13\nFout, 169 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nZoek het kwadraat van 16\nFout, 256 is het juiste antwoord!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 15\nFout, 225 is het juiste antwoord!\nJe totaalscore is: 5 / 10.\n"
                 }
               }
             }
@@ -93,7 +93,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 5\nFout, 25 is het juiste antwoord!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 4\nFout, 16 is het juiste antwoord!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 10\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nJe totaalscore is 6 op 10.\n"
+                  "data": "Zoek het kwadraat van 5\nFout, 25 is het juiste antwoord!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 4\nFout, 16 is het juiste antwoord!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 10\nGoed zo!\nZoek het kwadraat van 19\nGoed zo!\nJe totaalscore is: 6 / 10.\n"
                 }
               }
             }
@@ -117,7 +117,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 19\nFout, 361 is het juiste antwoord!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 16\nFout, 256 is het juiste antwoord!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 7\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is 6 op 10.\n"
+                  "data": "Zoek het kwadraat van 19\nFout, 361 is het juiste antwoord!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 16\nFout, 256 is het juiste antwoord!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 7\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is: 6 / 10.\n"
                 }
               }
             }
@@ -141,7 +141,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 9\nFout, 81 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nZoek het kwadraat van 10\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nJe totaalscore is 3 op 10.\n"
+                  "data": "Zoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nZoek het kwadraat van 14\nFout, 196 is het juiste antwoord!\nZoek het kwadraat van 9\nFout, 81 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nZoek het kwadraat van 10\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nZoek het kwadraat van 1\nFout, 1 is het juiste antwoord!\nJe totaalscore is: 3 / 10.\n"
                 }
               }
             }
@@ -165,7 +165,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 9\nFout, 81 is het juiste antwoord!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is 9 op 10.\n"
+                  "data": "Zoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 9\nFout, 81 is het juiste antwoord!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 5\nGoed zo!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is: 9 / 10.\n"
                 }
               }
             }
@@ -189,7 +189,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nJe totaalscore is 7 op 10.\n"
+                  "data": "Zoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 12\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 9\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 4\nGoed zo!\nZoek het kwadraat van 6\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 7\nFout, 49 is het juiste antwoord!\nJe totaalscore is: 7 / 10.\n"
                 }
               }
             }
@@ -213,7 +213,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 17\nFout, 289 is het juiste antwoord!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is 8 op 10.\n"
+                  "data": "Zoek het kwadraat van 18\nGoed zo!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 3\nGoed zo!\nZoek het kwadraat van 20\nGoed zo!\nZoek het kwadraat van 11\nFout, 121 is het juiste antwoord!\nZoek het kwadraat van 17\nFout, 289 is het juiste antwoord!\nZoek het kwadraat van 16\nGoed zo!\nZoek het kwadraat van 14\nGoed zo!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 8\nGoed zo!\nJe totaalscore is: 8 / 10.\n"
                 }
               }
             }
@@ -237,7 +237,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Zoek het kwadraat van 1\nGoed zo!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nJe totaalscore is 6 op 10.\n"
+                  "data": "Zoek het kwadraat van 1\nGoed zo!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 19\nGoed zo!\nZoek het kwadraat van 10\nFout, 100 is het juiste antwoord!\nZoek het kwadraat van 13\nGoed zo!\nZoek het kwadraat van 17\nGoed zo!\nZoek het kwadraat van 15\nGoed zo!\nZoek het kwadraat van 11\nGoed zo!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nZoek het kwadraat van 18\nFout, 324 is het juiste antwoord!\nJe totaalscore is: 6 / 10.\n"
                 }
               }
             }

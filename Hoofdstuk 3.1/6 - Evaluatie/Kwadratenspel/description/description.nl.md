@@ -7,9 +7,9 @@ Bijvoorbeeld, het kwadraat van 4 is 16, omdat 4 · 4 = 16.
 * Schrijf een programma dat een willekeurig getal van 1 tot en met 20 genereert;
 * Geef dit getal vervolgens weer op het scherm;
 * Het programma vraagt vervolgens aan de gebruiker wat hij/zij/hun denkt dat het kwadraat van dat getal is;
-* Als het antwoord van de gebruiker correct is, print het programma `Goed zo!` en krijgt de gebruiker een punt;
-* Als het antwoord onjuist is, print het programma de juiste oplossing;
-* Het programma moet 10 oefeningen stellen en aan het einde de totaalscore printen.
+* Als het antwoord van de gebruiker correct is, toont het programma `Goed zo!` en krijgt de gebruiker een punt;
+* Als het antwoord onjuist is, toont het programma de juiste oplossing;
+* Het programma moet **10 oefeningen** opstellen en aan het einde de totaalscore weergeven.
 
 #### Voorbeeld
 

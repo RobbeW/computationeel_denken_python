@@ -68,7 +68,7 @@ for test in cases:
             inputtxt += str(fout)+"\n"
             outputtxt += "Fout, "+ str(product)+ " is het juiste antwoord!\n"
         
-    outputtxt += "Je totaalscore is "+str(score)+" op 10.\n"
+    outputtxt += "Je totaalscore is: "+str(score)+" / 10.\n"
     
     
     # generate test expression
