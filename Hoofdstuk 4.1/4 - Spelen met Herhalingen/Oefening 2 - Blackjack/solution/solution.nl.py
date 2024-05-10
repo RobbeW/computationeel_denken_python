@@ -12,7 +12,7 @@ som = kaart_1 + kaart_2
 keuze = input("Wil je nog een kaart? ")
 
 # Zolang de gebruiker een kaart wil en de som niet groter is dan 21
-while keuze == 'ja' and som <= 21:
+while keuze == 'ja' and som < 21:
     # Genereer een nieuwe kaart en verhoog de som
     nieuwe_kaart = random.randint(1, 10)
     som += nieuwe_kaart
