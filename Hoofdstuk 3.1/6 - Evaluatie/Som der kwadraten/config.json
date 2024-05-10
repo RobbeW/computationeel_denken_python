@@ -4,12 +4,13 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Som der Kwadraten",
-      "en": "For i in Range - Sum of Squares"
+      "nl": "Som der kwadraten",
+      "en": "Sum of Squares"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
