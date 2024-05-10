@@ -9,7 +9,7 @@ Lees een reeks getallen in waarbij de invoer **stopt** indien de gebruiker `0` i
 * Bereken de **som** van de ingevoerde getallen;
 * Tel het **aantal getallen** dat **groter is dan 10**;
 
-Geef vervolgens deze variabelen weer.
+Geef vervolgens deze drie variabelen weer.
 
 #### Voorbeeld
 
