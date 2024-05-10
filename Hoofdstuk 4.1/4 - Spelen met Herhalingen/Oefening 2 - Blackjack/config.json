@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Spelen met Herhalingen - Blackjack",
-      "en": "Playing with Loops - Blackjack"
+      "nl": "Oefening - Blackjack"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.json"
   },
   "labels": [
     "python",

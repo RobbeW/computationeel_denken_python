@@ -1,0 +1,489 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 10 en 3\nDe nieuwe kaart is: 2\nDe som bedraagt nu: 15\nDe nieuwe kaart is: 7\nDe som bedraagt nu: 22\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8884)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 4 en 2\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 9\nDe nieuwe kaart is: 7\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 10\nDe som bedraagt nu: 26\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9864)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 7 en 1\nDe nieuwe kaart is: 8\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 22\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6508)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 3 en 6\nDe nieuwe kaart is: 7\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 9\nDe som bedraagt nu: 25\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande (met als achtereenvolgende invoer nee)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "nee\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 10 en 9\nJe wint 2 euro!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7647)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - nee)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\nnee\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 2 en 6\nDe nieuwe kaart is: 4\nDe som bedraagt nu: 12\nDe nieuwe kaart is: 7\nDe som bedraagt nu: 19\nJe wint 2 euro!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande (met als achtereenvolgende invoer ja - nee)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nnee\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 9 en 7\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 19\nJe wint 2 euro!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8765)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 5 en 6\nDe nieuwe kaart is: 2\nDe som bedraagt nu: 13\nDe nieuwe kaart is: 5\nDe som bedraagt nu: 18\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 24\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5752)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande (met als achtereenvolgende invoer ja - nee)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nnee\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 9 en 8\nDe nieuwe kaart is: 2\nDe som bedraagt nu: 19\nJe wint 2 euro!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande (met als achtereenvolgende invoer ja - nee)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nnee\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 1 en 9\nDe nieuwe kaart is: 10\nDe som bedraagt nu: 20\nJe wint 5 euro!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7225)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7225 leidt tot het onderstaande (met als achtereenvolgende invoer ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 8 en 4\nDe nieuwe kaart is: 10\nDe som bedraagt nu: 22\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8939)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8939 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 3 en 6\nDe nieuwe kaart is: 10\nDe som bedraagt nu: 19\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 25\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(3404)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 3404 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 7 en 2\nDe nieuwe kaart is: 8\nDe som bedraagt nu: 17\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 23\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9833)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9833 leidt tot het onderstaande (met als achtereenvolgende invoer ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 10 en 7\nDe nieuwe kaart is: 8\nDe som bedraagt nu: 25\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(388)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 388 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 6 en 6\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 18\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 21\nDe nieuwe kaart is: 2\nDe som bedraagt nu: 23\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4446)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4446 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 5 en 2\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 10\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 7\nDe som bedraagt nu: 23\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(3027)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 3027 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\nja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 3 en 7\nDe nieuwe kaart is: 1\nDe som bedraagt nu: 11\nDe nieuwe kaart is: 2\nDe som bedraagt nu: 13\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 8\nDe som bedraagt nu: 24\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(430)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 430 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\nja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 5 en 3\nDe nieuwe kaart is: 1\nDe som bedraagt nu: 9\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 12\nDe nieuwe kaart is: 4\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 8\nDe som bedraagt nu: 24\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(2342)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 2342 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\nja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 9 en 4\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 5\nDe som bedraagt nu: 21\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 24\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5147)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5147 leidt tot het onderstaande (met als achtereenvolgende invoer ja)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "ja\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je kreeg kaarten 9 en 8\nDe nieuwe kaart is: 5\nDe som bedraagt nu: 22\nJe verliest!\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
