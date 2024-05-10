@@ -79,6 +79,9 @@ for test in cases:
             else:
                 keuze = "ja"
             inputtxt += keuze+"\n"
+        elif som == 21:
+            keuze = "nee"
+            inputtxt += keuze+"\n"
 
     # Als het spel is afgelopen
     if som == 19:

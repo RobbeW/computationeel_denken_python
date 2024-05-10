@@ -347,17 +347,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 388 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "description": "Uitvoeren met seed 388 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - nee)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "ja\nja\n"
+                  "data": "ja\nja\nnee\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Je kreeg kaarten 6 en 6\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 18\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 21\nDe nieuwe kaart is: 2\nDe som bedraagt nu: 23\nJe verliest!\n"
+                  "data": "Je kreeg kaarten 6 en 6\nDe nieuwe kaart is: 6\nDe som bedraagt nu: 18\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 21\nJe wint 10 euro!\n"
                 }
               }
             }
@@ -443,17 +443,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 2342 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja)",
+              "description": "Uitvoeren met seed 2342 leidt tot het onderstaande (met als achtereenvolgende invoer ja - ja - nee)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "ja\nja\n"
+                  "data": "ja\nja\nnee\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "Je kreeg kaarten 9 en 4\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 5\nDe som bedraagt nu: 21\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 24\nJe verliest!\n"
+                  "data": "Je kreeg kaarten 9 en 4\nDe nieuwe kaart is: 3\nDe som bedraagt nu: 16\nDe nieuwe kaart is: 5\nDe som bedraagt nu: 21\nJe wint 10 euro!\n"
                 }
               }
             }
