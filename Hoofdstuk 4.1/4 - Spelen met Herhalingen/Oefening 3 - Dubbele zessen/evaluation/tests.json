@@ -1,0 +1,429 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8884)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9864)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6508)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7647)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8765)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5752)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7225)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7225 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Gelijkstand."
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8939)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8939 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(3404)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 3404 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9833)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9833 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(388)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 388 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4446)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4446 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(3027)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 3027 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(430)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 430 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(2342)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 2342 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 2 wint!"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5147)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5147 leidt tot het onderstaande",
+              "input": {
+                "stdin": "none"
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Speler 1 wint!"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
