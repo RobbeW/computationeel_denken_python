@@ -16,6 +16,8 @@ while flag:
     speler2 += 1
     flag = not (a == 6 == b)
     
+print("Aantal worpen speler 1:", speler1)
+print("Aantal worpen speler 2:", speler2)
 if speler1 < speler2:
     print("Speler 1 wint!")
 elif speler1 > speler2:

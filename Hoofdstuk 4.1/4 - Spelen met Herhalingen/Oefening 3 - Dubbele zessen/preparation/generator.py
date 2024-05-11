@@ -60,12 +60,14 @@ for test in cases:
         speler2 += 1
         flag = not (a == 6 == b)
         
+    outputtxt = f"Aantal worpen speler 1: {speler1}\n"
+    outputtxt += f"Aantal worpen speler 2: {speler2}\n"
     if speler1 < speler2:
-        outputtxt = "Speler 1 wint!"
+        outputtxt += "Speler 1 wint!\n"
     elif speler1 > speler2:
-        outputtxt = "Speler 2 wint!"
+        outputtxt += "Speler 2 wint!\n"
     else:
-        outputtxt = "Gelijkstand."
+        outputtxt += "Gelijkstand.\n"
     
     # generate test expression
 
