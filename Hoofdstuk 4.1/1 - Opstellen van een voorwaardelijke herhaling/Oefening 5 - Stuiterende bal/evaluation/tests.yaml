@@ -1,0 +1,157 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "100\n0.7"
+      stdout: "Na 1 botsing is de hoogte nog 49.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 24.0 cm.\nNa 3 botsingen is de hoogte nog 11.8 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 5.8 cm.\nNa 5 botsingen is de hoogte nog 2.8 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 1.4 cm.\nNa 7 botsingen is de hoogte nog 0.7 cm.\n"
+  - testcases:
+    - stdin: "50\n0.8"
+      stdout: "Na 1 botsing is de hoogte nog 32.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 20.5 cm.\nNa 3 botsingen is de hoogte nog 13.1 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 8.4 cm.\nNa 5 botsingen is de hoogte nog 5.4 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 3.4 cm.\nNa 7 botsingen is de hoogte nog 2.2 cm.\nNa 8\
+        \ botsingen is de hoogte nog 1.4 cm.\nNa 9 botsingen is de hoogte nog 0.9\
+        \ cm.\n"
+  - testcases:
+    - stdin: "100\n0.9"
+      stdout: "Na 1 botsing is de hoogte nog 81.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 65.6 cm.\nNa 3 botsingen is de hoogte nog 53.1 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 43.0 cm.\nNa 5 botsingen is de hoogte nog 34.9 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 28.2 cm.\nNa 7 botsingen is de hoogte nog 22.9 cm.\nNa\
+        \ 8 botsingen is de hoogte nog 18.5 cm.\nNa 9 botsingen is de hoogte nog 15.0\
+        \ cm.\nNa 10 botsingen is de hoogte nog 12.2 cm.\nNa 11 botsingen is de hoogte\
+        \ nog 9.8 cm.\nNa 12 botsingen is de hoogte nog 8.0 cm.\nNa 13 botsingen is\
+        \ de hoogte nog 6.5 cm.\nNa 14 botsingen is de hoogte nog 5.2 cm.\nNa 15 botsingen\
+        \ is de hoogte nog 4.2 cm.\nNa 16 botsingen is de hoogte nog 3.4 cm.\nNa 17\
+        \ botsingen is de hoogte nog 2.8 cm.\nNa 18 botsingen is de hoogte nog 2.3\
+        \ cm.\nNa 19 botsingen is de hoogte nog 1.8 cm.\nNa 20 botsingen is de hoogte\
+        \ nog 1.5 cm.\nNa 21 botsingen is de hoogte nog 1.2 cm.\nNa 22 botsingen is\
+        \ de hoogte nog 1.0 cm.\n"
+  - testcases:
+    - stdin: "250\n0.7"
+      stdout: "Na 1 botsing is de hoogte nog 122.5 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 60.0 cm.\nNa 3 botsingen is de hoogte nog 29.4 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 14.4 cm.\nNa 5 botsingen is de hoogte nog 7.1 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 3.5 cm.\nNa 7 botsingen is de hoogte nog 1.7 cm.\nNa 8\
+        \ botsingen is de hoogte nog 0.8 cm.\n"
+  - testcases:
+    - stdin: "225\n0.4"
+      stdout: "Na 1 botsing is de hoogte nog 36.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 5.8 cm.\nNa 3 botsingen is de hoogte nog 0.9 cm.\n"
+  - testcases:
+    - stdin: "150\n0.5"
+      stdout: "Na 1 botsing is de hoogte nog 37.5 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 9.4 cm.\nNa 3 botsingen is de hoogte nog 2.3 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 0.6 cm.\n"
+  - testcases:
+    - stdin: "150\n0.4"
+      stdout: "Na 1 botsing is de hoogte nog 24.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 3.8 cm.\nNa 3 botsingen is de hoogte nog 0.6 cm.\n"
+  - testcases:
+    - stdin: "200\n0.4"
+      stdout: "Na 1 botsing is de hoogte nog 32.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 5.1 cm.\nNa 3 botsingen is de hoogte nog 0.8 cm.\n"
+  - testcases:
+    - stdin: "150\n0.8"
+      stdout: "Na 1 botsing is de hoogte nog 96.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 61.4 cm.\nNa 3 botsingen is de hoogte nog 39.3 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 25.2 cm.\nNa 5 botsingen is de hoogte nog 16.1 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 10.3 cm.\nNa 7 botsingen is de hoogte nog 6.6 cm.\nNa 8\
+        \ botsingen is de hoogte nog 4.2 cm.\nNa 9 botsingen is de hoogte nog 2.7\
+        \ cm.\nNa 10 botsingen is de hoogte nog 1.7 cm.\nNa 11 botsingen is de hoogte\
+        \ nog 1.1 cm.\nNa 12 botsingen is de hoogte nog 0.7 cm.\n"
+  - testcases:
+    - stdin: "100\n0.7"
+      stdout: "Na 1 botsing is de hoogte nog 49.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 24.0 cm.\nNa 3 botsingen is de hoogte nog 11.8 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 5.8 cm.\nNa 5 botsingen is de hoogte nog 2.8 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 1.4 cm.\nNa 7 botsingen is de hoogte nog 0.7 cm.\n"
+  - testcases:
+    - stdin: "25\n0.7"
+      stdout: "Na 1 botsing is de hoogte nog 12.2 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 6.0 cm.\nNa 3 botsingen is de hoogte nog 2.9 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 1.4 cm.\nNa 5 botsingen is de hoogte nog 0.7 cm.\n"
+  - testcases:
+    - stdin: "225\n0.5"
+      stdout: "Na 1 botsing is de hoogte nog 56.2 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 14.1 cm.\nNa 3 botsingen is de hoogte nog 3.5 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 0.9 cm.\n"
+  - testcases:
+    - stdin: "50\n0.6"
+      stdout: "Na 1 botsing is de hoogte nog 18.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 6.5 cm.\nNa 3 botsingen is de hoogte nog 2.3 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 0.8 cm.\n"
+  - testcases:
+    - stdin: "175\n0.9"
+      stdout: "Na 1 botsing is de hoogte nog 141.8 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 114.8 cm.\nNa 3 botsingen is de hoogte nog 93.0 cm.\nNa 4 botsingen\
+        \ is de hoogte nog 75.3 cm.\nNa 5 botsingen is de hoogte nog 61.0 cm.\nNa\
+        \ 6 botsingen is de hoogte nog 49.4 cm.\nNa 7 botsingen is de hoogte nog 40.0\
+        \ cm.\nNa 8 botsingen is de hoogte nog 32.4 cm.\nNa 9 botsingen is de hoogte\
+        \ nog 26.3 cm.\nNa 10 botsingen is de hoogte nog 21.3 cm.\nNa 11 botsingen\
+        \ is de hoogte nog 17.2 cm.\nNa 12 botsingen is de hoogte nog 14.0 cm.\nNa\
+        \ 13 botsingen is de hoogte nog 11.3 cm.\nNa 14 botsingen is de hoogte nog\
+        \ 9.2 cm.\nNa 15 botsingen is de hoogte nog 7.4 cm.\nNa 16 botsingen is de\
+        \ hoogte nog 6.0 cm.\nNa 17 botsingen is de hoogte nog 4.9 cm.\nNa 18 botsingen\
+        \ is de hoogte nog 3.9 cm.\nNa 19 botsingen is de hoogte nog 3.2 cm.\nNa 20\
+        \ botsingen is de hoogte nog 2.6 cm.\nNa 21 botsingen is de hoogte nog 2.1\
+        \ cm.\nNa 22 botsingen is de hoogte nog 1.7 cm.\nNa 23 botsingen is de hoogte\
+        \ nog 1.4 cm.\nNa 24 botsingen is de hoogte nog 1.1 cm.\nNa 25 botsingen is\
+        \ de hoogte nog 0.9 cm.\n"
+  - testcases:
+    - stdin: "225\n0.9"
+      stdout: "Na 1 botsing is de hoogte nog 182.2 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 147.6 cm.\nNa 3 botsingen is de hoogte nog 119.6 cm.\nNa 4 botsingen\
+        \ is de hoogte nog 96.9 cm.\nNa 5 botsingen is de hoogte nog 78.5 cm.\nNa\
+        \ 6 botsingen is de hoogte nog 63.5 cm.\nNa 7 botsingen is de hoogte nog 51.5\
+        \ cm.\nNa 8 botsingen is de hoogte nog 41.7 cm.\nNa 9 botsingen is de hoogte\
+        \ nog 33.8 cm.\nNa 10 botsingen is de hoogte nog 27.4 cm.\nNa 11 botsingen\
+        \ is de hoogte nog 22.2 cm.\nNa 12 botsingen is de hoogte nog 17.9 cm.\nNa\
+        \ 13 botsingen is de hoogte nog 14.5 cm.\nNa 14 botsingen is de hoogte nog\
+        \ 11.8 cm.\nNa 15 botsingen is de hoogte nog 9.5 cm.\nNa 16 botsingen is de\
+        \ hoogte nog 7.7 cm.\nNa 17 botsingen is de hoogte nog 6.3 cm.\nNa 18 botsingen\
+        \ is de hoogte nog 5.1 cm.\nNa 19 botsingen is de hoogte nog 4.1 cm.\nNa 20\
+        \ botsingen is de hoogte nog 3.3 cm.\nNa 21 botsingen is de hoogte nog 2.7\
+        \ cm.\nNa 22 botsingen is de hoogte nog 2.2 cm.\nNa 23 botsingen is de hoogte\
+        \ nog 1.8 cm.\nNa 24 botsingen is de hoogte nog 1.4 cm.\nNa 25 botsingen is\
+        \ de hoogte nog 1.2 cm.\nNa 26 botsingen is de hoogte nog 0.9 cm.\n"
+  - testcases:
+    - stdin: "125\n0.6"
+      stdout: "Na 1 botsing is de hoogte nog 45.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 16.2 cm.\nNa 3 botsingen is de hoogte nog 5.8 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 2.1 cm.\nNa 5 botsingen is de hoogte nog 0.8 cm.\n"
+  - testcases:
+    - stdin: "25\n0.5"
+      stdout: "Na 1 botsing is de hoogte nog 6.2 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 1.6 cm.\nNa 3 botsingen is de hoogte nog 0.4 cm.\n"
+  - testcases:
+    - stdin: "100\n0.9"
+      stdout: "Na 1 botsing is de hoogte nog 81.0 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 65.6 cm.\nNa 3 botsingen is de hoogte nog 53.1 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 43.0 cm.\nNa 5 botsingen is de hoogte nog 34.9 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 28.2 cm.\nNa 7 botsingen is de hoogte nog 22.9 cm.\nNa\
+        \ 8 botsingen is de hoogte nog 18.5 cm.\nNa 9 botsingen is de hoogte nog 15.0\
+        \ cm.\nNa 10 botsingen is de hoogte nog 12.2 cm.\nNa 11 botsingen is de hoogte\
+        \ nog 9.8 cm.\nNa 12 botsingen is de hoogte nog 8.0 cm.\nNa 13 botsingen is\
+        \ de hoogte nog 6.5 cm.\nNa 14 botsingen is de hoogte nog 5.2 cm.\nNa 15 botsingen\
+        \ is de hoogte nog 4.2 cm.\nNa 16 botsingen is de hoogte nog 3.4 cm.\nNa 17\
+        \ botsingen is de hoogte nog 2.8 cm.\nNa 18 botsingen is de hoogte nog 2.3\
+        \ cm.\nNa 19 botsingen is de hoogte nog 1.8 cm.\nNa 20 botsingen is de hoogte\
+        \ nog 1.5 cm.\nNa 21 botsingen is de hoogte nog 1.2 cm.\nNa 22 botsingen is\
+        \ de hoogte nog 1.0 cm.\n"
+  - testcases:
+    - stdin: "175\n0.7"
+      stdout: "Na 1 botsing is de hoogte nog 85.7 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 42.0 cm.\nNa 3 botsingen is de hoogte nog 20.6 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 10.1 cm.\nNa 5 botsingen is de hoogte nog 4.9 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 2.4 cm.\nNa 7 botsingen is de hoogte nog 1.2 cm.\nNa 8\
+        \ botsingen is de hoogte nog 0.6 cm.\n"
+  - testcases:
+    - stdin: "225\n0.7"
+      stdout: "Na 1 botsing is de hoogte nog 110.2 cm.\nNa 2 botsingen is de hoogte\
+        \ nog 54.0 cm.\nNa 3 botsingen is de hoogte nog 26.5 cm.\nNa 4 botsingen is\
+        \ de hoogte nog 13.0 cm.\nNa 5 botsingen is de hoogte nog 6.4 cm.\nNa 6 botsingen\
+        \ is de hoogte nog 3.1 cm.\nNa 7 botsingen is de hoogte nog 1.5 cm.\nNa 8\
+        \ botsingen is de hoogte nog 0.7 cm.\n"
