@@ -2,19 +2,12 @@
 
 ## Gevraagd
 
-Het onderstaande programma is een voorbeeld van een oneindige lus. Voer het uit in Dodona en onderzoek wat er fout loopt.
+Het onderstaande programma is een voorbeeld van een **oneindige lus**. Voer het uit in Dodona en onderzoek wat er fout loopt.
 
-Wijzig deze code nu op één plaats zodat het onderstaande verschijnt:
+Wijzig deze code nu op **één plaats** zodat het onderstaande verschijnt:
 
 ```
-1 : 1
-2 : 2
-3 : 3
-4 : 4
-5 : 5
-6 : 6
-7 : 7
-8 : 8
-9 : 9
-10 : 10
+1 : 2
+2 : 6
+3 : 14
 ```
