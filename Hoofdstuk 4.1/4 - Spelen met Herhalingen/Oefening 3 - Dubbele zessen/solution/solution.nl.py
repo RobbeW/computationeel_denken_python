@@ -6,7 +6,7 @@ while flag:
     a = random.randint(1,6)
     b = random.randint(1,6)
     speler1 += 1
-    flag = not (a == 6 == b)
+    flag = not a == 6 == b
     
 flag = True
 speler2 = 0
@@ -14,7 +14,7 @@ while flag:
     a = random.randint(1,6)
     b = random.randint(1,6)
     speler2 += 1
-    flag = not (a == 6 == b)
+    flag = not a == 6 == b
     
 print("Aantal worpen speler 1:", speler1)
 print("Aantal worpen speler 2:", speler2)
