@@ -1,7 +1,7 @@
 ## Gegeven
-Volgens <a href="https://bigthink.com/starts-with-a-bang/fold-paper-reach-moon/" target="_blank">dit artikel</a> volstaat het om een standaard A4 pagina 42 keer dubbel te vouwen, om een afstand van de aarde tot te maan te overbruggen.
+Volgens <a href="https://bigthink.com/starts-with-a-bang/fold-paper-reach-moon/" target="_blank">dit artikel</a> volstaat het om een standaard A4 blad 42 keer dubbel te vouwen, om een afstand van de aarde tot te maan te overbruggen.
 
-![Van de aarde tot de maan, slechts 42 keer vouwen!](media/image.jpg "Van de aarde tot de maan, slechts 42 keer vouwen!"){:data-caption="Van de aarde tot de maan, slechts 42 keer vouwen!" width="40%"}
+![Van de aarde tot de maan, slechts 42 keer vouwen!](media/image.jpg "Van de aarde tot de maan, slechts 42 keer vouwen!"){:data-caption="Van de aarde tot de maan, slechts 42 keer vouwen!" width="60%"}
 
 Onderaan zie je een programma dat eerst de dikte van 1 blad papier vraagt en dit vervolgens 42 keer dubbelvouwt. Elke dikte wordt telkens op het scherm weergeven. Indien men start met een dikte van `0.01` cm dan verschijnt na 42 keer vouwen:
 
