@@ -1,0 +1,245 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "0.01\n384400"
+      stdout: "Na 1 vouw bedraagt de dikte 0.02 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.04 cm.\nNa 3 vouwen bedraagt de dikte 0.08 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 0.16 cm.\nNa 5 vouwen bedraagt de dikte 0.32 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 0.64 cm.\nNa 7 vouwen bedraagt de dikte 1.28 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 2.56 cm.\nNa 9 vouwen bedraagt de dikte 5.12 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 10.24 cm.\nNa 11 vouwen bedraagt de dikte 20.48 cm.\n\
+        Na 12 vouwen bedraagt de dikte 40.96 cm.\nNa 13 vouwen bedraagt de dikte 81.92\
+        \ cm.\nNa 14 vouwen bedraagt de dikte 163.84 cm.\nNa 15 vouwen bedraagt de\
+        \ dikte 327.68 cm.\nNa 16 vouwen bedraagt de dikte 655.36 cm.\nNa 17 vouwen\
+        \ bedraagt de dikte 1310.72 cm.\nNa 18 vouwen bedraagt de dikte 2621.44 cm.\n\
+        Na 19 vouwen bedraagt de dikte 5242.88 cm.\nNa 20 vouwen bedraagt de dikte\
+        \ 10485.76 cm.\nNa 21 vouwen bedraagt de dikte 20971.52 cm.\nNa 22 vouwen\
+        \ bedraagt de dikte 41943.04 cm.\nNa 23 vouwen bedraagt de dikte 83886.08\
+        \ cm.\nNa 24 vouwen bedraagt de dikte 167772.16 cm.\nNa 25 vouwen bedraagt\
+        \ de dikte 335544.32 cm.\nNa 26 vouwen bedraagt de dikte 671088.64 cm.\nNa\
+        \ 27 vouwen bedraagt de dikte 1342177.28 cm.\nNa 28 vouwen bedraagt de dikte\
+        \ 2684354.56 cm.\nNa 29 vouwen bedraagt de dikte 5368709.12 cm.\nNa 30 vouwen\
+        \ bedraagt de dikte 10737418.24 cm.\nNa 31 vouwen bedraagt de dikte 21474836.48\
+        \ cm.\nNa 32 vouwen bedraagt de dikte 42949672.96 cm.\nNa 33 vouwen bedraagt\
+        \ de dikte 85899345.92 cm.\nNa 34 vouwen bedraagt de dikte 171798691.84 cm.\n\
+        Na 35 vouwen bedraagt de dikte 343597383.68 cm.\nNa 36 vouwen bedraagt de\
+        \ dikte 687194767.36 cm.\nNa 37 vouwen bedraagt de dikte 1374389534.72 cm.\n\
+        Na 38 vouwen bedraagt de dikte 2748779069.44 cm.\nNa 39 vouwen bedraagt de\
+        \ dikte 5497558138.88 cm.\nNa 40 vouwen bedraagt de dikte 10995116277.76 cm.\n\
+        Na 41 vouwen bedraagt de dikte 21990232555.52 cm.\nNa 42 vouwen bedraagt de\
+        \ dikte 43980465111.04 cm.\nHet blad moest 42 keer gevouwen worden.\n"
+  - testcases:
+    - stdin: "0.01\n225000000"
+      stdout: "Na 1 vouw bedraagt de dikte 0.02 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.04 cm.\nNa 3 vouwen bedraagt de dikte 0.08 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 0.16 cm.\nNa 5 vouwen bedraagt de dikte 0.32 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 0.64 cm.\nNa 7 vouwen bedraagt de dikte 1.28 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 2.56 cm.\nNa 9 vouwen bedraagt de dikte 5.12 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 10.24 cm.\nNa 11 vouwen bedraagt de dikte 20.48 cm.\n\
+        Na 12 vouwen bedraagt de dikte 40.96 cm.\nNa 13 vouwen bedraagt de dikte 81.92\
+        \ cm.\nNa 14 vouwen bedraagt de dikte 163.84 cm.\nNa 15 vouwen bedraagt de\
+        \ dikte 327.68 cm.\nNa 16 vouwen bedraagt de dikte 655.36 cm.\nNa 17 vouwen\
+        \ bedraagt de dikte 1310.72 cm.\nNa 18 vouwen bedraagt de dikte 2621.44 cm.\n\
+        Na 19 vouwen bedraagt de dikte 5242.88 cm.\nNa 20 vouwen bedraagt de dikte\
+        \ 10485.76 cm.\nNa 21 vouwen bedraagt de dikte 20971.52 cm.\nNa 22 vouwen\
+        \ bedraagt de dikte 41943.04 cm.\nNa 23 vouwen bedraagt de dikte 83886.08\
+        \ cm.\nNa 24 vouwen bedraagt de dikte 167772.16 cm.\nNa 25 vouwen bedraagt\
+        \ de dikte 335544.32 cm.\nNa 26 vouwen bedraagt de dikte 671088.64 cm.\nNa\
+        \ 27 vouwen bedraagt de dikte 1342177.28 cm.\nNa 28 vouwen bedraagt de dikte\
+        \ 2684354.56 cm.\nNa 29 vouwen bedraagt de dikte 5368709.12 cm.\nNa 30 vouwen\
+        \ bedraagt de dikte 10737418.24 cm.\nNa 31 vouwen bedraagt de dikte 21474836.48\
+        \ cm.\nNa 32 vouwen bedraagt de dikte 42949672.96 cm.\nNa 33 vouwen bedraagt\
+        \ de dikte 85899345.92 cm.\nNa 34 vouwen bedraagt de dikte 171798691.84 cm.\n\
+        Na 35 vouwen bedraagt de dikte 343597383.68 cm.\nNa 36 vouwen bedraagt de\
+        \ dikte 687194767.36 cm.\nNa 37 vouwen bedraagt de dikte 1374389534.72 cm.\n\
+        Na 38 vouwen bedraagt de dikte 2748779069.44 cm.\nNa 39 vouwen bedraagt de\
+        \ dikte 5497558138.88 cm.\nNa 40 vouwen bedraagt de dikte 10995116277.76 cm.\n\
+        Na 41 vouwen bedraagt de dikte 21990232555.52 cm.\nNa 42 vouwen bedraagt de\
+        \ dikte 43980465111.04 cm.\nNa 43 vouwen bedraagt de dikte 87960930222.08\
+        \ cm.\nNa 44 vouwen bedraagt de dikte 175921860444.16 cm.\nNa 45 vouwen bedraagt\
+        \ de dikte 351843720888.32 cm.\nNa 46 vouwen bedraagt de dikte 703687441776.64\
+        \ cm.\nNa 47 vouwen bedraagt de dikte 1407374883553.28 cm.\nNa 48 vouwen bedraagt\
+        \ de dikte 2814749767106.56 cm.\nNa 49 vouwen bedraagt de dikte 5629499534213.12\
+        \ cm.\nNa 50 vouwen bedraagt de dikte 11258999068426.24 cm.\nNa 51 vouwen\
+        \ bedraagt de dikte 22517998136852.48 cm.\nHet blad moest 51 keer gevouwen\
+        \ worden.\n"
+  - testcases:
+    - stdin: "0.08\n740"
+      stdout: "Na 1 vouw bedraagt de dikte 0.16 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.32 cm.\nNa 3 vouwen bedraagt de dikte 0.64 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 1.28 cm.\nNa 5 vouwen bedraagt de dikte 2.56 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 5.12 cm.\nNa 7 vouwen bedraagt de dikte 10.24 cm.\nNa 8 vouwen\
+        \ bedraagt de dikte 20.48 cm.\nNa 9 vouwen bedraagt de dikte 40.96 cm.\nNa\
+        \ 10 vouwen bedraagt de dikte 81.92 cm.\nNa 11 vouwen bedraagt de dikte 163.84\
+        \ cm.\nNa 12 vouwen bedraagt de dikte 327.68 cm.\nNa 13 vouwen bedraagt de\
+        \ dikte 655.36 cm.\nNa 14 vouwen bedraagt de dikte 1310.72 cm.\nNa 15 vouwen\
+        \ bedraagt de dikte 2621.44 cm.\nNa 16 vouwen bedraagt de dikte 5242.88 cm.\n\
+        Na 17 vouwen bedraagt de dikte 10485.76 cm.\nNa 18 vouwen bedraagt de dikte\
+        \ 20971.52 cm.\nNa 19 vouwen bedraagt de dikte 41943.04 cm.\nNa 20 vouwen\
+        \ bedraagt de dikte 83886.08 cm.\nNa 21 vouwen bedraagt de dikte 167772.16\
+        \ cm.\nNa 22 vouwen bedraagt de dikte 335544.32 cm.\nNa 23 vouwen bedraagt\
+        \ de dikte 671088.64 cm.\nNa 24 vouwen bedraagt de dikte 1342177.28 cm.\n\
+        Na 25 vouwen bedraagt de dikte 2684354.56 cm.\nNa 26 vouwen bedraagt de dikte\
+        \ 5368709.12 cm.\nNa 27 vouwen bedraagt de dikte 10737418.24 cm.\nNa 28 vouwen\
+        \ bedraagt de dikte 21474836.48 cm.\nNa 29 vouwen bedraagt de dikte 42949672.96\
+        \ cm.\nNa 30 vouwen bedraagt de dikte 85899345.92 cm.\nHet blad moest 30 keer\
+        \ gevouwen worden.\n"
+  - testcases:
+    - stdin: "0.04\n40000000"
+      stdout: "Na 1 vouw bedraagt de dikte 0.08 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.16 cm.\nNa 3 vouwen bedraagt de dikte 0.32 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 0.64 cm.\nNa 5 vouwen bedraagt de dikte 1.28 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 2.56 cm.\nNa 7 vouwen bedraagt de dikte 5.12 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 10.24 cm.\nNa 9 vouwen bedraagt de dikte 20.48 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 40.96 cm.\nNa 11 vouwen bedraagt de dikte 81.92 cm.\n\
+        Na 12 vouwen bedraagt de dikte 163.84 cm.\nNa 13 vouwen bedraagt de dikte\
+        \ 327.68 cm.\nNa 14 vouwen bedraagt de dikte 655.36 cm.\nNa 15 vouwen bedraagt\
+        \ de dikte 1310.72 cm.\nNa 16 vouwen bedraagt de dikte 2621.44 cm.\nNa 17\
+        \ vouwen bedraagt de dikte 5242.88 cm.\nNa 18 vouwen bedraagt de dikte 10485.76\
+        \ cm.\nNa 19 vouwen bedraagt de dikte 20971.52 cm.\nNa 20 vouwen bedraagt\
+        \ de dikte 41943.04 cm.\nNa 21 vouwen bedraagt de dikte 83886.08 cm.\nNa 22\
+        \ vouwen bedraagt de dikte 167772.16 cm.\nNa 23 vouwen bedraagt de dikte 335544.32\
+        \ cm.\nNa 24 vouwen bedraagt de dikte 671088.64 cm.\nNa 25 vouwen bedraagt\
+        \ de dikte 1342177.28 cm.\nNa 26 vouwen bedraagt de dikte 2684354.56 cm.\n\
+        Na 27 vouwen bedraagt de dikte 5368709.12 cm.\nNa 28 vouwen bedraagt de dikte\
+        \ 10737418.24 cm.\nNa 29 vouwen bedraagt de dikte 21474836.48 cm.\nNa 30 vouwen\
+        \ bedraagt de dikte 42949672.96 cm.\nNa 31 vouwen bedraagt de dikte 85899345.92\
+        \ cm.\nNa 32 vouwen bedraagt de dikte 171798691.84 cm.\nNa 33 vouwen bedraagt\
+        \ de dikte 343597383.68 cm.\nNa 34 vouwen bedraagt de dikte 687194767.36 cm.\n\
+        Na 35 vouwen bedraagt de dikte 1374389534.72 cm.\nNa 36 vouwen bedraagt de\
+        \ dikte 2748779069.44 cm.\nNa 37 vouwen bedraagt de dikte 5497558138.88 cm.\n\
+        Na 38 vouwen bedraagt de dikte 10995116277.76 cm.\nNa 39 vouwen bedraagt de\
+        \ dikte 21990232555.52 cm.\nNa 40 vouwen bedraagt de dikte 43980465111.04\
+        \ cm.\nNa 41 vouwen bedraagt de dikte 87960930222.08 cm.\nNa 42 vouwen bedraagt\
+        \ de dikte 175921860444.16 cm.\nNa 43 vouwen bedraagt de dikte 351843720888.32\
+        \ cm.\nNa 44 vouwen bedraagt de dikte 703687441776.64 cm.\nNa 45 vouwen bedraagt\
+        \ de dikte 1407374883553.28 cm.\nNa 46 vouwen bedraagt de dikte 2814749767106.56\
+        \ cm.\nNa 47 vouwen bedraagt de dikte 5629499534213.12 cm.\nHet blad moest\
+        \ 47 keer gevouwen worden.\n"
+  - testcases:
+    - stdin: "0.08\n740"
+      stdout: "Na 1 vouw bedraagt de dikte 0.16 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.32 cm.\nNa 3 vouwen bedraagt de dikte 0.64 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 1.28 cm.\nNa 5 vouwen bedraagt de dikte 2.56 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 5.12 cm.\nNa 7 vouwen bedraagt de dikte 10.24 cm.\nNa 8 vouwen\
+        \ bedraagt de dikte 20.48 cm.\nNa 9 vouwen bedraagt de dikte 40.96 cm.\nNa\
+        \ 10 vouwen bedraagt de dikte 81.92 cm.\nNa 11 vouwen bedraagt de dikte 163.84\
+        \ cm.\nNa 12 vouwen bedraagt de dikte 327.68 cm.\nNa 13 vouwen bedraagt de\
+        \ dikte 655.36 cm.\nNa 14 vouwen bedraagt de dikte 1310.72 cm.\nNa 15 vouwen\
+        \ bedraagt de dikte 2621.44 cm.\nNa 16 vouwen bedraagt de dikte 5242.88 cm.\n\
+        Na 17 vouwen bedraagt de dikte 10485.76 cm.\nNa 18 vouwen bedraagt de dikte\
+        \ 20971.52 cm.\nNa 19 vouwen bedraagt de dikte 41943.04 cm.\nNa 20 vouwen\
+        \ bedraagt de dikte 83886.08 cm.\nNa 21 vouwen bedraagt de dikte 167772.16\
+        \ cm.\nNa 22 vouwen bedraagt de dikte 335544.32 cm.\nNa 23 vouwen bedraagt\
+        \ de dikte 671088.64 cm.\nNa 24 vouwen bedraagt de dikte 1342177.28 cm.\n\
+        Na 25 vouwen bedraagt de dikte 2684354.56 cm.\nNa 26 vouwen bedraagt de dikte\
+        \ 5368709.12 cm.\nNa 27 vouwen bedraagt de dikte 10737418.24 cm.\nNa 28 vouwen\
+        \ bedraagt de dikte 21474836.48 cm.\nNa 29 vouwen bedraagt de dikte 42949672.96\
+        \ cm.\nNa 30 vouwen bedraagt de dikte 85899345.92 cm.\nHet blad moest 30 keer\
+        \ gevouwen worden.\n"
+  - testcases:
+    - stdin: "0.07\n740"
+      stdout: "Na 1 vouw bedraagt de dikte 0.14 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.28 cm.\nNa 3 vouwen bedraagt de dikte 0.56 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 1.12 cm.\nNa 5 vouwen bedraagt de dikte 2.24 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 4.48 cm.\nNa 7 vouwen bedraagt de dikte 8.96 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 17.92 cm.\nNa 9 vouwen bedraagt de dikte 35.84 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 71.68 cm.\nNa 11 vouwen bedraagt de dikte 143.36 cm.\n\
+        Na 12 vouwen bedraagt de dikte 286.72 cm.\nNa 13 vouwen bedraagt de dikte\
+        \ 573.44 cm.\nNa 14 vouwen bedraagt de dikte 1146.88 cm.\nNa 15 vouwen bedraagt\
+        \ de dikte 2293.76 cm.\nNa 16 vouwen bedraagt de dikte 4587.52 cm.\nNa 17\
+        \ vouwen bedraagt de dikte 9175.04 cm.\nNa 18 vouwen bedraagt de dikte 18350.08\
+        \ cm.\nNa 19 vouwen bedraagt de dikte 36700.16 cm.\nNa 20 vouwen bedraagt\
+        \ de dikte 73400.32 cm.\nNa 21 vouwen bedraagt de dikte 146800.64 cm.\nNa\
+        \ 22 vouwen bedraagt de dikte 293601.28 cm.\nNa 23 vouwen bedraagt de dikte\
+        \ 587202.56 cm.\nNa 24 vouwen bedraagt de dikte 1174405.12 cm.\nNa 25 vouwen\
+        \ bedraagt de dikte 2348810.24 cm.\nNa 26 vouwen bedraagt de dikte 4697620.48\
+        \ cm.\nNa 27 vouwen bedraagt de dikte 9395240.96 cm.\nNa 28 vouwen bedraagt\
+        \ de dikte 18790481.92 cm.\nNa 29 vouwen bedraagt de dikte 37580963.84 cm.\n\
+        Na 30 vouwen bedraagt de dikte 75161927.68 cm.\nHet blad moest 30 keer gevouwen\
+        \ worden.\n"
+  - testcases:
+    - stdin: "0.03\n40000000"
+      stdout: "Na 1 vouw bedraagt de dikte 0.06 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.12 cm.\nNa 3 vouwen bedraagt de dikte 0.24 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 0.48 cm.\nNa 5 vouwen bedraagt de dikte 0.96 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 1.92 cm.\nNa 7 vouwen bedraagt de dikte 3.84 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 7.68 cm.\nNa 9 vouwen bedraagt de dikte 15.36 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 30.72 cm.\nNa 11 vouwen bedraagt de dikte 61.44 cm.\n\
+        Na 12 vouwen bedraagt de dikte 122.88 cm.\nNa 13 vouwen bedraagt de dikte\
+        \ 245.76 cm.\nNa 14 vouwen bedraagt de dikte 491.52 cm.\nNa 15 vouwen bedraagt\
+        \ de dikte 983.04 cm.\nNa 16 vouwen bedraagt de dikte 1966.08 cm.\nNa 17 vouwen\
+        \ bedraagt de dikte 3932.16 cm.\nNa 18 vouwen bedraagt de dikte 7864.32 cm.\n\
+        Na 19 vouwen bedraagt de dikte 15728.64 cm.\nNa 20 vouwen bedraagt de dikte\
+        \ 31457.28 cm.\nNa 21 vouwen bedraagt de dikte 62914.56 cm.\nNa 22 vouwen\
+        \ bedraagt de dikte 125829.12 cm.\nNa 23 vouwen bedraagt de dikte 251658.24\
+        \ cm.\nNa 24 vouwen bedraagt de dikte 503316.48 cm.\nNa 25 vouwen bedraagt\
+        \ de dikte 1006632.96 cm.\nNa 26 vouwen bedraagt de dikte 2013265.92 cm.\n\
+        Na 27 vouwen bedraagt de dikte 4026531.84 cm.\nNa 28 vouwen bedraagt de dikte\
+        \ 8053063.68 cm.\nNa 29 vouwen bedraagt de dikte 16106127.36 cm.\nNa 30 vouwen\
+        \ bedraagt de dikte 32212254.72 cm.\nNa 31 vouwen bedraagt de dikte 64424509.44\
+        \ cm.\nNa 32 vouwen bedraagt de dikte 128849018.88 cm.\nNa 33 vouwen bedraagt\
+        \ de dikte 257698037.76 cm.\nNa 34 vouwen bedraagt de dikte 515396075.52 cm.\n\
+        Na 35 vouwen bedraagt de dikte 1030792151.04 cm.\nNa 36 vouwen bedraagt de\
+        \ dikte 2061584302.08 cm.\nNa 37 vouwen bedraagt de dikte 4123168604.16 cm.\n\
+        Na 38 vouwen bedraagt de dikte 8246337208.32 cm.\nNa 39 vouwen bedraagt de\
+        \ dikte 16492674416.64 cm.\nNa 40 vouwen bedraagt de dikte 32985348833.28\
+        \ cm.\nNa 41 vouwen bedraagt de dikte 65970697666.56 cm.\nNa 42 vouwen bedraagt\
+        \ de dikte 131941395333.12 cm.\nNa 43 vouwen bedraagt de dikte 263882790666.24\
+        \ cm.\nNa 44 vouwen bedraagt de dikte 527765581332.48 cm.\nNa 45 vouwen bedraagt\
+        \ de dikte 1055531162664.96 cm.\nNa 46 vouwen bedraagt de dikte 2111062325329.92\
+        \ cm.\nNa 47 vouwen bedraagt de dikte 4222124650659.84 cm.\nHet blad moest\
+        \ 47 keer gevouwen worden.\n"
+  - testcases:
+    - stdin: "0.02\n400"
+      stdout: "Na 1 vouw bedraagt de dikte 0.04 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.08 cm.\nNa 3 vouwen bedraagt de dikte 0.16 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 0.32 cm.\nNa 5 vouwen bedraagt de dikte 0.64 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 1.28 cm.\nNa 7 vouwen bedraagt de dikte 2.56 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 5.12 cm.\nNa 9 vouwen bedraagt de dikte 10.24 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 20.48 cm.\nNa 11 vouwen bedraagt de dikte 40.96 cm.\n\
+        Na 12 vouwen bedraagt de dikte 81.92 cm.\nNa 13 vouwen bedraagt de dikte 163.84\
+        \ cm.\nNa 14 vouwen bedraagt de dikte 327.68 cm.\nNa 15 vouwen bedraagt de\
+        \ dikte 655.36 cm.\nNa 16 vouwen bedraagt de dikte 1310.72 cm.\nNa 17 vouwen\
+        \ bedraagt de dikte 2621.44 cm.\nNa 18 vouwen bedraagt de dikte 5242.88 cm.\n\
+        Na 19 vouwen bedraagt de dikte 10485.76 cm.\nNa 20 vouwen bedraagt de dikte\
+        \ 20971.52 cm.\nNa 21 vouwen bedraagt de dikte 41943.04 cm.\nNa 22 vouwen\
+        \ bedraagt de dikte 83886.08 cm.\nNa 23 vouwen bedraagt de dikte 167772.16\
+        \ cm.\nNa 24 vouwen bedraagt de dikte 335544.32 cm.\nNa 25 vouwen bedraagt\
+        \ de dikte 671088.64 cm.\nNa 26 vouwen bedraagt de dikte 1342177.28 cm.\n\
+        Na 27 vouwen bedraagt de dikte 2684354.56 cm.\nNa 28 vouwen bedraagt de dikte\
+        \ 5368709.12 cm.\nNa 29 vouwen bedraagt de dikte 10737418.24 cm.\nNa 30 vouwen\
+        \ bedraagt de dikte 21474836.48 cm.\nNa 31 vouwen bedraagt de dikte 42949672.96\
+        \ cm.\nHet blad moest 31 keer gevouwen worden.\n"
+  - testcases:
+    - stdin: "0.02\n40000000"
+      stdout: "Na 1 vouw bedraagt de dikte 0.04 cm.\nNa 2 vouwen bedraagt de dikte\
+        \ 0.08 cm.\nNa 3 vouwen bedraagt de dikte 0.16 cm.\nNa 4 vouwen bedraagt de\
+        \ dikte 0.32 cm.\nNa 5 vouwen bedraagt de dikte 0.64 cm.\nNa 6 vouwen bedraagt\
+        \ de dikte 1.28 cm.\nNa 7 vouwen bedraagt de dikte 2.56 cm.\nNa 8 vouwen bedraagt\
+        \ de dikte 5.12 cm.\nNa 9 vouwen bedraagt de dikte 10.24 cm.\nNa 10 vouwen\
+        \ bedraagt de dikte 20.48 cm.\nNa 11 vouwen bedraagt de dikte 40.96 cm.\n\
+        Na 12 vouwen bedraagt de dikte 81.92 cm.\nNa 13 vouwen bedraagt de dikte 163.84\
+        \ cm.\nNa 14 vouwen bedraagt de dikte 327.68 cm.\nNa 15 vouwen bedraagt de\
+        \ dikte 655.36 cm.\nNa 16 vouwen bedraagt de dikte 1310.72 cm.\nNa 17 vouwen\
+        \ bedraagt de dikte 2621.44 cm.\nNa 18 vouwen bedraagt de dikte 5242.88 cm.\n\
+        Na 19 vouwen bedraagt de dikte 10485.76 cm.\nNa 20 vouwen bedraagt de dikte\
+        \ 20971.52 cm.\nNa 21 vouwen bedraagt de dikte 41943.04 cm.\nNa 22 vouwen\
+        \ bedraagt de dikte 83886.08 cm.\nNa 23 vouwen bedraagt de dikte 167772.16\
+        \ cm.\nNa 24 vouwen bedraagt de dikte 335544.32 cm.\nNa 25 vouwen bedraagt\
+        \ de dikte 671088.64 cm.\nNa 26 vouwen bedraagt de dikte 1342177.28 cm.\n\
+        Na 27 vouwen bedraagt de dikte 2684354.56 cm.\nNa 28 vouwen bedraagt de dikte\
+        \ 5368709.12 cm.\nNa 29 vouwen bedraagt de dikte 10737418.24 cm.\nNa 30 vouwen\
+        \ bedraagt de dikte 21474836.48 cm.\nNa 31 vouwen bedraagt de dikte 42949672.96\
+        \ cm.\nNa 32 vouwen bedraagt de dikte 85899345.92 cm.\nNa 33 vouwen bedraagt\
+        \ de dikte 171798691.84 cm.\nNa 34 vouwen bedraagt de dikte 343597383.68 cm.\n\
+        Na 35 vouwen bedraagt de dikte 687194767.36 cm.\nNa 36 vouwen bedraagt de\
+        \ dikte 1374389534.72 cm.\nNa 37 vouwen bedraagt de dikte 2748779069.44 cm.\n\
+        Na 38 vouwen bedraagt de dikte 5497558138.88 cm.\nNa 39 vouwen bedraagt de\
+        \ dikte 10995116277.76 cm.\nNa 40 vouwen bedraagt de dikte 21990232555.52\
+        \ cm.\nNa 41 vouwen bedraagt de dikte 43980465111.04 cm.\nNa 42 vouwen bedraagt\
+        \ de dikte 87960930222.08 cm.\nNa 43 vouwen bedraagt de dikte 175921860444.16\
+        \ cm.\nNa 44 vouwen bedraagt de dikte 351843720888.32 cm.\nNa 45 vouwen bedraagt\
+        \ de dikte 703687441776.64 cm.\nNa 46 vouwen bedraagt de dikte 1407374883553.28\
+        \ cm.\nNa 47 vouwen bedraagt de dikte 2814749767106.56 cm.\nNa 48 vouwen bedraagt\
+        \ de dikte 5629499534213.12 cm.\nHet blad moest 48 keer gevouwen worden.\n"
