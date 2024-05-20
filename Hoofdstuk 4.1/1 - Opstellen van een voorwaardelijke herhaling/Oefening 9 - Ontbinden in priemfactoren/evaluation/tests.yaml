@@ -1,0 +1,98 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '18'
+      stdout: "2 is een deler.\n3 is een deler.\n3 is een deler.\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "7 is een deler.\n"
+  - testcases:
+    - stdin: '25'
+      stdout: "5 is een deler.\n5 is een deler.\n"
+  - testcases:
+    - stdin: '2'
+      stdout: "2 is een deler.\n"
+  - testcases:
+    - stdin: '128'
+      stdout: "2 is een deler.\n2 is een deler.\n2 is een deler.\n2 is een deler.\n\
+        2 is een deler.\n2 is een deler.\n2 is een deler.\n"
+  - testcases:
+    - stdin: '625'
+      stdout: "5 is een deler.\n5 is een deler.\n5 is een deler.\n5 is een deler.\n"
+  - testcases:
+    - stdin: '378'
+      stdout: "2 is een deler.\n3 is een deler.\n3 is een deler.\n3 is een deler.\n\
+        7 is een deler.\n"
+  - testcases:
+    - stdin: '61'
+      stdout: "61 is een deler.\n"
+  - testcases:
+    - stdin: '334'
+      stdout: "2 is een deler.\n167 is een deler.\n"
+  - testcases:
+    - stdin: '311'
+      stdout: "311 is een deler.\n"
+  - testcases:
+    - stdin: '127'
+      stdout: "127 is een deler.\n"
+  - testcases:
+    - stdin: '399'
+      stdout: "3 is een deler.\n7 is een deler.\n19 is een deler.\n"
+  - testcases:
+    - stdin: '139'
+      stdout: "139 is een deler.\n"
+  - testcases:
+    - stdin: '320'
+      stdout: "2 is een deler.\n2 is een deler.\n2 is een deler.\n2 is een deler.\n\
+        2 is een deler.\n2 is een deler.\n5 is een deler.\n"
+  - testcases:
+    - stdin: '273'
+      stdout: "3 is een deler.\n7 is een deler.\n13 is een deler.\n"
+  - testcases:
+    - stdin: '310'
+      stdout: "2 is een deler.\n5 is een deler.\n31 is een deler.\n"
+  - testcases:
+    - stdin: '384'
+      stdout: "2 is een deler.\n2 is een deler.\n2 is een deler.\n2 is een deler.\n\
+        2 is een deler.\n2 is een deler.\n2 is een deler.\n3 is een deler.\n"
+  - testcases:
+    - stdin: '270'
+      stdout: "2 is een deler.\n3 is een deler.\n3 is een deler.\n3 is een deler.\n\
+        5 is een deler.\n"
+  - testcases:
+    - stdin: '49'
+      stdout: "7 is een deler.\n7 is een deler.\n"
+  - testcases:
+    - stdin: '181'
+      stdout: "181 is een deler.\n"
+  - testcases:
+    - stdin: '72'
+      stdout: "2 is een deler.\n2 is een deler.\n2 is een deler.\n3 is een deler.\n\
+        3 is een deler.\n"
+  - testcases:
+    - stdin: '86'
+      stdout: "2 is een deler.\n43 is een deler.\n"
+  - testcases:
+    - stdin: '189'
+      stdout: "3 is een deler.\n3 is een deler.\n3 is een deler.\n7 is een deler.\n"
+  - testcases:
+    - stdin: '22'
+      stdout: "2 is een deler.\n11 is een deler.\n"
+  - testcases:
+    - stdin: '263'
+      stdout: "263 is een deler.\n"
+  - testcases:
+    - stdin: '30'
+      stdout: "2 is een deler.\n3 is een deler.\n5 is een deler.\n"
+  - testcases:
+    - stdin: '198'
+      stdout: "2 is een deler.\n3 is een deler.\n3 is een deler.\n11 is een deler.\n"
+  - testcases:
+    - stdin: '379'
+      stdout: "379 is een deler.\n"
+  - testcases:
+    - stdin: '125'
+      stdout: "5 is een deler.\n5 is een deler.\n5 is een deler.\n"
+  - testcases:
+    - stdin: '257'
+      stdout: "257 is een deler.\n"
