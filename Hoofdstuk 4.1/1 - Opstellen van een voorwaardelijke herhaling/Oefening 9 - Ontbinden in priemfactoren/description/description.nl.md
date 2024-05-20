@@ -1,6 +1,6 @@
 ## Gegeven
 
-De <a href="https://nl.wikipedia.org/wiki/Hoofdstelling_van_de_rekenkunde" target="_blank">hoofdstelling van de rekenkunde</a> is een fundamentele steling uit de wiskunde.
+De <a href="https://nl.wikipedia.org/wiki/Hoofdstelling_van_de_rekenkunde" target="_blank">hoofdstelling van de rekenkunde</a> is een fundamentele stelling uit de wiskunde.
 
 {: .callout.callout-success}
 >#### Hoofdstelling van de rekenkunde
