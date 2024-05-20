@@ -20,4 +20,4 @@ Voor invoer `18` verschijnt er:
 3 is een deler.
 ```
 
-Immers 18 = 2 · 3 · 3
+Immers 18 = 2 · 3 · 3.
