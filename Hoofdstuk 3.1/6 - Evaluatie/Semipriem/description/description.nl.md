@@ -21,6 +21,6 @@ Voor invoer `8` verschijnt er:
 ```
 
 {: .callout.callout-info}
-> #### Tip
+> #### Tips
 > - Tel het aantal (echte) delers van het gegeven getal. Indien dit aantal gelijk is aan ..., dan kan je besluiten dat het getal semipriem is.
 > - **Opgelet**, soms moet je een deler meerdere keren tellen... 9 is semipriem, want het is twee keer na elkaar deelbaar door 3.
