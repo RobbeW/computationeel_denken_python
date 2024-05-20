@@ -9,7 +9,7 @@ De driehoek ontstaat door te starten van een gelijkzijdige driehoek. Vervolgens 
 ![Vorming van de driehoek van Sierpiński.](media/image_dark.png "Vorming van de driehoek van Sierpiński."){:data-caption="Vorming van de driehoek van Sierpiński." .dark-only width="236px"}
 
 ## Gevraagd
-Schrijf een programma dat de oppervlakte van de oorspronkelijke driehoek vraagt en nadien het nummer in de iteratie. Vervolgens geef je telkens het aantal driehoeken weer en de resterende oppervlakte.
+Schrijf een programma dat de oppervlakte van de oorspronkelijke driehoek vraagt en **nadien** het nummer in de iteratie. Vervolgens geef je telkens het aantal driehoeken weer en de resterende oppervlakte.
 
 **Rond** bij de oppervlakte bij het afdrukken telkens **af** op 2 cijfers na de komma.
 
