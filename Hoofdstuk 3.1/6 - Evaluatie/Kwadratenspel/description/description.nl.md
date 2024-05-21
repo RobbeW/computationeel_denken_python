@@ -19,7 +19,7 @@ Stel dat het programma **willekeurig** `3` genereert, er verschijnt:
 Zoek het kwadraat van 3
 ```
 
-De gebruiker tikt nu foutief `6` in. Er verschijnt:
+Het programma vraagt daarna het kwadraat aan de gebruiker. De gebruiker tikt nu bijvoorbeeld foutief `6` in. Er verschijnt:
 
 ```
 Fout, 9 is het juiste antwoord!
@@ -31,7 +31,7 @@ Vervolgens genereert het programma bijvoorbeeld **willekeurig** `12`, er verschi
 Zoek het kwadraat van 12
 ```
 
-De gebruiker tikt nu `144` in. Er verschijnt:
+Nadat het programma het antwoord aan de gebruiker vraagt, tikt deze bijvoorbeeld `144` in. Er verschijnt:
 
 ```
 Goed zo!
