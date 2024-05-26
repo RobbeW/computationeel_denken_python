@@ -22,6 +22,8 @@ Na 2 cycli zijn er 672 besmettingen.
 Na 3 cycli zijn er 3897 besmettingen.
 ```
 
+Immers, na 1 cylcus komen er 96 personen bij de reeds 20 besmette personen, dan zijn er dus 116 besmette personen. In de volgende cyclus komen er 556 nieuwe besmettingen bij, enz...
+
 {: .callout.callout-info}
 >#### Tips
 > - Bereken in elk stap het aantal nieuwe besmettingen. Doordat R<sub>0</sub> een kommagetal kan zijn, zal je dit moeten afronden, **rond** hierbij **af naar beneden**.
