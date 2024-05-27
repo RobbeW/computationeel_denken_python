@@ -1,0 +1,249 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7247)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande (met als achtereenvolgende invoer 39 - 25 - 22)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "39\n25\n22\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 39\nJuist!\nHet getal is 25\nJuist!\nHet getal is 22\nJuist!\nScore: 3\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8884)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande (met als achtereenvolgende invoer 5 - 5 - 43)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "5\n5\n43\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 45\nJuist!\nHet getal is 40\nJuist!\nHet getal is 43\nJuist!\nScore: 5\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9864)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande (met als achtereenvolgende invoer 32 - 10 - 35)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "32\n10\n35\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 32\nJuist!\nHet getal is 20\nJuist!\nHet getal is 35\nJuist!\nScore: 4\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6508)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande (met als achtereenvolgende invoer 20 - 1 - 21)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "20\n1\n21\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 24\nDit is geen deler!\nHet getal is 31\nJuist!\nHet getal is 33\nDit is geen deler!\nScore: 1\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4979)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande (met als achtereenvolgende invoer 1 - 1 - 1)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "1\n1\n1\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 47\nJuist!\nHet getal is 38\nJuist!\nHet getal is 37\nJuist!\nScore: 3\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7647)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande (met als achtereenvolgende invoer 1 - 30 - 1)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "1\n30\n1\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 23\nJuist!\nHet getal is 30\nJuist!\nHet getal is 26\nJuist!\nScore: 3\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6507)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande (met als achtereenvolgende invoer 41 - 1 - 43)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "41\n1\n43\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 41\nJuist!\nHet getal is 37\nJuist!\nHet getal is 42\nDit is geen deler!\nScore: 2\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(8765)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande (met als achtereenvolgende invoer 17 - 29 - 31)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "17\n29\n31\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 40\nDit is geen deler!\nHet getal is 29\nJuist!\nHet getal is 31\nJuist!\nScore: 2\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5752)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande (met als achtereenvolgende invoer 22 - 7 - 32)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "22\n7\n32\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 37\nDit is geen deler!\nHet getal is 42\nJuist!\nHet getal is 34\nDit is geen deler!\nScore: 2\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(6548)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande (met als achtereenvolgende invoer 25 - 1 - 2)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "25\n1\n2\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Het getal is 50\nJuist!\nHet getal is 20\nJuist!\nHet getal is 46\nJuist!\nScore: 5\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
