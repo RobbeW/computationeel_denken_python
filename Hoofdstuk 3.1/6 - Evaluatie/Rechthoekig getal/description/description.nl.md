@@ -25,4 +25,4 @@ Voor invoer `30` verschijnt er:
 
 {: .callout.callout-info}
 > #### Tip
-> Zoek het niet te ver... Welke getallen zijn samengesteld? Of beter, welke getallen zijn **niet** samengesteld?
+> Werk gelijkaardig als bij het zoeken naar priemgetallen... 
