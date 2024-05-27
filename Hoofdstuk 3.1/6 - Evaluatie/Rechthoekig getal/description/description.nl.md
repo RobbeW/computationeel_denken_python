@@ -1,6 +1,6 @@
 {: .callout.callout-danger}
 > #### Definitie
-> Een natuurlijk getal (groter dan 1) is rechthoekig als je het kan schrijven als een **product** van twee opeenvolgende getallen.
+> Een natuurlijk getal (groter dan 1) is rechthoekig als je het kan schrijven als een **product** van twee **opeenvolgende** getallen.
 
 Er geldt bijvoorbeeld dat 6 een rechthoekig getal is, want 6 is het product van 2 en 3. Ook 30 is een rechthoekig getal, want je kan het schrijven als een product van 5 en 6.
 
