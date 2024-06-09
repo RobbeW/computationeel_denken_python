@@ -18,10 +18,18 @@ def write_json( data:dict ):
 # generate test data
 ntests = 20
 cases = [ ]
+opties = ["blad", "steen", "schaar"]
+gokken = []
 
 while len( cases ) < ntests:
     seed = random.randint(1,10000)
     cases.append( (seed,) )
+    n = (random.randint(0,9)!= 0) * random.randint(1,10)
+    gokjes = random.choices(opties, k = n)
+    gokjes.append("stop")
+    gokken.append(gokjes)
+    print(gokjes)
+    
     
 # generate unit tests for functions
 exportdata = {"tabs": [] }
@@ -46,17 +54,17 @@ for test in cases:
     inputtxt = ""
     random.seed(seed) #setting the seed
     
-    opties = ["blad", "steen", "schaar"]
+
 
     voorwaarde = True
     score = 0
     totaal = 0
+    k = 0
     while voorwaarde:
         computer = random.choice(opties)
-        if random.randint(0,8) == 0:
-            gok = "stop"
-        else:
-            gok = random.choice(opties)
+        gok = gokken[i][k]
+        k+=1
+        
         inputtxt += gok+"\n"
         if gok != "stop":
             totaal += 1

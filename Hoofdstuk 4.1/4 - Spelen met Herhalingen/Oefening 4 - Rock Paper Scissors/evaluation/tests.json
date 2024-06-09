@@ -11,17 +11,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande (met als achtereenvolgende invoer blad - steen - steen - schaar - stop)",
+              "description": "Uitvoeren met seed 7247 leidt tot het onderstaande (met als achtereenvolgende invoer steen - schaar - schaar - steen - steen - steen - steen - blad - steen - blad - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "blad\nsteen\nsteen\nschaar\nstop\n"
+                  "data": "steen\nschaar\nschaar\nsteen\nsteen\nsteen\nsteen\nblad\nsteen\nblad\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nJe score was 1 op 8\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe verliest!\nJe score was 8 op 20\n"
                 }
               }
             }
@@ -30,22 +30,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(8884)"
+              "data": "import random; random.seed(3027)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 8884 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - schaar - blad - schaar - blad - stop)",
+              "description": "Uitvoeren met seed 3027 leidt tot het onderstaande (met als achtereenvolgende invoer stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "schaar\nschaar\nblad\nschaar\nblad\nstop\n"
+                  "data": "stop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe wint!\nJe score was 4 op 10\n"
+                  "data": "Je score was 0 op 0\n"
                 }
               }
             }
@@ -54,22 +54,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(9864)"
+              "data": "import random; random.seed(2342)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 9864 leidt tot het onderstaande (met als achtereenvolgende invoer blad - steen - schaar - schaar - steen - stop)",
+              "description": "Uitvoeren met seed 2342 leidt tot het onderstaande (met als achtereenvolgende invoer steen - steen - blad - blad - schaar - blad - blad - steen - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "blad\nsteen\nschaar\nschaar\nsteen\nstop\n"
+                  "data": "steen\nsteen\nblad\nblad\nschaar\nblad\nblad\nsteen\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nJe score was 4 op 10\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nJe score was 6 op 16\n"
                 }
               }
             }
@@ -78,252 +78,12 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(6508)"
+              "data": "import random; random.seed(9144)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 6508 leidt tot het onderstaande (met als achtereenvolgende invoer steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "steen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: blad\nJe verliest!\nJe score was 0 op 2\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(4979)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 4979 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - steen - steen - steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "schaar\nsteen\nsteen\nsteen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nJe score was 6 op 8\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(7647)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 7647 leidt tot het onderstaande (met als achtereenvolgende invoer steen - schaar - steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "steen\nschaar\nsteen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nJe score was 2 op 6\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(6507)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 6507 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "schaar\nsteen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nJe score was 3 op 4\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(8765)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 8765 leidt tot het onderstaande (met als achtereenvolgende invoer steen - blad - steen - blad - schaar - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "steen\nblad\nsteen\nblad\nschaar\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nJe score was 7 op 10\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(5752)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 5752 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "schaar\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: schaar\nGelijkspel!\nJe score was 1 op 2\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(6548)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 6548 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - steen - schaar - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "schaar\nsteen\nschaar\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nJe verliest!\nJe score was 2 op 6\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(7225)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 7225 leidt tot het onderstaande (met als achtereenvolgende invoer steen - schaar - steen - steen - steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "steen\nschaar\nsteen\nsteen\nsteen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nJe score was 6 op 10\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(8939)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 8939 leidt tot het onderstaande (met als achtereenvolgende invoer steen - schaar - schaar - schaar - schaar - steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "steen\nschaar\nschaar\nschaar\nschaar\nsteen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nJe score was 2 op 12\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(3404)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 3404 leidt tot het onderstaande (met als achtereenvolgende invoer blad - steen - steen - steen - stop)",
-              "input": {
-                "stdin": {
-                  "type": "text",
-                  "data": "blad\nsteen\nsteen\nsteen\nstop\n"
-                }
-              },
-              "output": {
-                "stdout": {
-                  "type": "text",
-                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nJe score was 6 op 8\n"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "before": {
-            "python": {
-              "data": "import random; random.seed(9833)"
-            }
-          },
-          "testcases": [
-            {
-              "description": "Uitvoeren met seed 9833 leidt tot het onderstaande (met als achtereenvolgende invoer steen - stop)",
+              "description": "Uitvoeren met seed 9144 leidt tot het onderstaande (met als achtereenvolgende invoer steen - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
@@ -342,22 +102,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(388)"
+              "data": "import random; random.seed(5005)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 388 leidt tot het onderstaande (met als achtereenvolgende invoer steen - schaar - schaar - stop)",
+              "description": "Uitvoeren met seed 5005 leidt tot het onderstaande (met als achtereenvolgende invoer blad - steen - blad - blad - steen - schaar - blad - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "steen\nschaar\nschaar\nstop\n"
+                  "data": "blad\nsteen\nblad\nblad\nsteen\nschaar\nblad\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nJe score was 1 op 6\n"
+                  "data": "De computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe wint!\nJe score was 6 op 14\n"
                 }
               }
             }
@@ -366,22 +126,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(4446)"
+              "data": "import random; random.seed(8979)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 4446 leidt tot het onderstaande (met als achtereenvolgende invoer steen - blad - steen - schaar - steen - stop)",
+              "description": "Uitvoeren met seed 8979 leidt tot het onderstaande (met als achtereenvolgende invoer steen - blad - steen - schaar - schaar - steen - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "steen\nblad\nsteen\nschaar\nsteen\nstop\n"
+                  "data": "steen\nblad\nsteen\nschaar\nschaar\nsteen\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nJe score was 5 op 10\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nJe score was 9 op 12\n"
                 }
               }
             }
@@ -390,22 +150,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(3027)"
+              "data": "import random; random.seed(1580)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 3027 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - blad - blad - stop)",
+              "description": "Uitvoeren met seed 1580 leidt tot het onderstaande (met als achtereenvolgende invoer steen - steen - steen - steen - schaar - blad - steen - steen - schaar - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "schaar\nblad\nblad\nstop\n"
+                  "data": "steen\nsteen\nsteen\nsteen\nschaar\nblad\nsteen\nsteen\nschaar\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nGelijkspel!\nJe score was 3 op 6\n"
+                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nJe score was 6 op 18\n"
                 }
               }
             }
@@ -414,22 +174,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(430)"
+              "data": "import random; random.seed(6414)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 430 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - blad - blad - stop)",
+              "description": "Uitvoeren met seed 6414 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - schaar - steen - steen - steen - steen - steen - steen - schaar - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "schaar\nblad\nblad\nstop\n"
+                  "data": "schaar\nschaar\nsteen\nsteen\nsteen\nsteen\nsteen\nsteen\nschaar\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: steen\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nJe score was 2 op 6\n"
+                  "data": "De computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe verliest!\nJe score was 6 op 18\n"
                 }
               }
             }
@@ -438,22 +198,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(2342)"
+              "data": "import random; random.seed(1845)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 2342 leidt tot het onderstaande (met als achtereenvolgende invoer blad - blad - stop)",
+              "description": "Uitvoeren met seed 1845 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - steen - steen - steen - schaar - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "blad\nblad\nstop\n"
+                  "data": "schaar\nsteen\nsteen\nsteen\nschaar\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nJe score was 0 op 4\n"
+                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nJe score was 4 op 10\n"
                 }
               }
             }
@@ -462,22 +222,262 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(5147)"
+              "data": "import random; random.seed(4495)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 5147 leidt tot het onderstaande (met als achtereenvolgende invoer steen - blad - blad - blad - stop)",
+              "description": "Uitvoeren met seed 4495 leidt tot het onderstaande (met als achtereenvolgende invoer blad - blad - steen - stop)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "steen\nblad\nblad\nblad\nstop\n"
+                  "data": "blad\nblad\nsteen\nstop\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nJe score was 4 op 8\n"
+                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nJe score was 1 op 6\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(5581)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 5581 leidt tot het onderstaande (met als achtereenvolgende invoer blad - schaar - blad - blad - steen - steen - steen - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "blad\nschaar\nblad\nblad\nsteen\nsteen\nsteen\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nGelijkspel!\nJe score was 8 op 14\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7966)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7966 leidt tot het onderstaande (met als achtereenvolgende invoer blad - blad - blad - steen - blad - steen - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "blad\nblad\nblad\nsteen\nblad\nsteen\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nJe score was 8 op 12\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(917)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 917 leidt tot het onderstaande (met als achtereenvolgende invoer stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "stop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "Je score was 0 op 0\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7046)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7046 leidt tot het onderstaande (met als achtereenvolgende invoer steen - schaar - steen - blad - steen - steen - blad - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "steen\nschaar\nsteen\nblad\nsteen\nsteen\nblad\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nJe score was 7 op 14\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4160)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4160 leidt tot het onderstaande (met als achtereenvolgende invoer schaar - steen - blad - schaar - steen - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "schaar\nsteen\nblad\nschaar\nsteen\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nJe score was 3 op 10\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(7909)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 7909 leidt tot het onderstaande (met als achtereenvolgende invoer blad - schaar - blad - schaar - steen - schaar - blad - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "blad\nschaar\nblad\nschaar\nsteen\nschaar\nblad\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe wint!\nJe score was 5 op 14\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4516)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4516 leidt tot het onderstaande (met als achtereenvolgende invoer blad - schaar - schaar - schaar - schaar - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "blad\nschaar\nschaar\nschaar\nschaar\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nJe score was 1 op 10\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(4318)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 4318 leidt tot het onderstaande (met als achtereenvolgende invoer steen - blad - blad - blad - schaar - blad - schaar - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "steen\nblad\nblad\nblad\nschaar\nblad\nschaar\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nJe score was 9 op 14\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(2667)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 2667 leidt tot het onderstaande (met als achtereenvolgende invoer blad - steen - schaar - blad - schaar - schaar - schaar - steen - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "blad\nsteen\nschaar\nblad\nschaar\nschaar\nschaar\nsteen\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nJe score was 4 op 16\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(9742)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 9742 leidt tot het onderstaande (met als achtereenvolgende invoer blad - schaar - schaar - blad - schaar - blad - blad - steen - stop)",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": "blad\nschaar\nschaar\nblad\nschaar\nblad\nblad\nsteen\nstop\n"
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nJe score was 6 op 16\n"
                 }
               }
             }
