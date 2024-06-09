@@ -59,17 +59,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 6521 leidt tot het onderstaande (met als achtereenvolgende invoer l - n - c - b - a - t - e - h)",
+              "description": "Uitvoeren met seed 6521 leidt tot het onderstaande (met als achtereenvolgende invoer h - j - b - s - q - c - n - t - l - e - x - a)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "l\nn\nc\nb\na\nt\ne\nh\n"
+                  "data": "h\nj\nb\ns\nq\nc\nn\nt\nl\ne\nx\na\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n???????l\nn??????l\nn?c????l\nn?c??b?l\nnac??b?l\nnac?tb?l\nnac?tbel\nnachtbel\nGelukt!\n"
+                  "data": "????????\n???h????\nNiet gevonden\n???h????\n???h?b??\nNiet gevonden\n???h?b??\nNiet gevonden\n???h?b??\n??ch?b??\nn?ch?b??\nn?chtb??\nn?chtb?l\nn?chtbel\nNiet gevonden\nn?chtbel\nnachtbel\nGelukt!\n"
                 }
               }
             }
@@ -78,22 +78,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(1580)"
+              "data": "import random; random.seed(9935)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 1580 leidt tot het onderstaande (met als achtereenvolgende invoer r - l - q - n - t - v - m)",
+              "description": "Uitvoeren met seed 9935 leidt tot het onderstaande (met als achtereenvolgende invoer r - u - j - t - n - m - s - o)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "r\nl\nq\nn\nt\nv\nm\n"
+                  "data": "r\nu\nj\nt\nn\nm\ns\no\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\n????t???\nNiet gevonden\n????t???\nNiet gevonden\nHet woord was dichtbij\n"
+                  "data": "????????\n??????r?\n????u?r?\nNiet gevonden\n????u?r?\nNiet gevonden\n????u?r?\nNiet gevonden\n????u?r?\nNiet gevonden\n????u?r?\nNiet gevonden\n????u?r?\nNiet gevonden\nHet woord was chiquere\n"
                 }
               }
             }
@@ -102,22 +102,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(8007)"
+              "data": "import random; random.seed(4485)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 8007 leidt tot het onderstaande (met als achtereenvolgende invoer o - s - m - w - i - v - q)",
+              "description": "Uitvoeren met seed 4485 leidt tot het onderstaande (met als achtereenvolgende invoer x - q - v - r - e - w - i - u - o)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "o\ns\nm\nw\ni\nv\nq\n"
+                  "data": "x\nq\nv\nr\ne\nw\ni\nu\no\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\n????i???\nNiet gevonden\n????i???\nNiet gevonden\nHet woord was nablijft\n"
+                  "data": "????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\n????r???\n???er???\nNiet gevonden\n???er???\nNiet gevonden\n???er???\nu??er?u?\nNiet gevonden\nHet woord was uppercut\n"
                 }
               }
             }
@@ -126,22 +126,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(2096)"
+              "data": "import random; random.seed(4579)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 2096 leidt tot het onderstaande (met als achtereenvolgende invoer u - f - c - t - v - h - l - a)",
+              "description": "Uitvoeren met seed 4579 leidt tot het onderstaande (met als achtereenvolgende invoer v - r - k - j - m - i - t - u - b - l - w - x)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "u\nf\nc\nt\nv\nh\nl\na\n"
+                  "data": "v\nr\nk\nj\nm\ni\nt\nu\nb\nl\nw\nx\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n????u???\n?f??u???\n?f??uc??\n?f??uc?t\n?fv?uc?t\n?fv?ucht\n?fvlucht\nafvlucht\nGelukt!\n"
+                  "data": "????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\n?j??????\nNiet gevonden\n?j??????\nij??????\nNiet gevonden\nij??????\nij????u?\nij?b??u?\nij?bl?u?\nij?bl?uw\nNiet gevonden\nHet woord was ijsblauw\n"
                 }
               }
             }
@@ -150,22 +150,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(7966)"
+              "data": "import random; random.seed(5561)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 7966 leidt tot het onderstaande (met als achtereenvolgende invoer k - w - r - x - f - p - u - q - j - m - s)",
+              "description": "Uitvoeren met seed 5561 leidt tot het onderstaande (met als achtereenvolgende invoer t - k - h - p - u - q - r - a - j - m - s)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "k\nw\nr\nx\nf\np\nu\nq\nj\nm\ns\n"
+                  "data": "t\nk\nh\np\nu\nq\nr\na\nj\nm\ns\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\nNiet gevonden\n????????\n???????w\n????r??w\nNiet gevonden\n????r??w\n??ffr??w\nNiet gevonden\n??ffr??w\n?uffr?uw\nNiet gevonden\n?uffr?uw\njuffr?uw\nNiet gevonden\njuffr?uw\nNiet gevonden\nHet woord was juffrouw\n"
+                  "data": "????????\n????t??t\nNiet gevonden\n????t??t\n???hth?t\nNiet gevonden\n???hth?t\n???hthut\nNiet gevonden\n???hthut\nNiet gevonden\n???hthut\n?a?hthut\nja?hthut\nNiet gevonden\nja?hthut\nNiet gevonden\nHet woord was jachthut\n"
                 }
               }
             }
@@ -203,17 +203,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 9551 leidt tot het onderstaande (met als achtereenvolgende invoer z - i - w - k - d - h)",
+              "description": "Uitvoeren met seed 9551 leidt tot het onderstaande (met als achtereenvolgende invoer k - i - d - u - z - w - h)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "z\ni\nw\nk\nd\nh\n"
+                  "data": "k\ni\nd\nu\nz\nw\nh\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n???zz???\n??izz?i?\nw?izz?i?\nw?izzki?\nw?izzkid\nwhizzkid\nGelukt!\n"
+                  "data": "????????\n?????k??\n??i??ki?\n??i??kid\nNiet gevonden\n??i??kid\n??izzkid\nw?izzkid\nwhizzkid\nGelukt!\n"
                 }
               }
             }
@@ -222,22 +222,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(2653)"
+              "data": "import random; random.seed(2245)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 2653 leidt tot het onderstaande (met als achtereenvolgende invoer p - y - u - t - k - l - n - i - x - r - w - q)",
+              "description": "Uitvoeren met seed 2245 leidt tot het onderstaande (met als achtereenvolgende invoer s - k - l - w - i - a - v - c - j - u - n)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "p\ny\nu\nt\nk\nl\nn\ni\nx\nr\nw\nq\n"
+                  "data": "s\nk\nl\nw\ni\na\nv\nc\nj\nu\nn\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n?????p??\n????yp??\nu???yp??\nu?ttyp??\nNiet gevonden\nu?ttyp??\nNiet gevonden\nu?ttyp??\nu?ttyp?n\nuittyp?n\nNiet gevonden\nuittyp?n\nNiet gevonden\nuittyp?n\nNiet gevonden\nuittyp?n\nNiet gevonden\nHet woord was uittypen\n"
+                  "data": "????????\n???s????\nNiet gevonden\n???s????\nNiet gevonden\n???s????\n???s???w\nNiet gevonden\n???s???w\n?a?s???w\nNiet gevonden\n?a?s???w\n?a?sc??w\nNiet gevonden\n?a?sc??w\n?a?sc?uw\nNiet gevonden\nHet woord was dagschuw\n"
                 }
               }
             }
@@ -246,22 +246,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(8495)"
+              "data": "import random; random.seed(2429)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 8495 leidt tot het onderstaande (met als achtereenvolgende invoer c - a - l - e - m - u - k)",
+              "description": "Uitvoeren met seed 2429 leidt tot het onderstaande (met als achtereenvolgende invoer k - w - p - o - c - u - h - s)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "c\na\nl\ne\nm\nu\nk\n"
+                  "data": "k\nw\np\no\nc\nu\nh\ns\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n?cc?????\nacc?????\nacc??l??\nacc??le?\nacc??lem\naccu?lem\naccuklem\nGelukt!\n"
+                  "data": "????????\nk???????\nk??????w\nk?p????w\nkop????w\nkop?c??w\nkop?c?uw\nkop?chuw\nkopschuw\nGelukt!\n"
                 }
               }
             }
@@ -347,17 +347,17 @@
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 1421 leidt tot het onderstaande (met als achtereenvolgende invoer b - m - y - e - k - a - l)",
+              "description": "Uitvoeren met seed 1421 leidt tot het onderstaande (met als achtereenvolgende invoer b - e - m - k - l - a - y)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "b\nm\ny\ne\nk\na\nl\n"
+                  "data": "b\ne\nm\nk\nl\na\ny\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\nb?b?????\nb?b?m???\nb?bym???\nb?byme??\nb?byme?k\nbabyme?k\nbabymelk\nGelukt!\n"
+                  "data": "????????\nb?b?????\nb?b??e??\nb?b?me??\nb?b?me?k\nb?b?melk\nbab?melk\nbabymelk\nGelukt!\n"
                 }
               }
             }
@@ -366,22 +366,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(1026)"
+              "data": "import random; random.seed(6763)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 1026 leidt tot het onderstaande (met als achtereenvolgende invoer z - n - v - u - m - k - p - a - r - t)",
+              "description": "Uitvoeren met seed 6763 leidt tot het onderstaande (met als achtereenvolgende invoer m - k - p - g - v - o - x - l)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "z\nn\nv\nu\nm\nk\np\na\nr\nt\n"
+                  "data": "m\nk\np\ng\nv\no\nx\nl\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n????z???\nNiet gevonden\n????z???\nNiet gevonden\n????z???\n???uzuu?\nNiet gevonden\n???uzuu?\nNiet gevonden\n???uzuu?\nNiet gevonden\n???uzuu?\na??uzuu?\na??uzuur\nNiet gevonden\nHet woord was accuzuur\n"
+                  "data": "????????\nNiet gevonden\n????????\nNiet gevonden\n????????\nNiet gevonden\n????????\ng???????\nNiet gevonden\ng???????\ng??o??o?\nNiet gevonden\ng??o??o?\nNiet gevonden\nHet woord was geboycot\n"
                 }
               }
             }
@@ -390,22 +390,22 @@
         {
           "before": {
             "python": {
-              "data": "import random; random.seed(6621)"
+              "data": "import random; random.seed(9491)"
             }
           },
           "testcases": [
             {
-              "description": "Uitvoeren met seed 6621 leidt tot het onderstaande (met als achtereenvolgende invoer i - o - v - n - u - l - k - x - c - p - b - w)",
+              "description": "Uitvoeren met seed 9491 leidt tot het onderstaande (met als achtereenvolgende invoer i - o - v - n - r - l - k - q - x)",
               "input": {
                 "stdin": {
                   "type": "text",
-                  "data": "i\no\nv\nn\nu\nl\nk\nx\nc\np\nb\nw\n"
+                  "data": "i\no\nv\nn\nr\nl\nk\nq\nx\n"
                 }
               },
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "????????\n??i?????\nNiet gevonden\n??i?????\nNiet gevonden\n??i?????\nNiet gevonden\n??i?????\n?ui???u?\n?ui??lu?\n?uik?lu?\nNiet gevonden\n?uik?lu?\n?uikclu?\nNiet gevonden\n?uikclu?\n?uikclub\nNiet gevonden\nHet woord was duikclub\n"
+                  "data": "????????\n??i?????\nNiet gevonden\n??i?????\nNiet gevonden\n??i?????\nNiet gevonden\n??i?????\n??i???r?\nNiet gevonden\n??i???r?\nNiet gevonden\n??i???r?\n??iq??r?\nNiet gevonden\nHet woord was chiquere\n"
                 }
               }
             }

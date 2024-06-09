@@ -27,8 +27,10 @@ while len( cases ) < ntests:
     seed = random.randint(1,10000)
     cases.append( (seed,) )
     if random.randint(0,3) == 0:
-        gokjes = random.sample( range(8),8 )
-        gokjes += random.sample([8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23], 10)
+        n = random.randint(0,5)
+        temp = random.sample( range(8),8 )
+        temp += random.sample([8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23], n)
+        gokjes = random.sample(temp, 8+n)
     else:
         gokjes = random.sample( indices,18 )
     gokken.append(gokjes)
@@ -68,20 +70,18 @@ for test in cases:
         outputtxt += tekens+"\n"
         flag = True
         while flag:
-            print(gokken[i])
             index = gokken[i][j]
             j +=1
             if index >= 8:
-                gok = alfabet[index%24]
+                gok = alfabet[index]
             else:
-                gok = woord[index%8]
+                gok = woord[index]
             if gok not in al_gehad:
                 al_gehad.append(gok)
                 flag = False
         
         inputtxt += gok+"\n"
 
-        print(inputtxt)
         correct = False
         if gok not in tekens:
             for k in range(8):
