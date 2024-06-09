@@ -11,7 +11,7 @@ woorden = response.data.decode('utf-8').split("\n")
 woord = random.choice(woorden)
 
 # Dit is een stukje voor het indienen in Dodona
-#woorden = open('../workdir/words.txt').read().split("\n")
+#woorden = open('words.txt').read().split("\n")
 #woord = random.choice(woorden)
 
 # Hieronder komt je de rest van je programma
