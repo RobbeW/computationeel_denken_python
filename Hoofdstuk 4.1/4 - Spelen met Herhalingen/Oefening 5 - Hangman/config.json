@@ -9,7 +9,8 @@
   },
   "evaluation": {
     "handler": "tested",
-    "test_suite": "tests.json"
+    "test_suite": "tests.json",
+    "network_enabled": true
   },
   "labels": [
     "python"

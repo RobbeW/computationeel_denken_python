@@ -2,7 +2,6 @@ import random
 
 woorden = open('../workdir/words.txt').read().split("\n")
 woord = random.choice(woorden)
-woord = "zeezicht"
 
 aantal_correct = 0
 aantal_tekens = 8
