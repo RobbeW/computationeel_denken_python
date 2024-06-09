@@ -28,8 +28,9 @@ while len( cases ) < ntests:
     cases.append( (seed,) )
     if random.randint(0,3) == 0:
         gokjes = random.sample( range(8),8 )
+        gokjes += random.sample([8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23], 10)
     else:
-        gokjes = random.sample( indices,14 )
+        gokjes = random.sample( indices,18 )
     gokken.append(gokjes)
     
 # generate unit tests for functions
@@ -65,14 +66,22 @@ for test in cases:
     al_gehad = []
     while aantal_correct < aantal_tekens and aantal_gokken < 6:
         outputtxt += tekens+"\n"
-        index = gokken[i][j]
-        j +=1
-        if index >= 8:
-            gok = alfabet[index]
-        else:
-            gok = woord[index]
+        flag = True
+        while flag:
+            print(gokken[i])
+            index = gokken[i][j]
+            j +=1
+            if index >= 8:
+                gok = alfabet[index%24]
+            else:
+                gok = woord[index%8]
+            if gok not in al_gehad:
+                al_gehad.append(gok)
+                flag = False
         
         inputtxt += gok+"\n"
+
+        print(inputtxt)
         correct = False
         if gok not in tekens:
             for k in range(8):
