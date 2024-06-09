@@ -28,6 +28,7 @@ tijdelijk[i] = gok           # vervangt het ? op plaats i door de gok
 tekens = "".join(tijdelijk)  # slaat dit opnieuw op in de variabele tekens
   ```
 
+- In de sandbox kan je niet gebruik maken van de grote lijst met 200 woorden. Gebruik daar een vast woord om het programma te testen.
 
 #### Voorbeeld
 
