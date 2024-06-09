@@ -8,7 +8,7 @@
 
 Programmeer dit spelletje. Bestudeer grondig onderstaande voorbeeld om de verschillende stappen te implementeren. Je mag ervan uitgaan dat de woorden die genomen worden telkens uit **acht tekens** bestaan.
 
-Enkele tips:
+Enkele **tips**:
 
 - Het stukje code dat klaar staat haalt uit een lijst van quasi 200 woorden een willekeurig woord op.
 - Je kan gemakkelijk itereren over een stukje tekst via:
@@ -16,6 +16,14 @@ Enkele tips:
   ```python
 for i in range(8):
     letter = woord[i]
+  ```
+
+- Om de vraagtekens te vervangen door het gokje `gok` (indien dit correct is) kan je de volgende code gebruiken:
+
+  ```python
+tijdelijk = list(tekens)
+tijdelijk[i] = gok           # vervangt het ? op plaats i door de gok
+tekens = "".join(tijdelijk)  # slaat dit opnieuw op in de variabele tekens
   ```
 
 

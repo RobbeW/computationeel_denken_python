@@ -4,3 +4,5 @@ import random
 woorden = open('words.txt').read().split("\n")
 woord = random.choice(woorden)
 
+# Hieronder komt je programma
+tekens = "????????"   # Gebruik deze variabele 
