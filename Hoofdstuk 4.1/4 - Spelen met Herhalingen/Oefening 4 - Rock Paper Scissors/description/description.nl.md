@@ -36,3 +36,7 @@ Indien de gebruiker nadien `"stop"` intikt verschijnt er:
 ```
 Je score was 3 op 6
 ```
+
+{: .callout.callout-info}
+>#### Tip
+> Je kan via `computer = random.choice(["blad", "steen", "schaar"])` de computer een willekeurig een willekeurige waarde laten kiezen.
