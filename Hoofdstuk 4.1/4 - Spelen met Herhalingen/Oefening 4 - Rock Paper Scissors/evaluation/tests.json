@@ -21,7 +21,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe verliest!\nDe computer koos steen\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe verliest!\nJe score was 8 op 20\n"
+                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe verliest!\nJe score was 8 op 20\n"
                 }
               }
             }
@@ -45,7 +45,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos steen\nJe wint!\nJe score was 6 op 12\n"
+                  "data": "De computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nJe wint!\nJe score was 6 op 12\n"
                 }
               }
             }
@@ -93,7 +93,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe verliest!\nJe score was 2 op 8\n"
+                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe verliest!\nJe score was 2 op 8\n"
                 }
               }
             }
@@ -117,7 +117,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe wint!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nJe score was 13 op 28\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nJe score was 13 op 28\n"
                 }
               }
             }
@@ -141,7 +141,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos blad\nGelijkspel!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nJe verliest!\nDe computer koos blad\nGelijkspel!\nJe score was 5 op 12\n"
+                  "data": "De computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nJe score was 5 op 12\n"
                 }
               }
             }
@@ -165,7 +165,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos steen\nGelijkspel!\nJe score was 13 op 30\n"
+                  "data": "De computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: steen\nGelijkspel!\nJe score was 13 op 30\n"
                 }
               }
             }
@@ -189,7 +189,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nJe verliest!\nJe score was 12 op 30\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nJe score was 12 op 30\n"
                 }
               }
             }
@@ -213,7 +213,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nJe score was 6 op 18\n"
+                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nJe score was 6 op 18\n"
                 }
               }
             }
@@ -237,7 +237,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos blad\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nGelijkspel!\nJe score was 19 op 52\n"
+                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nJe score was 19 op 52\n"
                 }
               }
             }
@@ -261,7 +261,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nJe score was 4 op 10\n"
+                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nJe score was 4 op 10\n"
                 }
               }
             }
@@ -285,7 +285,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos blad\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nJe verliest!\nJe score was 13 op 26\n"
+                  "data": "De computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nJe score was 13 op 26\n"
                 }
               }
             }
@@ -309,7 +309,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos steen\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nJe score was 27 op 52\n"
+                  "data": "De computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nJe score was 27 op 52\n"
                 }
               }
             }
@@ -333,7 +333,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe wint!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nJe score was 4 op 6\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nJe score was 4 op 6\n"
                 }
               }
             }
@@ -357,7 +357,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos steen\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos steen\nGelijkspel!\nJe score was 5 op 18\n"
+                  "data": "De computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nJe score was 5 op 18\n"
                 }
               }
             }
@@ -381,7 +381,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nGelijkspel!\nJe score was 3 op 12\n"
+                  "data": "De computer koos: schaar\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nGelijkspel!\nJe score was 3 op 12\n"
                 }
               }
             }
@@ -405,7 +405,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos blad\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nJe wint!\nJe score was 9 op 18\n"
+                  "data": "De computer koos: blad\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe wint!\nJe score was 9 op 18\n"
                 }
               }
             }
@@ -429,7 +429,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nJe verliest!\nDe computer koos steen\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos steen\nJe wint!\nDe computer koos schaar\nJe verliest!\nJe score was 13 op 40\n"
+                  "data": "De computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe verliest!\nDe computer koos: steen\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: steen\nJe wint!\nDe computer koos: schaar\nJe verliest!\nJe score was 13 op 40\n"
                 }
               }
             }
@@ -453,7 +453,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos steen\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nJe score was 7 op 16\n"
+                  "data": "De computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nJe score was 7 op 16\n"
                 }
               }
             }
@@ -477,7 +477,7 @@
               "output": {
                 "stdout": {
                   "type": "text",
-                  "data": "De computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nJe verliest!\nDe computer koos schaar\nGelijkspel!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nGelijkspel!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos blad\nGelijkspel!\nDe computer koos schaar\nGelijkspel!\nDe computer koos schaar\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos blad\nJe verliest!\nDe computer koos schaar\nJe wint!\nDe computer koos blad\nJe verliest!\nDe computer koos steen\nJe wint!\nDe computer koos steen\nJe verliest!\nJe score was 16 op 46\n"
+                  "data": "De computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: blad\nGelijkspel!\nDe computer koos: schaar\nGelijkspel!\nDe computer koos: schaar\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: blad\nJe verliest!\nDe computer koos: schaar\nJe wint!\nDe computer koos: blad\nJe verliest!\nDe computer koos: steen\nJe wint!\nDe computer koos: steen\nJe verliest!\nJe score was 16 op 46\n"
                 }
               }
             }

@@ -60,7 +60,7 @@ for test in cases:
         inputtxt += gok+"\n"
         if gok != "stop":
             totaal += 1
-            outputtxt += f"De computer koos {computer}\n"
+            outputtxt += f"De computer koos: {computer}\n"
             if gok == "blad" and computer == "steen":
                 score += 2
                 outputtxt += f"Je wint!\n"

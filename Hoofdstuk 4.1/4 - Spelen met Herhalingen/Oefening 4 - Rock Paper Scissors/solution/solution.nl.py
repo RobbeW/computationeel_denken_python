@@ -10,7 +10,7 @@ while voorwaarde:
     gok = input("Geef een optie in, of stop: ")
     if gok != "stop":
         totaal += 1
-        print("De computer koos", computer)
+        print("De computer koos:", computer)
         if gok == "blad" and computer == "steen":
             score += 2
             print("Je wint!")
