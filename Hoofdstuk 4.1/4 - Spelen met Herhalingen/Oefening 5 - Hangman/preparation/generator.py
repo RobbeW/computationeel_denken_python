@@ -35,7 +35,9 @@ while len( cases ) < ntests:
     else:
         gokjes = random.sample( indices,24 )
     gokken.append(gokjes)
+    print(gokjes)
     
+
 # generate unit tests for functions
 exportdata = {"tabs": [] }
 exportdata["tabs"].append( {"name": "Feedback",

@@ -1,6 +1,8 @@
 <a href="https://nl.wikipedia.org/wiki/Galgje" target="_blank">Galgje</a> is een spelletje waarbij een woord geraden moet worden, door individuele letters te raden. De spelers mogen maar een beperkt aantal fouten maken, de fouten worden vaak weergeven door een hangend mannetje aan een galg te tekenen.
 
-![Galgje](media/hangman.png "Galgje"){:data-caption="Galgje" width="45%"}
+![Galgje](media/hangman.png "Galgje"){:data-caption="Galgje" .light-only width="45%"}
+
+![Galgje](media/hangman_dark.png "Galgje"){:data-caption="Galgje" .dark-only width="45%"}
 
 ## Opgave
 
