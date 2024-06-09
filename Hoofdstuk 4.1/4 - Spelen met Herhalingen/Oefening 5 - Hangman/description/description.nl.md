@@ -6,7 +6,7 @@
 
 ## Opgave
 
-Programmeer dit spelletje. Bestudeer grondig onderstaande voorbeeld om de verschillende stappen te implementeren. Je mag ervan uitgaan dat de woorden die genomen worden telkens uit **acht tekens** bestaan.
+Programmeer dit spelletje. Bestudeer grondig onderstaande voorbeeld om de verschillende stappen te implementeren. Je mag ervan uitgaan dat de woorden die genomen worden telkens uit **acht tekens** bestaan. Het programma stopt automatisch indien er 10 fouten gemaakt werden.
 
 Enkele **tips**:
 
@@ -17,6 +17,8 @@ Enkele **tips**:
 for i in range(8):
     letter = woord[i]
   ```
+
+- Gebruik de vorige `for` loop om te controleren of de gok gelijk is aan een letter.
 
 - Om de vraagtekens te vervangen door het gokje `gok` (indien dit correct is) kan je de volgende code gebruiken:
 
