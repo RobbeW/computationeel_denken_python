@@ -2,12 +2,13 @@ import random
 
 woorden = open('../workdir/words.txt').read().split("\n")
 woord = random.choice(woorden)
+woord = "zeezicht"
 
 aantal_correct = 0
 aantal_tekens = 8
 aantal_gokken = 0
 tekens = "????????"
-while aantal_correct < aantal_tekens and aantal_gokken < 6:
+while aantal_correct < aantal_tekens and aantal_gokken < 10:
     print(tekens)
     gok = input("Gok een letter: ")
     
@@ -25,10 +26,10 @@ while aantal_correct < aantal_tekens and aantal_gokken < 6:
         
     if correct == False:
         aantal_gokken += 1
-        print("Niet gevonden")
+        print(letter, "werd niet gevonden")
 
 if aantal_correct == 8:
     print(tekens)
-    print("Gelukt!")
+    print("Je hebt het woord gevonden!")
 else:
     print("Het woord was", woord)

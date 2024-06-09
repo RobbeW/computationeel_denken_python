@@ -18,6 +18,7 @@ def write_json( data:dict ):
 # generate test data
 ntests = 20
 cases = [ ]
+max_guesses = 10
 woorden = open('../workdir/words.txt').read().split("\n")
 alfabet = "abcdefghijklmnopqrstuvwxyz"
 indices = range(24)
@@ -27,12 +28,12 @@ while len( cases ) < ntests:
     seed = random.randint(1,10000)
     cases.append( (seed,) )
     if random.randint(0,3) == 0:
-        n = random.randint(0,5)
+        n = random.randint(0,max_guesses)
         temp = random.sample( range(8),8 )
         temp += random.sample([8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23], n)
         gokjes = random.sample(temp, 8+n)
     else:
-        gokjes = random.sample( indices,18 )
+        gokjes = random.sample( indices,24 )
     gokken.append(gokjes)
     
 # generate unit tests for functions
@@ -66,7 +67,7 @@ for test in cases:
     tekens = "????????"
     j = 0
     al_gehad = []
-    while aantal_correct < aantal_tekens and aantal_gokken < 6:
+    while aantal_correct < aantal_tekens and aantal_gokken < max_guesses:
         outputtxt += tekens+"\n"
         flag = True
         while flag:
@@ -96,11 +97,11 @@ for test in cases:
             
         if correct == False:
             aantal_gokken += 1
-            outputtxt += "Niet gevonden\n"
+            outputtxt += f"{gok} werd niet gevonden\n"
 
     if aantal_correct == 8:
         outputtxt += tekens+"\n"
-        outputtxt += "Gelukt!\n"
+        outputtxt += "Je hebt het woord gevonden!\n"
     else:
         outputtxt += f"Het woord was {woord}\n"
     
