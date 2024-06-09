@@ -29,4 +29,6 @@ tekens = "".join(tijdelijk)  # slaat dit opnieuw op in de variabele tekens
 
 #### Voorbeeld
 
-![Een implementatie van galgje.](media/hangman.gif "Een implementatie van galgje."){:data-caption="Een implementatie van galgje." width="500px"}
+![Een implementatie van galgje.](media/hangman.gif "Een implementatie van galgje."){:data-caption="Een implementatie van galgje." .dark-only width="500px"}
+
+![Een implementatie van galgje.](media/hangman_inverted.gif "Een implementatie van galgje."){:data-caption="Een implementatie van galgje." .light-only width="500px"}
