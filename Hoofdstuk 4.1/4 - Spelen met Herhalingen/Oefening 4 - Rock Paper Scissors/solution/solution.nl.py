@@ -17,7 +17,7 @@ while voorwaarde:
         elif gok == "steen" and computer == "schaar":
             score += 2
             print("Je wint!")
-        elif gok == "schaar" and computer == "papier":
+        elif gok == "schaar" and computer == "blad":
             score += 2
             print("Je wint!")
         elif gok == computer:
