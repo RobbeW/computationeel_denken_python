@@ -75,7 +75,7 @@ for test in cases:
             elif gok == "steen" and computer == "schaar":
                 score += 2
                 outputtxt += f"Je wint!\n"
-            elif gok == "schaar" and computer == "papier":
+            elif gok == "schaar" and computer == "blad":
                 score += 2
                 outputtxt += f"Je wint!\n"
             elif gok == computer:
