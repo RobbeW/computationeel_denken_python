@@ -11,7 +11,7 @@
       stdout: "De totaalprijs van de cupcakes bedraagt 10.8 euro.\n"
   - testcases:
     - stdin: '9'
-      stdout: "De totaalprijs van de cupcakes bedraagt 9.18 euro.\n"
+      stdout: "De totaalprijs van de cupcakes bedraagt 10.8 euro.\n"
   - testcases:
     - stdin: '49'
       stdout: "De totaalprijs van de cupcakes bedraagt 52.92 euro.\n"
@@ -30,6 +30,12 @@
   - testcases:
     - stdin: '101'
       stdout: "De totaalprijs van de cupcakes bedraagt 90.9 euro.\n"
+  - testcases:
+    - stdin: "5"
+      stdout: "De totaalprijs van de cupcakes bedraagt 6.0 euro.\n"
+  - testcases:
+    - stdin: "3"
+      stdout: "De totaalprijs van de cupcakes bedraagt 3.6 euro.\n"
   - testcases:
     - stdin: '51'
       stdout: "De totaalprijs van de cupcakes bedraagt 52.02 euro.\n"
@@ -54,9 +60,3 @@
   - testcases:
     - stdin: '171'
       stdout: "De totaalprijs van de cupcakes bedraagt 153.9 euro.\n"
-  - testcases:
-    - stdin: '62'
-      stdout: "De totaalprijs van de cupcakes bedraagt 63.24 euro.\n"
-  - testcases:
-    - stdin: '76'
-      stdout: "De totaalprijs van de cupcakes bedraagt 77.52 euro.\n"

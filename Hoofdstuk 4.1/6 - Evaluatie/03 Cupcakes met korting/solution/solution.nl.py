@@ -8,13 +8,12 @@ aantal_cupcakes = int(input("Hoeveel cupcakes wilt u? "))
 totaalprijs = prijs_cupcake * aantal_cupcakes
 
 # bepaal de korting en bereken de totaalprijs met korting
-if 10 <= aantal_cupcakes < 50:
-    totaalprijs *= 0.9
-elif aantal_cupcakes < 100:
-    totaalprijs *= 0.85
-elif aantal_cupcakes >= 100:
+if aantal_cupcakes >= 100:
     totaalprijs *= 0.75
+elif aantal_cupcakes >= 50:
+    totaalprijs *= 0.85
+elif aantal_cupcakes >= 10:
+    totaalprijs *= 0.9
 
 # druk de totaalprijs na korting af op het scherm
-print()
 print("De totaalprijs van de cupcakes bedraagt", round(totaalprijs, 2), "euro.")

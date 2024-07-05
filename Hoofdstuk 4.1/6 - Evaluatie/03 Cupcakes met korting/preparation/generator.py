@@ -34,7 +34,7 @@ module = importlib.util.module_from_spec(spec)
 
 # generate test data
 ntests = 20
-cases = [(15, ), (0,), (10, ), (9,), (49,), (50,),(51,), (99,), (100,),(101,)]
+cases = [(15, ), (0,), (10, ), (9,), (49,), (50,),(51,), (99,), (100,),(101,), (5,), (3,)]
 
 while len( cases ) < ntests:
     n = random.randint(0, 300)
