@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '15'
+      stdout: "De totaalprijs van de cupcakes bedraagt 16.2 euro.\n"
+  - testcases:
+    - stdin: '0'
+      stdout: "De totaalprijs van de cupcakes bedraagt 0.0 euro.\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "De totaalprijs van de cupcakes bedraagt 10.8 euro.\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "De totaalprijs van de cupcakes bedraagt 9.18 euro.\n"
+  - testcases:
+    - stdin: '49'
+      stdout: "De totaalprijs van de cupcakes bedraagt 52.92 euro.\n"
+  - testcases:
+    - stdin: '50'
+      stdout: "De totaalprijs van de cupcakes bedraagt 51.0 euro.\n"
+  - testcases:
+    - stdin: '51'
+      stdout: "De totaalprijs van de cupcakes bedraagt 52.02 euro.\n"
+  - testcases:
+    - stdin: '99'
+      stdout: "De totaalprijs van de cupcakes bedraagt 100.98 euro.\n"
+  - testcases:
+    - stdin: '100'
+      stdout: "De totaalprijs van de cupcakes bedraagt 90.0 euro.\n"
+  - testcases:
+    - stdin: '101'
+      stdout: "De totaalprijs van de cupcakes bedraagt 90.9 euro.\n"
+  - testcases:
+    - stdin: '51'
+      stdout: "De totaalprijs van de cupcakes bedraagt 52.02 euro.\n"
+  - testcases:
+    - stdin: '117'
+      stdout: "De totaalprijs van de cupcakes bedraagt 105.3 euro.\n"
+  - testcases:
+    - stdin: '129'
+      stdout: "De totaalprijs van de cupcakes bedraagt 116.1 euro.\n"
+  - testcases:
+    - stdin: '263'
+      stdout: "De totaalprijs van de cupcakes bedraagt 236.7 euro.\n"
+  - testcases:
+    - stdin: '300'
+      stdout: "De totaalprijs van de cupcakes bedraagt 270.0 euro.\n"
+  - testcases:
+    - stdin: '260'
+      stdout: "De totaalprijs van de cupcakes bedraagt 234.0 euro.\n"
+  - testcases:
+    - stdin: '39'
+      stdout: "De totaalprijs van de cupcakes bedraagt 42.12 euro.\n"
+  - testcases:
+    - stdin: '171'
+      stdout: "De totaalprijs van de cupcakes bedraagt 153.9 euro.\n"
+  - testcases:
+    - stdin: '62'
+      stdout: "De totaalprijs van de cupcakes bedraagt 63.24 euro.\n"
+  - testcases:
+    - stdin: '76'
+      stdout: "De totaalprijs van de cupcakes bedraagt 77.52 euro.\n"
