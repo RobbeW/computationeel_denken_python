@@ -1,0 +1,47 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "ja\n2\n0"
+      stdout: "De totaalprijs van de pizza bedraagt 18.25 euro.\n"
+  - testcases:
+    - stdin: "ja\n5\n4"
+      stdout: "De totaalprijs van de pizza bedraagt 28.0 euro.\n"
+  - testcases:
+    - stdin: "ja\n2\n4"
+      stdout: "De totaalprijs van de pizza bedraagt 24.25 euro.\n"
+  - testcases:
+    - stdin: "nee\n0\n2"
+      stdout: "De totaalprijs van de pizza bedraagt 16.75 euro.\n"
+  - testcases:
+    - stdin: "ja\n3\n4"
+      stdout: "De totaalprijs van de pizza bedraagt 25.5 euro.\n"
+  - testcases:
+    - stdin: "ja\n3\n1"
+      stdout: "De totaalprijs van de pizza bedraagt 21.0 euro.\n"
+  - testcases:
+    - stdin: "nee\n0\n3"
+      stdout: "De totaalprijs van de pizza bedraagt 18.25 euro.\n"
+  - testcases:
+    - stdin: "nee\n4\n2"
+      stdout: "De totaalprijs van de pizza bedraagt 21.75 euro.\n"
+  - testcases:
+    - stdin: "nee\n1\n0"
+      stdout: "De totaalprijs van de pizza bedraagt 15.0 euro.\n"
+  - testcases:
+    - stdin: "ja\n1\n1"
+      stdout: "De totaalprijs van de pizza bedraagt 18.5 euro.\n"
+  - testcases:
+    - stdin: "nee\n3\n1"
+      stdout: "De totaalprijs van de pizza bedraagt 19.0 euro.\n"
+  - testcases:
+    - stdin: "nee\n5\n0"
+      stdout: "De totaalprijs van de pizza bedraagt 20.0 euro.\n"
+  - testcases:
+    - stdin: "nee\n4\n1"
+      stdout: "De totaalprijs van de pizza bedraagt 20.25 euro.\n"
+  - testcases:
+    - stdin: "ja\n4\n2"
+      stdout: "De totaalprijs van de pizza bedraagt 23.75 euro.\n"
+  - testcases:
+    - stdin: "ja\n0\n3"
+      stdout: "De totaalprijs van de pizza bedraagt 20.25 euro.\n"

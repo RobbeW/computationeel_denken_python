@@ -5,17 +5,16 @@
   "description": {
     "names": {
       "nl": "Pizza bestellen",
-      "en": "Ordering Pizza"
+      "en": "Ordering pizza"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "python"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "6G2bddyr23caDsNEwRgwpdYi4NgS8hiSmHdGb-Ptr6qGzMpDiDhW2VjEEKPWTuP4",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
