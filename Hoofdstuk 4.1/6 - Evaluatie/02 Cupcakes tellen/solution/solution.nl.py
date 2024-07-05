@@ -8,4 +8,4 @@ aantal_cupcakes = int(input("Hoeveel cupcakes wilt u? "))
 totaalprijs = prijs_cupcake * aantal_cupcakes
 
 # druk de totaalprijs af op het scherm
-print("De totaalprijs van de cupcakes bedraagt", totaalprijs, "euro.")
+print("De totaalprijs van de cupcakes bedraagt", round(totaalprijs, 2), "euro.")
