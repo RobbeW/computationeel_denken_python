@@ -3,7 +3,7 @@ Marieke en Simon verkopen cupcakes om hun eindejaarsreis op school te sponsoren.
 
 De prijs per cupcake bedraagt € 1,20.
 
-![Enkele lekkere cupcakes.](media/brooke-lark.gif "Enkele lekkere cupcakes."){:data-caption="Foto door Brooke Lark op Unsplash." width="40%"}
+![Enkele lekkere cupcakes.](media/brooke-lark.png "Enkele lekkere cupcakes."){:data-caption="Foto door Brooke Lark op Unsplash." width="40%"}
 
 ## Gevraagd
 * Schrijf een programma dat de gebruiker vraagt naar het aantal te bestellen cupcakes.
