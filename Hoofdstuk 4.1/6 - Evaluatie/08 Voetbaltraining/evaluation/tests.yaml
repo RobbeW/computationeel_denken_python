@@ -1,0 +1,152 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "5\n2\n5"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "6\n3\n5"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "4\n1\n3"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "5\n5\n59"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "10\n10\n132"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "20\n17\n20"
+      stdout: "De bal eindigt bij speler 17\n"
+  - testcases:
+    - stdin: "12\n2\n39"
+      stdout: "De bal eindigt bij speler 5\n"
+  - testcases:
+    - stdin: "13\n1\n127"
+      stdout: "De bal eindigt bij speler 11\n"
+  - testcases:
+    - stdin: "3\n2\n185"
+      stdout: "De bal eindigt bij speler 1\n"
+  - testcases:
+    - stdin: "9\n8\n139"
+      stdout: "De bal eindigt bij speler 3\n"
+  - testcases:
+    - stdin: "3\n2\n57"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "19\n5\n66"
+      stdout: "De bal eindigt bij speler 14\n"
+  - testcases:
+    - stdin: "4\n3\n10"
+      stdout: "De bal eindigt bij speler 1\n"
+  - testcases:
+    - stdin: "15\n14\n71"
+      stdout: "De bal eindigt bij speler 10\n"
+  - testcases:
+    - stdin: "19\n10\n98"
+      stdout: "De bal eindigt bij speler 13\n"
+  - testcases:
+    - stdin: "7\n6\n15"
+      stdout: "De bal eindigt bij speler 7\n"
+  - testcases:
+    - stdin: "6\n2\n56"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "19\n13\n126"
+      stdout: "De bal eindigt bij speler 6\n"
+  - testcases:
+    - stdin: "7\n5\n150"
+      stdout: "De bal eindigt bij speler 1\n"
+  - testcases:
+    - stdin: "16\n2\n96"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "21\n8\n38"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "5\n4\n37"
+      stdout: "De bal eindigt bij speler 1\n"
+  - testcases:
+    - stdin: "14\n4\n181"
+      stdout: "De bal eindigt bij speler 3\n"
+  - testcases:
+    - stdin: "8\n5\n169"
+      stdout: "De bal eindigt bij speler 6\n"
+  - testcases:
+    - stdin: "8\n2\n102"
+      stdout: "De bal eindigt bij speler 8\n"
+  - testcases:
+    - stdin: "9\n8\n177"
+      stdout: "De bal eindigt bij speler 5\n"
+  - testcases:
+    - stdin: "3\n3\n81"
+      stdout: "De bal eindigt bij speler 3\n"
+  - testcases:
+    - stdin: "22\n13\n105"
+      stdout: "De bal eindigt bij speler 8\n"
+  - testcases:
+    - stdin: "10\n6\n159"
+      stdout: "De bal eindigt bij speler 5\n"
+  - testcases:
+    - stdin: "10\n5\n185"
+      stdout: "De bal eindigt bij speler 10\n"
+  - testcases:
+    - stdin: "8\n6\n110"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "5\n5\n84"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "5\n2\n166"
+      stdout: "De bal eindigt bij speler 3\n"
+  - testcases:
+    - stdin: "17\n4\n183"
+      stdout: "De bal eindigt bij speler 17\n"
+  - testcases:
+    - stdin: "13\n4\n73"
+      stdout: "De bal eindigt bij speler 12\n"
+  - testcases:
+    - stdin: "18\n13\n16"
+      stdout: "De bal eindigt bij speler 11\n"
+  - testcases:
+    - stdin: "8\n5\n58"
+      stdout: "De bal eindigt bij speler 7\n"
+  - testcases:
+    - stdin: "23\n1\n183"
+      stdout: "De bal eindigt bij speler 23\n"
+  - testcases:
+    - stdin: "21\n16\n86"
+      stdout: "De bal eindigt bij speler 18\n"
+  - testcases:
+    - stdin: "14\n6\n42"
+      stdout: "De bal eindigt bij speler 6\n"
+  - testcases:
+    - stdin: "17\n4\n119"
+      stdout: "De bal eindigt bij speler 4\n"
+  - testcases:
+    - stdin: "9\n3\n52"
+      stdout: "De bal eindigt bij speler 1\n"
+  - testcases:
+    - stdin: "6\n1\n34"
+      stdout: "De bal eindigt bij speler 5\n"
+  - testcases:
+    - stdin: "6\n4\n184"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "11\n11\n42"
+      stdout: "De bal eindigt bij speler 9\n"
+  - testcases:
+    - stdin: "23\n8\n46"
+      stdout: "De bal eindigt bij speler 8\n"
+  - testcases:
+    - stdin: "14\n8\n106"
+      stdout: "De bal eindigt bij speler 2\n"
+  - testcases:
+    - stdin: "9\n8\n123"
+      stdout: "De bal eindigt bij speler 5\n"
+  - testcases:
+    - stdin: "16\n14\n75"
+      stdout: "De bal eindigt bij speler 9\n"
+  - testcases:
+    - stdin: "16\n10\n168"
+      stdout: "De bal eindigt bij speler 2\n"
