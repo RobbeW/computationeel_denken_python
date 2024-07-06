@@ -1,6 +1,6 @@
 ## Gegeven: 
 
-Heb je je al afgevraagd waarom er zoveel muggen zijn in vochtige omgevvingen? Een van de redenen is dat vrouwelijke muggen wel honderden eitjes kunnen leggen. De meeste overleven gelukkig niet, maar men zegt dat één paar muggen in enkele weken duizenden muggen kan voortbrengen.
+Heb je je al afgevraagd waarom er zoveel muggen zijn in vochtige omgevingen? Een van de redenen is dat vrouwelijke muggen wel honderden eitjes kunnen leggen. De meeste overleven gelukkig niet, maar men zegt dat één paar muggen in enkele weken duizenden muggen kan voortbrengen.
 
 We bekijken dit in meer detail. De levenscyclus van een mug bestaat uit 4 stadia: eitje, larve, verpopping en volwassen mug.
 
