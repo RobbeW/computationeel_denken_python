@@ -33,6 +33,6 @@ De bal eindigt bij speler 4
 
 {: .callout.callout-secondary}
 >#### Bron
-> Universiteit van Valladolid (UVa), probleem *Bafana Bafana*
+> Universiteit van Valladolid (UVa), probleem *Bafana Bafana*.
 
 
