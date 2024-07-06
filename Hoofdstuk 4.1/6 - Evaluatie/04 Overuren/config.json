@@ -5,17 +5,16 @@
   "description": {
     "names": {
       "nl": "Overuren",
-      "en": "Working Overtime"
+      "en": "Working overtime"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "python"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "dYsFncZ_pWf8pAqwQmJ5tJn97GQhV28_wwKXca_qzPRnDDYqbacGjhBAbJ9HjkGU",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."

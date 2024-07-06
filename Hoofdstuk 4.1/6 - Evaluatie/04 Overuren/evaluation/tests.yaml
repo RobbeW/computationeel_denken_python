@@ -1,0 +1,56 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '7.0'
+      stdout: "Simon heeft vandaag 84.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '11.5'
+      stdout: "Simon heeft vandaag 148.5 euro verdiend.\n"
+  - testcases:
+    - stdin: '8.0'
+      stdout: "Simon heeft vandaag 96.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '0.0'
+      stdout: "Simon heeft vandaag 0.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '1.25'
+      stdout: "Simon heeft vandaag 15.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '4.0'
+      stdout: "Simon heeft vandaag 48.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '5.0'
+      stdout: "Simon heeft vandaag 60.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '2.5'
+      stdout: "Simon heeft vandaag 30.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '0.75'
+      stdout: "Simon heeft vandaag 9.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '0.5'
+      stdout: "Simon heeft vandaag 6.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '3.75'
+      stdout: "Simon heeft vandaag 45.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '7.25'
+      stdout: "Simon heeft vandaag 87.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '8.25'
+      stdout: "Simon heeft vandaag 99.75 euro verdiend.\n"
+  - testcases:
+    - stdin: '5.0'
+      stdout: "Simon heeft vandaag 60.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '6.5'
+      stdout: "Simon heeft vandaag 78.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '8.5'
+      stdout: "Simon heeft vandaag 103.5 euro verdiend.\n"
+  - testcases:
+    - stdin: '6.25'
+      stdout: "Simon heeft vandaag 75.0 euro verdiend.\n"
+  - testcases:
+    - stdin: '0.25'
+      stdout: "Simon heeft vandaag 3.0 euro verdiend.\n"
