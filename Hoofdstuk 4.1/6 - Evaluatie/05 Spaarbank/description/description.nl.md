@@ -5,7 +5,7 @@ Simon beslist om zijn loon uit de studentenjob te sparen via de bank. Hij zet ee
 ## Gevraagd
 
 Schrijf de code met volgende drie variabelen, namelijk: 
-* `bedrag`, een willekeurig bedrag tussen €500 en €1000 (grenzen inbegrepen);
+* `bedrag`, een **willekeurig** bedrag tussen €500 en €1000 (grenzen inbegrepen);
 * `aantal_jaren`, vraag aan de gebruiker hoeveel jaar die kan sparen;
 * `interest_per_jaar`, de interest van 2,0%
 
@@ -25,4 +25,8 @@ Na 3 jaar staat er 558.2 euro op de rekening.
 Na 4 jaar staat er 569.36 euro op de rekening.
 Na 5 jaar sparen aan een interest van 2.0 % staat er 580.75 euro op de spaarrekening.
 ```
+
+{: .callout.callout-info}
+>#### Tip
+> Gebruik `random.randint()` om het wilelkeurige eerste bedrag aan te maken.
 

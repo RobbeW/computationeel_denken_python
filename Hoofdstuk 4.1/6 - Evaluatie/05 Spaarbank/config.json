@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Jobstudent bij de Spaarbank",
-      "en": "Student Bank Savings"
+      "nl": "Jobstudent bij de spaarbank",
+      "en": "Student bank savings"
     }
   },
   "evaluation": {
@@ -13,8 +13,7 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "python"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
