@@ -1,0 +1,340 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '21.0'
+      stdout: "De huidige temperatuur van de oven is 21.0 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 24.57 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 28.75 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 33.63 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 39.35 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 46.04 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 53.87 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 63.03 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 73.74 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 86.28 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 100.94\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 118.1 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 138.18 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 161.67 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '23.8'
+      stdout: "De huidige temperatuur van de oven is 23.8 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 27.85 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 32.58 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 38.12 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 44.6 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 52.18 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 61.05 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 71.43 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 83.57 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 97.78 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 114.4 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 133.85\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 156.61 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '23.1'
+      stdout: "De huidige temperatuur van de oven is 23.1 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 27.03 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 31.62 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 37.0 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 43.29 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 50.65 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 59.26 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 69.33 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 81.11 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 94.9 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 111.04\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 129.91 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 152.0 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 177.84 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '19.8'
+      stdout: "De huidige temperatuur van de oven is 19.8 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 23.17 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 27.1 graden.\nEr\
+        \ zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 31.71 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 37.1 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 43.41 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 50.79 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 59.42 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 69.53 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 81.35 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 95.18 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 111.35\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 130.29 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 152.43 graden.\nEr zijn 14 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 178.35 graden.\nDe oven is voorverwarmd na 15 minuten.\n"
+  - testcases:
+    - stdin: '20.0'
+      stdout: "De huidige temperatuur van de oven is 20.0 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 23.4 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 27.38 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 32.03 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 37.48 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 43.85 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 51.3 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 60.02 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 70.23 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 82.17 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 96.14 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 112.48\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 131.6 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 153.97 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '22.8'
+      stdout: "De huidige temperatuur van de oven is 22.8 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 26.68 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 31.21 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 36.52 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 42.72 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 49.99 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 58.49 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 68.43 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 80.06 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 93.67 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 109.6 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 128.23\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 150.03 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 175.53 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '22.7'
+      stdout: "De huidige temperatuur van de oven is 22.7 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 26.56 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 31.07 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 36.36 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 42.54 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 49.77 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 58.23 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 68.13 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 79.71 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 93.26 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 109.12\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 127.66 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 149.37 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 174.76 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '25.3'
+      stdout: "De huidige temperatuur van de oven is 25.3 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 29.6 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 34.63 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 40.52 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 47.41 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 55.47 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 64.9 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 75.93 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 88.84 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 103.94 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 121.61\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 142.29 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 166.48 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '18.6'
+      stdout: "De huidige temperatuur van de oven is 18.6 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 21.76 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 25.46 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 29.79 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 34.85 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 40.78 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 47.71 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 55.82 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 65.31 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 76.42 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 89.41 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 104.61\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 122.39 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 143.2 graden.\nEr zijn 14 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 167.54 graden.\nDe oven is voorverwarmd na 15 minuten.\n"
+  - testcases:
+    - stdin: '20.7'
+      stdout: "De huidige temperatuur van de oven is 20.7 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 24.22 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 28.34 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 33.15 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 38.79 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 45.38 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 53.1 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 62.13 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 72.69 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 85.04 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 99.5 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 116.42\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 136.21 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 159.36 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '19.2'
+      stdout: "De huidige temperatuur van de oven is 19.2 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 22.46 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 26.28 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 30.75 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 35.98 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 42.1 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 49.25 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 57.62 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 67.42 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 78.88 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 92.29 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 107.98\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 126.34 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 147.81 graden.\nEr zijn 14 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 172.94 graden.\nDe oven is voorverwarmd na 15 minuten.\n"
+  - testcases:
+    - stdin: '24.7'
+      stdout: "De huidige temperatuur van de oven is 24.7 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 28.9 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 33.81 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 39.56 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 46.29 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 54.15 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 63.36 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 74.13 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 86.73 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 101.48 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 118.73\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 138.91 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 162.53 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '18.2'
+      stdout: "De huidige temperatuur van de oven is 18.2 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 21.29 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 24.91 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 29.15 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 34.1 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 39.9 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 46.69 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 54.62 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 63.91 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 74.77 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 87.48 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 102.36\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 119.76 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 140.12 graden.\nEr zijn 14 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 163.94 graden.\nDe oven is voorverwarmd na 15 minuten.\n"
+  - testcases:
+    - stdin: '25.7'
+      stdout: "De huidige temperatuur van de oven is 25.7 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 30.07 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 35.18 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 41.16 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 48.16 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 56.35 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 65.92 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 77.13 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 90.24 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 105.59 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 123.54\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 144.54 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 169.11 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '22.0'
+      stdout: "De huidige temperatuur van de oven is 22.0 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 25.74 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 30.12 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 35.24 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 41.23 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 48.23 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 56.43 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 66.03 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 77.25 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 90.38 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 105.75\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 123.73 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 144.76 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 169.37 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
+  - testcases:
+    - stdin: '24.2'
+      stdout: "De huidige temperatuur van de oven is 24.2 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 28.31 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 33.13 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 38.76 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 45.35 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 53.06 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 62.08 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 72.63 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 84.98 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 99.42 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 116.33\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 136.1 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 159.24 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '24.7'
+      stdout: "De huidige temperatuur van de oven is 24.7 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 28.9 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 33.81 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 39.56 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 46.29 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 54.15 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 63.36 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 74.13 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 86.73 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 101.48 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 118.73\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 138.91 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 162.53 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '23.8'
+      stdout: "De huidige temperatuur van de oven is 23.8 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 27.85 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 32.58 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 38.12 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 44.6 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 52.18 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 61.05 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 71.43 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 83.57 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 97.78 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 114.4 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 133.85\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 156.61 graden.\nDe oven is voorverwarmd na 13 minuten.\n"
+  - testcases:
+    - stdin: '19.8'
+      stdout: "De huidige temperatuur van de oven is 19.8 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 23.17 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 27.1 graden.\nEr\
+        \ zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 31.71 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 37.1 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 43.41 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 50.79 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 59.42 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 69.53 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 81.35 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 95.18 graden.\n\
+        Er zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven is 111.35\
+        \ graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 130.29 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 152.43 graden.\nEr zijn 14 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 178.35 graden.\nDe oven is voorverwarmd na 15 minuten.\n"
+  - testcases:
+    - stdin: '22.3'
+      stdout: "De huidige temperatuur van de oven is 22.3 graden.\nEr is 1 minuut\
+        \ voorbij.\nDe huidige temperatuur van de oven is 26.09 graden.\nEr zijn 2\
+        \ minuten voorbij.\nDe huidige temperatuur van de oven is 30.53 graden.\n\
+        Er zijn 3 minuten voorbij.\nDe huidige temperatuur van de oven is 35.72 graden.\n\
+        Er zijn 4 minuten voorbij.\nDe huidige temperatuur van de oven is 41.79 graden.\n\
+        Er zijn 5 minuten voorbij.\nDe huidige temperatuur van de oven is 48.89 graden.\n\
+        Er zijn 6 minuten voorbij.\nDe huidige temperatuur van de oven is 57.2 graden.\n\
+        Er zijn 7 minuten voorbij.\nDe huidige temperatuur van de oven is 66.93 graden.\n\
+        Er zijn 8 minuten voorbij.\nDe huidige temperatuur van de oven is 78.31 graden.\n\
+        Er zijn 9 minuten voorbij.\nDe huidige temperatuur van de oven is 91.62 graden.\n\
+        Er zijn 10 minuten voorbij.\nDe huidige temperatuur van de oven is 107.19\
+        \ graden.\nEr zijn 11 minuten voorbij.\nDe huidige temperatuur van de oven\
+        \ is 125.41 graden.\nEr zijn 12 minuten voorbij.\nDe huidige temperatuur van\
+        \ de oven is 146.74 graden.\nEr zijn 13 minuten voorbij.\nDe huidige temperatuur\
+        \ van de oven is 171.68 graden.\nDe oven is voorverwarmd na 14 minuten.\n"
