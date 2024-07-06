@@ -28,5 +28,5 @@ Na 5 jaar sparen aan een interest van 2.0 % staat er 580.75 euro op de spaarreke
 
 {: .callout.callout-info}
 >#### Tip
-> Gebruik `random.randint()` om het wilelkeurige eerste bedrag aan te maken.
+> Gebruik `random.randint()` om het willekeurige eerste bedrag aan te maken.
 
