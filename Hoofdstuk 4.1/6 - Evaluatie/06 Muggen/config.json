@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Muggenplaag"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "python"
+  ],
+  "internals": {
+    "token": "NgrrrmUdCbaCVwuWFJYjmQvEJB5JdNDUsgnvc3MtEQxJTx497JPxmd2qgNe3P72A",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
