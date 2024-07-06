@@ -4,18 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Som der Kwadraten",
-      "en": "Sum of Squares"
+      "nl": "Datatarief"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "python"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "8SFUmyE8maENHbc_4hY6nQnGQw7DfABtqUqhBSaBZgGvF-YPWQqNmG_JAtCjYtAw",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
