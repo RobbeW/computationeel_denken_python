@@ -1,5 +1,5 @@
 ## Gegeven
-Voetballertraining is ook voor een groot stuk teamtraining. Naar elkaar passen is bijvoorbeeld zeer belangrijk, het is goede manier om de bal dichter bij het doel te krijgen en deze niet kwijt te spelen.
+Teamtraining is zeer belangrijk voor voetballers. In team trainen op het naar elkaar passen is een goede manier om de bal dichter bij het doel te krijgen en deze niet kwijt te spelen.
 
 ![Balbehendigheid trainen.](media/soccer.gif "Balbehendigheid trainen."){:data-caption="Balbehendigheid trainen." width="400px"}
 
