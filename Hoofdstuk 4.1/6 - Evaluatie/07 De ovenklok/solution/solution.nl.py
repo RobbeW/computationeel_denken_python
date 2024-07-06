@@ -5,7 +5,6 @@ doel_temperatuur = 180.0
 # Tijd teller
 tijd = 0
 
-print()
 while huidige_temperatuur < doel_temperatuur:
     # Print de huidige tijd en temperatuur
     if tijd == 1:
