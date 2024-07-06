@@ -1,9 +1,9 @@
 ## Gegeven
 Voetballertraining is ook voor een groot stuk teamtraining. Naar elkaar passen is bijvoorbeeld zeer belangrijk, het is goede manier om de bal dichter bij het doel te krijgen en deze niet kwijt te spelen.
 
-![Balbehendigheid trainen.](media/soccer.gif "Balbehendigheid trainen."){:data-caption="Balbehendigheid trainen." width="350px"}
+![Balbehendigheid trainen.](media/soccer.gif "Balbehendigheid trainen."){:data-caption="Balbehendigheid trainen." width="400px"}
 
-Carlos Alberto Parreira, de coach van het Zuid-Afrikaanse voetbalteam Bafana Bafana vraagt zijn spelers om elke training in een grote cirkel te staan. In deze cirkel voeren ze de volgende pasoefening uit, elke speler past de bal naar zijn buur aan de rechterkant. Gezien de spelers in een cirkel staan, kan de coach ze telkens een nummer geven. Speler 3 past dus naar speler 4, speler 4 naar speler 5, enz.. De laatste speler past terug naar speler 1 omdat ze in een grote cirke staan.
+Carlos Alberto Parreira, de coach van het Zuid-Afrikaanse voetbalteam Bafana Bafana vraagt zijn spelers om elke training in een grote cirkel te staan. In deze cirkel voeren ze de volgende pasoefening uit, elke speler past de bal naar zijn buur aan de rechterkant. Gezien de spelers in een cirkel staan, kan de coach ze telkens een nummer geven. Speler 3 past dus naar speler 4, speler 4 naar speler 5, enz.. De laatste speler past terug naar speler 1 omdat ze in een grote cirkel staan.
 
 Coach Parreira geeft de bal aan speler met nummer `K` en vraagt vervolgens om `P` passen uit te voeren. De speler die uiteindelijk de bal heeft, geeft deze vervolgens terug aan de coach.
 
