@@ -1,9 +1,10 @@
 # Gegevens vragen
 n = int( input( 'Geef het getal in: ' ) )
 
+print()
 # Berekening
 for i in range(n):
     if i == 0 or i == n-1:
-        print("*" + (n-2)*" "+"*")
+        print("x" + (n-2)*" "+"x")
     else:
-        print("*"+" "*(i-1)+"*"+" "*(n-2-i)+"*")
+        print("x"+" "*(i-1)+"x"+" "*(n-2-i)+"x")

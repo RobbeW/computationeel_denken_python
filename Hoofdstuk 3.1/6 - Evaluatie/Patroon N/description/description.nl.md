@@ -5,18 +5,18 @@ Schrijf een programma dat een natuurlijk getal vraagt en vervolgens een 'N' op h
 #### Voorbeelden
 Geeft de gebruiker `4` in, dan verschijnt er:
 ```
-*  *
-** *
-* **
-*  *
+x  x
+xx x
+x xx
+x  x
 ```
 
 Geeft de gebruiker `6` in, dan verschijnt er:
 ```
-*    *
-**   *
-* *  *
-*  * *
-*   **
-*    *
+x    x
+xx   x
+x x  x
+x  x x
+x   *x
+x    x
 ```
