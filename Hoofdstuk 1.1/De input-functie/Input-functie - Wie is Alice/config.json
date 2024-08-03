@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Input-functie - Wie is Alice?",
-      "en": "Input Function - Who is Alice?"
+      "nl": "Wie is Alice?",
+      "en": "Who is Alice?"
     }
   },
   "evaluation": {
