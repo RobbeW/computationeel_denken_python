@@ -41,7 +41,7 @@ Hallo, mijn naam is Voldemort
 >#### Tip
 >Een kommateken voegt **automatisch** een spatie toe binnen de `print()`-functie. We verduidelijken hieronder: 
 > ```python
-print('Hallo, mijn naam is ', naam)
+print("Hallo, mijn naam is ", naam)
   ```
 > Indien in de variabele `naam` dan `Robbe` opgeslagen werd, verschijnt er:
 > ```
