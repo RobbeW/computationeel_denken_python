@@ -41,10 +41,10 @@ Hallo, mijn naam is Voldemort
 >#### Tip
 >Een kommateken voegt **automatisch** een spatie toe binnen de `print()`-functie. We verduidelijken hieronder: 
 > ```python
-   print('Hallo, mijn naam is ', naam)
+print('Hallo, mijn naam is ', naam)
   ```
 > Indien in de variabele `naam` dan `Robbe` opgeslagen werd, verschijnt er:
 > ```
-  Hallo, mijn naam is  Robbe
+Hallo, mijn naam is  Robbe
   ```
 > Je merkt dat er een spatie **teveel** staat! Het **spatieteken** aan het einde van de eerste string, dus voor het sluiten van de aanhalingstekens, wordt hier gecombineerd met de **spatie** die ontstaat door het **kommateken**. 
