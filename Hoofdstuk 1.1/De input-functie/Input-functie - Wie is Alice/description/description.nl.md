@@ -9,7 +9,7 @@ In deze oefening leer je een
 
 * Vraag de gebruiker om zijn/haar/hun naam in te voeren. Gebruik hiervoor de `input()`-functie;
 * Sla de ingevoerde naam op in een variabele `naam`;
-* Geef de tekst `"Hallo, mijn naam is"` en de inhoud van de variabele `bericht` weer op het scherm.
+* Geef de tekst `"Hallo, mijn naam is"` en de inhoud van de variabele `naam` weer op het scherm.
 
 
 #### Voorbeeld 1
