@@ -1,30 +1,30 @@
-toets_1 = 
-toets_2 = 
-toets_3 = 
-37.5
-12.5
-62.5
+Geef je resultaat voor toets 1: 
+Geef je resultaat voor toets 2: 
+Geef je resultaat voor toets 3: 
+Totaal: 37.5
+Gemiddelde: 12.5
+Percentage: 62.5
 
-toets_1 = 
-toets_2 = 
-toets_3 = 
-27.0
-9.0
-45.0
+Geef je resultaat voor toets 1: 
+Geef je resultaat voor toets 2: 
+Geef je resultaat voor toets 3: 
+Totaal: 27.0
+Gemiddelde: 9.0
+Percentage: 45.0
 
-toets_1 = 
-toets_2 = 
-toets_3 = 
-1.5
-0.5
-2.5
+Geef je resultaat voor toets 1: 
+Geef je resultaat voor toets 2: 
+Geef je resultaat voor toets 3: 
+Totaal: 1.5
+Gemiddelde: 0.5
+Percentage: 2.5
 
-toets_1 = 
-toets_2 = 
-toets_3 = 
-30.0
-10.0
-50.0
+Geef je resultaat voor toets 1: 
+Geef je resultaat voor toets 2: 
+Geef je resultaat voor toets 3: 
+Totaal: 30.0
+Gemiddelde: 10.0
+Percentage: 50.0
 -----------------------------------------
 tab name: Feedback
 python input without prompt: false
