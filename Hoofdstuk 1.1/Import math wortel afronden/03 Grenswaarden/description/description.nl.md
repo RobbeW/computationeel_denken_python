@@ -1,9 +1,9 @@
 ## Gegeven
 
-Schrijf een programma dat voor een kommagetal $$x$$ het grootste **geheel** getal $$z$$ en kleinste **geheel** getal $$y$$ bepaalt zodat:
+Schrijf een programma dat voor een kommagetal $$\mathsf{x}$$ het grootste **geheel** getal $$\mathsf{z}$$ en kleinste **geheel** getal $$\mathsf{y}$$ bepaalt zodat:
 
 $$
-y \leqslant x < z
+\mathsf{y \leqslant x < z}
 $$
 
 ## Gevraagd
