@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "3.57\n6.21"
+      stdout: "Oppervlakte: 219.375 cm².\nVolume: 248.644 cm³.\n"
+  - testcases:
+    - stdin: "7.287\n10.633"
+      stdout: "Oppervlakte: 820.477 cm².\nVolume: 1773.794 cm³.\n"
+  - testcases:
+    - stdin: "2.519\n6.105"
+      stdout: "Oppervlakte: 136.495 cm².\nVolume: 121.7 cm³.\n"
+  - testcases:
+    - stdin: "6.179\n10.08"
+      stdout: "Oppervlakte: 631.236 cm².\nVolume: 1209.057 cm³.\n"
+  - testcases:
+    - stdin: "3.552\n4.873"
+      stdout: "Oppervlakte: 188.028 cm².\nVolume: 193.149 cm³.\n"
+  - testcases:
+    - stdin: "7.763\n13.079"
+      stdout: "Oppervlakte: 1016.597 cm².\nVolume: 2476.188 cm³.\n"
+  - testcases:
+    - stdin: "5.549\n8.542"
+      stdout: "Oppervlakte: 491.288 cm².\nVolume: 826.302 cm³.\n"
+  - testcases:
+    - stdin: "5.623\n6.141"
+      stdout: "Oppervlakte: 415.626 cm².\nVolume: 609.993 cm³.\n"
+  - testcases:
+    - stdin: "3.91\n8.196"
+      stdout: "Oppervlakte: 297.411 cm².\nVolume: 393.646 cm³.\n"
+  - testcases:
+    - stdin: "2.966\n12.986"
+      stdout: "Oppervlakte: 297.28 cm².\nVolume: 358.895 cm³.\n"
+  - testcases:
+    - stdin: "2.409\n9.533"
+      stdout: "Oppervlakte: 180.756 cm².\nVolume: 173.801 cm³.\n"
+  - testcases:
+    - stdin: "5.052\n13.554"
+      stdout: "Oppervlakte: 590.604 cm².\nVolume: 1086.786 cm³.\n"
+  - testcases:
+    - stdin: "5.958\n12.013"
+      stdout: "Oppervlakte: 672.748 cm².\nVolume: 1339.684 cm³.\n"
+  - testcases:
+    - stdin: "3.913\n5.748"
+      stdout: "Oppervlakte: 237.526 cm².\nVolume: 276.494 cm³.\n"
+  - testcases:
+    - stdin: "1.313\n4.82"
+      stdout: "Oppervlakte: 50.596 cm².\nVolume: 26.105 cm³.\n"
+  - testcases:
+    - stdin: "4.21\n12.583"
+      stdout: "Oppervlakte: 444.212 cm².\nVolume: 700.645 cm³.\n"
+  - testcases:
+    - stdin: "2.31\n6.437"
+      stdout: "Oppervlakte: 126.955 cm².\nVolume: 107.909 cm³.\n"
+  - testcases:
+    - stdin: "2.388\n7.796"
+      stdout: "Oppervlakte: 152.803 cm².\nVolume: 139.666 cm³.\n"
+  - testcases:
+    - stdin: "6.98\n10.825"
+      stdout: "Oppervlakte: 780.867 cm².\nVolume: 1656.871 cm³.\n"
+  - testcases:
+    - stdin: "6.464\n7.976"
+      stdout: "Oppervlakte: 586.474 cm².\nVolume: 1046.978 cm³.\n"

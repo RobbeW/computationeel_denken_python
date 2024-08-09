@@ -1,8 +1,8 @@
 import math
 
 # Invoer vragen aan de gebruiker
-r = float( input( 'Geef de straal in:' ) )
-h = float( input( 'Geef de hoogte in:' ) )
+r = float( input( 'Geef de straal in: ' ) )
+h = float( input( 'Geef de hoogte in: ' ) )
 
 # Berekeningen
 A = 2 * math.pi * r * h + 2 * math.pi * r**2

@@ -8,6 +8,7 @@ Schrijf een programma dat in **volgorde** de straal en de hoogte inleest en nadi
 
 #### Voorbeeld
 Indien `r = 3.57` en `h = 6.21` dan verschijnt er:
+
 ```
 Oppervlakte: 219.375 cm².
 Volume: 248.644 cm³.
