@@ -1,11 +1,12 @@
 {
   "description": {
     "names": {
-      "nl": "Sequentie Toetsvraag - Palindroom"
+      "nl": "Sequentie Toetsvraag - Palindroomgetal"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

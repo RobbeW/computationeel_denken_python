@@ -1,5 +1,5 @@
 # Invoer vragen aan de gebruiker
-getal = int( input( 'Geef een getal van 3 cijfers in:' ) )
+getal = int( input( 'Geef een getal van 3 cijfers in: ' ) )
 
 # Eeuw bepalen
 H = getal // 100
