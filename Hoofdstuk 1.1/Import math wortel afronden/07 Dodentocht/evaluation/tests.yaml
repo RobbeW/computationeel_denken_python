@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "30\n4.25"
+      stdout: "Je moet minstens 4.1 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "59.6\n4.9"
+      stdout: "Je moet minstens 3.4 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "32.6\n3.76"
+      stdout: "Je moet minstens 4.4 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "53.3\n4.76"
+      stdout: "Je moet minstens 3.6 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "70.1\n3.23"
+      stdout: "Je moet minstens 13.0 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "38.4\n3.45"
+      stdout: "Je moet minstens 4.8 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "66.2\n3.07"
+      stdout: "Je moet minstens 13.9 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "72.8\n4.48"
+      stdout: "Je moet minstens 3.5 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "62.3\n5.52"
+      stdout: "Je moet minstens 3.0 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "59.7\n3.67"
+      stdout: "Je moet minstens 5.2 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "49.8\n4.37"
+      stdout: "Je moet minstens 4.0 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "50.2\n3.77"
+      stdout: "Je moet minstens 4.7 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "40.5\n4.28"
+      stdout: "Je moet minstens 4.1 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "35.1\n5.49"
+      stdout: "Je moet minstens 3.7 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "74.1\n4.15"
+      stdout: "Je moet minstens 4.2 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "59.5\n3.38"
+      stdout: "Je moet minstens 6.3 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "32.0\n4.62"
+      stdout: "Je moet minstens 4.0 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "46.9\n5.64"
+      stdout: "Je moet minstens 3.4 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "52.1\n5.25"
+      stdout: "Je moet minstens 3.4 km/u blijven wandelen.\n"
+  - testcases:
+    - stdin: "40.5\n3.67"
+      stdout: "Je moet minstens 4.6 km/u blijven wandelen.\n"
