@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "3\n20"
+      stdout: "U komt 6 dag(en) toe.\nU heeft 2 pil(len) over.\n"
+  - testcases:
+    - stdin: "2\n42"
+      stdout: "U komt 21 dag(en) toe.\nU heeft 0 pil(len) over.\n"
+  - testcases:
+    - stdin: "10\n24"
+      stdout: "U komt 2 dag(en) toe.\nU heeft 4 pil(len) over.\n"
+  - testcases:
+    - stdin: "5\n43"
+      stdout: "U komt 8 dag(en) toe.\nU heeft 3 pil(len) over.\n"
+  - testcases:
+    - stdin: "9\n46"
+      stdout: "U komt 5 dag(en) toe.\nU heeft 1 pil(len) over.\n"
+  - testcases:
+    - stdin: "9\n13"
+      stdout: "U komt 1 dag(en) toe.\nU heeft 4 pil(len) over.\n"
+  - testcases:
+    - stdin: "6\n13"
+      stdout: "U komt 2 dag(en) toe.\nU heeft 1 pil(len) over.\n"
+  - testcases:
+    - stdin: "3\n25"
+      stdout: "U komt 8 dag(en) toe.\nU heeft 1 pil(len) over.\n"
+  - testcases:
+    - stdin: "1\n32"
+      stdout: "U komt 32 dag(en) toe.\nU heeft 0 pil(len) over.\n"
+  - testcases:
+    - stdin: "1\n50"
+      stdout: "U komt 50 dag(en) toe.\nU heeft 0 pil(len) over.\n"
+  - testcases:
+    - stdin: "6\n20"
+      stdout: "U komt 3 dag(en) toe.\nU heeft 2 pil(len) over.\n"
+  - testcases:
+    - stdin: "8\n42"
+      stdout: "U komt 5 dag(en) toe.\nU heeft 2 pil(len) over.\n"
+  - testcases:
+    - stdin: "1\n30"
+      stdout: "U komt 30 dag(en) toe.\nU heeft 0 pil(len) over.\n"
+  - testcases:
+    - stdin: "4\n39"
+      stdout: "U komt 9 dag(en) toe.\nU heeft 3 pil(len) over.\n"
+  - testcases:
+    - stdin: "3\n19"
+      stdout: "U komt 6 dag(en) toe.\nU heeft 1 pil(len) over.\n"
+  - testcases:
+    - stdin: "2\n25"
+      stdout: "U komt 12 dag(en) toe.\nU heeft 1 pil(len) over.\n"
+  - testcases:
+    - stdin: "1\n28"
+      stdout: "U komt 28 dag(en) toe.\nU heeft 0 pil(len) over.\n"
+  - testcases:
+    - stdin: "5\n40"
+      stdout: "U komt 8 dag(en) toe.\nU heeft 0 pil(len) over.\n"
+  - testcases:
+    - stdin: "5\n29"
+      stdout: "U komt 5 dag(en) toe.\nU heeft 4 pil(len) over.\n"
+  - testcases:
+    - stdin: "3\n48"
+      stdout: "U komt 16 dag(en) toe.\nU heeft 0 pil(len) over.\n"

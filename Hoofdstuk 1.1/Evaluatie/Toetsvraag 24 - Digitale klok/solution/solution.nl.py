@@ -1,5 +1,5 @@
 # Invoer van een aantal seconden
-sec = int( input( 'Geef het aantal seconden in:' ) )
+sec = int( input( 'Geef het aantal seconden in: ' ) )
 
 # Berekeningen
 uren = sec // ( 60 * 60 )
