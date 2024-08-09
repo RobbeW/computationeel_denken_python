@@ -34,7 +34,7 @@ Verloren eenheden verdediging: 1
 
 #### Voorbeeld 2
 
-Stelt dat de **aanvaller** de volgende dobbelstenen gooit:
+Stel dat de **aanvaller** de volgende dobbelstenen gooit:
 
 <span class="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
  
