@@ -1,20 +1,21 @@
 {
   "type": "exercise",
   "programming_language": "python",
-  "evaluation": {
-    "pythia_judge": "output"
-  },
+  "access": "public",
   "description": {
     "names": {
-      "nl": "Afronden tot X Cijfers - Fahrenheit"
+      "nl": "Afronden tot X Cijfers - Middencirkel"
     }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
 
   ],
-  "access": "public",
   "internals": {
-    "token": "Y_83AMbzM7UIFuvmV98zzwJa2vTkU9W3Ab6gVBSDxqBECaCKEyGZp452xNI3rIw8",
+    "token": "qcZSVDHRyEG3CKAQQE2sx8hq7ZYTCpsHe99s_vZeeZjcKbVXzz_yz5DR9IE6C4nY",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

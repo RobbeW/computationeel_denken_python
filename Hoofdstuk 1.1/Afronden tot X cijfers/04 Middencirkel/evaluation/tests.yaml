@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '9.15'
+      stdout: "De omtrek bedraagt: 57.49 m.\nDe oppervlakte bedraagt: 263.01 m².\n"
+  - testcases:
+    - stdin: '11.16'
+      stdout: "De omtrek bedraagt: 70.12 m.\nDe oppervlakte bedraagt: 391.26 m².\n"
+  - testcases:
+    - stdin: '10.9'
+      stdout: "De omtrek bedraagt: 68.48 m.\nDe oppervlakte bedraagt: 373.24 m².\n"
+  - testcases:
+    - stdin: '9.69'
+      stdout: "De omtrek bedraagt: 60.88 m.\nDe oppervlakte bedraagt: 294.97 m².\n"
+  - testcases:
+    - stdin: '9.76'
+      stdout: "De omtrek bedraagt: 61.32 m.\nDe oppervlakte bedraagt: 299.25 m².\n"
+  - testcases:
+    - stdin: '10.82'
+      stdout: "De omtrek bedraagt: 67.98 m.\nDe oppervlakte bedraagt: 367.78 m².\n"
+  - testcases:
+    - stdin: '10.76'
+      stdout: "De omtrek bedraagt: 67.61 m.\nDe oppervlakte bedraagt: 363.72 m².\n"
+  - testcases:
+    - stdin: '11.73'
+      stdout: "De omtrek bedraagt: 73.7 m.\nDe oppervlakte bedraagt: 432.25 m².\n"
+  - testcases:
+    - stdin: '9.23'
+      stdout: "De omtrek bedraagt: 57.99 m.\nDe oppervlakte bedraagt: 267.63 m².\n"
+  - testcases:
+    - stdin: '10.01'
+      stdout: "De omtrek bedraagt: 62.89 m.\nDe oppervlakte bedraagt: 314.78 m².\n"
+  - testcases:
+    - stdin: '9.45'
+      stdout: "De omtrek bedraagt: 59.37 m.\nDe oppervlakte bedraagt: 280.54 m².\n"
+  - testcases:
+    - stdin: '11.52'
+      stdout: "De omtrek bedraagt: 72.38 m.\nDe oppervlakte bedraagt: 416.91 m².\n"
+  - testcases:
+    - stdin: '9.07'
+      stdout: "De omtrek bedraagt: 56.99 m.\nDe oppervlakte bedraagt: 258.44 m².\n"
+  - testcases:
+    - stdin: '11.88'
+      stdout: "De omtrek bedraagt: 74.64 m.\nDe oppervlakte bedraagt: 443.37 m².\n"
+  - testcases:
+    - stdin: '10.48'
+      stdout: "De omtrek bedraagt: 65.85 m.\nDe oppervlakte bedraagt: 345.03 m².\n"
+  - testcases:
+    - stdin: '11.31'
+      stdout: "De omtrek bedraagt: 71.06 m.\nDe oppervlakte bedraagt: 401.85 m².\n"
+  - testcases:
+    - stdin: '11.52'
+      stdout: "De omtrek bedraagt: 72.38 m.\nDe oppervlakte bedraagt: 416.91 m².\n"
+  - testcases:
+    - stdin: '11.16'
+      stdout: "De omtrek bedraagt: 70.12 m.\nDe oppervlakte bedraagt: 391.26 m².\n"
+  - testcases:
+    - stdin: '9.67'
+      stdout: "De omtrek bedraagt: 60.76 m.\nDe oppervlakte bedraagt: 293.76 m².\n"
+  - testcases:
+    - stdin: '10.62'
+      stdout: "De omtrek bedraagt: 66.73 m.\nDe oppervlakte bedraagt: 354.31 m².\n"

@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "description": {
+    "names": {
+      "nl": "Afronden tot X Cijfers - Fahrenheit"
+    }
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "Y_83AMbzM7UIFuvmV98zzwJa2vTkU9W3Ab6gVBSDxqBECaCKEyGZp452xNI3rIw8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
