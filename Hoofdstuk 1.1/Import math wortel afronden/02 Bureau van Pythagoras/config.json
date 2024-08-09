@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Bureau van Pythagoras",
-      "en": "Import Math, Pi and Square Roots - Pythagoras Desk"
+      "nl": "Import Math, Pi en Wortels - Bureau van Pythagoras"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "Python",

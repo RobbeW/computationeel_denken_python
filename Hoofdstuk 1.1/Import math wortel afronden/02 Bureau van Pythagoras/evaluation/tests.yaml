@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "137.11\n66.78"
+      stdout: "De lengte van de schuine zijde [c] is 152.51 cm.\n"
+  - testcases:
+    - stdin: "122.03\n113.3"
+      stdout: "De lengte van de schuine zijde [c] is 166.52 cm.\n"
+  - testcases:
+    - stdin: "72.88\n75.25"
+      stdout: "De lengte van de schuine zijde [c] is 104.76 cm.\n"
+  - testcases:
+    - stdin: "110.61\n108.65"
+      stdout: "De lengte van de schuine zijde [c] is 155.05 cm.\n"
+  - testcases:
+    - stdin: "141.1\n57.72"
+      stdout: "De lengte van de schuine zijde [c] is 152.45 cm.\n"
+  - testcases:
+    - stdin: "83.53\n64.9"
+      stdout: "De lengte van de schuine zijde [c] is 105.78 cm.\n"
+  - testcases:
+    - stdin: "134.05\n52.35"
+      stdout: "De lengte van de schuine zijde [c] is 143.91 cm.\n"
+  - testcases:
+    - stdin: "146.05\n99.46"
+      stdout: "De lengte van de schuine zijde [c] is 176.7 cm.\n"
+  - testcases:
+    - stdin: "126.94\n133.86"
+      stdout: "De lengte van de schuine zijde [c] is 184.48 cm.\n"
+  - testcases:
+    - stdin: "122.1\n72.5"
+      stdout: "De lengte van de schuine zijde [c] is 142.0 cm.\n"
+  - testcases:
+    - stdin: "104.11\n95.73"
+      stdout: "De lengte van de schuine zijde [c] is 141.43 cm.\n"
+  - testcases:
+    - stdin: "104.88\n75.55"
+      stdout: "De lengte van de schuine zijde [c] is 129.26 cm.\n"
+  - testcases:
+    - stdin: "87.22\n92.83"
+      stdout: "De lengte van de schuine zijde [c] is 127.38 cm.\n"
+  - testcases:
+    - stdin: "77.48\n133.07"
+      stdout: "De lengte van de schuine zijde [c] is 153.98 cm.\n"
+  - testcases:
+    - stdin: "148.42\n88.22"
+      stdout: "De lengte van de schuine zijde [c] is 172.66 cm.\n"
+  - testcases:
+    - stdin: "121.75\n62.58"
+      stdout: "De lengte van de schuine zijde [c] is 136.89 cm.\n"
+  - testcases:
+    - stdin: "71.74\n104.06"
+      stdout: "De lengte van de schuine zijde [c] is 126.39 cm.\n"
+  - testcases:
+    - stdin: "98.99\n137.85"
+      stdout: "De lengte van de schuine zijde [c] is 169.71 cm.\n"
+  - testcases:
+    - stdin: "108.33\n124.9"
+      stdout: "De lengte van de schuine zijde [c] is 165.33 cm.\n"
+  - testcases:
+    - stdin: "87.24\n72.25"
+      stdout: "De lengte van de schuine zijde [c] is 113.27 cm.\n"

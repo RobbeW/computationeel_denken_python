@@ -1,8 +1,8 @@
 import math
 
 # Vraag de gebruiker naar de lengtes van de zijden
-zijde_a = float(input("De lengte van zijde [a] is: "))
-zijde_b = float(input("De lengte van zijde [b] is: "))
+zijde_a = float(input("Geef de lengte van zijde [a] in: "))
+zijde_b = float(input("Geef de lengte van zijde [b] in: "))
 
 # Gebruik de stelling van Pythagoras om de lengte van de schuine zijde te berekenen
 zijde_c = math.sqrt(zijde_a ** 2 + zijde_b ** 2)

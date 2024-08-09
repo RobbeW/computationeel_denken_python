@@ -6,11 +6,11 @@ Gelukkig kan dit eenvoudig met behulp van **de stelling van Pythagoras**:
 >#### Stelling van Pythagoras
 > In een rechthoekige driehoek is de som van de kwadraten van de rechthoekszijden gelijk aan het kwadraat van de schuine zijde.
 
-Hieronder zie je een figuur die stelling beter illustreert, er geldt in deze figuur dus $$a^2+b^2 = c^2$$.
+Hieronder zie je een figuur die stelling beter illustreert, er geldt in deze figuur dus $$\mathsf{a^2+b^2 = c^2}$$.
 
-![De stelling van Pythagoras.](media/pythagoras.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .light-only width="30%"}
+![De stelling van Pythagoras.](media/image.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .light-only width="30%"}
 
-![De stelling van Pythagoras.](media/pythagoras_dark.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .dark-only width="30%"}
+![De stelling van Pythagoras.](media/image_dark.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .dark-only width="30%"}
 
 
 ## Gevraagd
@@ -23,17 +23,12 @@ De lengte van de schuine zijde is ... cm.
 
 **Rond** hierbij **af** op 2 cijfers na de komma.
 
-## Invoer
-Mogelijk invoer kan zijn:
+#### Voorbeeld
+
+Voor een driehoek met rechthoekszijden `137.11` en `66.78` cm verschijnt er:
 
 ```
-De lengte van zijde [a] is: 137.11
-De lengte van zijde [b] is: 66.78
-```
-
-## Uitvoer
-```
-De lengte van de schuine zijde [c] is ... cm.
+De lengte van de schuine zijde [c] is 152.51 cm.
 ```
 
 {: .callout.callout-info}
