@@ -1,10 +1,14 @@
 import os
+import importlib.util
 import random
+import ruamel.yaml
 import subprocess
-from typing import Text
+from math import ceil, floor
+
+yaml = ruamel.yaml.YAML()
 
 # set fixed seed for generating test cases
-random.seed(123456789)
+random.seed(12345678)
 
 # locate evaldir
 evaldir = os.path.join('..', 'evaluation')
@@ -16,16 +20,17 @@ solutiondir = os.path.join('..', 'solution')
 if not os.path.exists(solutiondir):
     os.makedirs(solutiondir)
 
-# configuration settings
-tab_name = 'Feedback'
-settings = f'''
-tab name: {tab_name}
-python input without prompt: false
-block count: multi
-input block size: 4
-output block size: ends with
-comparison: exact match
-'''
+def write_yaml( data:list ):
+    """ A function to write YAML file"""
+    with open(os.path.join('..', 'evaluation', 'tests.yaml'), 'w', encoding='utf-8') as f:
+        yaml.dump(data, f)
+
+
+module_name = 'solution'
+file_path = os.path.join(solutiondir, 'solution.nl.py')
+spec = importlib.util.spec_from_file_location(module_name, file_path)
+module = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(module)
 
 # generate test data
 cases = [ ("A", 4, 297, 210),
@@ -41,18 +46,23 @@ cases = [ ("A", 4, 297, 210),
           ("C", 1, 917, 648),
           ("C", 2, 648, 458),
           ("C", 3, 458, 324)]
+# generate unit tests for functions
+yamldata = []
 
+# input, expression, statement or stdin?
+input = 'stdin'
+# output, stdout or return?
+output = 'stdout'
+tabtitle = "Feedback"
 
-# configure test files
-infile = open(os.path.join(evaldir, '0.in'), 'w')
-outfile = open(os.path.join(evaldir, '0.out'), 'w')
+yamldata.append( {'tab': tabtitle, 'contexts': []})
 
-# generate unit tests
-for stdin in cases:
-
+for i in range(len(cases)):
+    test = cases[i]
+    yamldata[0]['contexts'].append( {'testcases' : []})
+    # generate test expression
     # add input to input file
-    stdin = '\n'.join(f'{line}' for line in stdin)
-    print(stdin, file=infile)
+    stdin = '\n'.join(f'{line}' for line in test)
 
     # generate output to output file
     script = os.path.join(solutiondir, 'solution.nl.py')
@@ -62,15 +72,18 @@ for stdin in cases:
         encoding='utf-8',
         capture_output=True
     )
-        
+    
     result_lines = process.stdout.split("\n")
+    result_lines = [x for x in result_lines[:-1]] ## drop last element
+    
+    outputtxt = ""
     for line in result_lines:
-        if not(line.startswith( 'Geef' )):
+        if not(line.startswith( 'Geef' ) or line.startswith( 'Voer' )):
             print(line)
-            print(line, file=outfile)
+            outputtxt += line + "\n"
+            
+    testcase = { input: stdin, output: outputtxt }            
+    yamldata[0]['contexts'][i]["testcases"].append( testcase)
 
-    # add stdout to output file
-    # print(process.stdout, file=outfile, end='')
 
-# add settings to output file
-print('-' * 41 + settings, file=outfile, end='')
+write_yaml(yamldata)

@@ -1,0 +1,41 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "A\n4\n297\n210"
+      stdout: "Een A4 blad heeft als afmetingen 210 mm x 297 mm.\n"
+  - testcases:
+    - stdin: "A\n3\n420\n297"
+      stdout: "Een A3 blad heeft als afmetingen 297 mm x 420 mm.\n"
+  - testcases:
+    - stdin: "A\n2\n594\n420"
+      stdout: "Een A2 blad heeft als afmetingen 420 mm x 594 mm.\n"
+  - testcases:
+    - stdin: "A\n1\n841\n594"
+      stdout: "Een A1 blad heeft als afmetingen 594 mm x 841 mm.\n"
+  - testcases:
+    - stdin: "A\n0\n1189\n841"
+      stdout: "Een A0 blad heeft als afmetingen 841 mm x 1189 mm.\n"
+  - testcases:
+    - stdin: "B\n0\n1414\n1000"
+      stdout: "Een B0 blad heeft als afmetingen 1000 mm x 1414 mm.\n"
+  - testcases:
+    - stdin: "B\n1\n1000\n707"
+      stdout: "Een B1 blad heeft als afmetingen 707 mm x 1000 mm.\n"
+  - testcases:
+    - stdin: "B\n2\n1000\n500"
+      stdout: "Een B2 blad heeft als afmetingen 500 mm x 1000 mm.\n"
+  - testcases:
+    - stdin: "B\n3\n500\n353"
+      stdout: "Een B3 blad heeft als afmetingen 353 mm x 500 mm.\n"
+  - testcases:
+    - stdin: "C\n0\n1297\n917"
+      stdout: "Een C0 blad heeft als afmetingen 917 mm x 1297 mm.\n"
+  - testcases:
+    - stdin: "C\n1\n917\n648"
+      stdout: "Een C1 blad heeft als afmetingen 648 mm x 917 mm.\n"
+  - testcases:
+    - stdin: "C\n2\n648\n458"
+      stdout: "Een C2 blad heeft als afmetingen 458 mm x 648 mm.\n"
+  - testcases:
+    - stdin: "C\n3\n458\n324"
+      stdout: "Een C3 blad heeft als afmetingen 324 mm x 458 mm.\n"
