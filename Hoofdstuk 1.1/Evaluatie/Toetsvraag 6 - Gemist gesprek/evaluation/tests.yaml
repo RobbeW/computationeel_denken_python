@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "32\n474 45 14 51\n17\n24"
+      stdout: "Je werd om 17:24 gebeld door +32474 45 14 51.\n"
+  - testcases:
+    - stdin: "31\n474 42 87 75\n19\n56"
+      stdout: "Je werd om 19:56 gebeld door +31474 42 87 75.\n"
+  - testcases:
+    - stdin: "352\n472 52 25 29\n12\n11"
+      stdout: "Je werd om 12:11 gebeld door +352472 52 25 29.\n"
+  - testcases:
+    - stdin: "49\n471 57 38 71\n18\n12"
+      stdout: "Je werd om 18:12 gebeld door +49471 57 38 71.\n"
+  - testcases:
+    - stdin: "49\n474 80 26 42\n3\n33"
+      stdout: "Je werd om 3:33 gebeld door +49474 80 26 42.\n"
+  - testcases:
+    - stdin: "31\n477 45 81 91\n10\n34"
+      stdout: "Je werd om 10:34 gebeld door +31477 45 81 91.\n"
+  - testcases:
+    - stdin: "32\n471 26 41 37\n18\n35"
+      stdout: "Je werd om 18:35 gebeld door +32471 26 41 37.\n"
+  - testcases:
+    - stdin: "49\n473 76 84 68\n2\n33"
+      stdout: "Je werd om 2:33 gebeld door +49473 76 84 68.\n"
+  - testcases:
+    - stdin: "352\n474 28 23 66\n5\n35"
+      stdout: "Je werd om 5:35 gebeld door +352474 28 23 66.\n"
+  - testcases:
+    - stdin: "32\n474 76 45 94\n7\n14"
+      stdout: "Je werd om 7:14 gebeld door +32474 76 45 94.\n"
+  - testcases:
+    - stdin: "49\n474 89 69 98\n2\n51"
+      stdout: "Je werd om 2:51 gebeld door +49474 89 69 98.\n"
+  - testcases:
+    - stdin: "33\n477 62 42 57\n20\n54"
+      stdout: "Je werd om 20:54 gebeld door +33477 62 42 57.\n"
+  - testcases:
+    - stdin: "33\n475 35 50 64\n4\n44"
+      stdout: "Je werd om 4:44 gebeld door +33475 35 50 64.\n"
+  - testcases:
+    - stdin: "33\n472 93 34 92\n16\n59"
+      stdout: "Je werd om 16:59 gebeld door +33472 93 34 92.\n"
+  - testcases:
+    - stdin: "31\n476 41 46 76\n20\n35"
+      stdout: "Je werd om 20:35 gebeld door +31476 41 46 76.\n"
+  - testcases:
+    - stdin: "31\n474 45 38 99\n22\n10"
+      stdout: "Je werd om 22:10 gebeld door +31474 45 38 99.\n"
+  - testcases:
+    - stdin: "352\n478 52 60 52\n6\n41"
+      stdout: "Je werd om 6:41 gebeld door +352478 52 60 52.\n"
+  - testcases:
+    - stdin: "31\n478 40 28 35\n5\n16"
+      stdout: "Je werd om 5:16 gebeld door +31478 40 28 35.\n"
+  - testcases:
+    - stdin: "32\n473 67 46 93\n6\n52"
+      stdout: "Je werd om 6:52 gebeld door +32473 67 46 93.\n"
+  - testcases:
+    - stdin: "32\n473 61 67 62\n8\n40"
+      stdout: "Je werd om 8:40 gebeld door +32473 61 67 62.\n"
