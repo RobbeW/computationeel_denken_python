@@ -7,21 +7,17 @@ Om deze berekening zo accuraat al mogelijk te maken, gebruiken we `PI`. Voor dez
 
 ## Gevraagd
 
-* Schrijf een programma dat de gebruiker `vraagt` naar de `straal` van de cirkel;
+* Schrijf een programma dat de gebruiker vraagt naar de `straal` van de cirkel;
 * Bereken de `omtrek` van de cirkel. Bereken vervolgens de `oppervlakte` van de cirkel;
-* `Print` de omtrek en de oppervlakte naar het scherm;
-* `Rond af` tot twee cijfers na de komma.
+* Geef de omtrek en de oppervlakte weer op het scherm en **rond af** op 2 decimalen.
 
-## Invoer
-```
-Voer de straal in: 9.15
-```
+#### Voorbeeld
 
-## Uitvoer
-**Print** de uitkomsten op het scherm in de vorm: 
+Als de straal `9.15` m bedraagt, dan verschijnt er:
+
 ```
-De omtrek bedraagt: ... m.
-De oppervlakte bedraagt: ... m².
+De omtrek bedraagt: 57.49 m.
+De oppervlakte bedraagt: 263.01 m².
 ```
 
 
