@@ -3,16 +3,16 @@ Een parallellepipedum (probeer dat maar eens driemaal na elkaar uit te spreken) 
 
 In onderstaande figuur vormt het grondvlak een vierkant en krijg je drie afmetingen: a, b en c.
 
-![Een parallellepipedum.](media/image.png "Een parallellepipedum."){:data-caption="Een parallellepipedum." .light-only width="25%"}
+![Een parallellepipedum.](media/image.png "Een parallellepipedum."){:data-caption="Een parallellepipedum." .light-only width="45%"}
 
-![Een parallellepipedum.](media/image_dark.png "Een parallellepipedum."){:data-caption="Een parallellepipedum." .dark-only width="25%"}
+![Een parallellepipedum.](media/image_dark.png "Een parallellepipedum."){:data-caption="Een parallellepipedum." .dark-only width="45%"}
 
 
 ## Gevraagd
-* Schrijf een programma dat `vraagt` naar de lengte van a, b en c; 
-* Bereken de **oppervlakte van het voorvlak** (het blauwe vlak), `rond af` naar twee decimalen en `print` dit naar het scherm; 
-* Bereken de **omtrek van het voorvlak**, `rond af` naar twee decimalen en `print` dit naar het scherm; 
-* Bereken het **volume van de volledige figuur**, `rond af` naar twee decimalen en `print` dit naar het scherm.
+* Schrijf een programma dat vraagt naar de lengte van a, b en c; 
+* Bereken de **oppervlakte van het voorvlak** (het blauwe vlak), **rond af** naar twee decimalen en print dit naar het scherm; 
+* Bereken de **omtrek van het voorvlak**, **rond af** naar twee decimalen en print dit naar het scherm; 
+* Bereken het **volume van de volledige figuur**, **rond af** naar twee decimalen en print dit naar het scherm.
 
 
 #### Voorbeeld
