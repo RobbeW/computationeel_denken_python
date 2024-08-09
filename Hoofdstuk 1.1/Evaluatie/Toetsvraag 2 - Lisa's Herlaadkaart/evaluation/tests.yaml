@@ -1,0 +1,102 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '2.9'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 14 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 29 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 19 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '3.88'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 19 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 38 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 25 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '3.53'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 17 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 35 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 23 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '1.92'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 9 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 19 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 12 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '2.01'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 10 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 20 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 13 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '3.42'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 17 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 34 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 22 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '3.35'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 16 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 33 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 22 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '4.64'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 23 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 46 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 30 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '1.31'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 6 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 13 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 8 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '2.34'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 11 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 23 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 15 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '1.6'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 8 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 16 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 10 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '4.36'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 21 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 43 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 29 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '1.09'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 5 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 10 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 7 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '4.84'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 24 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 48 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 32 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '2.98'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 14 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 29 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 19 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '4.08'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 20 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 40 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 27 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '4.35'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 21 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 43 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 29 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '3.88'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 19 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 38 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 25 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '1.9'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 9 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 19 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 12 MB internet gebruiken.\n"
+  - testcases:
+    - stdin: '3.16'
+      stdout: "Met het overgebleven bedrag kan Lisa nog 15 minuten bellen.\nMet het
+        overgebleven bedrag kan Lisa nog 31 sms'en versturen.\nMet het overgebleven
+        bedrag kan Lisa nog 21 MB internet gebruiken.\n"

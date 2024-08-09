@@ -38,8 +38,6 @@ Met het overgebleven bedrag kan Lisa nog 35 sms'en versturen.
 Met het overgebleven bedrag kan Lisa nog 23 MB internet gebruiken.
 ``` 
 
-
-
 {: .callout.callout-info}
 >#### Tips
 > - Na het berekenen van de resterende waarden **rond** je best eerst **af** op 2 cijfers.

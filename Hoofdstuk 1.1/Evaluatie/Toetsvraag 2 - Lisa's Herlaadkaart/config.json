@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Sequentie Toetsvraag - Lisa's Herlaadkaart",
-      "en": "Sequence Test Exercise - Lisa's Prepaid Card"
+      "nl": "Sequentie Toetsvraag - Lisa's herlaadkaart"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
