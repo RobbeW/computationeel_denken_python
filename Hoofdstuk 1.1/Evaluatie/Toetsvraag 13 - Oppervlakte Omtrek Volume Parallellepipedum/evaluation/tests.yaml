@@ -3,100 +3,100 @@
   - testcases:
     - stdin: "6.8\n10.8\n2.54"
       stdout: "De oppervlakte van het voorvlak bedraagt 100.87 cm².\nDe omtrek van
-        het voorvlak bedraagt 40.87 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 40.87 cm.\nHet volume van het parallellepipedum bedraagt
         942.14 cm³.\n"
   - testcases:
     - stdin: "8.0\n5.8\n2.6"
       stdout: "De oppervlakte van het voorvlak bedraagt 61.48 cm².\nDe omtrek van
-        het voorvlak bedraagt 33.91 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 33.91 cm.\nHet volume van het parallellepipedum bedraagt
         651.69 cm³.\n"
   - testcases:
     - stdin: "4.8\n5.6\n3.2"
       stdout: "De oppervlakte van het voorvlak bedraagt 44.8 cm².\nDe omtrek van het
-        voorvlak bedraagt 28.9 cm.\nHet volume van de parallellepipedum bedraagt 358.4
-        cm³.\n"
+        voorvlak bedraagt 28.9 cm.\nHet volume van het parallellepipedum bedraagt
+        358.4 cm³.\n"
   - testcases:
     - stdin: "9.4\n2.5\n3.8"
       stdout: "De oppervlakte van het voorvlak bedraagt 33.0 cm².\nDe omtrek van het
-        voorvlak bedraagt 35.5 cm.\nHet volume van de parallellepipedum bedraagt 435.6
-        cm³.\n"
+        voorvlak bedraagt 35.5 cm.\nHet volume van het parallellepipedum bedraagt
+        435.6 cm³.\n"
   - testcases:
     - stdin: "4.0\n7.0\n1.1"
       stdout: "De oppervlakte van het voorvlak bedraagt 35.7 cm².\nDe omtrek van het
-        voorvlak bedraagt 24.37 cm.\nHet volume van de parallellepipedum bedraagt
+        voorvlak bedraagt 24.37 cm.\nHet volume van het parallellepipedum bedraagt
         182.07 cm³.\n"
   - testcases:
     - stdin: "9.7\n5.0\n7.7"
       stdout: "De oppervlakte van het voorvlak bedraagt 87.0 cm².\nDe omtrek van het
-        voorvlak bedraagt 53.16 cm.\nHet volume van de parallellepipedum bedraagt
+        voorvlak bedraagt 53.16 cm.\nHet volume van het parallellepipedum bedraagt
         1513.8 cm³.\n"
   - testcases:
     - stdin: "8.9\n6.3\n2.8"
       stdout: "De oppervlakte van het voorvlak bedraagt 73.71 cm².\nDe omtrek van
-        het voorvlak bedraagt 37.19 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 37.19 cm.\nHet volume van het parallellepipedum bedraagt
         862.41 cm³.\n"
   - testcases:
     - stdin: "6.8\n4.7\n4.2"
       stdout: "De oppervlakte van het voorvlak bedraagt 51.7 cm².\nDe omtrek van het
-        voorvlak bedraagt 34.61 cm.\nHet volume van de parallellepipedum bedraagt
+        voorvlak bedraagt 34.61 cm.\nHet volume van het parallellepipedum bedraagt
         568.7 cm³.\n"
   - testcases:
     - stdin: "4.8\n4.2\n2.6"
       stdout: "De oppervlakte van het voorvlak bedraagt 31.08 cm².\nDe omtrek van
-        het voorvlak bedraagt 24.68 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 24.68 cm.\nHet volume van het parallellepipedum bedraagt
         229.99 cm³.\n"
   - testcases:
     - stdin: "4.9\n7.0\n4.8"
       stdout: "De oppervlakte van het voorvlak bedraagt 67.9 cm².\nDe omtrek van het
-        voorvlak bedraagt 36.38 cm.\nHet volume van de parallellepipedum bedraagt
+        voorvlak bedraagt 36.38 cm.\nHet volume van het parallellepipedum bedraagt
         658.63 cm³.\n"
   - testcases:
     - stdin: "5.7\n6.3\n1.6"
       stdout: "De oppervlakte van het voorvlak bedraagt 45.99 cm².\nDe omtrek van
-        het voorvlak bedraagt 27.6 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 27.6 cm.\nHet volume van het parallellepipedum bedraagt
         335.73 cm³.\n"
   - testcases:
     - stdin: "4.5\n5.2\n2.7"
       stdout: "De oppervlakte van het voorvlak bedraagt 37.44 cm².\nDe omtrek van
-        het voorvlak bedraagt 26.12 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 26.12 cm.\nHet volume van het parallellepipedum bedraagt
         269.57 cm³.\n"
   - testcases:
     - stdin: "9.1\n5.5\n7.1"
       stdout: "De oppervlakte van het voorvlak bedraagt 89.1 cm².\nDe omtrek van het
-        voorvlak bedraagt 50.36 cm.\nHet volume van de parallellepipedum bedraagt
+        voorvlak bedraagt 50.36 cm.\nHet volume van het parallellepipedum bedraagt
         1443.42 cm³.\n"
   - testcases:
     - stdin: "5.6\n3.3\n1.5"
       stdout: "De oppervlakte van het voorvlak bedraagt 23.43 cm².\nDe omtrek van
-        het voorvlak bedraagt 21.45 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 21.45 cm.\nHet volume van het parallellepipedum bedraagt
         166.35 cm³.\n"
   - testcases:
     - stdin: "4.0\n4.4\n3.4"
       stdout: "De oppervlakte van het voorvlak bedraagt 32.56 cm².\nDe omtrek van
-        het voorvlak bedraagt 25.92 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 25.92 cm.\nHet volume van het parallellepipedum bedraagt
         240.94 cm³.\n"
   - testcases:
     - stdin: "4.5\n3.7\n1.8"
       stdout: "De oppervlakte van het voorvlak bedraagt 23.31 cm².\nDe omtrek van
-        het voorvlak bedraagt 20.83 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 20.83 cm.\nHet volume van het parallellepipedum bedraagt
         146.85 cm³.\n"
   - testcases:
     - stdin: "5.8\n7.2\n3.2"
       stdout: "De oppervlakte van het voorvlak bedraagt 64.8 cm².\nDe omtrek van het
-        voorvlak bedraagt 33.76 cm.\nHet volume van de parallellepipedum bedraagt
+        voorvlak bedraagt 33.76 cm.\nHet volume van het parallellepipedum bedraagt
         583.2 cm³.\n"
   - testcases:
     - stdin: "7.8\n5.9\n5.3"
       stdout: "De oppervlakte van het voorvlak bedraagt 77.29 cm².\nDe omtrek van
-        het voorvlak bedraagt 42.06 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 42.06 cm.\nHet volume van het parallellepipedum bedraagt
         1012.5 cm³.\n"
   - testcases:
     - stdin: "5.9\n4.2\n4.4"
       stdout: "De oppervlakte van het voorvlak bedraagt 43.26 cm².\nDe omtrek van
-        het voorvlak bedraagt 32.77 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 32.77 cm.\nHet volume van het parallellepipedum bedraagt
         445.58 cm³.\n"
   - testcases:
     - stdin: "7.9\n3.8\n7.8"
       stdout: "De oppervlakte van het voorvlak bedraagt 59.66 cm².\nDe omtrek van
-        het voorvlak bedraagt 48.75 cm.\nHet volume van de parallellepipedum bedraagt
+        het voorvlak bedraagt 48.75 cm.\nHet volume van het parallellepipedum bedraagt
         936.66 cm³.\n"

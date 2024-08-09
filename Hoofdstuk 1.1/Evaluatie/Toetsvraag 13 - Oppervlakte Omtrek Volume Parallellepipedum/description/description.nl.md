@@ -21,7 +21,7 @@ Indien `a`, `b` en `c` in volgorde `6.8`, `10.8` en `2.54` cm meten, dan verschi
 ```
 De oppervlakte van het voorvlak bedraagt 100.87 cm².
 De omtrek van het voorvlak bedraagt 40.87 cm.
-Het volume van de parallellepipedum bedraagt 942.14 cm³.
+Het volume van het parallellepipedum bedraagt 942.14 cm³.
 ```
 
 {: .callout.callout-info}

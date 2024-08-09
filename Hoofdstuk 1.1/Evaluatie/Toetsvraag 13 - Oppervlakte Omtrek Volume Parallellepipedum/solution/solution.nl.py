@@ -19,4 +19,4 @@ volume = zijde_b * (zijde_c+zijde_a) * (zijde_a+zijde_c)
 # Output: 
 print('De oppervlakte van het voorvlak bedraagt', round(opp,2), 'cm².')
 print('De omtrek van het voorvlak bedraagt', round(omtrek,2),'cm.')
-print('Het volume van de parallellepipedum bedraagt', round(volume,2), 'cm³.')
+print('Het volume van het parallellepipedum bedraagt', round(volume,2), 'cm³.')
