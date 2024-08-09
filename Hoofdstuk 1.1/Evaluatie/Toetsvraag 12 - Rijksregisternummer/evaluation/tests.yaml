@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "85\n02\n01\n002\n00"
+      stdout: "Rijksregisternummer: 85.02.01-002.00\n"
+  - testcases:
+    - stdin: "86\n11\n19\n119\n30"
+      stdout: "Rijksregisternummer: 86.11.19-119.30\n"
+  - testcases:
+    - stdin: "96\n10\n17\n302\n13"
+      stdout: "Rijksregisternummer: 96.10.17-302.13\n"
+  - testcases:
+    - stdin: "12\n02\n25\n173\n51"
+      stdout: "Rijksregisternummer: 12.02.25-173.51\n"
+  - testcases:
+    - stdin: "87\n03\n31\n181\n58"
+      stdout: "Rijksregisternummer: 87.03.31-181.58\n"
+  - testcases:
+    - stdin: "81\n08\n02\n395\n41"
+      stdout: "Rijksregisternummer: 81.08.02-395.41\n"
+  - testcases:
+    - stdin: "03\n12\n28\n117\n92"
+      stdout: "Rijksregisternummer: 03.12.28-117.92\n"
+  - testcases:
+    - stdin: "10\n09\n02\n236\n06"
+      stdout: "Rijksregisternummer: 10.09.02-236.06\n"
+  - testcases:
+    - stdin: "94\n09\n05\n132\n09"
+      stdout: "Rijksregisternummer: 94.09.05-132.09\n"
+  - testcases:
+    - stdin: "84\n06\n02\n221\n70"
+      stdout: "Rijksregisternummer: 84.06.02-221.70\n"
+  - testcases:
+    - stdin: "97\n09\n27\n326\n91"
+      stdout: "Rijksregisternummer: 97.09.27-326.91\n"
+  - testcases:
+    - stdin: "99\n07\n06\n369\n27"
+      stdout: "Rijksregisternummer: 99.07.06-369.27\n"
+  - testcases:
+    - stdin: "83\n03\n08\n113\n53"
+      stdout: "Rijksregisternummer: 83.03.08-113.53\n"
+  - testcases:
+    - stdin: "05\n08\n06\n269\n32"
+      stdout: "Rijksregisternummer: 05.08.06-269.32\n"
+  - testcases:
+    - stdin: "09\n12\n02\n192\n50"
+      stdout: "Rijksregisternummer: 09.12.02-192.50\n"
+  - testcases:
+    - stdin: "94\n03\n04\n227\n96"
+      stdout: "Rijksregisternummer: 94.03.04-227.96\n"
+  - testcases:
+    - stdin: "89\n07\n08\n363\n54"
+      stdout: "Rijksregisternummer: 89.07.08-363.54\n"
+  - testcases:
+    - stdin: "93\n09\n09\n338\n50"
+      stdout: "Rijksregisternummer: 93.09.09-338.50\n"
+  - testcases:
+    - stdin: "93\n02\n13\n119\n03"
+      stdout: "Rijksregisternummer: 93.02.13-119.03\n"
+  - testcases:
+    - stdin: "09\n12\n02\n334\n05"
+      stdout: "Rijksregisternummer: 09.12.02-334.05\n"
