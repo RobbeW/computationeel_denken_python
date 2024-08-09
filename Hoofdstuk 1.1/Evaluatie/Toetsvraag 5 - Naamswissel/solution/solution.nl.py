@@ -5,4 +5,5 @@ voornaam2 = input("Voer de tweede voornaam in: ")
 naam2 = input("Voer de tweede naam in: ")
 
 # Weergeven op het scherm
+print()
 print("Welkom", voornaam1, naam2, "en", voornaam2, naam1+".")

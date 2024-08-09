@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Mathieu\nDe Baets\nRufus\nMorael"
+      stdout: "Welkom Mathieu Morael en Rufus De Baets.\n"
+  - testcases:
+    - stdin: "Charlotte\nVandamme\nLéa\nMertens"
+      stdout: "Welkom Charlotte Mertens en Léa Vandamme.\n"
+  - testcases:
+    - stdin: "Milan\nSleurs\nNathan\nThys"
+      stdout: "Welkom Milan Thys en Nathan Sleurs.\n"
+  - testcases:
+    - stdin: "Julie\nGoossens\nMaxime\nRoels"
+      stdout: "Welkom Julie Roels en Maxime Goossens.\n"
+  - testcases:
+    - stdin: "Louis\nDumont\nMaxime\nRoels"
+      stdout: "Welkom Louis Roels en Maxime Dumont.\n"
+  - testcases:
+    - stdin: "Elise\nVandenberghe\nThomas\nRousseau"
+      stdout: "Welkom Elise Rousseau en Thomas Vandenberghe.\n"
+  - testcases:
+    - stdin: "Nathan\nThys\nCharlotte\nVandamme"
+      stdout: "Welkom Nathan Vandamme en Charlotte Thys.\n"
+  - testcases:
+    - stdin: "Manon\nLuyten\nThomas\nRousseau"
+      stdout: "Welkom Manon Rousseau en Thomas Luyten.\n"
+  - testcases:
+    - stdin: "Noah\nDubois\nMaxime\nRoels"
+      stdout: "Welkom Noah Roels en Maxime Dubois.\n"
+  - testcases:
+    - stdin: "Victor\nVanderlinden\nLéa\nMertens"
+      stdout: "Welkom Victor Mertens en Léa Vanderlinden.\n"
+  - testcases:
+    - stdin: "Liam\nWouters\nAxel\nCoenen"
+      stdout: "Welkom Liam Coenen en Axel Wouters.\n"
+  - testcases:
+    - stdin: "Sarah\nNys\nLucas\nDupont"
+      stdout: "Welkom Sarah Dupont en Lucas Nys.\n"
+  - testcases:
+    - stdin: "Alexandre\nVerleyen\nAlice\nHendrickx"
+      stdout: "Welkom Alexandre Hendrickx en Alice Verleyen.\n"
+  - testcases:
+    - stdin: "Emma\nDe Smet\nMaxime\nRoels"
+      stdout: "Welkom Emma Roels en Maxime De Smet.\n"
+  - testcases:
+    - stdin: "Axel\nCoenen\nSarah\nNys"
+      stdout: "Welkom Axel Nys en Sarah Coenen.\n"
+  - testcases:
+    - stdin: "Charlotte\nVandamme\nLina\nVandersteen"
+      stdout: "Welkom Charlotte Vandersteen en Lina Vandamme.\n"
+  - testcases:
+    - stdin: "Julie\nGoossens\nAlice\nHendrickx"
+      stdout: "Welkom Julie Hendrickx en Alice Goossens.\n"
+  - testcases:
+    - stdin: "Laura\nDe Greef\nEmma\nDe Smet"
+      stdout: "Welkom Laura De Smet en Emma De Greef.\n"
+  - testcases:
+    - stdin: "Hugo\nDewitte\nJulie\nGoossens"
+      stdout: "Welkom Hugo Goossens en Julie Dewitte.\n"
+  - testcases:
+    - stdin: "Laura\nDe Greef\nLiam\nWouters"
+      stdout: "Welkom Laura Wouters en Liam De Greef.\n"

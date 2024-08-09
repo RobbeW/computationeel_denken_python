@@ -1,10 +1,15 @@
+# generate test data
 import os
+import sys
+import importlib.util
 import random
+import ruamel.yaml
 import subprocess
-from typing import Text
+
+yaml = ruamel.yaml.YAML()
 
 # set fixed seed for generating test cases
-random.seed(123456789)
+random.seed(12345678)
 
 # locate evaldir
 evaldir = os.path.join('..', 'evaluation')
@@ -16,53 +21,77 @@ solutiondir = os.path.join('..', 'solution')
 if not os.path.exists(solutiondir):
     os.makedirs(solutiondir)
 
-# configuration settings
-tab_name = 'Feedback'
-settings = f'''
-tab name: {tab_name}
-python input without prompt: false
-block count: multi
-input block size: 4
-output block size: ends with
-comparison: exact match
-'''
+def write_yaml( data:list ):
+    """ A function to write YAML file"""
+    with open(os.path.join('..', 'evaluation', 'tests.yaml'), 'w', encoding='utf-8') as f:
+        yaml.dump(data, f)
+
+
+module_name = 'solution'
+file_path = os.path.join(solutiondir, 'solution.nl.py')
+spec = importlib.util.spec_from_file_location(module_name, file_path)
+module = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(module)
 
 # generate test data
 ntests= 20
-names = [("Wout","Aernout"),
-         ("Jawdat", "Al-Nakeeb"),
-         ("Anton", "Rares-Andrei"),
-         ("Laura", "Bisschop"),
-         ("Julie", "Bosschem"),
-         ("Jacquine", "Cambré"),
-         ("Mathis","De Buck"),
-         ("Arno","De Vos"),
-         ("Margot", "De Wasch"),
-         ("Lucas","Eeckhaut"),
-         ("Hanne","Geldof"),
-         ("Hannes","Leliaert"),
-         ("Louka","Meesens"),
-         ("Ferre","Peers"),
-         ("Maxime","Penninck"),
-         ("Bertine","Rollier"),
-         ("Loran","Rottiers")]
+belgian_names = [
+    ("Lucas", "Dupont"),
+    ("Emma", "De Smet"),
+    ("Noah", "Dubois"),
+    ("Léa", "Mertens"),
+    ("Liam", "Wouters"),
+    ("Marie", "Jacobs"),
+    ("Arthur", "Lemmens"),
+    ("Julie", "Goossens"),
+    ("Louis", "Dumont"),
+    ("Zoé", "Simons"),
+    ("Victor", "Vanderlinden"),
+    ("Sarah", "Nys"),
+    ("Gabriel", "Van den Bossche"),
+    ("Clara", "Smets"),
+    ("Hugo", "Dewitte"),
+    ("Alice", "Hendrickx"),
+    ("Thomas", "Rousseau"),
+    ("Laura", "De Greef"),
+    ("Nathan", "Thys"),
+    ("Elise", "Vandenberghe"),
+    ("Milan", "Sleurs"),
+    ("Chloé", "Geerts"),
+    ("Jules", "Michiels"),
+    ("Charlotte", "Vandamme"),
+    ("Maxime", "Roels"),
+    ("Lena", "Van den Heuvel"),
+    ("Axel", "Coenen"),
+    ("Lina", "Vandersteen"),
+    ("Alexandre", "Verleyen"),
+    ("Manon", "Luyten")
+]
+
 cases = [("Mathieu", "De Baets", "Rufus", "Morael")]
 while len(cases) < ntests:
-    pers1 = random.choice(names)
-    pers2 = random.choice(names)
-    if pers1 != pers2:
+    pers1 = random.choice(belgian_names)
+    pers2 = random.choice(belgian_names)
+    if pers1 != pers2 and (pers1[0], pers1[1], pers2[0], pers2[1]) not in cases:
         cases.append( (pers1[0], pers1[1], pers2[0], pers2[1]) )
-    
-# configure test files
-infile = open(os.path.join(evaldir, '0.in'), 'w')
-outfile = open(os.path.join(evaldir, '0.out'), 'w')
 
-# generate unit tests
-for stdin in cases:
+# generate unit tests for functions
+yamldata = []
 
+# input, expression, statement or stdin?
+input = 'stdin'
+# output, stdout or return?
+output = 'stdout'
+tabtitle = "Feedback"
+
+yamldata.append( {'tab': tabtitle, 'contexts': []})
+
+for i in range(len(cases)):
+    test = cases[i]
+    yamldata[0]['contexts'].append( {'testcases' : []})
+    # generate test expression
     # add input to input file
-    stdin = '\n'.join(f'{line}' for line in stdin)
-    print(stdin, file=infile)
+    stdin = '\n'.join(f'{line}' for line in test)
 
     # generate output to output file
     script = os.path.join(solutiondir, 'solution.nl.py')
@@ -72,15 +101,18 @@ for stdin in cases:
         encoding='utf-8',
         capture_output=True
     )
-        
+    
     result_lines = process.stdout.split("\n")
+    result_lines = [x for x in result_lines[:-1]] ## drop last element
+    
+    outputtxt = ""
     for line in result_lines:
-        if not(line.startswith( 'Geef' )):
+        if not(line.startswith( 'Geef' ) or line.startswith( 'Voer' )):
             print(line)
-            print(line, file=outfile)
+            outputtxt += line + "\n"
+            
+    testcase = { input: stdin, output: outputtxt }            
+    yamldata[0]['contexts'][i]["testcases"].append( testcase)
 
-    # add stdout to output file
-    # print(process.stdout, file=outfile, end='')
 
-# add settings to output file
-print('-' * 41 + settings, file=outfile, end='')
+write_yaml(yamldata)
