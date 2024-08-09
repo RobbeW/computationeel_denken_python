@@ -13,15 +13,13 @@ Hier zie je dat de **oppervlakte** van **vierkant PQRS** het **dubbel** is van *
 - Rond de berekende `oppervlakte` en `lengte` af tot twee decimalen;
 - Print de berekende `oppervlakte` en `zijde` van vierkant PQRS op het scherm in verzorgde volzinnen.
 
-## Invoer
-```
-Voer de lengte van een zijde van vierkant ABCD in (in meter): 15.763
-```
+#### Voorbeeld
 
-## Uitvoer
+Als de lengte van een zijde van ABCD `15.763` m meet, dan verschijnt er:
+
 ```
-De oppervlakte van vierkant PQRS is ... m².
-De lengte van een zijde van vierkant PQRS is ... m.
+De oppervlakte van vierkant PQRS is 496.94 m².
+De lengte van een zijde van vierkant PQRS is 22.29 m.
 ```
 
 {: .callout.callout-info}

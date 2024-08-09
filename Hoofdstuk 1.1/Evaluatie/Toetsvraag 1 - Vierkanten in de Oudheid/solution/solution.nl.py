@@ -2,7 +2,6 @@ import math
 
 # Vraag de gebruiker om de lengte van een zijde van vierkant ABCD
 zijde_abcd = float(input("Voer de lengte van een zijde van vierkant ABCD in (in meter): "))
-print()
 
 # Bereken de oppervlakte van vierkant ABCD
 oppervlakte_abcd = zijde_abcd ** 2
