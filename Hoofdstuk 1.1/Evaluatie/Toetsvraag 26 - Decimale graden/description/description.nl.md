@@ -3,7 +3,7 @@ Er bestaan verschillende manieren om de grootte van een hoek uit te drukken. Wij
 
 Een voorbeeld van een hoek in het zestigtallige stelsel is, 45° 28' 30", oftewel, 45 graden, 28 minuten en 30 seconden.
 
-Je rekentoestel zal een hoek meestal in decimale graden uitdrukken, de vorige hoek wordt dan uitgedrukt als 45,475°. Dit komt ook perfect overeen want dit zou betekenen dat de hoek ongeveer 45,5° groot is. Je kan dit lezen als 45° en een halve graad, een halve graad is 30' wat ongeveer overeen komt 28' 30".
+Je rekentoestel zal een hoek meestal in decimale graden uitdrukken, de vorige hoek wordt dan uitgedrukt als 45,475°. Dit komt ook perfect overeen want dit zou betekenen dat de hoek ongeveer 45,5° groot is. Je kan dit lezen als 45° en een halve graad, een halve graad is 30' wat inderdaad ongeveer overeen komt 28' 30".
 
 ## Gevraagd
 Schrijf een programma dat een decimale hoek, als een *kommagetal*, vraagt en vervolgens berekent met welke hoek uit het zestigtallige talstelsel dit overeen komt.
