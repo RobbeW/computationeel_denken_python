@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF en ELSE - Prijzen Taxi's",
-      "en": "IF and ELSE functions - Taxi Prices"
+      "nl": "Werken met IF en ELSE - Prijzen taxi's"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
