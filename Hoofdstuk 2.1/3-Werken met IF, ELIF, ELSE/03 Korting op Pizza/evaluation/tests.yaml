@@ -1,0 +1,47 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "2\n1"
+      stdout: "De te betalen prijs na korting is 33.92 euro.\n"
+  - testcases:
+    - stdin: "2\n2"
+      stdout: "De te betalen prijs na korting is 41.44 euro.\n"
+  - testcases:
+    - stdin: "3\n3"
+      stdout: "De te betalen prijs na korting is 62.16 euro.\n"
+  - testcases:
+    - stdin: "0\n1"
+      stdout: "De te betalen prijs na korting is 16.8 euro.\n"
+  - testcases:
+    - stdin: "1\n0"
+      stdout: "De te betalen prijs na korting is 12.8 euro.\n"
+  - testcases:
+    - stdin: "1\n3"
+      stdout: "De te betalen prijs na korting is 44.24 euro.\n"
+  - testcases:
+    - stdin: "4\n1"
+      stdout: "De te betalen prijs na korting is 47.6 euro.\n"
+  - testcases:
+    - stdin: "5\n1"
+      stdout: "De te betalen prijs na korting is 56.56 euro.\n"
+  - testcases:
+    - stdin: "2\n5"
+      stdout: "De te betalen prijs na korting is 76.72 euro.\n"
+  - testcases:
+    - stdin: "0\n7"
+      stdout: "De te betalen prijs na korting is 82.32 euro.\n"
+  - testcases:
+    - stdin: "0\n5"
+      stdout: "De te betalen prijs na korting is 58.8 euro.\n"
+  - testcases:
+    - stdin: "3\n7"
+      stdout: "De te betalen prijs na korting is 109.2 euro.\n"
+  - testcases:
+    - stdin: "3\n2"
+      stdout: "De te betalen prijs na korting is 50.4 euro.\n"
+  - testcases:
+    - stdin: "5\n0"
+      stdout: "De te betalen prijs na korting is 44.8 euro.\n"
+  - testcases:
+    - stdin: "6\n4"
+      stdout: "De te betalen prijs na korting is 100.8 euro.\n"

@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF, ELIF en ELSE - Museumbezoek Griekenland",
-      "en": "IF, ELIF and ELSE functions - Museum Visit Greece"
+      "nl": "Werken met IF, ELIF en ELSE - Museumbezoek Griekenland"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

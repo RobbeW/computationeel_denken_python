@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Lucas\n64"
+      stdout: "Hallo, Lucas. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Emma\n24"
+      stdout: "Hallo, Emma. Je hebt gratis toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Louis\n58"
+      stdout: "Hallo, Louis. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Marie\n55"
+      stdout: "Hallo, Marie. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Arthur\n32"
+      stdout: "Hallo, Arthur. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Léa\n66"
+      stdout: "Hallo, Léa. Je moet € 5 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Noah\n34"
+      stdout: "Hallo, Noah. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Olivia\n67"
+      stdout: "Hallo, Olivia. Je moet € 5 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Jules\n56"
+      stdout: "Hallo, Jules. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Elena\n50"
+      stdout: "Hallo, Elena. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Hugo\n55"
+      stdout: "Hallo, Hugo. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Alice\n64"
+      stdout: "Hallo, Alice. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Gabriel\n76"
+      stdout: "Hallo, Gabriel. Je moet € 5 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Liam\n50"
+      stdout: "Hallo, Liam. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Charlotte\n22"
+      stdout: "Hallo, Charlotte. Je hebt gratis toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Elias\n66"
+      stdout: "Hallo, Elias. Je moet € 5 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Ella\n39"
+      stdout: "Hallo, Ella. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Adam\n25"
+      stdout: "Hallo, Adam. Je hebt gratis toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Mila\n27"
+      stdout: "Hallo, Mila. Je moet € 9 betalen voor de toegang tot het museum.\n"
+  - testcases:
+    - stdin: "Nathan\n78"
+      stdout: "Hallo, Nathan. Je moet € 5 betalen voor de toegang tot het museum.\n"

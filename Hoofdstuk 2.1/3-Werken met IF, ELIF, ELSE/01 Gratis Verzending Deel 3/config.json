@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF, ELIF en ELSE - Gratis Verzending Deel 3",
-      "en": "IF, ELIF and ELSE functions - Free Shipping Part 3"
+      "nl": "Werken met IF, ELIF en ELSE - Gratis verzending Deel 3"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

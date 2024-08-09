@@ -1,0 +1,69 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '113.89'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 102.5 euro.\n"
+  - testcases:
+    - stdin: '91'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 91.0 euro.\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 20.0 euro.\n"
+  - testcases:
+    - stdin: '100'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 90.0 euro.\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "Je krijgt geen gratis verzending.\nHet totaalbedrag is 23.0 euro.\n"
+  - testcases:
+    - stdin: '110.8'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 99.72 euro.\n"
+  - testcases:
+    - stdin: '98.6'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 98.6 euro.\n"
+  - testcases:
+    - stdin: '42.0'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 42.0 euro.\n"
+  - testcases:
+    - stdin: '45.4'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 45.4 euro.\n"
+  - testcases:
+    - stdin: '94.8'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 94.8 euro.\n"
+  - testcases:
+    - stdin: '92.1'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 92.1 euro.\n"
+  - testcases:
+    - stdin: '137.5'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 123.75 euro.\n"
+  - testcases:
+    - stdin: '20.8'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 20.8 euro.\n"
+  - testcases:
+    - stdin: '56.9'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 56.9 euro.\n"
+  - testcases:
+    - stdin: '30.9'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 30.9 euro.\n"
+  - testcases:
+    - stdin: '127.7'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 114.93 euro.\n"
+  - testcases:
+    - stdin: '13.3'
+      stdout: "Je krijgt geen gratis verzending.\nHet totaalbedrag is 17.3 euro.\n"
+  - testcases:
+    - stdin: '144.5'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 130.05 euro.\n"
+  - testcases:
+    - stdin: '79.2'
+      stdout: "Je krijgt gratis verzending.\nHet totaalbedrag is 79.2 euro.\n"
+  - testcases:
+    - stdin: '117.7'
+      stdout: "Je krijgt 10% korting.\nJe krijgt gratis verzending.\nHet totaalbedrag
+        is 105.93 euro.\n"

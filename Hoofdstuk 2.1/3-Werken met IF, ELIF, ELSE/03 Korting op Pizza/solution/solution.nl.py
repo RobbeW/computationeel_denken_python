@@ -21,5 +21,4 @@ else:
 prijs_na_korting = round(totale_aankoop * (1 - korting), 2)
 
 # Print de te betalen prijs op het scherm
-print()
 print("De te betalen prijs na korting is", prijs_na_korting, "euro.")
