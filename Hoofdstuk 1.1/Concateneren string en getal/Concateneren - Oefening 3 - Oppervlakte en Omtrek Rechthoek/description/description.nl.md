@@ -19,7 +19,7 @@ De omtrek van de rechthoek is 32.82 m.
 ```
 
 {: .callout.callout-info}
->## Tips
+>#### Tips
 >* Vergeet niet om de input om te zetten naar een `float` of `int`;
->* Wanneer je wil **concateneren**, kan je gebruiken van een **komma (,)** of een **plus (+)**;
+>* Wanneer je wil **concateneren**, kan je gebruik maken van een **komma (,)** of een **plus (+)**;
 >* Een `,` zal automatisch een spatie invoeren, terwijl een `+` dat niet zal doen. 
