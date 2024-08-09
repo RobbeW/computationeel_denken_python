@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Markus\n30\n24"
+      stdout: "Monnik Markus: er is ondertussen 6 u verstreken.\n"
+  - testcases:
+    - stdin: "Gautier\n31\n25"
+      stdout: "Monnik Gautier: er is ondertussen 6 u verstreken.\n"
+  - testcases:
+    - stdin: "Alard\n40\n38"
+      stdout: "Monnik Alard: er is ondertussen 2 u verstreken.\n"
+  - testcases:
+    - stdin: "Engelbert\n34\n8"
+      stdout: "Monnik Engelbert: er is ondertussen 26 u verstreken.\n"
+  - testcases:
+    - stdin: "Lambert\n35\n2"
+      stdout: "Monnik Lambert: er is ondertussen 33 u verstreken.\n"
+  - testcases:
+    - stdin: "Aldemar\n25\n25"
+      stdout: "Monnik Aldemar: er is ondertussen 0 u verstreken.\n"
+  - testcases:
+    - stdin: "Thierry\n31\n16"
+      stdout: "Monnik Thierry: er is ondertussen 15 u verstreken.\n"
+  - testcases:
+    - stdin: "Baudouin\n38\n15"
+      stdout: "Monnik Baudouin: er is ondertussen 23 u verstreken.\n"
+  - testcases:
+    - stdin: "Lambert\n32\n5"
+      stdout: "Monnik Lambert: er is ondertussen 27 u verstreken.\n"
+  - testcases:
+    - stdin: "Thierry\n25\n14"
+      stdout: "Monnik Thierry: er is ondertussen 11 u verstreken.\n"
+  - testcases:
+    - stdin: "Alard\n33\n25"
+      stdout: "Monnik Alard: er is ondertussen 8 u verstreken.\n"
+  - testcases:
+    - stdin: "Rainier\n25\n5"
+      stdout: "Monnik Rainier: er is ondertussen 20 u verstreken.\n"
+  - testcases:
+    - stdin: "Theodoric\n30\n26"
+      stdout: "Monnik Theodoric: er is ondertussen 4 u verstreken.\n"
+  - testcases:
+    - stdin: "Everard\n39\n12"
+      stdout: "Monnik Everard: er is ondertussen 27 u verstreken.\n"
+  - testcases:
+    - stdin: "Winemar\n25\n12"
+      stdout: "Monnik Winemar: er is ondertussen 13 u verstreken.\n"
+  - testcases:
+    - stdin: "Theodoric\n28\n4"
+      stdout: "Monnik Theodoric: er is ondertussen 24 u verstreken.\n"
+  - testcases:
+    - stdin: "Winemar\n28\n27"
+      stdout: "Monnik Winemar: er is ondertussen 1 u verstreken.\n"
+  - testcases:
+    - stdin: "Everard\n31\n26"
+      stdout: "Monnik Everard: er is ondertussen 5 u verstreken.\n"
+  - testcases:
+    - stdin: "Wenceslas\n40\n18"
+      stdout: "Monnik Wenceslas: er is ondertussen 22 u verstreken.\n"
+  - testcases:
+    - stdin: "Wenceslas\n26\n13"
+      stdout: "Monnik Wenceslas: er is ondertussen 13 u verstreken.\n"
