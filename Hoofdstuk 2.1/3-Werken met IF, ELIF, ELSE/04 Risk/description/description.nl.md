@@ -36,7 +36,7 @@ Verloren eenheden verdediging: 1
 
 Stelt dat de **aanvaller** de volgende dobbelstenen gooit:
 
- <span styclass="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
+a <span styclass="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
  
 en de **verdediger** gooit op zijn beurt:
 
