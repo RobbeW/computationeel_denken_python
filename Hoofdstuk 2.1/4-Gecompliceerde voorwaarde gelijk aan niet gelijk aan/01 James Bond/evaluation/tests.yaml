@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: Bond
+      stdout: "Welkom 007.\n"
+  - testcases:
+    - stdin: Alexander
+      stdout: "Goeiemorgen Alexander.\n"
+  - testcases:
+    - stdin: James
+      stdout: "Goeiemorgen James.\n"
+  - testcases:
+    - stdin: BOND
+      stdout: "Goeiemorgen BOND.\n"
+  - testcases:
+    - stdin: Moneypenny
+      stdout: "Goeiemorgen Moneypenny.\n"
+  - testcases:
+    - stdin: Vesper
+      stdout: "Goeiemorgen Vesper.\n"
+  - testcases:
+    - stdin: Felix
+      stdout: "Goeiemorgen Felix.\n"
+  - testcases:
+    - stdin: Alec
+      stdout: "Goeiemorgen Alec.\n"
+  - testcases:
+    - stdin: Jaws
+      stdout: "Goeiemorgen Jaws.\n"
+  - testcases:
+    - stdin: Blofeld
+      stdout: "Goeiemorgen Blofeld.\n"
+  - testcases:
+    - stdin: Scaramanga
+      stdout: "Goeiemorgen Scaramanga.\n"
+  - testcases:
+    - stdin: Tatiana
+      stdout: "Goeiemorgen Tatiana.\n"
+  - testcases:
+    - stdin: Q
+      stdout: "Goeiemorgen Q.\n"
+  - testcases:
+    - stdin: Goldfinger
+      stdout: "Goeiemorgen Goldfinger.\n"
+  - testcases:
+    - stdin: Stromberg
+      stdout: "Goeiemorgen Stromberg.\n"
+  - testcases:
+    - stdin: May
+      stdout: "Goeiemorgen May.\n"
+  - testcases:
+    - stdin: Honey
+      stdout: "Goeiemorgen Honey.\n"
+  - testcases:
+    - stdin: Solitaire
+      stdout: "Goeiemorgen Solitaire.\n"
+  - testcases:
+    - stdin: Aki
+      stdout: "Goeiemorgen Aki.\n"
+  - testcases:
+    - stdin: Tracy
+      stdout: "Goeiemorgen Tracy.\n"
