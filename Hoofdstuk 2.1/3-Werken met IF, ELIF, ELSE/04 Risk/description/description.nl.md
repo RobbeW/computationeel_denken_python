@@ -10,11 +10,11 @@ Een voorbeeld ter verduidelijking.
 
 Als de **aanvaller** de volgende dobbelstenen gooit:
 
-<span styclass="mdi mdi-36px mdi-dice-2-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-1-outline"></span>
+ <span styclass="mdi mdi-36px mdi-dice-2-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-1-outline"></span>
  
 en de **verdediger** gooit op zijn beurt:
 
-<span styclass="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-3-outline"></span>
+ <span styclass="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-3-outline"></span>
 
 In dit geval verliezen beide legers een eenheid. De 5 van de aanvaller wint immers van de 4 van de verdediging. Maar de volgende hoogste waarde van de aanvaller, namelijk een 2, verlies van de volgende hoogste waarde van de verdediging, namelijk een 3.
 
@@ -36,11 +36,11 @@ Verloren eenheden verdediging: 1
 
 Stelt dat de **aanvaller** de volgende dobbelstenen gooit:
 
-<span styclass="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
+ <span styclass="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
  
 en de **verdediger** gooit op zijn beurt:
 
-<span styclass="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
+ <span styclass="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
 
 dan verlies de aanvaller twee legereenheden! De grootste worpen moeten immers **meer** zijn dan die van de verdediging.
 
