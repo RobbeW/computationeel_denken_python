@@ -16,7 +16,7 @@ In onderstaande figuur vormt het grondvlak een vierkant en krijg je drie afmetin
 
 
 #### Voorbeeld
-Indien `a` `6.8` cm, `b` `10.8` en `c` `2.54` cm meet, dan verschijnt er:
+Indien `a`, `b` en `c` in volgorde `6.8`, `10.8` en `2.54` cm meten, dan verschijnt er:
 
 ```
 De oppervlakte van het voorvlak bedraagt 100.87 cm².
@@ -27,7 +27,7 @@ Het volume van de parallellepipedum bedraagt 942.14 cm³.
 {: .callout.callout-info}
 >#### Tips
 > * Start jouw algoritme met een `import math`.
-> * Je zal de **telling van Pythagoras** moeten gebruiken.  
+> * Je zal de **stelling van Pythagoras** moeten gebruiken.  
 > * De formule voor dit volume is dezelfde als deze voor een balk. 
 
 
