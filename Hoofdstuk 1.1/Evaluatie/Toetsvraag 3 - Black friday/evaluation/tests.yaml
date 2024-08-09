@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "134.4\n50"
+      stdout: "Je moet nog € 67.2 betalen.\n"
+  - testcases:
+    - stdin: "112.0\n50"
+      stdout: "Je moet nog € 56.0 betalen.\n"
+  - testcases:
+    - stdin: "97.5\n60"
+      stdout: "Je moet nog € 39.0 betalen.\n"
+  - testcases:
+    - stdin: "102.0\n50"
+      stdout: "Je moet nog € 51.0 betalen.\n"
+  - testcases:
+    - stdin: "138.0\n50"
+      stdout: "Je moet nog € 69.0 betalen.\n"
+  - testcases:
+    - stdin: "85.0\n60"
+      stdout: "Je moet nog € 34.0 betalen.\n"
+  - testcases:
+    - stdin: "126.0\n50"
+      stdout: "Je moet nog € 63.0 betalen.\n"
+  - testcases:
+    - stdin: "114.0\n50"
+      stdout: "Je moet nog € 57.0 betalen.\n"
+  - testcases:
+    - stdin: "100.0\n30"
+      stdout: "Je moet nog € 70.0 betalen.\n"
+  - testcases:
+    - stdin: "95.0\n60"
+      stdout: "Je moet nog € 38.0 betalen.\n"
+  - testcases:
+    - stdin: "110.0\n60"
+      stdout: "Je moet nog € 44.0 betalen.\n"
+  - testcases:
+    - stdin: "84.0\n25"
+      stdout: "Je moet nog € 63.0 betalen.\n"
+  - testcases:
+    - stdin: "52.0\n50"
+      stdout: "Je moet nog € 26.0 betalen.\n"
+  - testcases:
+    - stdin: "120.0\n30"
+      stdout: "Je moet nog € 84.0 betalen.\n"
+  - testcases:
+    - stdin: "78.0\n50"
+      stdout: "Je moet nog € 39.0 betalen.\n"
+  - testcases:
+    - stdin: "80.0\n30"
+      stdout: "Je moet nog € 56.0 betalen.\n"
+  - testcases:
+    - stdin: "80.0\n15"
+      stdout: "Je moet nog € 68.0 betalen.\n"
+  - testcases:
+    - stdin: "112.0\n75"
+      stdout: "Je moet nog € 28.0 betalen.\n"
+  - testcases:
+    - stdin: "108.0\n75"
+      stdout: "Je moet nog € 27.0 betalen.\n"
+  - testcases:
+    - stdin: "120.0\n15"
+      stdout: "Je moet nog € 102.0 betalen.\n"
