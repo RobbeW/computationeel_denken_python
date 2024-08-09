@@ -1,7 +1,7 @@
 import math
 
 # Grondtal vragen aan de gebruiker
-a = int( input( 'Geef de natuurlijk getal in:' ) )
+a = int( input( 'Geef de natuurlijk getal in: ' ) )
 
 # Schatting bepalen
 b = math.floor( math.sqrt( a ) )
