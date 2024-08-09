@@ -1,12 +1,12 @@
 ## Gegeven
-De <a href="https://nl.wikipedia.org/wiki/Dodentocht_Bornem" target="_blank">Dodentocht</a> is een jaarlijkse wandeltocht in en rond de gemeente Bornem in Antwerpen. De wandetocht dankt zijn bijzondere naam aan de eisen die gesteld worden:
+De <a href="https://nl.wikipedia.org/wiki/Dodentocht_Bornem" target="_blank">Dodentocht</a> is een jaarlijkse wandeltocht in en rond de gemeente Bornem in Antwerpen. De wandeltocht dankt zijn bijzondere naam aan de eisen die gesteld worden:
 
 - De totale tocht is 100 km lang;
 - De 100 km moet binnen de 24 uur voltooid worden.
 
 <div class="hidden-print">
     <div class="dodona-centered-group">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_fvof1-mDGo?si=ckHbGITSrLdSvajA&amp;start=2" title="Dodentocht 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="285" src="https://www.youtube.com/embed/_fvof1-mDGo?si=ckHbGITSrLdSvajA&amp;start=2" title="Dodentocht 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
