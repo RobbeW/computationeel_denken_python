@@ -14,7 +14,7 @@ Volgens deze standaard geldt er dat
 
 Schrijf een programma dat vertelt tot welke eeuw een jaartal behoort.
 
-#### Voorbeeld
+#### Voorbeelden
 De invoer `1699` leidt tot uitvoer:
 ```
 17e eeuw
