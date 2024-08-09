@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Fernand\nDedecker\n21632\n25/03/1934\nA+\nKAT"
+      stdout: "BELGISCH LEGER   25/03/1934\nDedecker Fernand\n21632 A+ KAT\n"
+  - testcases:
+    - stdin: "Lucas\nVandenberghe\n23057\n21/10/1958\nAB+\nKAT"
+      stdout: "BELGISCH LEGER   21/10/1958\nVandenberghe Lucas\n23057 AB+ KAT\n"
+  - testcases:
+    - stdin: "Emma\nDupont\n26065\n05/06/1906\nO+\nKAT"
+      stdout: "BELGISCH LEGER   05/06/1906\nDupont Emma\n26065 O+ KAT\n"
+  - testcases:
+    - stdin: "Liam\nDubois\n39486\n16/09/1911\nO+\nMOJ"
+      stdout: "BELGISCH LEGER   16/09/1911\nDubois Liam\n39486 O+ MOJ\n"
+  - testcases:
+    - stdin: "Olivia\nMartens\n26749\n09/02/1995\nA-\nKAT"
+      stdout: "BELGISCH LEGER   09/02/1995\nMartens Olivia\n26749 A- KAT\n"
+  - testcases:
+    - stdin: "Noah\nLeroy\n83297\n27/11/1978\nO+\nMAH"
+      stdout: "BELGISCH LEGER   27/11/1978\nLeroy Noah\n83297 O+ MAH\n"
+  - testcases:
+    - stdin: "Mila\nDesmet\n17258\n05/04/1955\nO-\nKAT"
+      stdout: "BELGISCH LEGER   05/04/1955\nDesmet Mila\n17258 O- KAT\n"
+  - testcases:
+    - stdin: "Louis\nDewitte\n78601\n19/08/2091\nA-\nAUG"
+      stdout: "BELGISCH LEGER   19/08/2091\nDewitte Louis\n78601 A- AUG\n"
+  - testcases:
+    - stdin: "Alice\nDeclercq\n39160\n05/02/2012\nB-\nKAT"
+      stdout: "BELGISCH LEGER   05/02/2012\nDeclercq Alice\n39160 B- KAT\n"
+  - testcases:
+    - stdin: "Leon\nLeclerc\n37164\n17/05/2068\nB+\nPRAW"
+      stdout: "BELGISCH LEGER   17/05/2068\nLeclerc Leon\n37164 B+ PRAW\n"
+  - testcases:
+    - stdin: "Elise\nVan Damme\n40117\n28/10/2018\nA-\nANG"
+      stdout: "BELGISCH LEGER   28/10/2018\nVan Damme Elise\n40117 A- ANG\n"
+  - testcases:
+    - stdin: "Ethan\nJacobs\n62976\n14/05/1995\nAB-\nMAH"
+      stdout: "BELGISCH LEGER   14/05/1995\nJacobs Ethan\n62976 AB- MAH\n"
+  - testcases:
+    - stdin: "Charlotte\nLambert\n36230\n11/07/1928\nAB+\nANG"
+      stdout: "BELGISCH LEGER   11/07/1928\nLambert Charlotte\n36230 AB+ ANG\n"
+  - testcases:
+    - stdin: "Victor\nPauwels\n34627\n28/11/2023\nA-\nKAT"
+      stdout: "BELGISCH LEGER   28/11/2023\nPauwels Victor\n34627 A- KAT\n"
+  - testcases:
+    - stdin: "Zoe\nDe Smet\n47307\n17/10/2001\nA+\nKAT"
+      stdout: "BELGISCH LEGER   17/10/2001\nDe Smet Zoe\n47307 A+ KAT\n"
+  - testcases:
+    - stdin: "Arthur\nVanderheyden\n39313\n23/11/1901\nO-\nMAH"
+      stdout: "BELGISCH LEGER   23/11/1901\nVanderheyden Arthur\n39313 O- MAH\n"
+  - testcases:
+    - stdin: "Sophie\nLemaire\n61339\n11/03/2024\nA-\nKAT"
+      stdout: "BELGISCH LEGER   11/03/2024\nLemaire Sophie\n61339 A- KAT\n"
+  - testcases:
+    - stdin: "Adam\nVermeersch\n28852\n07/03/1927\nB+\nGR-KAT"
+      stdout: "BELGISCH LEGER   07/03/1927\nVermeersch Adam\n28852 B+ GR-KAT\n"
+  - testcases:
+    - stdin: "Julia\nDumoulin\n46965\n21/03/2070\nB+\nPRAW"
+      stdout: "BELGISCH LEGER   21/03/2070\nDumoulin Julia\n46965 B+ PRAW\n"
+  - testcases:
+    - stdin: "Hugo\nVandevelde\n69322\n14/04/2023\nO-\nPRAW"
+      stdout: "BELGISCH LEGER   14/04/2023\nVandevelde Hugo\n69322 O- PRAW\n"
