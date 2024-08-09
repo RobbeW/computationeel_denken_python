@@ -16,6 +16,7 @@ Schrijf een programma dat de zijde van een regelmatige vijfhoek, $$\mathsf{a}$$,
 
 #### Voorbeeld
 Meet de zijde `3.0` cm, dan verschijnt:
+
 ```
 De oppervlakte bedraagt 7.07 cm².
 ```
