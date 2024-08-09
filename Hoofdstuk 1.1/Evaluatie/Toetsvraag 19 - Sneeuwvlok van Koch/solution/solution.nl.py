@@ -7,5 +7,4 @@ z = float( input( 'Geef de zijde in (in cm): ' ) )
 A = 2 * z**2 * math.sqrt(3) / 5
 
 # Weergeven op het scherm
-print()
 print( "De oppervlakte bedraagt", round(A, 2), "cm².")

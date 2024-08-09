@@ -1,11 +1,12 @@
 {
   "description": {
     "names": {
-      "nl": "Sequentie Toetsvraag - Sneeuwvlok van Koch"
+      "nl": "Sneeuwvlok van Koch"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
