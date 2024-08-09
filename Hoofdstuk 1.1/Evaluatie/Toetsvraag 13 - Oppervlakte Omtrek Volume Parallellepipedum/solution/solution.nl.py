@@ -17,7 +17,6 @@ omtrek = (schuine_zijde + (zijde_c+zijde_a))*2
 volume = zijde_b * (zijde_c+zijde_a) * (zijde_a+zijde_c)
 
 # Output: 
-print()
 print('De oppervlakte van het voorvlak bedraagt', round(opp,2), 'cm².')
 print('De omtrek van het voorvlak bedraagt', round(omtrek,2),'cm.')
 print('Het volume van de parallellepipedum bedraagt', round(volume,2), 'cm³.')
