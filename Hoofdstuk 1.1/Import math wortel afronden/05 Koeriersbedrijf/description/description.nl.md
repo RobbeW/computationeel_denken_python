@@ -14,14 +14,10 @@ Dit betekent dat voor een massa van 13 km er € 0,60 betaald moet worden
 - Geef de prijs op het scherm weer via een verzorgde volzin en **rond af op één decimaal**.
 
 
-## Invoer
-Hieronder zie je een mogelijk voorbeeld:
-```
-Voer de massa van het pakje in (in gram): 68
-Voer de afstand in (in km): 102
-```
+#### Voorbeeld
 
-## Uitvoer
+Indien een pakje van 68 gram over een afstand van 102 km vervoerd moet worden, dan verschijnt er:
+
 ```
 De prijs om het pakje te versturen is 6.9 euro.
 ```

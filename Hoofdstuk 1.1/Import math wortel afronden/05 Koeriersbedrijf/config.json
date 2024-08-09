@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Koeriersbedrijf",
-      "en": "Import Math, Pi and Square Root - Postal Service"
+      "nl": "Import Math, Pi en Wortels - Koeriersbedrijf"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
