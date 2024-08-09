@@ -5,18 +5,13 @@ Bij het delen van twee getallen kan het resultaat een rest met of zonder quotië
 
 ## Gevraagd
 
-* Schrijf een programma dat de gebruiker vraagt naar twee gehele getallen `(== input-functie)`;
+* Schrijf een programma dat de gebruiker vraagt naar twee gehele getallen;
 * Bereken de **rest zonder quotiënt** van de twee getallen met behulp van de **modulo-operator**;
 * Geef deze rest weer op het scherm.
 
-## Invoer
+#### Voorbeeld
 
-```
-Voer het eerste getal in: 17
-Voer het tweede getal in: 4
-```
-
-## Uitvoer
+Voor achtereenvolgende invoer van `17` en `4` verschijnt er:
 
 ```
 17 delen door 4 heeft als rest 1

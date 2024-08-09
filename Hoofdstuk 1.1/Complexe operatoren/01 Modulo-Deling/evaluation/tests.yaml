@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "17\n4"
+      stdout: "17 delen door 4 heeft als rest 1\n"
+  - testcases:
+    - stdin: "15\n1"
+      stdout: "15 delen door 1 heeft als rest 0\n"
+  - testcases:
+    - stdin: "17\n11"
+      stdout: "17 delen door 11 heeft als rest 6\n"
+  - testcases:
+    - stdin: "737\n7"
+      stdout: "737 delen door 7 heeft als rest 2\n"
+  - testcases:
+    - stdin: "648\n38"
+      stdout: "648 delen door 38 heeft als rest 2\n"
+  - testcases:
+    - stdin: "234\n49"
+      stdout: "234 delen door 49 heeft als rest 38\n"
+  - testcases:
+    - stdin: "258\n50"
+      stdout: "258 delen door 50 heeft als rest 8\n"
+  - testcases:
+    - stdin: "620\n33"
+      stdout: "620 delen door 33 heeft als rest 26\n"
+  - testcases:
+    - stdin: "600\n47"
+      stdout: "600 delen door 47 heeft als rest 36\n"
+  - testcases:
+    - stdin: "932\n33"
+      stdout: "932 delen door 33 heeft als rest 8\n"
+  - testcases:
+    - stdin: "79\n49"
+      stdout: "79 delen door 49 heeft als rest 30\n"
+  - testcases:
+    - stdin: "343\n8"
+      stdout: "343 delen door 8 heeft als rest 7\n"
+  - testcases:
+    - stdin: "152\n54"
+      stdout: "152 delen door 54 heeft als rest 44\n"
+  - testcases:
+    - stdin: "358\n2"
+      stdout: "358 delen door 2 heeft als rest 0\n"
+  - testcases:
+    - stdin: "978\n57"
+      stdout: "978 delen door 57 heeft als rest 9\n"
+  - testcases:
+    - stdin: "506\n3"
+      stdout: "506 delen door 3 heeft als rest 2\n"
+  - testcases:
+    - stdin: "787\n54"
+      stdout: "787 delen door 54 heeft als rest 31\n"
+  - testcases:
+    - stdin: "377\n47"
+      stdout: "377 delen door 47 heeft als rest 1\n"
+  - testcases:
+    - stdin: "882\n15"
+      stdout: "882 delen door 15 heeft als rest 12\n"
+  - testcases:
+    - stdin: "494\n35"
+      stdout: "494 delen door 35 heeft als rest 4\n"

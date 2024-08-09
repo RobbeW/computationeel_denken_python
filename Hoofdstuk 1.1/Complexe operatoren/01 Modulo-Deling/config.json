@@ -4,12 +4,13 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Complexe Operatoren - De Modulo-Deling",
+      "nl": "Complexe Operatoren - De modulo-operator",
       "en": "Complex Operators - Modulo"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python"

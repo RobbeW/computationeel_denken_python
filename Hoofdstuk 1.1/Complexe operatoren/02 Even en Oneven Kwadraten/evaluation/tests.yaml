@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '7'
+      stdout: "Het kwadraat van het getal is: 49\nDe restwaarde van 49 / 2 = 1\n"
+  - testcases:
+    - stdin: '0'
+      stdout: "Het kwadraat van het getal is: 0\nDe restwaarde van 0 / 2 = 0\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "Het kwadraat van het getal is: 1\nDe restwaarde van 1 / 2 = 1\n"
+  - testcases:
+    - stdin: '92'
+      stdout: "Het kwadraat van het getal is: 8464\nDe restwaarde van 8464 / 2 = 0\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "Het kwadraat van het getal is: 144\nDe restwaarde van 144 / 2 = 0\n"
+  - testcases:
+    - stdin: '81'
+      stdout: "Het kwadraat van het getal is: 6561\nDe restwaarde van 6561 / 2 = 1\n"
+  - testcases:
+    - stdin: '75'
+      stdout: "Het kwadraat van het getal is: 5625\nDe restwaarde van 5625 / 2 = 1\n"
+  - testcases:
+    - stdin: '29'
+      stdout: "Het kwadraat van het getal is: 841\nDe restwaarde van 841 / 2 = 1\n"
+  - testcases:
+    - stdin: '97'
+      stdout: "Het kwadraat van het getal is: 9409\nDe restwaarde van 9409 / 2 = 1\n"
+  - testcases:
+    - stdin: '32'
+      stdout: "Het kwadraat van het getal is: 1024\nDe restwaarde van 1024 / 2 = 0\n"
+  - testcases:
+    - stdin: '99'
+      stdout: "Het kwadraat van het getal is: 9801\nDe restwaarde van 9801 / 2 = 1\n"
+  - testcases:
+    - stdin: '77'
+      stdout: "Het kwadraat van het getal is: 5929\nDe restwaarde van 5929 / 2 = 1\n"
+  - testcases:
+    - stdin: '65'
+      stdout: "Het kwadraat van het getal is: 4225\nDe restwaarde van 4225 / 2 = 1\n"
+  - testcases:
+    - stdin: '93'
+      stdout: "Het kwadraat van het getal is: 8649\nDe restwaarde van 8649 / 2 = 1\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "Het kwadraat van het getal is: 81\nDe restwaarde van 81 / 2 = 1\n"
+  - testcases:
+    - stdin: '42'
+      stdout: "Het kwadraat van het getal is: 1764\nDe restwaarde van 1764 / 2 = 0\n"
+  - testcases:
+    - stdin: '15'
+      stdout: "Het kwadraat van het getal is: 225\nDe restwaarde van 225 / 2 = 1\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "Het kwadraat van het getal is: 361\nDe restwaarde van 361 / 2 = 1\n"
+  - testcases:
+    - stdin: '44'
+      stdout: "Het kwadraat van het getal is: 1936\nDe restwaarde van 1936 / 2 = 0\n"
+  - testcases:
+    - stdin: '3'
+      stdout: "Het kwadraat van het getal is: 9\nDe restwaarde van 9 / 2 = 1\n"

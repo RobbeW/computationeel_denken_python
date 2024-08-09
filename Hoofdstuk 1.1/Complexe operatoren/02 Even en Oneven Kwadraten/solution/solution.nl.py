@@ -10,4 +10,3 @@ restwaarde = kwadraat % 2
 # Print de resultaten
 print("Het kwadraat van het getal is:", kwadraat)
 print("De restwaarde van", kwadraat, "/ 2 =", restwaarde)
-

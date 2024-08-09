@@ -3,22 +3,18 @@ Een geheel getal wordt ingevoerd in de computer.
 
 ## Gevraagd
 We schrijven een programma dat het kwadraat berekent van het gegeven getal en daarna nagaat of het kwadraat een even- of oneven getal is. 
-* Schrijf een programma dat vraagt naar een geheel getal (`== input-functie`);
+* Schrijf een programma dat vraagt naar een geheel getal;
 * Bepaal het **kwadraat** van dat geheel getal;
 * Bepaal de **restwaarde** van dit kwadraat bij deling door 2;
 * Geef de bevindingen weer op het scherm.
 
-## Invoer
+#### Voorbeeld
+
+Bij invoer `7` verschijnt er:
 
 ```
-Voer een geheel getal in: 7
-```
-
-## Uitvoer
-
-```
-Het kwadraat van het getal is: ...
-De restwaarde van ... / 2 = ...
+Het kwadraat van het getal is: 49
+De restwaarde van 49 / 2 = 1
 ```
 
 {: .callout.callout-info}
