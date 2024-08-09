@@ -1,6 +1,11 @@
 ## Gegeven
 
-Een rechthoek heeft een bepaalde lengte en breedte.
+Een rechthoek is per definitie een vierhoek met vier rechte hoeken. Deze heeft een lengte en breedte.
+
+![Een rechthoek](media/image.png "Een rechthoek."){:data-caption="Een rechthoek" .light-only width="30%"}
+
+![Een rechthoek](media/image_dark.png "Een rechthoek."){:data-caption="Een rechthoek" .dark-only width="30%"}
+
 
 ## Gevraagd
 
@@ -21,5 +26,5 @@ De omtrek van de rechthoek is 32.82 m.
 {: .callout.callout-info}
 >#### Tips
 >* Vergeet niet om de input om te zetten naar een `float` of `int`;
->* Wanneer je wil **concateneren**, kan je gebruik maken van een **komma (,)** of een **plus (+)**;
+>* Wanneer je wil **concateneren**, kan je gebruik maken van een komma `,` of een plus `+`;
 >* Een `,` zal automatisch een spatie invoeren, terwijl een `+` dat niet zal doen. 

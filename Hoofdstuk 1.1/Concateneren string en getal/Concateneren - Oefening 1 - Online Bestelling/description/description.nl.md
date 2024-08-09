@@ -19,6 +19,6 @@ De bestelling wordt verzonden naar: Karim Cerik in de Koekoekstraat.
 
 {: .callout.callout-info}
 >#### Tips
->* Wanneer je wil **concateneren**, kan je gebruik maken van een **komma (,)** of een **plus (+)**;
+>* Wanneer je wil **concateneren**, kan je gebruik maken van een komma `,` of een plus `+`;
 >* Een `,` zal automatisch een spatie invoeren, terwijl een `+` dat niet zal doen. 
 
