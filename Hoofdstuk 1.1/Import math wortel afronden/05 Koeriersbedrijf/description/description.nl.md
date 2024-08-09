@@ -16,7 +16,7 @@ Dit betekent dat voor een massa van 13 km er € 0,60 betaald moet worden
 
 #### Voorbeeld
 
-Indien een pakje van 68 gram over een afstand van 102 km vervoerd moet worden, dan verschijnt er:
+Indien een pakje van `68` gram over een afstand van `102` km vervoerd moet worden, dan verschijnt er:
 
 ```
 De prijs om het pakje te versturen is 6.9 euro.
