@@ -1,0 +1,63 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "146.32\n220.5"
+      stdout: "De omtrek bedraagt: 733.64 cm.\nDe oppervlakte bedraagt: 32263.56 cm².\n"
+  - testcases:
+    - stdin: "238.46\n219.27"
+      stdout: "De omtrek bedraagt: 915.46 cm.\nDe oppervlakte bedraagt: 52287.12 cm².\n"
+  - testcases:
+    - stdin: "130.33\n135.56"
+      stdout: "De omtrek bedraagt: 531.78 cm.\nDe oppervlakte bedraagt: 17667.53 cm².\n"
+  - testcases:
+    - stdin: "213.34\n209.04"
+      stdout: "De omtrek bedraagt: 844.76 cm.\nDe oppervlakte bedraagt: 44596.59 cm².\n"
+  - testcases:
+    - stdin: "280.43\n96.98"
+      stdout: "De omtrek bedraagt: 754.82 cm.\nDe oppervlakte bedraagt: 27196.1 cm².\n"
+  - testcases:
+    - stdin: "153.77\n112.79"
+      stdout: "De omtrek bedraagt: 533.12 cm.\nDe oppervlakte bedraagt: 17343.72 cm².\n"
+  - testcases:
+    - stdin: "264.91\n85.17"
+      stdout: "De omtrek bedraagt: 700.16 cm.\nDe oppervlakte bedraagt: 22562.38 cm².\n"
+  - testcases:
+    - stdin: "291.31\n188.81"
+      stdout: "De omtrek bedraagt: 960.24 cm.\nDe oppervlakte bedraagt: 55002.24 cm².\n"
+  - testcases:
+    - stdin: "249.27\n264.49"
+      stdout: "De omtrek bedraagt: 1027.52 cm.\nDe oppervlakte bedraagt: 65929.42
+        cm².\n"
+  - testcases:
+    - stdin: "238.63\n129.49"
+      stdout: "De omtrek bedraagt: 736.24 cm.\nDe oppervlakte bedraagt: 30900.2 cm².\n"
+  - testcases:
+    - stdin: "199.05\n180.6"
+      stdout: "De omtrek bedraagt: 759.3 cm.\nDe oppervlakte bedraagt: 35948.43 cm².\n"
+  - testcases:
+    - stdin: "200.73\n136.22"
+      stdout: "De omtrek bedraagt: 673.9 cm.\nDe oppervlakte bedraagt: 27343.44 cm².\n"
+  - testcases:
+    - stdin: "161.88\n174.22"
+      stdout: "De omtrek bedraagt: 672.2 cm.\nDe oppervlakte bedraagt: 28202.73 cm².\n"
+  - testcases:
+    - stdin: "140.46\n262.76"
+      stdout: "De omtrek bedraagt: 806.44 cm.\nDe oppervlakte bedraagt: 36907.27 cm².\n"
+  - testcases:
+    - stdin: "296.52\n164.07"
+      stdout: "De omtrek bedraagt: 921.18 cm.\nDe oppervlakte bedraagt: 48650.04 cm².\n"
+  - testcases:
+    - stdin: "237.86\n107.68"
+      stdout: "De omtrek bedraagt: 691.08 cm.\nDe oppervlakte bedraagt: 25612.76 cm².\n"
+  - testcases:
+    - stdin: "127.82\n198.92"
+      stdout: "De omtrek bedraagt: 653.48 cm.\nDe oppervlakte bedraagt: 25425.95 cm².\n"
+  - testcases:
+    - stdin: "187.78\n273.27"
+      stdout: "De omtrek bedraagt: 922.1 cm.\nDe oppervlakte bedraagt: 51314.64 cm².\n"
+  - testcases:
+    - stdin: "208.33\n244.79"
+      stdout: "De omtrek bedraagt: 906.24 cm.\nDe oppervlakte bedraagt: 50997.1 cm².\n"
+  - testcases:
+    - stdin: "161.93\n128.95"
+      stdout: "De omtrek bedraagt: 581.76 cm.\nDe oppervlakte bedraagt: 20880.87 cm².\n"
