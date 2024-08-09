@@ -1,7 +1,7 @@
 import math
 
 # Invoer vragen aan de gebruiker
-stardate = float( input( 'Geef de stardate in:' ) )
+stardate = float( input( 'Geef de stardate in: ' ) )
 
 # Eeuw bepalen
 Y = int( stardate // 100 + 1900 )
