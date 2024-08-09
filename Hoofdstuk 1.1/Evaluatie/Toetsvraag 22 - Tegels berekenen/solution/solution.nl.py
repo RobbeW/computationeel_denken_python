@@ -14,4 +14,5 @@ aantal_breedte = math.ceil( b_muur * 100 / z_tegel )
 aantal_tegels = math.ceil( aantal_hoogte * aantal_breedte * 1.07 )
 
 # Uitvoer
+print()
 print( 'U heeft',aantal_tegels, soort, 'tegels nodig voor een muur van', h_muur ,'x', b_muur ,'m.')
