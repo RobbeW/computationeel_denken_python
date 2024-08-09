@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Concateneren - Oppervlakte en Omtrek Rechthoek",
-      "en": "Combining - Dimensions Square"
+      "nl": "Concateneren - Oppervlakte en omtrek rechthoek",
+      "en": "Combining - Dimensions rectangle"
     }
   },
   "evaluation": {
