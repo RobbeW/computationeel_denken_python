@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '25'
+      stdout: "Het berekende getal b is: 575\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "Het berekende getal b is: 440\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "Het berekende getal b is: 360\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "Het berekende getal b is: 195\n"
+  - testcases:
+    - stdin: '30'
+      stdout: "Het berekende getal b is: 840\n"
+  - testcases:
+    - stdin: '28'
+      stdout: "Het berekende getal b is: 728\n"
+  - testcases:
+    - stdin: '17'
+      stdout: "Het berekende getal b is: 323\n"
+  - testcases:
+    - stdin: '29'
+      stdout: "Het berekende getal b is: 783\n"
+  - testcases:
+    - stdin: '26'
+      stdout: "Het berekende getal b is: 624\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "Het berekende getal b is: 168\n"
+  - testcases:
+    - stdin: '14'
+      stdout: "Het berekende getal b is: 224\n"
+  - testcases:
+    - stdin: '21'
+      stdout: "Het berekende getal b is: 399\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "Het berekende getal b is: 120\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "Het berekende getal b is: 143\n"
+  - testcases:
+    - stdin: '27'
+      stdout: "Het berekende getal b is: 675\n"
+  - testcases:
+    - stdin: '24'
+      stdout: "Het berekende getal b is: 528\n"
+  - testcases:
+    - stdin: '23'
+      stdout: "Het berekende getal b is: 483\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "Het berekende getal b is: 399\n"
+  - testcases:
+    - stdin: '22'
+      stdout: "Het berekende getal b is: 440\n"
+  - testcases:
+    - stdin: '15'
+      stdout: "Het berekende getal b is: 255\n"

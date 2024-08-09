@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF en ELSE - Positief, Negatief of Nul",
-      "en": "IF and ELSE function - Positive, Negative or Zero"
+      "nl": "Werken met IF en ELSE - Positief, negatief of nul"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

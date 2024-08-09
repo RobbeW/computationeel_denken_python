@@ -1,11 +1,11 @@
 ## Gegeven
-Een getal $$a$$ wordt ingelezen en doorloopt een volledige beslissingsboom. 
+Een getal $$\mathsf{a}$$ wordt ingelezen en doorloopt een volledige beslissingsboom. 
 
 ## Gevraagd
-* Lees een **geheel getal** $$a$$ in.
-* Is $$a$$ groter dan 20, bereken dan $$b$$ als volgt: $$b = a^2 - 2 \cdot a$$;
-* In het andere geval, bereken dan $$b$$ als volgt: $$b = a^2 + 2 \cdot a$$;
-* Toon tot slot het getal $$b$$.
+* Lees een **geheel getal** $$\mathsf{a}$$ in.
+* Is $$\mathsf{a}$$ groter dan 20, bereken dan $$\mathsf{b}$$ als volgt: $$\mathsf{b = a^2 - 2 \cdot a}$$;
+* In het andere geval, bereken dan $$b$$ als volgt: $$\mathsf{b = a^2 + 2 \cdot a}$$;
+* Toon tot slot het getal $$\mathsf{b}$$.
 
 #### Voorbeeld
 ```
