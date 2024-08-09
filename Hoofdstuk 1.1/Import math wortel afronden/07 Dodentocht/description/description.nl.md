@@ -6,7 +6,7 @@ De <a href="https://nl.wikipedia.org/wiki/Dodentocht_Bornem" target="_blank">Dod
 
 <div class="hidden-print">
     <div class="dodona-centered-group">
-    <iframe width="560" height="285" src="https://www.youtube.com/embed/_fvof1-mDGo?si=ckHbGITSrLdSvajA&amp;start=2" title="Dodentocht 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="784" height="327" src="https://www.youtube.com/embed/_fvof1-mDGo?si=ckHbGITSrLdSvajA" title="Dodentocht 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
