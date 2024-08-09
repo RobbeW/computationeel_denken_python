@@ -20,13 +20,9 @@ restbedrag = bedrag % 50      # dit berekent de rest zonder quotiënt en kent de
 
 * Print het totale aantal biljetten en munten dat nodig is om het bedrag te betalen. 
 
-## Invoer
+#### Voorbeeld
 
-```
-Voer een bedrag in: 2543
-```
-
-## Uitvoer
+Bij een invoer van € 2 543 verschijnt er:
 
 ```
 biljet 50: 50

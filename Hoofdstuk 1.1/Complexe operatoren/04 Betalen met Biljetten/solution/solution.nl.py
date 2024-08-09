@@ -17,6 +17,7 @@ restbedrag %= 5
 aantal_twee = restbedrag // 2
 aantal_een = restbedrag % 2
 
+print()
 # Print het aantal benodigde biljetten en munten
 print( 'biljet 50:', aantal_vijftig )
 print( 'biljet 20:', aantal_twintig )
