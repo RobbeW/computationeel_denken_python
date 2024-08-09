@@ -1,7 +1,7 @@
 import math
 
 # Vraag de gebruiker naar de omtrek van de cirkel
-omtrek = float(input("De omtrek van de cirkel bedraagt: "))
+omtrek = float(input("Geef de omtrek van de cirkel: "))
 
 # Bereken de straal van de cirkel
 straal = omtrek / (2 * math.pi)
