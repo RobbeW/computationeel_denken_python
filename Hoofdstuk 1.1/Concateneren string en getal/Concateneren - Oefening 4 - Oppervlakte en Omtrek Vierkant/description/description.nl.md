@@ -1,6 +1,6 @@
 ## Gegeven
 
-Per definitie is een vierkant een rechthoek met 4 even lange zijde. Ook hiervan kan je gemakkelijk de omtrek en oppervlakte berekenen.
+Per definitie is een vierkant een rechthoek met 4 even lange zijden. Ook hiervan kan je gemakkelijk de omtrek en oppervlakte berekenen.
 
 ## Gevraagd
 
