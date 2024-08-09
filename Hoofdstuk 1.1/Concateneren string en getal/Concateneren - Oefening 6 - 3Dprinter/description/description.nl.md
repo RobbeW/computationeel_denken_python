@@ -3,7 +3,7 @@
 Bij een 3D-printer worden de motoren bestuurd door kleine electronica bordjes genaamd *drivers*. De A4988 is een van de meeste gebruikte drivers. Opdat de driver goed werkt moet de elektrische spanning V<span style="vertical-align: sub;">ref</span> correct worden ingesteld. Dit gebeurt met de volgende formule:
 
 $$
-V_{\text{ref}} = 8\cdot 0,05 \cdot I
+\mathsf{V_{\text{ref}} = 8\cdot 0,05 \cdot I}
 $$
 
 waarbij I de stroomsterkte voorstelt die de motor nodig heeft.
