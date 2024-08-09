@@ -10,14 +10,9 @@ Om te berekenen hoeveel rollen behangpapier er nodig zijn om een muur te behange
 - Bereken het aantal rollen behangpapier dat nodig is om de muur te behangen;
 - Geef dit aantal rollen weer op het scherm.
 
-## Invoer
-Hieronder zie je een mogelijk voorbeeld:
-```
-Voer de lengte van de muur in (in meter): 20
-Voer de hoogte van de muur in (in meter): 2.8
-```
+#### Voorbeeld
 
-## Uitvoer
+Bij een lengte van `20.0` en een hoogte van `2.8` meter verschijnt er:
 
 ```
 Het aantal benodigde rollen behangpapier is 11 rollen.
@@ -27,4 +22,4 @@ Het aantal benodigde rollen behangpapier is 11 rollen.
 >#### Tips
 > - Vergeet niet om de `input` om te zetten naar een `float` of `int`.
 > - Bereken de oppervlak van één rol behangpapier. (**Let op**: de breedte moet in meters worden omgezet).
-> - Bereken het aantal benodigde rollen behangpapier door de oppervlakte van de muur te delen door de oppervlakte van één rol behangpapier en **rond dit getal naar boven af** met behulp van `math.ceil()`. (Importeer dus ook de bibliotheek `math`)
+> - Je kan geen halve rollen behangpapier kopen. Indien je 10.8 rollen nodig hebt, dien je er dus 11 te kopen.

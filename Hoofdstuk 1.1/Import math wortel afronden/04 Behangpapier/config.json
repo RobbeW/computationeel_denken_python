@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Behangpapier",
-      "en": "Import Math, Pi and Square Root - Decorating the Home"
+      "nl": "Import Math, Pi en Wortels - Behangpapier"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

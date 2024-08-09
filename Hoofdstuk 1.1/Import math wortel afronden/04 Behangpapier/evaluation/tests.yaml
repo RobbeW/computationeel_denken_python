@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "20\n2.8"
+      stdout: "Het aantal benodigde rollen behangpapier is 11 rollen.\n"
+  - testcases:
+    - stdin: "18\n2.6"
+      stdout: "Het aantal benodigde rollen behangpapier is 9 rollen.\n"
+  - testcases:
+    - stdin: "22\n2.8"
+      stdout: "Het aantal benodigde rollen behangpapier is 12 rollen.\n"
+  - testcases:
+    - stdin: "34\n2.5"
+      stdout: "Het aantal benodigde rollen behangpapier is 17 rollen.\n"
+  - testcases:
+    - stdin: "31\n2.1"
+      stdout: "Het aantal benodigde rollen behangpapier is 13 rollen.\n"
+  - testcases:
+    - stdin: "25\n2.1"
+      stdout: "Het aantal benodigde rollen behangpapier is 11 rollen.\n"
+  - testcases:
+    - stdin: "26\n2.0"
+      stdout: "Het aantal benodigde rollen behangpapier is 10 rollen.\n"
+  - testcases:
+    - stdin: "30\n2.0"
+      stdout: "Het aantal benodigde rollen behangpapier is 12 rollen.\n"
+  - testcases:
+    - stdin: "26\n2.7"
+      stdout: "Het aantal benodigde rollen behangpapier is 14 rollen.\n"
+  - testcases:
+    - stdin: "22\n2.5"
+      stdout: "Het aantal benodigde rollen behangpapier is 11 rollen.\n"
+  - testcases:
+    - stdin: "16\n2.5"
+      stdout: "Het aantal benodigde rollen behangpapier is 8 rollen.\n"
+  - testcases:
+    - stdin: "32\n2.1"
+      stdout: "Het aantal benodigde rollen behangpapier is 13 rollen.\n"
+  - testcases:
+    - stdin: "17\n2.4"
+      stdout: "Het aantal benodigde rollen behangpapier is 8 rollen.\n"
+  - testcases:
+    - stdin: "28\n2.9"
+      stdout: "Het aantal benodigde rollen behangpapier is 16 rollen.\n"
+  - testcases:
+    - stdin: "32\n2.8"
+      stdout: "Het aantal benodigde rollen behangpapier is 18 rollen.\n"
+  - testcases:
+    - stdin: "24\n2.4"
+      stdout: "Het aantal benodigde rollen behangpapier is 12 rollen.\n"
+  - testcases:
+    - stdin: "16\n2.1"
+      stdout: "Het aantal benodigde rollen behangpapier is 7 rollen.\n"
+  - testcases:
+    - stdin: "21\n2.8"
+      stdout: "Het aantal benodigde rollen behangpapier is 12 rollen.\n"
+  - testcases:
+    - stdin: "27\n2.5"
+      stdout: "Het aantal benodigde rollen behangpapier is 13 rollen.\n"
+  - testcases:
+    - stdin: "31\n2.6"
+      stdout: "Het aantal benodigde rollen behangpapier is 16 rollen.\n"
