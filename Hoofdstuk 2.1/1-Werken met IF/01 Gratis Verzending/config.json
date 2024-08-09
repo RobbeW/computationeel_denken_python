@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF - Gratis Verzending",
-      "en": "Using the IF-function - Free Postage"
+      "nl": "Werken met IF - Gratis verzending"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

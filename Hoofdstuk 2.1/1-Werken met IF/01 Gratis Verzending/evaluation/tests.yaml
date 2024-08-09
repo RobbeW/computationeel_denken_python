@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '25.5'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '20.0'
+      stdout: ''
+  - testcases:
+    - stdin: '22.2'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '21.33'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '17.29'
+      stdout: ''
+  - testcases:
+    - stdin: '17.53'
+      stdout: ''
+  - testcases:
+    - stdin: '21.06'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '20.87'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '24.11'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '15.77'
+      stdout: ''
+  - testcases:
+    - stdin: '18.35'
+      stdout: ''
+  - testcases:
+    - stdin: '16.49'
+      stdout: ''
+  - testcases:
+    - stdin: '23.41'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '15.23'
+      stdout: ''
+  - testcases:
+    - stdin: '24.6'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '19.95'
+      stdout: ''
+  - testcases:
+    - stdin: '22.69'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '23.39'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '22.21'
+      stdout: "Je komt in aanmerking voor gratis verzending.\n"
+  - testcases:
+    - stdin: '17.25'
+      stdout: ''
