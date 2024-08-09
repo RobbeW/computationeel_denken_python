@@ -1,0 +1,82 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "4.4\n8.6\n5.0"
+      stdout: "Het prisma heeft een volume van 94.6 cm³.\nHet prisma heeft een oppervlakte
+        van 134.442 cm².\n"
+  - testcases:
+    - stdin: "5.6\n10.7\n4.5"
+      stdout: "Het prisma heeft een volume van 134.82 cm³.\nHet prisma heeft een oppervlakte
+        van 168.612 cm².\n"
+  - testcases:
+    - stdin: "3.3\n8.1\n5.2"
+      stdout: "Het prisma heeft een volume van 69.5 cm³.\nHet prisma heeft een oppervlakte
+        van 117.693 cm².\n"
+  - testcases:
+    - stdin: "6.6\n7.2\n4.7"
+      stdout: "Het prisma heeft een volume van 111.67 cm³.\nHet prisma heeft een oppervlakte
+        van 139.333 cm².\n"
+  - testcases:
+    - stdin: "2.7\n9.4\n4.0"
+      stdout: "Het prisma heeft een volume van 50.76 cm³.\nHet prisma heeft een oppervlakte
+        van 103.621 cm².\n"
+  - testcases:
+    - stdin: "6.8\n10.8\n5.5"
+      stdout: "Het prisma heeft een volume van 201.96 cm³.\nHet prisma heeft een oppervlakte
+        van 213.827 cm².\n"
+  - testcases:
+    - stdin: "6.2\n12.0\n4.4"
+      stdout: "Het prisma heeft een volume van 163.68 cm³.\nHet prisma heeft een oppervlakte
+        van 193.262 cm².\n"
+  - testcases:
+    - stdin: "4.7\n8.4\n5.1"
+      stdout: "Het prisma heeft een volume van 100.67 cm³.\nHet prisma heeft een oppervlakte
+        van 137.66 cm².\n"
+  - testcases:
+    - stdin: "3.3\n6.3\n4.9"
+      stdout: "Het prisma heeft een volume van 50.94 cm³.\nHet prisma heeft een oppervlakte
+        van 90.487 cm².\n"
+  - testcases:
+    - stdin: "3.4\n10.0\n6.0"
+      stdout: "Het prisma heeft een volume van 102.0 cm³.\nHet prisma heeft een oppervlakte
+        van 160.746 cm².\n"
+  - testcases:
+    - stdin: "3.9\n9.6\n4.3"
+      stdout: "Het prisma heeft een volume van 80.5 cm³.\nHet prisma heeft een oppervlakte
+        van 126.553 cm².\n"
+  - testcases:
+    - stdin: "3.1\n7.4\n5.0"
+      stdout: "Het prisma heeft een volume van 57.35 cm³.\nHet prisma heeft een oppervlakte
+        van 103.171 cm².\n"
+  - testcases:
+    - stdin: "6.4\n11.1\n5.5"
+      stdout: "Het prisma heeft een volume van 195.36 cm³.\nHet prisma heeft een oppervlakte
+        van 211.982 cm².\n"
+  - testcases:
+    - stdin: "3.9\n5.7\n4.2"
+      stdout: "Het prisma heeft een volume van 46.68 cm³.\nHet prisma heeft een oppervlakte
+        van 80.245 cm².\n"
+  - testcases:
+    - stdin: "2.7\n5.9\n5.6"
+      stdout: "Het prisma heeft een volume van 44.6 cm³.\nHet prisma heeft een oppervlakte
+        van 88.601 cm².\n"
+  - testcases:
+    - stdin: "3.0\n5.2\n4.4"
+      stdout: "Het prisma heeft een volume van 34.32 cm³.\nHet prisma heeft een oppervlakte
+        van 68.429 cm².\n"
+  - testcases:
+    - stdin: "4.0\n10.9\n4.9"
+      stdout: "Het prisma heeft een volume van 106.82 cm³.\nHet prisma heeft een oppervlakte
+        van 157.386 cm².\n"
+  - testcases:
+    - stdin: "5.4\n10.6\n5.3"
+      stdout: "Het prisma heeft een volume van 151.69 cm³.\nHet prisma heeft een oppervlakte
+        van 183.34 cm².\n"
+  - testcases:
+    - stdin: "4.0\n7.0\n5.4"
+      stdout: "Het prisma heeft een volume van 75.6 cm³.\nHet prisma heeft een oppervlakte
+        van 115.072 cm².\n"
+  - testcases:
+    - stdin: "5.5\n7.9\n6.0"
+      stdout: "Het prisma heeft een volume van 130.35 cm³.\nHet prisma heeft een oppervlakte
+        van 158.962 cm².\n"
