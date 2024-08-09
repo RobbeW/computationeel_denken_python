@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "7\n21"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 21.\n"
+  - testcases:
+    - stdin: "18\n18"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "54\n20"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 54.\n"
+  - testcases:
+    - stdin: "21\n21"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "51\n51"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "45\n53"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 53.\n"
+  - testcases:
+    - stdin: "53\n12"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 53.\n"
+  - testcases:
+    - stdin: "14\n6"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 14.\n"
+  - testcases:
+    - stdin: "36\n36"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "54\n51"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 54.\n"
+  - testcases:
+    - stdin: "60\n35"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 60.\n"
+  - testcases:
+    - stdin: "39\n39"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "34\n40"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 40.\n"
+  - testcases:
+    - stdin: "13\n9"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 13.\n"
+  - testcases:
+    - stdin: "28\n28"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "32\n40"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 40.\n"
+  - testcases:
+    - stdin: "58\n29"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 58.\n"
+  - testcases:
+    - stdin: "16\n16"
+      stdout: "De getallen zijn gelijk.\n"
+  - testcases:
+    - stdin: "13\n18"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 18.\n"
+  - testcases:
+    - stdin: "56\n36"
+      stdout: "De getallen zijn ongelijk.\nHet grootste getal is 56.\n"

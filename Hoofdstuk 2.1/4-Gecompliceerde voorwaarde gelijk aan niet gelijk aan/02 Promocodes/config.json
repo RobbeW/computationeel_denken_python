@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Gecompliceerde Voorwaarden - Gelijk-Ongelijk - Promocodes",
-      "en": "Complicated Conditions - Equals-Unequals - Promo Codes"
+      "nl": "Promocodes"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",

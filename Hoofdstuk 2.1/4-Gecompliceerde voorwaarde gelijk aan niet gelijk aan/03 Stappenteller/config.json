@@ -2,11 +2,12 @@
   "type": "exercise",
   "programming_language": "python",
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "description": {
     "names": {
-      "nl": "Gecompliceerde Voorwaarden - Gelijk-Ongelijk - Stappenteller"
+      "nl": "Stappenteller"
     }
   },
   "labels": [

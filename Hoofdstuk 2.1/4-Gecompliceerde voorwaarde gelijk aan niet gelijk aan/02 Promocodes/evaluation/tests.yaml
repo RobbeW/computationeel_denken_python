@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "50.0\nTwitch20"
+      stdout: "Het te betalen bedrag is 44.8 euro.\n"
+  - testcases:
+    - stdin: "33.0\nnovember10"
+      stdout: "Het te betalen bedrag is 34.5 euro.\n"
+  - testcases:
+    - stdin: "56.1\n "
+      stdout: "Het te betalen bedrag is 60.9 euro.\n"
+  - testcases:
+    - stdin: "65.3\n "
+      stdout: "Het te betalen bedrag is 70.1 euro.\n"
+  - testcases:
+    - stdin: "23.05\n "
+      stdout: "Het te betalen bedrag is 27.85 euro.\n"
+  - testcases:
+    - stdin: "77.45\nTwitch20"
+      stdout: "Het te betalen bedrag is 66.76 euro.\n"
+  - testcases:
+    - stdin: "78.85\nTwitch20"
+      stdout: "Het te betalen bedrag is 67.88 euro.\n"
+  - testcases:
+    - stdin: "29.6\n "
+      stdout: "Het te betalen bedrag is 34.4 euro.\n"
+  - testcases:
+    - stdin: "50.75\n "
+      stdout: "Het te betalen bedrag is 55.55 euro.\n"
+  - testcases:
+    - stdin: "17.45\nTwitch20"
+      stdout: "Het te betalen bedrag is 18.76 euro.\n"
+  - testcases:
+    - stdin: "56.25\n "
+      stdout: "Het te betalen bedrag is 61.05 euro.\n"
+  - testcases:
+    - stdin: "61.6\nnovember10"
+      stdout: "Het te betalen bedrag is 60.24 euro.\n"
+  - testcases:
+    - stdin: "67.65\nnovember10"
+      stdout: "Het te betalen bedrag is 65.69 euro.\n"
+  - testcases:
+    - stdin: "72.15\n "
+      stdout: "Het te betalen bedrag is 76.95 euro.\n"
+  - testcases:
+    - stdin: "39.2\n "
+      stdout: "Het te betalen bedrag is 44.0 euro.\n"
+  - testcases:
+    - stdin: "43.65\nTwitch20"
+      stdout: "Het te betalen bedrag is 39.72 euro.\n"
+  - testcases:
+    - stdin: "60.95\nnovember10"
+      stdout: "Het te betalen bedrag is 59.66 euro.\n"
+  - testcases:
+    - stdin: "19.3\n "
+      stdout: "Het te betalen bedrag is 24.1 euro.\n"
+  - testcases:
+    - stdin: "45.1\n "
+      stdout: "Het te betalen bedrag is 49.9 euro.\n"
+  - testcases:
+    - stdin: "56.35\n "
+      stdout: "Het te betalen bedrag is 61.15 euro.\n"

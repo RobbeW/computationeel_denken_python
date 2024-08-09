@@ -1,4 +1,4 @@
-aantalStappen = int( input( 'Hoeveel stappen moet je nog zetten?' ) )
+aantalStappen = int( input( 'Hoeveel stappen moet je nog zetten? ' ) )
 
 teDoen = 10000 - aantalStappen
 

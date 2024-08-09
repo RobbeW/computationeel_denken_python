@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Gecompliceerde Voorwaarden - Gelijk-Ongelijk - Getallen Vergelijken",
-      "en": "Complicated Conditions - Equal Unequal - Comparing Numbers"
+      "nl": "Getallen vergelijken"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
