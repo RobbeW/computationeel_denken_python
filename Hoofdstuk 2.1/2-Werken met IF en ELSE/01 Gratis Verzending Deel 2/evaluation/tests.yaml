@@ -1,0 +1,82 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '18.0'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 22.0 euro.\n"
+  - testcases:
+    - stdin: '21.0'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 21.0 euro.\n"
+  - testcases:
+    - stdin: '20.0'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 20.0 euro.\n"
+  - testcases:
+    - stdin: '22.2'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 22.2 euro.\n"
+  - testcases:
+    - stdin: '22.6'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 22.6 euro.\n"
+  - testcases:
+    - stdin: '22.7'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 22.7 euro.\n"
+  - testcases:
+    - stdin: '16.55'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 20.55 euro.\n"
+  - testcases:
+    - stdin: '15.25'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 19.25 euro.\n"
+  - testcases:
+    - stdin: '15.45'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 19.45 euro.\n"
+  - testcases:
+    - stdin: '19.8'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 23.8 euro.\n"
+  - testcases:
+    - stdin: '19.6'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 23.6 euro.\n"
+  - testcases:
+    - stdin: '17.65'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 21.65 euro.\n"
+  - testcases:
+    - stdin: '20.65'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 20.65 euro.\n"
+  - testcases:
+    - stdin: '18.8'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 22.8 euro.\n"
+  - testcases:
+    - stdin: '16.3'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 20.3 euro.\n"
+  - testcases:
+    - stdin: '23.15'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 23.15 euro.\n"
+  - testcases:
+    - stdin: '19.95'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 23.95 euro.\n"
+  - testcases:
+    - stdin: '22.55'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 22.55 euro.\n"
+  - testcases:
+    - stdin: '21.1'
+      stdout: "Je komt in aanmerking voor gratis verzending.\nHet totaalbedrag inclusief
+        verzending is 21.1 euro.\n"
+  - testcases:
+    - stdin: '16.0'
+      stdout: "Je komt niet in aanmerking voor gratis verzending.\nHet totaalbedrag
+        inclusief verzending is 20.0 euro.\n"

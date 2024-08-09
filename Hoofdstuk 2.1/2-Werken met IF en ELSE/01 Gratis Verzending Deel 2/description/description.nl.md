@@ -14,7 +14,8 @@ Voer het aankoopbedrag in: 18.00
 ```
 Leidt tot de uitvoer
 ```
-Je komt niet in aanmerking voor gratis verzending. Het totaalbedrag inclusief verzending is 22.0 euro.
+Je komt niet in aanmerking voor gratis verzending.
+Het totaalbedrag inclusief verzending is 22.0 euro.
 ```
 
 #### Voorbeeld 2
@@ -23,7 +24,8 @@ Voer het aankoopbedrag in: 21.00
 ```
 Leidt tot de uitvoer
 ```
-Je komt in aanmerking voor gratis verzending. Het totaalbedrag inclusief verzending is 21.0 euro.
+Je komt in aanmerking voor gratis verzending.
+Het totaalbedrag inclusief verzending is 21.0 euro.
 ```
 
 {: .callout.callout-info}
