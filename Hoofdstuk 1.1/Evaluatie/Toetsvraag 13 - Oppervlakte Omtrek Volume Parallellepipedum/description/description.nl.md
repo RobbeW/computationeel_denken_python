@@ -1,37 +1,33 @@
-## Gegeven:
+## Gegeven
 Een parallellepipedum (probeer dat maar eens driemaal na elkaar uit te spreken) is een ruimtefiguur waarvan elk zijvlak opgebouwd is uit een parallellogram. 
-Via de figuur hieronder zie je drie gegeven afmetingen: A, B en C.
 
-![De parallellepipedum met ABC-notaties.](media/parallellepipedum.png "De parallellepipedum met ABC-notaties"){:data-caption="De parallellepipedum met ABC-notaties" width="50%"}
+In onderstaande figuur vormt het grondvlak een vierkant en krijg je drie afmetingen: a, b en c.
 
+![Een parallellepipedum.](media/image.png "Een parallellepipedum."){:data-caption="Een parallellepipedum." .light-only width="25%"}
 
-## Gevraagd: 
-* Schrijf een programma dat `vraagt` naar de lengte van A, B en C; 
-* Bereken de **oppervlakte van één zijvlak**, `rond af` naar twee decimalen en `print` dit naar het scherm; 
-* Bereken de **omtrek van één zijvlak**, `rond af` naar twee decimalen en `print` dit naar het scherm; 
-* Bereken het **volume van de volledige figuur**, `rond af` naar twee decimalen en `print` dit naar het scherm; 
+![Een parallellepipedum.](media/image_dark.png "Een parallellepipedum."){:data-caption="Een parallellepipedum." .dark-only width="25%"}
 
 
-## Invoer: 
+## Gevraagd
+* Schrijf een programma dat `vraagt` naar de lengte van a, b en c; 
+* Bereken de **oppervlakte van het voorvlak** (het blauwe vlak), `rond af` naar twee decimalen en `print` dit naar het scherm; 
+* Bereken de **omtrek van het voorvlak**, `rond af` naar twee decimalen en `print` dit naar het scherm; 
+* Bereken het **volume van de volledige figuur**, `rond af` naar twee decimalen en `print` dit naar het scherm.
+
+
+#### Voorbeeld
+Indien `a` `6.8` cm, `b` `10.8` en `c` `2.54` cm meet, dan verschijnt er:
+
 ```
-Voer de lengte in van A (in cm): 6.8
-Voer de lengte in van B (in cm): 10.8
-Voer de lengte in van C (in cm): 2.54 
-```
-
-## Uitvoer: 
-
-Rond de `oppervlakte`, `omtrek`, en `volume` af tot **twee decimalen**. 
-```
-De oppervlakte van één zijvlak bedraagt ... vierkante cm.
-De omtrek van één zijvlak bedraagt ... cm. 
-Het volume van de parallellepipedum bedraagt ... kubieke cm. 
+De oppervlakte van het voorvlak bedraagt 100.87 cm².
+De omtrek van het voorvlak bedraagt 40.87 cm.
+Het volume van de parallellepipedum bedraagt 942.14 cm³.
 ```
 
 {: .callout.callout-info}
 >#### Tips
 > * Start jouw algoritme met een `import math`.
-> * Je zal de **stelling van Pythagoras** moeten gebruiken.  
+> * Je zal de **telling van Pythagoras** moeten gebruiken.  
 > * De formule voor dit volume is dezelfde als deze voor een balk. 
 
 
