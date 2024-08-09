@@ -1,0 +1,82 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "8\n6"
+      stdout: "De omtrek van de ruit is 20.0 cm.\nDe oppervlakte van de ruit is 24.0
+        cm².\n"
+  - testcases:
+    - stdin: "15\n5"
+      stdout: "De omtrek van de ruit is 31.62 cm.\nDe oppervlakte van de ruit is 37.5
+        cm².\n"
+  - testcases:
+    - stdin: "14\n13"
+      stdout: "De omtrek van de ruit is 38.21 cm.\nDe oppervlakte van de ruit is 91.0
+        cm².\n"
+  - testcases:
+    - stdin: "16\n7"
+      stdout: "De omtrek van de ruit is 34.93 cm.\nDe oppervlakte van de ruit is 56.0
+        cm².\n"
+  - testcases:
+    - stdin: "16\n8"
+      stdout: "De omtrek van de ruit is 35.78 cm.\nDe oppervlakte van de ruit is 64.0
+        cm².\n"
+  - testcases:
+    - stdin: "13\n12"
+      stdout: "De omtrek van de ruit is 35.38 cm.\nDe oppervlakte van de ruit is 78.0
+        cm².\n"
+  - testcases:
+    - stdin: "15\n13"
+      stdout: "De omtrek van de ruit is 39.7 cm.\nDe oppervlakte van de ruit is 97.5
+        cm².\n"
+  - testcases:
+    - stdin: "12\n5"
+      stdout: "De omtrek van de ruit is 26.0 cm.\nDe oppervlakte van de ruit is 30.0
+        cm².\n"
+  - testcases:
+    - stdin: "16\n9"
+      stdout: "De omtrek van de ruit is 36.72 cm.\nDe oppervlakte van de ruit is 72.0
+        cm².\n"
+  - testcases:
+    - stdin: "6\n5"
+      stdout: "De omtrek van de ruit is 15.62 cm.\nDe oppervlakte van de ruit is 15.0
+        cm².\n"
+  - testcases:
+    - stdin: "9\n4"
+      stdout: "De omtrek van de ruit is 19.7 cm.\nDe oppervlakte van de ruit is 18.0
+        cm².\n"
+  - testcases:
+    - stdin: "11\n4"
+      stdout: "De omtrek van de ruit is 23.41 cm.\nDe oppervlakte van de ruit is 22.0
+        cm².\n"
+  - testcases:
+    - stdin: "16\n9"
+      stdout: "De omtrek van de ruit is 36.72 cm.\nDe oppervlakte van de ruit is 72.0
+        cm².\n"
+  - testcases:
+    - stdin: "15\n7"
+      stdout: "De omtrek van de ruit is 33.11 cm.\nDe oppervlakte van de ruit is 52.5
+        cm².\n"
+  - testcases:
+    - stdin: "12\n11"
+      stdout: "De omtrek van de ruit is 32.56 cm.\nDe oppervlakte van de ruit is 66.0
+        cm².\n"
+  - testcases:
+    - stdin: "11\n4"
+      stdout: "De omtrek van de ruit is 23.41 cm.\nDe oppervlakte van de ruit is 22.0
+        cm².\n"
+  - testcases:
+    - stdin: "12\n7"
+      stdout: "De omtrek van de ruit is 27.78 cm.\nDe oppervlakte van de ruit is 42.0
+        cm².\n"
+  - testcases:
+    - stdin: "8\n6"
+      stdout: "De omtrek van de ruit is 20.0 cm.\nDe oppervlakte van de ruit is 24.0
+        cm².\n"
+  - testcases:
+    - stdin: "9\n5"
+      stdout: "De omtrek van de ruit is 20.59 cm.\nDe oppervlakte van de ruit is 22.5
+        cm².\n"
+  - testcases:
+    - stdin: "10\n4"
+      stdout: "De omtrek van de ruit is 21.54 cm.\nDe oppervlakte van de ruit is 20.0
+        cm².\n"
