@@ -1,0 +1,77 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Volvo\n1\nABC\n003"
+      stdout: "De nummerplaat 1-ABC-003 is toegekend aan een Volvo.\n"
+  - testcases:
+    - stdin: "Fiat\n1\nXVH\n498"
+      stdout: "De nummerplaat 1-XVH-498 is toegekend aan een Fiat.\n"
+  - testcases:
+    - stdin: "Abarth\n1\nLDE\n507"
+      stdout: "De nummerplaat 1-LDE-507 is toegekend aan een Abarth.\n"
+  - testcases:
+    - stdin: "Volvo\n2\nHSU\n073"
+      stdout: "De nummerplaat 2-HSU-073 is toegekend aan een Volvo.\n"
+  - testcases:
+    - stdin: "Ferrari\n1\nJCM\n064"
+      stdout: "De nummerplaat 1-JCM-064 is toegekend aan een Ferrari.\n"
+  - testcases:
+    - stdin: "Ferrari\n2\nNFZ\n023"
+      stdout: "De nummerplaat 2-NFZ-023 is toegekend aan een Ferrari.\n"
+  - testcases:
+    - stdin: "Lamborgini\n2\nSFT\n970"
+      stdout: "De nummerplaat 2-SFT-970 is toegekend aan een Lamborgini.\n"
+  - testcases:
+    - stdin: "Renault\n1\nEDR\n263"
+      stdout: "De nummerplaat 1-EDR-263 is toegekend aan een Renault.\n"
+  - testcases:
+    - stdin: "Lada\n1\nTJY\n316"
+      stdout: "De nummerplaat 1-TJY-316 is toegekend aan een Lada.\n"
+  - testcases:
+    - stdin: "Lamborgini\n2\nZBX\n566"
+      stdout: "De nummerplaat 2-ZBX-566 is toegekend aan een Lamborgini.\n"
+  - testcases:
+    - stdin: "Toyota\n2\nWZJ\n435"
+      stdout: "De nummerplaat 2-WZJ-435 is toegekend aan een Toyota.\n"
+  - testcases:
+    - stdin: "Opel\n1\nULD\n371"
+      stdout: "De nummerplaat 1-ULD-371 is toegekend aan een Opel.\n"
+  - testcases:
+    - stdin: "Fiat\n2\nHKT\n960"
+      stdout: "De nummerplaat 2-HKT-960 is toegekend aan een Fiat.\n"
+  - testcases:
+    - stdin: "Lamborgini\n2\nHZY\n097"
+      stdout: "De nummerplaat 2-HZY-097 is toegekend aan een Lamborgini.\n"
+  - testcases:
+    - stdin: "Renault\n2\nLFS\n173"
+      stdout: "De nummerplaat 2-LFS-173 is toegekend aan een Renault.\n"
+  - testcases:
+    - stdin: "Mercedes\n1\nEDE\n274"
+      stdout: "De nummerplaat 1-EDE-274 is toegekend aan een Mercedes.\n"
+  - testcases:
+    - stdin: "Citroën\n1\nYHF\n676"
+      stdout: "De nummerplaat 1-YHF-676 is toegekend aan een Citroën.\n"
+  - testcases:
+    - stdin: "Lamborgini\n2\nSRP\n474"
+      stdout: "De nummerplaat 2-SRP-474 is toegekend aan een Lamborgini.\n"
+  - testcases:
+    - stdin: "Citroën\n1\nVNG\n394"
+      stdout: "De nummerplaat 1-VNG-394 is toegekend aan een Citroën.\n"
+  - testcases:
+    - stdin: "Abarth\n2\nBWK\n743"
+      stdout: "De nummerplaat 2-BWK-743 is toegekend aan een Abarth.\n"
+  - testcases:
+    - stdin: "Mercedes\n2\nZJY\n326"
+      stdout: "De nummerplaat 2-ZJY-326 is toegekend aan een Mercedes.\n"
+  - testcases:
+    - stdin: "BMW\n1\nNGG\n835"
+      stdout: "De nummerplaat 1-NGG-835 is toegekend aan een BMW.\n"
+  - testcases:
+    - stdin: "Abarth\n1\nAEP\n098"
+      stdout: "De nummerplaat 1-AEP-098 is toegekend aan een Abarth.\n"
+  - testcases:
+    - stdin: "Lada\n1\nKDR\n536"
+      stdout: "De nummerplaat 1-KDR-536 is toegekend aan een Lada.\n"
+  - testcases:
+    - stdin: "Citroën\n1\nXSS\n839"
+      stdout: "De nummerplaat 1-XSS-839 is toegekend aan een Citroën.\n"
