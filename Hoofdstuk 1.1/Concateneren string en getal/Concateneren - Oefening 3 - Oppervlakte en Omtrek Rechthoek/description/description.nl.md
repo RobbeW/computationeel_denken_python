@@ -7,28 +7,19 @@ Een rechthoek heeft een bepaalde lengte en breedte.
 * Schrijf een programma dat **vraagt** naar de lengte en breedte van een rechthoek;
 * Bereken de **oppervlakte** van de rechthoek;
 * Bereken de **omtrek** van de rechthoek;
-* Print de oppervlakte en omtrek van de rechthoek op het scherm.
+* Geef de oppervlakte en omtrek van de rechthoek weer op het scherm.
 
-## Invoer
+#### Voorbeeld
 
-```
-Voer de lengte van de rechthoek in meter in: 10.75
-Voer de breedte van de rechthoek in meter in: 5.66
-```
-
-## Uitvoer
+Voor een rechthoek met lengte `10.75`en breedte `5.66` verschijnt er:
 
 ```
-De oppervlakte van de rechthoek is ... m².
-De omtrek van de rechthoek is ... m.
+De oppervlakte van de rechthoek is 60.845 m².
+De omtrek van de rechthoek is 32.82 m.
 ```
 
 {: .callout.callout-info}
 >## Tips
->* Gebruik de `input()`-functie om de gebruiker naar de lengte en breedte van de rechthoek te vragen. Vergeet niet om de input om te zetten naar een `float` of `int`;
->* Bereken de oppervlakte van de rechthoek met de formule: `oppervlakte = lengte * breedte`;
->* Bereken de omtrek van de rechthoek met de formule: `omtrek = 2 * (lengte + breedte)`;
->* Print de berekende oppervlakte en omtrek van de rechthoek naar het scherm met behulp van de `print()`-functie;
->* Wanneer je wil `concateneren`, kan je gebruiken van een **komma (,)** of een **plus (+)**;
->* Een **komma** zal automatisch een spatie invoeren;
->* Een **plus** zal dat niet doen. 
+>* Vergeet niet om de input om te zetten naar een `float` of `int`;
+>* Wanneer je wil **concateneren**, kan je gebruiken van een **komma (,)** of een **plus (+)**;
+>* Een `,` zal automatisch een spatie invoeren, terwijl een `+` dat niet zal doen. 

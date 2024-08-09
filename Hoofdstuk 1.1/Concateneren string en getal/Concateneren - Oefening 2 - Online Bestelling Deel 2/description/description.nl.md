@@ -5,24 +5,15 @@ Bij de vorige oefening maakte je het algoritme om een online bestelling te regel
 ## Gevraagd
 
 * **Bouw verder op de code uit jouw vorige oefening;** 
-* Vraag de gebruiker naar zijn/haar/hun `huisnummer`en `postcode`;  
+* Vraag de gebruiker ook nog naar zijn/haar/hun `huisnummer`en `postcode`;  
 * Sla de ingevoerde gegevens op in variabelen;
 
 
-## Invoer
-```
-Voer je voornaam in: Karim
-Voer je familienaam in: Cerit
-Voer je straatnaam: Koekoekstraat
-Voer je huisnummer in: 77
-Voer je postcode in: 9000
-```
+#### Voorbeeld
+Bij achtereenvolgende invoer: `Karim`, `Cerit`, `Koekoekstraat` met huisnummer `77` en postcode `9000` verschijnt er:
 
-
-## Uitvoer
-Print de ingevoerde gegevens op het scherm in de vorm: 
 ```
-De bestelling wordt verzonden naar: [voornaam] [familienaam], [straatnaam] [huisnummer], [postcode].
+De bestelling wordt verzonden naar: Karim Cerit, Koekoekstraat 77, 9000.
 ```
 
 {: .callout.callout-info}
