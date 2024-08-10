@@ -4,15 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling  - Som van Tien Getallen",
-      "en": "For i in Range - Sum of Ten Digits"
+      "nl": "Som van Tien Getallen"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "for",
     "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

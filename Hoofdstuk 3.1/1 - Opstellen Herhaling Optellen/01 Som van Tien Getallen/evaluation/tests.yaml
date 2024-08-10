@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "2\n4\n6\n8\n10\n12\n14\n16\n18\n20"
+      stdout: "De som van de getallen is 110.\n"
+  - testcases:
+    - stdin: "0\n0\n0\n0\n0\n0\n0\n0\n0\n0"
+      stdout: "De som van de getallen is 0.\n"
+  - testcases:
+    - stdin: "1\n1\n1\n1\n1\n1\n1\n1\n1\n1"
+      stdout: "De som van de getallen is 10.\n"
+  - testcases:
+    - stdin: "46\n6\n40\n37\n14\n48\n16\n49\n38\n32"
+      stdout: "De som van de getallen is 326.\n"
+  - testcases:
+    - stdin: "37\n46\n32\n4\n48\n21\n7\n9\n22\n1"
+      stdout: "De som van de getallen is 227.\n"
+  - testcases:
+    - stdin: "31\n2\n49\n23\n46\n14\n30\n34\n2\n29"
+      stdout: "De som van de getallen is 260.\n"
+  - testcases:
+    - stdin: "14\n35\n8\n16\n4\n23\n2\n27\n17\n35"
+      stdout: "De som van de getallen is 181.\n"
+  - testcases:
+    - stdin: "40\n19\n24\n11\n45\n3\n8\n15\n13\n34"
+      stdout: "De som van de getallen is 212.\n"
+  - testcases:
+    - stdin: "25\n31\n11\n33\n37\n29\n47\n3\n23\n38"
+      stdout: "De som van de getallen is 277.\n"
+  - testcases:
+    - stdin: "14\n9\n6\n28\n9\n25\n15\n50\n45\n13"
+      stdout: "De som van de getallen is 214.\n"
+  - testcases:
+    - stdin: "33\n17\n42\n13\n4\n25\n14\n39\n29\n44"
+      stdout: "De som van de getallen is 260.\n"
+  - testcases:
+    - stdin: "2\n41\n20\n40\n25\n26\n16\n23\n39\n44"
+      stdout: "De som van de getallen is 276.\n"
+  - testcases:
+    - stdin: "16\n45\n19\n46\n47\n12\n20\n27\n7\n34"
+      stdout: "De som van de getallen is 273.\n"
+  - testcases:
+    - stdin: "20\n6\n41\n12\n41\n30\n49\n45\n47\n6"
+      stdout: "De som van de getallen is 297.\n"
+  - testcases:
+    - stdin: "45\n22\n15\n18\n33\n39\n25\n3\n12\n17"
+      stdout: "De som van de getallen is 229.\n"
+  - testcases:
+    - stdin: "14\n44\n43\n0\n45\n39\n45\n31\n21\n46"
+      stdout: "De som van de getallen is 328.\n"
+  - testcases:
+    - stdin: "49\n25\n21\n10\n31\n6\n29\n15\n9\n12"
+      stdout: "De som van de getallen is 207.\n"
+  - testcases:
+    - stdin: "9\n6\n8\n9\n28\n45\n18\n41\n10\n42"
+      stdout: "De som van de getallen is 216.\n"
+  - testcases:
+    - stdin: "15\n11\n25\n28\n26\n15\n30\n30\n28\n27"
+      stdout: "De som van de getallen is 235.\n"
+  - testcases:
+    - stdin: "18\n28\n40\n18\n41\n14\n36\n24\n12\n47"
+      stdout: "De som van de getallen is 278.\n"

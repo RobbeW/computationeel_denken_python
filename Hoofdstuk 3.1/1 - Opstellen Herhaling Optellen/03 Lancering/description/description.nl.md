@@ -9,7 +9,7 @@ Voor het lanceren van een ruimteschip doet men traditioneel een **countdown**.
 
 ## Gevraagd
 
-Schrijf een programma dat aftelt van 10 naar 1. Nadien verschijnt het woord **LANCERING**.
+Schrijf een programma dat aftelt van 10 naar 1. Nadien verschijnt het woord **LANCERING**. Je hoeft hierbij niets te vragen aan de gebruiker.
 
 #### Voorbeeld
 ```

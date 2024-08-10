@@ -2,15 +2,17 @@
   "type": "exercise",
   "programming_language": "python",
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Bart Simpson"
+      "nl": "Bart Simpson"
     }
   },
   "labels": [
-
+    "python",
+    "for"
   ],
   "access": "public",
   "internals": {
