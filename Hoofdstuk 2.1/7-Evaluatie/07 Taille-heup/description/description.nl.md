@@ -1,6 +1,6 @@
 De <a href="https://nl.wikipedia.org/wiki/Wereldgezondheidsorganisatie" target="_blank">Wereldgezondheidsorganisatie (WHO)</a> gebruikt steeds vaker de taille-heup verhouding als indicator van het risico op hartziekte. 
 
-![De heup omtrek bepalen.](media/huha-inc.jpg "Foto door Huha Inc. op Unsplash."){:data-caption="De heup omtrek bepalen." width="35%"}
+![De heup omtrek bepalen.](media/huha-inc.jpg "Foto door Huha Inc. op Unsplash."){:data-caption="De heup omtrek bepalen." width="40%"}
 
 
 In onderstaande tabel zie je de risico's uitgedrukt voor blanke volwassenen.
