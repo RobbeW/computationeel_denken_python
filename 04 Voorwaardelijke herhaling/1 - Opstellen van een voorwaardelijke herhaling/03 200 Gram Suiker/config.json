@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - 200 gram suiker",
-      "en": "Conditional Loop - 200 Grams of Sugar"
+      "nl": "200 gram suiker schatten"
     }
   },
   "evaluation": {
@@ -13,8 +12,8 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "while",
+    "random"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

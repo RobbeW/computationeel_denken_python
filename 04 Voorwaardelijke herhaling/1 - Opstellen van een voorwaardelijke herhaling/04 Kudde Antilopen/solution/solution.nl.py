@@ -3,7 +3,6 @@ import math
 kudde = int(input( "Geef het aantal antilopen in: "))
 jaar = 0
 
-print()
 # Zolang de kudde kleiner is dan 300...
 while kudde < 350:
     # Verhoog het jaar met 1

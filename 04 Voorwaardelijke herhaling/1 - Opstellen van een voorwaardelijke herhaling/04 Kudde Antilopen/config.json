@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - Kudde antilopen",
-      "en": "Conditional Loop - Herd"
+      "nl": "Kudde antilopen"
     }
   },
   "evaluation": {
@@ -13,8 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "while",
+    "import math"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

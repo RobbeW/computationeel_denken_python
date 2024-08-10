@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - Papier vouwen"
+      "nl": "Papier vouwen"
     }
   },
   "evaluation": {
@@ -12,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "while"
   ],
   "internals": {
     "token": "R2A4chzKK6k4GnmbQ_WThQxiPjz5fWJVtc_vdZkyyUsYtS5Pz8w5PXdwdKTgFDMV",
