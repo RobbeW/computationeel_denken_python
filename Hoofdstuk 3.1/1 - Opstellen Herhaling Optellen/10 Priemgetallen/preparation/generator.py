@@ -39,6 +39,8 @@ while len(cases) < ntests:
     if (getal,) not in cases:
         cases.append( (getal,))
 
+cases.append( (10000,) )
+
 # generate unit tests for functions
 yamldata = []
 
