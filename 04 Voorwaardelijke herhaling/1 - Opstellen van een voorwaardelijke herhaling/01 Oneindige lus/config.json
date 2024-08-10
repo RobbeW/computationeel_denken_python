@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - Oneindige lus"
+      "nl": "Oneindige lus"
     }
   },
   "evaluation": {
@@ -12,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "while"
   ],
   "internals": {
     "token": "KCMZn4aRSZFz335hS9MYQFYQb9mY4HV5UGKb3G-46nDfycJTPGrhCbWRMNJMS9y5",
