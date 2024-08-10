@@ -4,15 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Tafels van vermenigvuldiging ",
-      "en": "For i in Range - Multiplying tables"
+      "nl": "Tafels van vermenigvuldiging"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "for",
     "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

@@ -4,14 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Alle tafels"
+      "nl": "Alle tafels"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "for",
     "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
