@@ -1,6 +1,6 @@
 
 ## Gevraagd
-Schrijf een programma dat een getal vraagt en vervolgens controleert of dit een volkomen kwadraat is.
+Schrijf een programma dat een natuurlijk getal vraagt en vervolgens controleert of dit een volkomen kwadraat is.
 
 #### Voorbeelden
 Voor invoer `4` verschijnt er:
@@ -19,7 +19,7 @@ Voor invoer `625` verschijnt er:
 ```
 
 {: .callout.callout-warning}
->#### Extra voorwaarde
+>#### <span class="mdi mdi-alert-circle"></span> Extra voorwaarde
 > Gebruik geen worteltrekking om deze oefening op te lossen! Maak gebruik van een `for`-lus.
 
 {: .callout.callout-info}
