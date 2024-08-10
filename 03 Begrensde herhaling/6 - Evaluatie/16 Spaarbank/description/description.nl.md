@@ -1,6 +1,6 @@
 ## Gegeven
 
-Simon beslist de centen die hij verdiende met vakantiewerk op een spaarboekje te plaatsen. Hij zet een bedrag opzij en wil berekenen hoeveel geld er op de rekening zal staan na **vijf jaar**. Het spaarboekje werkt met een samengestelde interest, dit betekent dat de interest na een jaar op het spaarboekje gestort wordt en meetelt bij de berekening van de volgende interest.
+Simon beslist de centen die hij verdiende met vakantiewerk op een spaarboekje te plaatsen. Hij zet een bedrag opzij en wil berekenen hoeveel geld er op de rekening zal staan na **vijf jaar**. Het spaarboekje werkt met een samengestelde interest, dit betekent dat de interest na een jaar op het spaarboekje bijgestort wordt en meetelt bij de berekening van de volgende interest.
 
 ![Samengestelde interest laat geld steeds meer aangroeien.](media/money.gif "Samengestelde interest laat geld steeds meer aangroeien."){:data-caption="Samengestelde interest laat geld steeds meer aangroeien." width="300px"}
 
@@ -11,7 +11,7 @@ Simon beslist de centen die hij verdiende met vakantiewerk op een spaarboekje te
 
 #### Voorbeeld
 
-Stel dat Simon € 750,65 op het spaarboekje stort. Hij belegt bij een bank die een interest van `2.10`% op jaarbasis verzekert. Dan verschijnt er:
+Stel dat Simon € 750,65 op het spaarboekje stort. Hij belegt bij een bank die een interest van 2,10% op jaarbasis verzekert. Dan verschijnt er:
 
 ```
 Na 1 jaar staat er € 766.41 op de rekening.
