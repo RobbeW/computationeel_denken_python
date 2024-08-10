@@ -1,6 +1,6 @@
 ## Gegeven
 
-Misschien zag je ooit de deelauto's van <a href="https://www.partago.be/" target="_blank">Partago</a> in de stad. Er waren voor deze deelauto's twee mogelijke <a href="https://www.partago.be/tarieven.html" target="_blank">formules</a>.
+Misschien zag je ooit de deelauto's van <a href="https://nl.wikipedia.org/wiki/Partago" target="_blank">Partago</a> in de stad. Er waren voor deze deelauto's twee mogelijke formules.
 
 - **Prepaid rijbudget**
 
