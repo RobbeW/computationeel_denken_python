@@ -4,15 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Griekse Vierkanten",
-      "en": "For i in Range - Greek Squares"
+      "nl": "Griekse Vierkanten"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "for",
+    "fractaal",
     "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

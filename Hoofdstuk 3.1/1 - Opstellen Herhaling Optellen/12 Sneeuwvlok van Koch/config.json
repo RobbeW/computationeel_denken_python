@@ -1,14 +1,17 @@
 {
   "description": {
     "names": {
-      "nl": "Begrensde herhaling - Sneeuwvlok van Koch"
+      "nl": "Sneeuwvlok van Koch"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "python",
+    "for",
+    "fractaal"
   ],
   "access": "public",
   "internals": {

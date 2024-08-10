@@ -5,10 +5,13 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "python",
+    "for",
+    "fractaal"
   ],
   "access": "public",
   "internals": {
