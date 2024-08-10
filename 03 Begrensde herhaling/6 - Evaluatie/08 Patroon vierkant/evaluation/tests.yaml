@@ -1,0 +1,276 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '1'
+      stdout: "X\n"
+  - testcases:
+    - stdin: '2'
+      stdout: "  X\nX X X\n  X\n"
+  - testcases:
+    - stdin: '3'
+      stdout: "    X\n  X X X\nX X X X X\n  X X X\n    X\n"
+  - testcases:
+    - stdin: '4'
+      stdout: "      X\n    X X X\n  X X X X X\nX X X X X X X\n  X X X X X\n    X
+        X X\n      X\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "        X\n      X X X\n    X X X X X\n  X X X X X X X\nX X X X X X
+        X X X\n  X X X X X X X\n    X X X X X\n      X X X\n        X\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "          X\n        X X X\n      X X X X X\n    X X X X X X X\n  X
+        X X X X X X X X\nX X X X X X X X X X X\n  X X X X X X X X X\n    X X X X X
+        X X\n      X X X X X\n        X X X\n          X\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "            X\n          X X X\n        X X X X X\n      X X X X X
+        X X\n    X X X X X X X X X\n  X X X X X X X X X X X\nX X X X X X X X X X X
+        X X\n  X X X X X X X X X X X\n    X X X X X X X X X\n      X X X X X X X\n\
+        \        X X X X X\n          X X X\n            X\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "              X\n            X X X\n          X X X X X\n        X
+        X X X X X X\n      X X X X X X X X X\n    X X X X X X X X X X X\n  X X X X
+        X X X X X X X X X\nX X X X X X X X X X X X X X X\n  X X X X X X X X X X X
+        X X\n    X X X X X X X X X X X\n      X X X X X X X X X\n        X X X X X
+        X X\n          X X X X X\n            X X X\n              X\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "                X\n              X X X\n            X X X X X\n   \
+        \       X X X X X X X\n        X X X X X X X X X\n      X X X X X X X X X
+        X X\n    X X X X X X X X X X X X X\n  X X X X X X X X X X X X X X X\nX X X
+        X X X X X X X X X X X X X X\n  X X X X X X X X X X X X X X X\n    X X X X
+        X X X X X X X X X\n      X X X X X X X X X X X\n        X X X X X X X X X\n\
+        \          X X X X X X X\n            X X X X X\n              X X X\n   \
+        \             X\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "                  X\n                X X X\n              X X X X X\n\
+        \            X X X X X X X\n          X X X X X X X X X\n        X X X X X
+        X X X X X X\n      X X X X X X X X X X X X X\n    X X X X X X X X X X X X
+        X X X\n  X X X X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X X
+        X X X X\n  X X X X X X X X X X X X X X X X X\n    X X X X X X X X X X X X
+        X X X\n      X X X X X X X X X X X X X\n        X X X X X X X X X X X\n  \
+        \        X X X X X X X X X\n            X X X X X X X\n              X X X
+        X X\n                X X X\n                  X\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "                    X\n                  X X X\n                X X
+        X X X\n              X X X X X X X\n            X X X X X X X X X\n      \
+        \    X X X X X X X X X X X\n        X X X X X X X X X X X X X\n      X X X
+        X X X X X X X X X X X X\n    X X X X X X X X X X X X X X X X X\n  X X X X
+        X X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X X\n\
+        \  X X X X X X X X X X X X X X X X X X X\n    X X X X X X X X X X X X X X
+        X X X\n      X X X X X X X X X X X X X X X\n        X X X X X X X X X X X
+        X X\n          X X X X X X X X X X X\n            X X X X X X X X X\n    \
+        \          X X X X X X X\n                X X X X X\n                  X X
+        X\n                    X\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "                      X\n                    X X X\n              \
+        \    X X X X X\n                X X X X X X X\n              X X X X X X X
+        X X\n            X X X X X X X X X X X\n          X X X X X X X X X X X X
+        X\n        X X X X X X X X X X X X X X X\n      X X X X X X X X X X X X X
+        X X X X\n    X X X X X X X X X X X X X X X X X X X\n  X X X X X X X X X X
+        X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X X X X\n  X
+        X X X X X X X X X X X X X X X X X X X X\n    X X X X X X X X X X X X X X X
+        X X X X\n      X X X X X X X X X X X X X X X X X\n        X X X X X X X X
+        X X X X X X X\n          X X X X X X X X X X X X X\n            X X X X X
+        X X X X X X\n              X X X X X X X X X\n                X X X X X X
+        X\n                  X X X X X\n                    X X X\n              \
+        \        X\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "                        X\n                      X X X\n          \
+        \          X X X X X\n                  X X X X X X X\n                X X
+        X X X X X X X\n              X X X X X X X X X X X\n            X X X X X
+        X X X X X X X X\n          X X X X X X X X X X X X X X X\n        X X X X
+        X X X X X X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X\n \
+        \   X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X X X X X X X X
+        X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X X X X X X\n \
+        \ X X X X X X X X X X X X X X X X X X X X X X X\n    X X X X X X X X X X X
+        X X X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X\n       \
+        \ X X X X X X X X X X X X X X X X X\n          X X X X X X X X X X X X X X
+        X\n            X X X X X X X X X X X X X\n              X X X X X X X X X
+        X X\n                X X X X X X X X X\n                  X X X X X X X\n\
+        \                    X X X X X\n                      X X X\n            \
+        \            X\n"
+  - testcases:
+    - stdin: '14'
+      stdout: "                          X\n                        X X X\n      \
+        \                X X X X X\n                    X X X X X X X\n          \
+        \        X X X X X X X X X\n                X X X X X X X X X X X\n      \
+        \        X X X X X X X X X X X X X\n            X X X X X X X X X X X X X
+        X X\n          X X X X X X X X X X X X X X X X X\n        X X X X X X X X
+        X X X X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X X X\n \
+        \   X X X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X X X X X X
+        X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X X X X
+        X X X X\n  X X X X X X X X X X X X X X X X X X X X X X X X X\n    X X X X
+        X X X X X X X X X X X X X X X X X X X\n      X X X X X X X X X X X X X X X
+        X X X X X X\n        X X X X X X X X X X X X X X X X X X X\n          X X
+        X X X X X X X X X X X X X X X\n            X X X X X X X X X X X X X X X\n\
+        \              X X X X X X X X X X X X X\n                X X X X X X X X
+        X X X\n                  X X X X X X X X X\n                    X X X X X
+        X X\n                      X X X X X\n                        X X X\n    \
+        \                      X\n"
+  - testcases:
+    - stdin: '15'
+      stdout: "                            X\n                          X X X\n  \
+        \                      X X X X X\n                      X X X X X X X\n  \
+        \                  X X X X X X X X X\n                  X X X X X X X X X
+        X X\n                X X X X X X X X X X X X X\n              X X X X X X
+        X X X X X X X X X\n            X X X X X X X X X X X X X X X X X\n       \
+        \   X X X X X X X X X X X X X X X X X X X\n        X X X X X X X X X X X X
+        X X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X X X X X\n \
+        \   X X X X X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X X\n  X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X\n    X X X X X X X X X X X X X X X X X X X X X X X X X\n      X X X X X
+        X X X X X X X X X X X X X X X X X X\n        X X X X X X X X X X X X X X X
+        X X X X X X\n          X X X X X X X X X X X X X X X X X X X\n           \
+        \ X X X X X X X X X X X X X X X X X\n              X X X X X X X X X X X X
+        X X X\n                X X X X X X X X X X X X X\n                  X X X
+        X X X X X X X X\n                    X X X X X X X X X\n                 \
+        \     X X X X X X X\n                        X X X X X\n                 \
+        \         X X X\n                            X\n"
+  - testcases:
+    - stdin: '16'
+      stdout: "                              X\n                            X X X\n\
+        \                          X X X X X\n                        X X X X X X
+        X\n                      X X X X X X X X X\n                    X X X X X
+        X X X X X X\n                  X X X X X X X X X X X X X\n               \
+        \ X X X X X X X X X X X X X X X\n              X X X X X X X X X X X X X X
+        X X X\n            X X X X X X X X X X X X X X X X X X X\n          X X X
+        X X X X X X X X X X X X X X X X X X\n        X X X X X X X X X X X X X X X
+        X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X X X X X X X\n\
+        \    X X X X X X X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X
+        X X X X X X X X X X X X X X X X X\n  X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X X\n    X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X\n      X X X X X X X X X X X X X X X X X X X X X X X X X\n        X X
+        X X X X X X X X X X X X X X X X X X X X X\n          X X X X X X X X X X X
+        X X X X X X X X X X\n            X X X X X X X X X X X X X X X X X X X\n \
+        \             X X X X X X X X X X X X X X X X X\n                X X X X X
+        X X X X X X X X X X\n                  X X X X X X X X X X X X X\n       \
+        \             X X X X X X X X X X X\n                      X X X X X X X X
+        X\n                        X X X X X X X\n                          X X X
+        X X\n                            X X X\n                              X\n"
+  - testcases:
+    - stdin: '17'
+      stdout: "                                X\n                              X
+        X X\n                            X X X X X\n                          X X
+        X X X X X\n                        X X X X X X X X X\n                   \
+        \   X X X X X X X X X X X\n                    X X X X X X X X X X X X X\n\
+        \                  X X X X X X X X X X X X X X X\n                X X X X
+        X X X X X X X X X X X X X\n              X X X X X X X X X X X X X X X X X
+        X X\n            X X X X X X X X X X X X X X X X X X X X X\n          X X
+        X X X X X X X X X X X X X X X X X X X X X\n        X X X X X X X X X X X X
+        X X X X X X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X\n    X X X X X X X X X X X X X X X X X X X X X X X X X X X X X\n\
+        \  X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X\nX X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X\n    X X X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X\n      X X X X X X X X X X X X X X X X
+        X X X X X X X X X X X\n        X X X X X X X X X X X X X X X X X X X X X X
+        X X X\n          X X X X X X X X X X X X X X X X X X X X X X X\n         \
+        \   X X X X X X X X X X X X X X X X X X X X X\n              X X X X X X X
+        X X X X X X X X X X X X\n                X X X X X X X X X X X X X X X X X\n\
+        \                  X X X X X X X X X X X X X X X\n                    X X
+        X X X X X X X X X X X\n                      X X X X X X X X X X X\n     \
+        \                   X X X X X X X X X\n                          X X X X X
+        X X\n                            X X X X X\n                             \
+        \ X X X\n                                X\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "                                  X\n                             \
+        \   X X X\n                              X X X X X\n                     \
+        \       X X X X X X X\n                          X X X X X X X X X\n     \
+        \                   X X X X X X X X X X X\n                      X X X X X
+        X X X X X X X X\n                    X X X X X X X X X X X X X X X\n     \
+        \             X X X X X X X X X X X X X X X X X\n                X X X X X
+        X X X X X X X X X X X X X X\n              X X X X X X X X X X X X X X X X
+        X X X X X\n            X X X X X X X X X X X X X X X X X X X X X X X\n   \
+        \       X X X X X X X X X X X X X X X X X X X X X X X X X\n        X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X\n      X X X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X\n    X X X X X X X X X X X X X X X X X
+        X X X X X X X X X X X X X X\n  X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X\n  X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X\n    X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X\n      X X X X X X X X X X X X X X X X X X X X X X X X X X X X X\n   \
+        \     X X X X X X X X X X X X X X X X X X X X X X X X X X X\n          X X
+        X X X X X X X X X X X X X X X X X X X X X X X\n            X X X X X X X X
+        X X X X X X X X X X X X X X X\n              X X X X X X X X X X X X X X X
+        X X X X X X\n                X X X X X X X X X X X X X X X X X X X\n     \
+        \             X X X X X X X X X X X X X X X X X\n                    X X X
+        X X X X X X X X X X X X\n                      X X X X X X X X X X X X X\n\
+        \                        X X X X X X X X X X X\n                         \
+        \ X X X X X X X X X\n                            X X X X X X X\n         \
+        \                     X X X X X\n                                X X X\n \
+        \                                 X\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "                                    X\n                           \
+        \       X X X\n                                X X X X X\n               \
+        \               X X X X X X X\n                            X X X X X X X X
+        X\n                          X X X X X X X X X X X\n                     \
+        \   X X X X X X X X X X X X X\n                      X X X X X X X X X X X
+        X X X X\n                    X X X X X X X X X X X X X X X X X\n         \
+        \         X X X X X X X X X X X X X X X X X X X\n                X X X X X
+        X X X X X X X X X X X X X X X X\n              X X X X X X X X X X X X X X
+        X X X X X X X X X\n            X X X X X X X X X X X X X X X X X X X X X X
+        X X X\n          X X X X X X X X X X X X X X X X X X X X X X X X X X X\n \
+        \       X X X X X X X X X X X X X X X X X X X X X X X X X X X X X\n      X
+        X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X\n    X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X X X X\nX X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X X X X\n  X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X X X\n    X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X X X X\n      X X X X X X X X X X
+        X X X X X X X X X X X X X X X X X X X X X\n        X X X X X X X X X X X X
+        X X X X X X X X X X X X X X X X X\n          X X X X X X X X X X X X X X X
+        X X X X X X X X X X X X\n            X X X X X X X X X X X X X X X X X X X
+        X X X X X X\n              X X X X X X X X X X X X X X X X X X X X X X X\n\
+        \                X X X X X X X X X X X X X X X X X X X X X\n             \
+        \     X X X X X X X X X X X X X X X X X X X\n                    X X X X X
+        X X X X X X X X X X X X\n                      X X X X X X X X X X X X X X
+        X\n                        X X X X X X X X X X X X X\n                   \
+        \       X X X X X X X X X X X\n                            X X X X X X X X
+        X\n                              X X X X X X X\n                         \
+        \       X X X X X\n                                  X X X\n             \
+        \                       X\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "                                      X\n                         \
+        \           X X X\n                                  X X X X X\n         \
+        \                       X X X X X X X\n                              X X X
+        X X X X X X\n                            X X X X X X X X X X X\n         \
+        \                 X X X X X X X X X X X X X\n                        X X X
+        X X X X X X X X X X X X\n                      X X X X X X X X X X X X X X
+        X X X\n                    X X X X X X X X X X X X X X X X X X X\n       \
+        \           X X X X X X X X X X X X X X X X X X X X X\n                X X
+        X X X X X X X X X X X X X X X X X X X X X\n              X X X X X X X X X
+        X X X X X X X X X X X X X X X X\n            X X X X X X X X X X X X X X X
+        X X X X X X X X X X X X\n          X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X\n        X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X\n      X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X\n    X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X\n  X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X\nX X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X\n  X X X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X X\n    X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X X\n      X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X X X\n        X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X X X X\n          X X X X X X X X X X X X X X X X X X X X X X X X X
+        X X X X\n            X X X X X X X X X X X X X X X X X X X X X X X X X X X\n\
+        \              X X X X X X X X X X X X X X X X X X X X X X X X X\n       \
+        \         X X X X X X X X X X X X X X X X X X X X X X X\n                \
+        \  X X X X X X X X X X X X X X X X X X X X X\n                    X X X X
+        X X X X X X X X X X X X X X X\n                      X X X X X X X X X X X
+        X X X X X X\n                        X X X X X X X X X X X X X X X\n     \
+        \                     X X X X X X X X X X X X X\n                        \
+        \    X X X X X X X X X X X\n                              X X X X X X X X
+        X\n                                X X X X X X X\n                       \
+        \           X X X X X\n                                    X X X\n       \
+        \                               X\n"

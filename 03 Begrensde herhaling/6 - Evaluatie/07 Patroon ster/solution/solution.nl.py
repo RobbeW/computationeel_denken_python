@@ -3,9 +3,9 @@ n = int( input( 'Geef het getal in: ' ) )
 
 # Berekening
 for i in range( n ):
-   print(" "*i + "*" + " "*(n-i-1) + "*" + " "*(n-i-1) + "*")
+   print(" "*i + "X" + " "*(n-i-1) + "X" + " "*(n-i-1) + "X")
 
-print("*"*(2*n+1))
+print("X"*(2*n+1))
 
 for i in range( n ):
-   print(" "*(n-i-1) + "*" + " "*(i) + "*" + " "*(i) + "*")
+   print(" "*(n-i-1) + "X" + " "*(i) + "X" + " "*(i) + "X")

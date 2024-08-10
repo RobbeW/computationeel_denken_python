@@ -1,0 +1,75 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '3'
+      stdout: "XXX\n X\nXXX\n"
+  - testcases:
+    - stdin: '4'
+      stdout: "XXXX\n  X\n X\nXXXX\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "XXXXX\n   X\n  X\n X\nXXXXX\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "XXXXXX\n    X\n   X\n  X\n X\nXXXXXX\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "XXXXXXX\n     X\n    X\n   X\n  X\n X\nXXXXXXX\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "XXXXXXXX\n      X\n     X\n    X\n   X\n  X\n X\nXXXXXXXX\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "XXXXXXXXX\n       X\n      X\n     X\n    X\n   X\n  X\n X\nXXXXXXXXX\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "XXXXXXXXXX\n        X\n       X\n      X\n     X\n    X\n   X\n  X\n
+        X\nXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "XXXXXXXXXXX\n         X\n        X\n       X\n      X\n     X\n   \
+        \ X\n   X\n  X\n X\nXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "XXXXXXXXXXXX\n          X\n         X\n        X\n       X\n      X\n\
+        \     X\n    X\n   X\n  X\n X\nXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "XXXXXXXXXXXXX\n           X\n          X\n         X\n        X\n \
+        \      X\n      X\n     X\n    X\n   X\n  X\n X\nXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '14'
+      stdout: "XXXXXXXXXXXXXX\n            X\n           X\n          X\n        \
+        \ X\n        X\n       X\n      X\n     X\n    X\n   X\n  X\n X\nXXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '15'
+      stdout: "XXXXXXXXXXXXXXX\n             X\n            X\n           X\n    \
+        \      X\n         X\n        X\n       X\n      X\n     X\n    X\n   X\n\
+        \  X\n X\nXXXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '16'
+      stdout: "XXXXXXXXXXXXXXXX\n              X\n             X\n            X\n\
+        \           X\n          X\n         X\n        X\n       X\n      X\n   \
+        \  X\n    X\n   X\n  X\n X\nXXXXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '17'
+      stdout: "XXXXXXXXXXXXXXXXX\n               X\n              X\n            \
+        \ X\n            X\n           X\n          X\n         X\n        X\n   \
+        \    X\n      X\n     X\n    X\n   X\n  X\n X\nXXXXXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "XXXXXXXXXXXXXXXXXX\n                X\n               X\n         \
+        \     X\n             X\n            X\n           X\n          X\n      \
+        \   X\n        X\n       X\n      X\n     X\n    X\n   X\n  X\n X\nXXXXXXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "XXXXXXXXXXXXXXXXXXX\n                 X\n                X\n      \
+        \         X\n              X\n             X\n            X\n           X\n\
+        \          X\n         X\n        X\n       X\n      X\n     X\n    X\n  \
+        \ X\n  X\n X\nXXXXXXXXXXXXXXXXXXX\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "XXXXXXXXXXXXXXXXXXXX\n                  X\n                 X\n   \
+        \             X\n               X\n              X\n             X\n     \
+        \       X\n           X\n          X\n         X\n        X\n       X\n  \
+        \    X\n     X\n    X\n   X\n  X\n X\nXXXXXXXXXXXXXXXXXXXX\n"

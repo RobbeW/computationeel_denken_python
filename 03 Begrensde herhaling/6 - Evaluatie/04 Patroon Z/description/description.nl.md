@@ -4,18 +4,18 @@ Schrijf een programma dat een natuurlijk getal vraagt en vervolgens een 'Z' op h
 #### Voorbeelden
 Geeft de gebruiker `4` in, dan verschijnt er:
 ```
-****
-  *
- *
-****
+XXXX
+  X
+ X
+XXXX
 ```
 
 Geeft de gebruiker `6` in, dan verschijnt er:
 ```
-******
-    *
-   *
-  *
- *
-******
+XXXXXX
+    X
+   X
+  X
+ X
+XXXXXX
 ```

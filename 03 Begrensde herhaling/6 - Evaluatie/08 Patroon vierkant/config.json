@@ -8,10 +8,13 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "evaluatie",
+    "for",
+    "ASCII patroon"
   ],
   "internals": {
     "token": "xtevRfr_dYJD4xYM7bZKz_cvU_nSiydUH4Gi5FE_PHEtitTiBSKM45KMZpBmWYEf",
