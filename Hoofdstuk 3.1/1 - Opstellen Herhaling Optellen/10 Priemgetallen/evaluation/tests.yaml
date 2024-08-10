@@ -3,7 +3,7 @@
   - testcases:
     - stdin: '100'
       stdout: "De priemgetallen kleiner dan 100 zijn:\n2\n3\n5\n7\n11\n13\n17\n19\n
-        23\n29\n31\n37\n41\n43\n47\n53\n59\n61\n67\n71\n73\n79\n83\n89\n97\nEr werden
+23\n29\n31\n37\n41\n43\n47\n53\n59\n61\n67\n71\n73\n79\n83\n89\n97\nEr werden
         25 priemgetallen gevonden.\n"
   - testcases:
     - stdin: '10'
@@ -24,11 +24,11 @@
   - testcases:
     - stdin: '370'
       stdout: "De priemgetallen kleiner dan 370 zijn:\n2\n3\n5\n7\n11\n13\n17\n19\n
-        23\n29\n31\n37\n41\n43\n47\n53\n59\n61\n67\n71\n73\n79\n83\n89\n97\n101\n
-        103\n107\n109\n113\n127\n131\n137\n139\n149\n151\n157\n163\n167\n173\n179\n
-        181\n191\n193\n197\n199\n211\n223\n227\n229\n233\n239\n241\n251\n257\n263\n
-        269\n271\n277\n281\n283\n293\n307\n311\n313\n317\n331\n337\n347\n349\n353\n
-        359\n367\nEr werden 73 priemgetallen gevonden.\n"
+23\n29\n31\n37\n41\n43\n47\n53\n59\n61\n67\n71\n73\n79\n83\n89\n97\n101\n
+103\n107\n109\n113\n127\n131\n137\n139\n149\n151\n157\n163\n167\n173\n179\n
+181\n191\n193\n197\n199\n211\n223\n227\n229\n233\n239\n241\n251\n257\n263\n
+269\n271\n277\n281\n283\n293\n307\n311\n313\n317\n331\n337\n347\n349\n353\n
+359\n367\nEr werden 73 priemgetallen gevonden.\n"
   - testcases:
     - stdin: '53'
       stdout: "De priemgetallen kleiner dan 53 zijn:\n2\n3\n5\n7\n11\n13\n17\n19\n
