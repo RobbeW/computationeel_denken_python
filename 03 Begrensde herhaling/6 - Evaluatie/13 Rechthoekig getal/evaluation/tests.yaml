@@ -1,0 +1,92 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '3'
+      stdout: "3 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "6 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "8 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "12 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '30'
+      stdout: "30 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '42'
+      stdout: "42 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '77'
+      stdout: "77 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '125'
+      stdout: "125 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '171'
+      stdout: "171 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '240'
+      stdout: "240 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '552'
+      stdout: "552 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '870'
+      stdout: "870 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '4032'
+      stdout: "4032 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '4556'
+      stdout: "4556 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '4830'
+      stdout: "4830 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '5172'
+      stdout: "5172 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '9900'
+      stdout: "9900 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '39006'
+      stdout: "39006 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '44713'
+      stdout: "44713 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '46872'
+      stdout: "46872 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '52670'
+      stdout: "52670 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '62930'
+      stdout: "62930 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '70490'
+      stdout: "70490 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '92981'
+      stdout: "92981 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '161979'
+      stdout: "161979 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '204756'
+      stdout: "204756 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '297024'
+      stdout: "297024 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '428356'
+      stdout: "428356 is niet rechthoekig.\n"
+  - testcases:
+    - stdin: '469910'
+      stdout: "469910 is een rechthoekig getal.\n"
+  - testcases:
+    - stdin: '877032'
+      stdout: "877032 is een rechthoekig getal.\n"

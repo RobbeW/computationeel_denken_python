@@ -1,0 +1,92 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '2'
+      stdout: "2 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "7 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "11 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "12 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "19 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '24'
+      stdout: "24 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '38'
+      stdout: "38 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '72'
+      stdout: "72 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '77'
+      stdout: "77 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '125'
+      stdout: "125 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '227'
+      stdout: "227 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '751'
+      stdout: "751 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '839'
+      stdout: "839 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '1671'
+      stdout: "1671 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '4765'
+      stdout: "4765 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '4876'
+      stdout: "4876 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '5172'
+      stdout: "5172 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '5503'
+      stdout: "5503 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '9029'
+      stdout: "9029 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '26750'
+      stdout: "26750 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '39161'
+      stdout: "39161 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '39986'
+      stdout: "39986 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '44713'
+      stdout: "44713 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '77543'
+      stdout: "77543 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '86458'
+      stdout: "86458 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '161979'
+      stdout: "161979 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '204457'
+      stdout: "204457 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '325709'
+      stdout: "325709 is niet samengesteld.\n"
+  - testcases:
+    - stdin: '422839'
+      stdout: "422839 is een samengesteld getal.\n"
+  - testcases:
+    - stdin: '633877'
+      stdout: "633877 is niet samengesteld.\n"

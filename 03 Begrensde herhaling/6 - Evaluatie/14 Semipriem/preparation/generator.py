@@ -1,6 +1,5 @@
 import os
-import sys
-import importlib
+import importlib.util
 import random
 import ruamel.yaml
 import subprocess
@@ -32,15 +31,18 @@ spec = importlib.util.spec_from_file_location(module_name, file_path)
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
+
 # generate test data
 ntests = 30
 cases = [(4,),(8,),(21, ), (11, ),(2, )]
 
 while len( cases ) < ntests:
     n = random.randint(3,500)
-    cases.append((n, ) )
-        
-    
+    if (n,) not in cases:
+        cases.append((n, ) )
+
+cases.sort()        
+
 # generate unit tests for functions
 yamldata = []
 
@@ -62,7 +64,7 @@ for i in range(len(cases)):
     # generate output to output file
     script = os.path.join(solutiondir, 'solution.nl.py')
     process= subprocess.run(
-        ['python3.8', script],
+        ['python3', script],
         input=stdin,
         encoding='utf-8',
         capture_output=True
@@ -71,15 +73,13 @@ for i in range(len(cases)):
     result_lines = process.stdout.split("\n")
     result_lines = [x for x in result_lines[:-1]] ## drop last element
     
-    
     outputtxt = ""
     for line in result_lines:
-        if not(line.startswith( 'Geef' )):
+        if not(line.startswith( 'Geef' ) or line.startswith( 'Voer' )):
             print(line)
             outputtxt += line + "\n"
             
     testcase = { input: stdin, output: outputtxt }            
     yamldata[0]['contexts'][i]["testcases"].append( testcase)
-
 
 write_yaml(yamldata)
