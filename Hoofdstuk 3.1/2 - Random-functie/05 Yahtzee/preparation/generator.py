@@ -1,6 +1,5 @@
 import os
-import subprocess
-import importlib
+import math
 import random
 import json
 
@@ -23,21 +22,21 @@ def write_json( data:dict ):
         json.dump(data, f, indent = 2)
 
 # generate seed numbers data
-ntests = 10
-cases_notsorted = [ ]
-
-while len( cases_notsorted ) < ntests:
+cases = [ ]
+for i in range(3,15):
+    exp = math.ceil(i / 2)
     seed = random.randint(1,100000)
-    n = 10**random.randint(1,8) * 0.5**random.randint(0,1)
-    cases_notsorted.append( (seed, int(n) ) )
+    n = 10**exp
+    cases.append( (seed, n ) )
 
-cases = [ cases_notsorted[0]]
-for i in range(1, len(cases_notsorted)):
-    item = cases_notsorted[i]
-    for j in range(len(cases)):
-        if item[1] < cases[j][1]:
-            cases.insert(j, item)
-            break 
+
+#cases = [ cases_notsorted[0]]
+#for i in range(1, len(cases_notsorted)):
+#    item = cases_notsorted[i]
+#    for j in range(len(cases)):
+#        if item[1] <= cases[j][1]:
+#            cases.insert(j, item)
+#            break 
 
 # generate unit tests for functions
 exportdata = {"tabs": [] }

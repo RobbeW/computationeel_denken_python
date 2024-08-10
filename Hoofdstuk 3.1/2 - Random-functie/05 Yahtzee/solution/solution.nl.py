@@ -25,7 +25,6 @@ for _ in range(n):
 # Bereken het gemiddelde
 kans = round( aantal / n * 100, 2)
 
-print()
 # Print het gemiddelde van de worpen naar het scherm
 print(f"De kans op grote straat is ongeveer {kans} %")
 

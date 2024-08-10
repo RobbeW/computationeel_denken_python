@@ -4,12 +4,12 @@ Indien **alle** dobbelstenen hetzelfde aantal ogen hebben, dan noemt de combinat
 
 ![Yahtzee, foto door Kent Landerholm op FLickr.](media/game.jpg "Yahtzee, foto door Kent Landerholm op FLickr."){:data-caption="Yahtzee, foto door Kent Landerholm op FLickr." width="35%"}
 
-Hoewel je in het spel drie keer opnieuw mag werpen blijft de kans op de Yahtzee worp is natuurlijk vrij klein. Maar wat is de kans op één van de andere combinaties, bijvoorbeeld de *grote straat*? Een grote straat betekent dat je **vijf opeenvolgende dobbelstenen** hebt. Onderstaande worp zou bijvoorbeeld voorbeeld van een grote straat zijn, deze levert 40 punten op.
+Hoewel je in het spel drie keer opnieuw mag werpen blijft de kans op de Yahtzee worp is natuurlijk vrij klein. Maar wat is de kans op één van de andere combinaties, bijvoorbeeld de *grote straat*? Een grote straat betekent dat je **vijf opeenvolgende dobbelstenen** hebt. Onderstaande worp is een voorbeeld van een grote straat, deze levert 40 punten op.
 
  <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-2-outline"></span> <span class="mdi mdi-36px mdi-dice-1-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-3-outline"></span>
 
 ## Gevraagd
-Om deze kans te achterhalen **simuleren** we een groot aantal worpen en kijken we hoevaak een *grote straat* voorkomt. Vraag aan de gebruiker hoeveel worpen die wenst te simuleren. In elke worp gebruik je de functie `random.randint(a, b)` vijf keer om elke dobbelstenen te simuleren.
+Om deze kans te achterhalen **simuleren** we een groot aantal worpen en kijken we hoevaak een *grote straat* voorkomt. Vraag aan de gebruiker hoeveel worpen die wenst te simuleren. In elke worp gebruik je de functie `random.randint(a, b)` om de dobbelstenen te simuleren.
 
 #### Voorbeelden
 Bij `100` worpen verschijnt bijvoorbeeld:
