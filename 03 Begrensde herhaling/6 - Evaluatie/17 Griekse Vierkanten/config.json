@@ -4,12 +4,12 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Griekse Vierkanten (Deel II)",
-      "en": "For i in Range - Greek Squares (Part II)"
+      "nl": "Griekse vierkanten Deel 2"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
