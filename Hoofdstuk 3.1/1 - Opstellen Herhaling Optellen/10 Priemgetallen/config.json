@@ -4,15 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Priemgetallen kleiner dan 100",
-      "en": "For i in Range - Prime Numbers Below 100"
+      "nl": "Priemgetallen kleiner dan ..."
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "for",
     "robbe wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

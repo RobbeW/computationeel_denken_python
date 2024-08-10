@@ -2,16 +2,18 @@
   "type": "exercise",
   "programming_language": "python",
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Priemgetal"
+      "nl": "Priemgetal"
     }
   },
   "labels": [
-    "python"
+    "python",
+    "for"
   ],
   "internals": {
     "token": "3MSrPkEkKMjd4qvU3BbqADQ7w9c2kHBTqRZhrE2ASzAttEhaANAkgHNhzBwNj6fg",
