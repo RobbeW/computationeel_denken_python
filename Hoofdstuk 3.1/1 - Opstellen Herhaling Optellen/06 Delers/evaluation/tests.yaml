@@ -30,7 +30,7 @@
   - testcases:
     - stdin: '120'
       stdout: "1 is een deler van 120\n2 is een deler van 120\n3 is een deler van
-        120\n4 is een deler van 120\n5 is een deler van 120\n6 is een deler van 120\n8 is een deler van 120\n10 is een deler van 120\n12 is een deler van 120\n15 is een deler van 120\n20 is een deler van 120\n24 is een deler van 120\n30 is een deler van 120\n40 is een deler van 120\n60 is een deler van 120
+        120\n4 is een deler van 120\n5 is een deler van 120\n6 is een deler van 120\n8 is een deler van 120\n10 is een deler van 120\n12 is een deler van 120\n15 is een deler van 120\n20 is een deler van 120\n24 is een deler van 120\n30 is een deler van 120\n40 is een deler van 120\n60 is een deler van 120 
         \n120 is een deler van 120\n"
   - testcases:
     - stdin: '392'
@@ -39,8 +39,8 @@
   - testcases:
     - stdin: '132'
       stdout: "1 is een deler van 132\n2 is een deler van 132\n3 is een deler van
-        132\n4 is een deler van 132\n6 is een deler van 132\n11 is een deler van 132
-        \n12 is een deler van 132\n22 is een deler van 132\n33 is een deler van 132
+        132\n4 is een deler van 132\n6 is een deler van 132\n11 is een deler van 132 
+        \n12 is een deler van 132\n22 is een deler van 132\n33 is een deler van 132 
         \n44 is een deler van 132\n66 is een deler van 132\n132 is een deler van 132\n"
   - testcases:
     - stdin: '399'
@@ -72,7 +72,7 @@
       stdout: "1 is een deler van 263\n263 is een deler van 263\n"
   - testcases:
     - stdin: '42'
-      stdout: "1 is een deler van 42\n2 is een deler van 42\n3 is een deler van 42
+      stdout: "1 is een deler van 42\n2 is een deler van 42\n3 is een deler van 42 
         \n6 is een deler van 42\n7 is een deler van 42\n14 is een deler van 42\n21 is
         een deler van 42\n42 is een deler van 42\n"
   - testcases:
