@@ -1,0 +1,284 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "4\n144.0"
+      stdout: "De startzijde meet 12.0 cm en de oppervlakte was 144.0 cm².\nIn iteratie
+        1 meet de zijde 8.49 cm en bedraagt de oppervlakte 72.0 cm².\nIn iteratie
+        2 meet de zijde 6.0 cm en bedraagt de oppervlakte 36.0 cm².\nIn iteratie 3
+        meet de zijde 4.24 cm en bedraagt de oppervlakte 18.0 cm².\nIn iteratie 4
+        meet de zijde 3.0 cm en bedraagt de oppervlakte 9.0 cm².\n"
+  - testcases:
+    - stdin: "4\n52.1"
+      stdout: "De startzijde meet 7.22 cm en de oppervlakte was 52.1 cm².\nIn iteratie
+        1 meet de zijde 5.1 cm en bedraagt de oppervlakte 26.05 cm².\nIn iteratie
+        2 meet de zijde 3.61 cm en bedraagt de oppervlakte 13.03 cm².\nIn iteratie
+        3 meet de zijde 2.55 cm en bedraagt de oppervlakte 6.51 cm².\nIn iteratie
+        4 meet de zijde 1.8 cm en bedraagt de oppervlakte 3.26 cm².\n"
+  - testcases:
+    - stdin: "8\n989.7"
+      stdout: "De startzijde meet 31.46 cm en de oppervlakte was 989.7 cm².\nIn iteratie
+        1 meet de zijde 22.25 cm en bedraagt de oppervlakte 494.85 cm².\nIn iteratie
+        2 meet de zijde 15.73 cm en bedraagt de oppervlakte 247.43 cm².\nIn iteratie
+        3 meet de zijde 11.12 cm en bedraagt de oppervlakte 123.71 cm².\nIn iteratie
+        4 meet de zijde 7.86 cm en bedraagt de oppervlakte 61.86 cm².\nIn iteratie
+        5 meet de zijde 5.56 cm en bedraagt de oppervlakte 30.93 cm².\nIn iteratie
+        6 meet de zijde 3.93 cm en bedraagt de oppervlakte 15.46 cm².\nIn iteratie
+        7 meet de zijde 2.78 cm en bedraagt de oppervlakte 7.73 cm².\nIn iteratie
+        8 meet de zijde 1.97 cm en bedraagt de oppervlakte 3.87 cm².\n"
+  - testcases:
+    - stdin: "20\n2828772.6"
+      stdout: "De startzijde meet 1681.9 cm en de oppervlakte was 2828772.6 cm².\n\
+        In iteratie 1 meet de zijde 1189.28 cm en bedraagt de oppervlakte 1414386.3
+        cm².\nIn iteratie 2 meet de zijde 840.95 cm en bedraagt de oppervlakte 707193.15
+        cm².\nIn iteratie 3 meet de zijde 594.64 cm en bedraagt de oppervlakte 353596.58
+        cm².\nIn iteratie 4 meet de zijde 420.47 cm en bedraagt de oppervlakte 176798.29
+        cm².\nIn iteratie 5 meet de zijde 297.32 cm en bedraagt de oppervlakte 88399.14
+        cm².\nIn iteratie 6 meet de zijde 210.24 cm en bedraagt de oppervlakte 44199.57
+        cm².\nIn iteratie 7 meet de zijde 148.66 cm en bedraagt de oppervlakte 22099.79
+        cm².\nIn iteratie 8 meet de zijde 105.12 cm en bedraagt de oppervlakte 11049.89
+        cm².\nIn iteratie 9 meet de zijde 74.33 cm en bedraagt de oppervlakte 5524.95
+        cm².\nIn iteratie 10 meet de zijde 52.56 cm en bedraagt de oppervlakte 2762.47
+        cm².\nIn iteratie 11 meet de zijde 37.16 cm en bedraagt de oppervlakte 1381.24
+        cm².\nIn iteratie 12 meet de zijde 26.28 cm en bedraagt de oppervlakte 690.62
+        cm².\nIn iteratie 13 meet de zijde 18.58 cm en bedraagt de oppervlakte 345.31
+        cm².\nIn iteratie 14 meet de zijde 13.14 cm en bedraagt de oppervlakte 172.65
+        cm².\nIn iteratie 15 meet de zijde 9.29 cm en bedraagt de oppervlakte 86.33
+        cm².\nIn iteratie 16 meet de zijde 6.57 cm en bedraagt de oppervlakte 43.16
+        cm².\nIn iteratie 17 meet de zijde 4.65 cm en bedraagt de oppervlakte 21.58
+        cm².\nIn iteratie 18 meet de zijde 3.28 cm en bedraagt de oppervlakte 10.79
+        cm².\nIn iteratie 19 meet de zijde 2.32 cm en bedraagt de oppervlakte 5.4
+        cm².\nIn iteratie 20 meet de zijde 1.64 cm en bedraagt de oppervlakte 2.7
+        cm².\n"
+  - testcases:
+    - stdin: "17\n80826.0"
+      stdout: "De startzijde meet 284.3 cm en de oppervlakte was 80826.0 cm².\nIn
+        iteratie 1 meet de zijde 201.03 cm en bedraagt de oppervlakte 40413.0 cm².\n\
+        In iteratie 2 meet de zijde 142.15 cm en bedraagt de oppervlakte 20206.5 cm².\n\
+        In iteratie 3 meet de zijde 100.51 cm en bedraagt de oppervlakte 10103.25
+        cm².\nIn iteratie 4 meet de zijde 71.07 cm en bedraagt de oppervlakte 5051.62
+        cm².\nIn iteratie 5 meet de zijde 50.26 cm en bedraagt de oppervlakte 2525.81
+        cm².\nIn iteratie 6 meet de zijde 35.54 cm en bedraagt de oppervlakte 1262.91
+        cm².\nIn iteratie 7 meet de zijde 25.13 cm en bedraagt de oppervlakte 631.45
+        cm².\nIn iteratie 8 meet de zijde 17.77 cm en bedraagt de oppervlakte 315.73
+        cm².\nIn iteratie 9 meet de zijde 12.56 cm en bedraagt de oppervlakte 157.86
+        cm².\nIn iteratie 10 meet de zijde 8.88 cm en bedraagt de oppervlakte 78.93
+        cm².\nIn iteratie 11 meet de zijde 6.28 cm en bedraagt de oppervlakte 39.47
+        cm².\nIn iteratie 12 meet de zijde 4.44 cm en bedraagt de oppervlakte 19.73
+        cm².\nIn iteratie 13 meet de zijde 3.14 cm en bedraagt de oppervlakte 9.87
+        cm².\nIn iteratie 14 meet de zijde 2.22 cm en bedraagt de oppervlakte 4.93
+        cm².\nIn iteratie 15 meet de zijde 1.57 cm en bedraagt de oppervlakte 2.47
+        cm².\nIn iteratie 16 meet de zijde 1.11 cm en bedraagt de oppervlakte 1.23
+        cm².\nIn iteratie 17 meet de zijde 0.79 cm en bedraagt de oppervlakte 0.62
+        cm².\n"
+  - testcases:
+    - stdin: "11\n1704.4"
+      stdout: "De startzijde meet 41.28 cm en de oppervlakte was 1704.4 cm².\nIn iteratie
+        1 meet de zijde 29.19 cm en bedraagt de oppervlakte 852.2 cm².\nIn iteratie
+        2 meet de zijde 20.64 cm en bedraagt de oppervlakte 426.1 cm².\nIn iteratie
+        3 meet de zijde 14.6 cm en bedraagt de oppervlakte 213.05 cm².\nIn iteratie
+        4 meet de zijde 10.32 cm en bedraagt de oppervlakte 106.53 cm².\nIn iteratie
+        5 meet de zijde 7.3 cm en bedraagt de oppervlakte 53.26 cm².\nIn iteratie
+        6 meet de zijde 5.16 cm en bedraagt de oppervlakte 26.63 cm².\nIn iteratie
+        7 meet de zijde 3.65 cm en bedraagt de oppervlakte 13.32 cm².\nIn iteratie
+        8 meet de zijde 2.58 cm en bedraagt de oppervlakte 6.66 cm².\nIn iteratie
+        9 meet de zijde 1.82 cm en bedraagt de oppervlakte 3.33 cm².\nIn iteratie
+        10 meet de zijde 1.29 cm en bedraagt de oppervlakte 1.66 cm².\nIn iteratie
+        11 meet de zijde 0.91 cm en bedraagt de oppervlakte 0.83 cm².\n"
+  - testcases:
+    - stdin: "12\n1480.9"
+      stdout: "De startzijde meet 38.48 cm en de oppervlakte was 1480.9 cm².\nIn iteratie
+        1 meet de zijde 27.21 cm en bedraagt de oppervlakte 740.45 cm².\nIn iteratie
+        2 meet de zijde 19.24 cm en bedraagt de oppervlakte 370.23 cm².\nIn iteratie
+        3 meet de zijde 13.61 cm en bedraagt de oppervlakte 185.11 cm².\nIn iteratie
+        4 meet de zijde 9.62 cm en bedraagt de oppervlakte 92.56 cm².\nIn iteratie
+        5 meet de zijde 6.8 cm en bedraagt de oppervlakte 46.28 cm².\nIn iteratie
+        6 meet de zijde 4.81 cm en bedraagt de oppervlakte 23.14 cm².\nIn iteratie
+        7 meet de zijde 3.4 cm en bedraagt de oppervlakte 11.57 cm².\nIn iteratie
+        8 meet de zijde 2.41 cm en bedraagt de oppervlakte 5.78 cm².\nIn iteratie
+        9 meet de zijde 1.7 cm en bedraagt de oppervlakte 2.89 cm².\nIn iteratie 10
+        meet de zijde 1.2 cm en bedraagt de oppervlakte 1.45 cm².\nIn iteratie 11
+        meet de zijde 0.85 cm en bedraagt de oppervlakte 0.72 cm².\nIn iteratie 12
+        meet de zijde 0.6 cm en bedraagt de oppervlakte 0.36 cm².\n"
+  - testcases:
+    - stdin: "16\n29041.4"
+      stdout: "De startzijde meet 170.42 cm en de oppervlakte was 29041.4 cm².\nIn
+        iteratie 1 meet de zijde 120.5 cm en bedraagt de oppervlakte 14520.7 cm².\n\
+        In iteratie 2 meet de zijde 85.21 cm en bedraagt de oppervlakte 7260.35 cm².\n\
+        In iteratie 3 meet de zijde 60.25 cm en bedraagt de oppervlakte 3630.18 cm².\n\
+        In iteratie 4 meet de zijde 42.6 cm en bedraagt de oppervlakte 1815.09 cm².\n\
+        In iteratie 5 meet de zijde 30.13 cm en bedraagt de oppervlakte 907.54 cm².\n\
+        In iteratie 6 meet de zijde 21.3 cm en bedraagt de oppervlakte 453.77 cm².\n\
+        In iteratie 7 meet de zijde 15.06 cm en bedraagt de oppervlakte 226.89 cm².\n\
+        In iteratie 8 meet de zijde 10.65 cm en bedraagt de oppervlakte 113.44 cm².\n\
+        In iteratie 9 meet de zijde 7.53 cm en bedraagt de oppervlakte 56.72 cm².\n\
+        In iteratie 10 meet de zijde 5.33 cm en bedraagt de oppervlakte 28.36 cm².\n\
+        In iteratie 11 meet de zijde 3.77 cm en bedraagt de oppervlakte 14.18 cm².\n\
+        In iteratie 12 meet de zijde 2.66 cm en bedraagt de oppervlakte 7.09 cm².\n\
+        In iteratie 13 meet de zijde 1.88 cm en bedraagt de oppervlakte 3.55 cm².\n\
+        In iteratie 14 meet de zijde 1.33 cm en bedraagt de oppervlakte 1.77 cm².\n\
+        In iteratie 15 meet de zijde 0.94 cm en bedraagt de oppervlakte 0.89 cm².\n\
+        In iteratie 16 meet de zijde 0.67 cm en bedraagt de oppervlakte 0.44 cm².\n"
+  - testcases:
+    - stdin: "12\n15052.2"
+      stdout: "De startzijde meet 122.69 cm en de oppervlakte was 15052.2 cm².\nIn
+        iteratie 1 meet de zijde 86.75 cm en bedraagt de oppervlakte 7526.1 cm².\n\
+        In iteratie 2 meet de zijde 61.34 cm en bedraagt de oppervlakte 3763.05 cm².\n\
+        In iteratie 3 meet de zijde 43.38 cm en bedraagt de oppervlakte 1881.53 cm².\n\
+        In iteratie 4 meet de zijde 30.67 cm en bedraagt de oppervlakte 940.76 cm².\n\
+        In iteratie 5 meet de zijde 21.69 cm en bedraagt de oppervlakte 470.38 cm².\n\
+        In iteratie 6 meet de zijde 15.34 cm en bedraagt de oppervlakte 235.19 cm².\n\
+        In iteratie 7 meet de zijde 10.84 cm en bedraagt de oppervlakte 117.6 cm².\n\
+        In iteratie 8 meet de zijde 7.67 cm en bedraagt de oppervlakte 58.8 cm².\n\
+        In iteratie 9 meet de zijde 5.42 cm en bedraagt de oppervlakte 29.4 cm².\n\
+        In iteratie 10 meet de zijde 3.83 cm en bedraagt de oppervlakte 14.7 cm².\n\
+        In iteratie 11 meet de zijde 2.71 cm en bedraagt de oppervlakte 7.35 cm².\n\
+        In iteratie 12 meet de zijde 1.92 cm en bedraagt de oppervlakte 3.67 cm².\n"
+  - testcases:
+    - stdin: "8\n651.1"
+      stdout: "De startzijde meet 25.52 cm en de oppervlakte was 651.1 cm².\nIn iteratie
+        1 meet de zijde 18.04 cm en bedraagt de oppervlakte 325.55 cm².\nIn iteratie
+        2 meet de zijde 12.76 cm en bedraagt de oppervlakte 162.78 cm².\nIn iteratie
+        3 meet de zijde 9.02 cm en bedraagt de oppervlakte 81.39 cm².\nIn iteratie
+        4 meet de zijde 6.38 cm en bedraagt de oppervlakte 40.69 cm².\nIn iteratie
+        5 meet de zijde 4.51 cm en bedraagt de oppervlakte 20.35 cm².\nIn iteratie
+        6 meet de zijde 3.19 cm en bedraagt de oppervlakte 10.17 cm².\nIn iteratie
+        7 meet de zijde 2.26 cm en bedraagt de oppervlakte 5.09 cm².\nIn iteratie
+        8 meet de zijde 1.59 cm en bedraagt de oppervlakte 2.54 cm².\n"
+  - testcases:
+    - stdin: "2\n9.7"
+      stdout: "De startzijde meet 3.11 cm en de oppervlakte was 9.7 cm².\nIn iteratie
+        1 meet de zijde 2.2 cm en bedraagt de oppervlakte 4.85 cm².\nIn iteratie 2
+        meet de zijde 1.56 cm en bedraagt de oppervlakte 2.42 cm².\n"
+  - testcases:
+    - stdin: "18\n224656.0"
+      stdout: "De startzijde meet 473.98 cm en de oppervlakte was 224656.0 cm².\n\
+        In iteratie 1 meet de zijde 335.15 cm en bedraagt de oppervlakte 112328.0
+        cm².\nIn iteratie 2 meet de zijde 236.99 cm en bedraagt de oppervlakte 56164.0
+        cm².\nIn iteratie 3 meet de zijde 167.58 cm en bedraagt de oppervlakte 28082.0
+        cm².\nIn iteratie 4 meet de zijde 118.49 cm en bedraagt de oppervlakte 14041.0
+        cm².\nIn iteratie 5 meet de zijde 83.79 cm en bedraagt de oppervlakte 7020.5
+        cm².\nIn iteratie 6 meet de zijde 59.25 cm en bedraagt de oppervlakte 3510.25
+        cm².\nIn iteratie 7 meet de zijde 41.89 cm en bedraagt de oppervlakte 1755.12
+        cm².\nIn iteratie 8 meet de zijde 29.62 cm en bedraagt de oppervlakte 877.56
+        cm².\nIn iteratie 9 meet de zijde 20.95 cm en bedraagt de oppervlakte 438.78
+        cm².\nIn iteratie 10 meet de zijde 14.81 cm en bedraagt de oppervlakte 219.39
+        cm².\nIn iteratie 11 meet de zijde 10.47 cm en bedraagt de oppervlakte 109.7
+        cm².\nIn iteratie 12 meet de zijde 7.41 cm en bedraagt de oppervlakte 54.85
+        cm².\nIn iteratie 13 meet de zijde 5.24 cm en bedraagt de oppervlakte 27.42
+        cm².\nIn iteratie 14 meet de zijde 3.7 cm en bedraagt de oppervlakte 13.71
+        cm².\nIn iteratie 15 meet de zijde 2.62 cm en bedraagt de oppervlakte 6.86
+        cm².\nIn iteratie 16 meet de zijde 1.85 cm en bedraagt de oppervlakte 3.43
+        cm².\nIn iteratie 17 meet de zijde 1.31 cm en bedraagt de oppervlakte 1.71
+        cm².\nIn iteratie 18 meet de zijde 0.93 cm en bedraagt de oppervlakte 0.86
+        cm².\n"
+  - testcases:
+    - stdin: "3\n16.1"
+      stdout: "De startzijde meet 4.01 cm en de oppervlakte was 16.1 cm².\nIn iteratie
+        1 meet de zijde 2.84 cm en bedraagt de oppervlakte 8.05 cm².\nIn iteratie
+        2 meet de zijde 2.01 cm en bedraagt de oppervlakte 4.03 cm².\nIn iteratie
+        3 meet de zijde 1.42 cm en bedraagt de oppervlakte 2.01 cm².\n"
+  - testcases:
+    - stdin: "14\n71481.1"
+      stdout: "De startzijde meet 267.36 cm en de oppervlakte was 71481.1 cm².\nIn
+        iteratie 1 meet de zijde 189.05 cm en bedraagt de oppervlakte 35740.55 cm².\n\
+        In iteratie 2 meet de zijde 133.68 cm en bedraagt de oppervlakte 17870.28
+        cm².\nIn iteratie 3 meet de zijde 94.53 cm en bedraagt de oppervlakte 8935.14
+        cm².\nIn iteratie 4 meet de zijde 66.84 cm en bedraagt de oppervlakte 4467.57
+        cm².\nIn iteratie 5 meet de zijde 47.26 cm en bedraagt de oppervlakte 2233.78
+        cm².\nIn iteratie 6 meet de zijde 33.42 cm en bedraagt de oppervlakte 1116.89
+        cm².\nIn iteratie 7 meet de zijde 23.63 cm en bedraagt de oppervlakte 558.45
+        cm².\nIn iteratie 8 meet de zijde 16.71 cm en bedraagt de oppervlakte 279.22
+        cm².\nIn iteratie 9 meet de zijde 11.82 cm en bedraagt de oppervlakte 139.61
+        cm².\nIn iteratie 10 meet de zijde 8.35 cm en bedraagt de oppervlakte 69.81
+        cm².\nIn iteratie 11 meet de zijde 5.91 cm en bedraagt de oppervlakte 34.9
+        cm².\nIn iteratie 12 meet de zijde 4.18 cm en bedraagt de oppervlakte 17.45
+        cm².\nIn iteratie 13 meet de zijde 2.95 cm en bedraagt de oppervlakte 8.73
+        cm².\nIn iteratie 14 meet de zijde 2.09 cm en bedraagt de oppervlakte 4.36
+        cm².\n"
+  - testcases:
+    - stdin: "18\n1099949.6"
+      stdout: "De startzijde meet 1048.78 cm en de oppervlakte was 1099949.6 cm².\n\
+        In iteratie 1 meet de zijde 741.6 cm en bedraagt de oppervlakte 549974.8 cm².\n\
+        In iteratie 2 meet de zijde 524.39 cm en bedraagt de oppervlakte 274987.4
+        cm².\nIn iteratie 3 meet de zijde 370.8 cm en bedraagt de oppervlakte 137493.7
+        cm².\nIn iteratie 4 meet de zijde 262.2 cm en bedraagt de oppervlakte 68746.85
+        cm².\nIn iteratie 5 meet de zijde 185.4 cm en bedraagt de oppervlakte 34373.43
+        cm².\nIn iteratie 6 meet de zijde 131.1 cm en bedraagt de oppervlakte 17186.71
+        cm².\nIn iteratie 7 meet de zijde 92.7 cm en bedraagt de oppervlakte 8593.36
+        cm².\nIn iteratie 8 meet de zijde 65.55 cm en bedraagt de oppervlakte 4296.68
+        cm².\nIn iteratie 9 meet de zijde 46.35 cm en bedraagt de oppervlakte 2148.34
+        cm².\nIn iteratie 10 meet de zijde 32.77 cm en bedraagt de oppervlakte 1074.17
+        cm².\nIn iteratie 11 meet de zijde 23.18 cm en bedraagt de oppervlakte 537.08
+        cm².\nIn iteratie 12 meet de zijde 16.39 cm en bedraagt de oppervlakte 268.54
+        cm².\nIn iteratie 13 meet de zijde 11.59 cm en bedraagt de oppervlakte 134.27
+        cm².\nIn iteratie 14 meet de zijde 8.19 cm en bedraagt de oppervlakte 67.14
+        cm².\nIn iteratie 15 meet de zijde 5.79 cm en bedraagt de oppervlakte 33.57
+        cm².\nIn iteratie 16 meet de zijde 4.1 cm en bedraagt de oppervlakte 16.78
+        cm².\nIn iteratie 17 meet de zijde 2.9 cm en bedraagt de oppervlakte 8.39
+        cm².\nIn iteratie 18 meet de zijde 2.05 cm en bedraagt de oppervlakte 4.2
+        cm².\n"
+  - testcases:
+    - stdin: "10\n2114.8"
+      stdout: "De startzijde meet 45.99 cm en de oppervlakte was 2114.8 cm².\nIn iteratie
+        1 meet de zijde 32.52 cm en bedraagt de oppervlakte 1057.4 cm².\nIn iteratie
+        2 meet de zijde 22.99 cm en bedraagt de oppervlakte 528.7 cm².\nIn iteratie
+        3 meet de zijde 16.26 cm en bedraagt de oppervlakte 264.35 cm².\nIn iteratie
+        4 meet de zijde 11.5 cm en bedraagt de oppervlakte 132.18 cm².\nIn iteratie
+        5 meet de zijde 8.13 cm en bedraagt de oppervlakte 66.09 cm².\nIn iteratie
+        6 meet de zijde 5.75 cm en bedraagt de oppervlakte 33.04 cm².\nIn iteratie
+        7 meet de zijde 4.06 cm en bedraagt de oppervlakte 16.52 cm².\nIn iteratie
+        8 meet de zijde 2.87 cm en bedraagt de oppervlakte 8.26 cm².\nIn iteratie
+        9 meet de zijde 2.03 cm en bedraagt de oppervlakte 4.13 cm².\nIn iteratie
+        10 meet de zijde 1.44 cm en bedraagt de oppervlakte 2.07 cm².\n"
+  - testcases:
+    - stdin: "2\n3.4"
+      stdout: "De startzijde meet 1.84 cm en de oppervlakte was 3.4 cm².\nIn iteratie
+        1 meet de zijde 1.3 cm en bedraagt de oppervlakte 1.7 cm².\nIn iteratie 2
+        meet de zijde 0.92 cm en bedraagt de oppervlakte 0.85 cm².\n"
+  - testcases:
+    - stdin: "7\n524.2"
+      stdout: "De startzijde meet 22.9 cm en de oppervlakte was 524.2 cm².\nIn iteratie
+        1 meet de zijde 16.19 cm en bedraagt de oppervlakte 262.1 cm².\nIn iteratie
+        2 meet de zijde 11.45 cm en bedraagt de oppervlakte 131.05 cm².\nIn iteratie
+        3 meet de zijde 8.09 cm en bedraagt de oppervlakte 65.53 cm².\nIn iteratie
+        4 meet de zijde 5.72 cm en bedraagt de oppervlakte 32.76 cm².\nIn iteratie
+        5 meet de zijde 4.05 cm en bedraagt de oppervlakte 16.38 cm².\nIn iteratie
+        6 meet de zijde 2.86 cm en bedraagt de oppervlakte 8.19 cm².\nIn iteratie
+        7 meet de zijde 2.02 cm en bedraagt de oppervlakte 4.1 cm².\n"
+  - testcases:
+    - stdin: "13\n21111.3"
+      stdout: "De startzijde meet 145.3 cm en de oppervlakte was 21111.3 cm².\nIn
+        iteratie 1 meet de zijde 102.74 cm en bedraagt de oppervlakte 10555.65 cm².\n\
+        In iteratie 2 meet de zijde 72.65 cm en bedraagt de oppervlakte 5277.82 cm².\n\
+        In iteratie 3 meet de zijde 51.37 cm en bedraagt de oppervlakte 2638.91 cm².\n\
+        In iteratie 4 meet de zijde 36.32 cm en bedraagt de oppervlakte 1319.46 cm².\n\
+        In iteratie 5 meet de zijde 25.69 cm en bedraagt de oppervlakte 659.73 cm².\n\
+        In iteratie 6 meet de zijde 18.16 cm en bedraagt de oppervlakte 329.86 cm².\n\
+        In iteratie 7 meet de zijde 12.84 cm en bedraagt de oppervlakte 164.93 cm².\n\
+        In iteratie 8 meet de zijde 9.08 cm en bedraagt de oppervlakte 82.47 cm².\n\
+        In iteratie 9 meet de zijde 6.42 cm en bedraagt de oppervlakte 41.23 cm².\n\
+        In iteratie 10 meet de zijde 4.54 cm en bedraagt de oppervlakte 20.62 cm².\n\
+        In iteratie 11 meet de zijde 3.21 cm en bedraagt de oppervlakte 10.31 cm².\n\
+        In iteratie 12 meet de zijde 2.27 cm en bedraagt de oppervlakte 5.15 cm².\n\
+        In iteratie 13 meet de zijde 1.61 cm en bedraagt de oppervlakte 2.58 cm².\n"
+  - testcases:
+    - stdin: "17\n395940.4"
+      stdout: "De startzijde meet 629.24 cm en de oppervlakte was 395940.4 cm².\n
+        In iteratie 1 meet de zijde 444.94 cm en bedraagt de oppervlakte 197970.2
+        cm².\nIn iteratie 2 meet de zijde 314.62 cm en bedraagt de oppervlakte 98985.1
+        cm².\nIn iteratie 3 meet de zijde 222.47 cm en bedraagt de oppervlakte 49492.55
+        cm².\nIn iteratie 4 meet de zijde 157.31 cm en bedraagt de oppervlakte 24746.28
+        cm².\nIn iteratie 5 meet de zijde 111.23 cm en bedraagt de oppervlakte 12373.14
+        cm².\nIn iteratie 6 meet de zijde 78.65 cm en bedraagt de oppervlakte 6186.57
+        cm².\nIn iteratie 7 meet de zijde 55.62 cm en bedraagt de oppervlakte 3093.28
+        cm².\nIn iteratie 8 meet de zijde 39.33 cm en bedraagt de oppervlakte 1546.64
+        cm².\nIn iteratie 9 meet de zijde 27.81 cm en bedraagt de oppervlakte 773.32
+        cm².\nIn iteratie 10 meet de zijde 19.66 cm en bedraagt de oppervlakte 386.66
+        cm².\nIn iteratie 11 meet de zijde 13.9 cm en bedraagt de oppervlakte 193.33
+        cm².\nIn iteratie 12 meet de zijde 9.83 cm en bedraagt de oppervlakte 96.67
+        cm².\nIn iteratie 13 meet de zijde 6.95 cm en bedraagt de oppervlakte 48.33
+        cm².\nIn iteratie 14 meet de zijde 4.92 cm en bedraagt de oppervlakte 24.17
+        cm².\nIn iteratie 15 meet de zijde 3.48 cm en bedraagt de oppervlakte 12.08
+        cm².\nIn iteratie 16 meet de zijde 2.46 cm en bedraagt de oppervlakte 6.04
+        cm².\nIn iteratie 17 meet de zijde 1.74 cm en bedraagt de oppervlakte 3.02
+        cm².\n"

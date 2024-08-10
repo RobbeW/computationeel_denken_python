@@ -1,30 +1,26 @@
 ## Gegeven
-* Er zijn vijf vierkanten (ABCD, EFGH, IJKL, MNOP, QRST). 
-* Het kleinste vierkant ABCD heeft een zijde van 5 meter. 
-* Elk daaropvolgend vierkant heeft een oppervlakte die tweemaal de oppervlakte is van het voorgaande vierkant.
+
+Bij de onderstaande Griekse vierkanten wordt het vierkant gedraaid over 45° en de oppervlakte telkens **gehalveerd**. Er onstaat een fascinerende figuur.
+
+![Vorming van de Griekse vierkanten.](media/image.png "Vorming van de Griekse vierkanten."){:data-caption="Vorming van de Griekse vierkanten." .light-only width="236px"}
+
+![Vorming van de Griekse vierkanten.](media/image_dark.png "Vorming van de Griekse vierkanten."){:data-caption="Vorming van de Griekse vierkanten." .dark-only width="236px"}
 
 
 ## Gevraagd
 
-* Schrijf een programma dat de **oppervlakte van het vierkant** en de **lengte van de zijden** van elk van de vijf vierkanten berekent;
-* Print de afmetingen (lengte en oppervlakte) telkens naar het scherm in een verzorgde volzin.
-* Rond de lengte van de zijdes en de oppervlaktes telkens af tot **twee decimalen.**
-* Gebruik de `round-functie`. 
+Vraag de gebruiker eerst naar het aantal iteraties dat uitgevoerd moet worden. Daarna vraag je de **oppervlakte** van het eerste vierkant. 
 
-## Uitvoer
+Vervolgens geef je van elk opeenvolgend vierkant de zijde en de oppervlakte weer. Rond af op twee decimalen.
 
-```
-De lengte van de zijde van vierkant ABCD is ... meter en de oppervlakte is ... vierkante meter.
-De lengte van de zijde van vierkant EFGH is ... meter en de oppervlakte is ... vierkante meter.
-...
+#### Voorbeeld
+
+Indien de gebruiker `4` iteraties vraagt en als startoppervlakte `144.0` ingaf, dan verschijnt er:
 
 ```
-
-{: .callout.callout-success}
->## Tips
->* Start met een variabele voor de lengte van de zijde van het kleinste vierkant (ABCD), welke 5 is.
->* Gebruik een `lijst` om de namen van de vierkanten eenvoudig te integreren in de output.
->* Gebruik een `for-loop` om door elk van de vijf vierkanten te itereren.
->* In elke iteratie, bereken de **oppervlakte van het huidige vierkant** en de **lengte van de zijde van het vierkant.**
->* Print de **lengte van de zijde** en de **oppervlakte van het huidige vierkant** naar het scherm.
->* Update de lengte van de zijde voor de volgende iteratie.
+De startzijde meet 12.0 cm en de oppervlakte was 144.0 cm².
+In iteratie 1 meet de zijde 8.49 cm en bedraagt de oppervlakte 72.0 cm².
+In iteratie 2 meet de zijde 6.0 cm en bedraagt de oppervlakte 36.0 cm².
+In iteratie 3 meet de zijde 4.24 cm en bedraagt de oppervlakte 18.0 cm².
+In iteratie 4 meet de zijde 3.0 cm en bedraagt de oppervlakte 9.0 cm².
+```
