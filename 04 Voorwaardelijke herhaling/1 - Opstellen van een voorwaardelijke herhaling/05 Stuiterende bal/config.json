@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - Stuiterende bal"
+      "nl": "Stuiterende bal"
     }
   },
   "evaluation": {
@@ -12,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "while"
   ],
   "internals": {
     "token": "qTBQeN5XZyevgjgYbuvcU47raXJ8NejDhARBCaJNEhb3GCbdgZ75GXGr_KCjqjSx",

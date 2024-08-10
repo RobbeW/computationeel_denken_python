@@ -9,10 +9,10 @@ Indien men een bal vanop een bepaalde hoogte laat vallen dan stuitert die totdat
 
 Voor verschillende soorten ballen geldt een restitutiecoëfficiënt $$\mathsf{c}$$. Dit is een kommagetal tussen 0 en 1 dat aangeeft hoe ver de bal terugbotst. Een waarde van 1 betekent dat de bal perfect terugbotst terwijl 0 betekent dat de bal meteen tot rust komt.
 
-Het volgende verband geldt tussen $$\mathsf{c}$$, de beginhoogte $$\mathsf{h}$$ en de hoogte $$\mathsf{h_f}$$ na 1 keer botsen.
+Het volgende verband bestaat tussen $$\mathsf{c}$$, de hoogte $$\mathsf{h_i}$$ en de hoogte $$\mathsf{h_{i+1}}$$ na 1 keer botsen.
 
 $$
-\mathsf{c = \sqrt{\dfrac{h_f}{h}}}
+\mathsf{c = \sqrt{\dfrac{h_{i+1}}{h_i}}}
 $$
 
 ## Gevraagd
@@ -41,4 +41,4 @@ Na 7 botsingen is de hoogte nog 0.7 cm.
 > - Rond enkel af bij het afdrukken.
 > - Je zal de formule moeten omvormen. Beide leden kwadrateren leidt tot:
 >
->$$\mathsf{c^2 = \dfrac{h_f}{h}}$$
+>$$\mathsf{c^2 = \dfrac{h_{i+1}}{h_i}}$$
