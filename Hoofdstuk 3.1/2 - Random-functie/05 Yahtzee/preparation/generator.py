@@ -63,6 +63,7 @@ for test in cases:
                 "output": {} }
     
     # generate output to output file
+    random.seed(seed)
     aantal = 0
     
     # We doen dit een aantal keer
