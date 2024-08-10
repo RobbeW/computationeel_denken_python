@@ -5,7 +5,7 @@ Priemgetallen vormen de bouwstenen van de wiskunde, ze worden als volgt gedefini
 > Een priemgetal is een **natuurlijk getal** groter dan 1 dat **enkel** deelbaar is door 1 en zichzelf.
 
 ## Gevraagd
-Schrijf een programma dat een getal vraagt en vervolgens weergeeft of dit priem is.
+Schrijf een programma dat een natuurlijk getal vraagt en vervolgens weergeeft of dit priem is.
 
 #### Voorbeelden
 Voor invoer `2` verschijnt er:

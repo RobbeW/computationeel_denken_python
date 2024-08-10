@@ -5,7 +5,7 @@ Priemgetallen vormen de bouwstenen van de wiskunde, ze worden als volgt gedefini
 > Een priemgetal is een **natuurlijk getal** groter dan 1 dat **enkel** deelbaar is door 1 en zichzelf.
 
 ## Gevraagd
-Schrijf een programma dat alle priemgetallen kleiner dan een gegeven getal afdrukt.
+Schrijf een programma dat alle priemgetallen kleiner dan een gegeven natuurlijk getal afdrukt.
 
 #### Voorbeeld
 Voor invoer `100` verschijnt er:
