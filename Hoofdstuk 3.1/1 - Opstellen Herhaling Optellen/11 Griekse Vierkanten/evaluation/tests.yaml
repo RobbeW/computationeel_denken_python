@@ -3,8 +3,8 @@
   - testcases:
     - stdin: "144.0\n4"
       stdout: "De lengte van de zijde van vierkant 1 is 12.0 m.\nDe oppervlakte van
-        vierkant 2 is 36.0 m².\nDe lengte van de zijde van vierkant 2 is 6.0 m
-        .\nDe oppervlakte van vierkant 3 is 9.0 m².\nDe lengte van de zijde van vierkant
+        vierkant 2 is 36.0 m².\nDe lengte van de zijde van vierkant 2 is 6.0 m.\
+        \nDe oppervlakte van vierkant 3 is 9.0 m².\nDe lengte van de zijde van vierkant
         3 is 3.0 m.\nDe oppervlakte van vierkant 4 is 2.25 m².\nDe lengte van de zijde
         van vierkant 4 is 1.5 m.\n"
   - testcases:
