@@ -12,7 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "evaluatie",
+    "for"
   ],
   "internals": {
     "token": "Z8RdFGasUqMVEvPNWn-6M7xNcXDpJ-R3jUn3Fm43E6vb9CvFTaRt9G3V63qn528t",

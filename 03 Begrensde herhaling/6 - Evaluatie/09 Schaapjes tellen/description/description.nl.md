@@ -1,6 +1,6 @@
 Schaapjes tellen is een mentale oefening om slaap te kunnen vatten. Deze techniek bestaat al sinds de vroeg twaalfde eeuw. Het idee erachter is dat je stopt met piekeren door jezelf af te leiden.
 
-![Schaapjes tellen.](media/sheep.gif "Schaapjes tellen."){:data-caption="Schaapjes tellen." width="40%"}
+![Schaapjes tellen.](media/sheep.gif "Schaapjes tellen."){:data-caption="Schaapjes tellen." width="200px"}
 
 ## Gevraagd
 
