@@ -1,0 +1,409 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "1.0\n4"
+      stdout: "Het eerste vierkant heeft als oppervlakte 1.0 cm².\nIn iteratie 1 zijn
+        er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.5 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.25 cm².\nIn iteratie 3 zijn er 15 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.125 cm².\nIn iteratie
+        4 zijn er 31 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0625 cm².\n"
+  - testcases:
+    - stdin: "6.25\n3"
+      stdout: "Het eerste vierkant heeft als oppervlakte 39.0625 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 19.5312 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 9.7656 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        4.8828 cm².\n"
+  - testcases:
+    - stdin: "7.48\n20"
+      stdout: "Het eerste vierkant heeft als oppervlakte 55.9504 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 27.9752 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 13.9876 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        6.9938 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 3.4969 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 1.7484 cm².\n
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.8742 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.4371 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.2186 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.1093 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0546 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0273 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0137 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0068 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0034 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0017 cm².\nIn iteratie 16
+        zijn er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0009 cm².\nIn iteratie 17 zijn er 262143 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0004 cm².\nIn iteratie 18
+        zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0002 cm².\nIn iteratie 19 zijn er 1048575 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0001 cm².\nIn iteratie 20
+        zijn er 2097151 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0001 cm².\n"
+  - testcases:
+    - stdin: "3.06\n10"
+      stdout: "Het eerste vierkant heeft als oppervlakte 9.3636 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 4.6818 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 2.3409 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        1.1704 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.5852 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.2926 cm².\n
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.1463 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.0732 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0366 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.0183 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0091 cm².\n"
+  - testcases:
+    - stdin: "7.97\n18"
+      stdout: "Het eerste vierkant heeft als oppervlakte 63.5209 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 31.7604 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 15.8802 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        7.9401 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 3.9701 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 1.985 cm².\n
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.9925 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.4963 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.2481 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.1241 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.062 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.031 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0155 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0078 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0039 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0019 cm².\nIn iteratie 16
+        zijn er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.001 cm².\nIn iteratie 17 zijn er 262143 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0005 cm².\nIn iteratie 18
+        zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0002 cm².\n"
+  - testcases:
+    - stdin: "6.28\n18"
+      stdout: "Het eerste vierkant heeft als oppervlakte 39.4384 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 19.7192 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 9.8596 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        4.9298 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 2.4649 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 1.2324 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.6162 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.3081 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.1541 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.077 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0385 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0193 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0096 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0048 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0024 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0012 cm².\nIn iteratie 16
+        zijn er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0006 cm².\nIn iteratie 17 zijn er 262143 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0003 cm².\nIn iteratie 18
+        zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0002 cm².\n"
+  - testcases:
+    - stdin: "1.69\n12"
+      stdout: "Het eerste vierkant heeft als oppervlakte 2.8561 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 1.428 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en is
+        de oppervlakte van het kleinste vierkant 0.714 cm².\nIn iteratie 3 zijn er
+        15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.357 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.1785 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.0893 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.0446 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.0223 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0112 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.0056 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0028 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0014 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0007 cm².\n"
+  - testcases:
+    - stdin: "2.1\n13"
+      stdout: "Het eerste vierkant heeft als oppervlakte 4.41 cm².\nIn iteratie 1
+        zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        2.205 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 1.1025 cm².\nIn iteratie 3 zijn er 15 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.5512 cm².\n\
+        In iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.2756 cm².\nIn iteratie 5 zijn er 63 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.1378 cm².\nIn
+        iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0689 cm².\nIn iteratie 7 zijn er 255 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.0345 cm².\nIn iteratie
+        8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0172 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0086 cm².\nIn iteratie 10
+        zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0043 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0022 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0011 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0005 cm².\n"
+  - testcases:
+    - stdin: "1.21\n17"
+      stdout: "Het eerste vierkant heeft als oppervlakte 1.4641 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.732 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en is
+        de oppervlakte van het kleinste vierkant 0.366 cm².\nIn iteratie 3 zijn er
+        15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.183 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.0915 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.0458 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.0229 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.0114 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0057 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.0029 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0014 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0007 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0004 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0002 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0001 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0 cm².\nIn iteratie 16 zijn
+        er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.0 cm².\nIn iteratie 17 zijn er 262143 vierkanten in het totaal en is de
+        oppervlakte van het kleinste vierkant 0.0 cm².\n"
+  - testcases:
+    - stdin: "1.37\n13"
+      stdout: "Het eerste vierkant heeft als oppervlakte 1.8769 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.9384 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 0.4692 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.2346 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.1173 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.0587 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.0293 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.0147 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0073 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.0037 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0018 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0009 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0005 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0002 cm².\n"
+  - testcases:
+    - stdin: "7.49\n9"
+      stdout: "Het eerste vierkant heeft als oppervlakte 56.1001 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 28.05 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en is
+        de oppervlakte van het kleinste vierkant 14.025 cm².\nIn iteratie 3 zijn er
+        15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        7.0125 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 3.5063 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 1.7531 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.8766 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.4383 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.2191 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.1096 cm².\n"
+  - testcases:
+    - stdin: "5.35\n3"
+      stdout: "Het eerste vierkant heeft als oppervlakte 28.6225 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 14.3112 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 7.1556 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        3.5778 cm².\n"
+  - testcases:
+    - stdin: "5.12\n19"
+      stdout: "Het eerste vierkant heeft als oppervlakte 26.2144 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 13.1072 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 6.5536 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        3.2768 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 1.6384 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.8192 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.4096 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.2048 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.1024 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.0512 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0256 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0128 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0064 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0032 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0016 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0008 cm².\nIn iteratie 16
+        zijn er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0004 cm².\nIn iteratie 17 zijn er 262143 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0002 cm².\nIn iteratie 18
+        zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0001 cm².\nIn iteratie 19 zijn er 1048575 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0 cm².\n"
+  - testcases:
+    - stdin: "2.15\n4"
+      stdout: "Het eerste vierkant heeft als oppervlakte 4.6225 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 2.3112 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 1.1556 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.5778 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.2889 cm².\n"
+  - testcases:
+    - stdin: "4.35\n15"
+      stdout: "Het eerste vierkant heeft als oppervlakte 18.9225 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 9.4612 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 4.7306 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        2.3653 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 1.1827 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.5913 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.2957 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.1478 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0739 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.037 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0185 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0092 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0046 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0023 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0012 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0006 cm².\n"
+  - testcases:
+    - stdin: "8.79\n19"
+      stdout: "Het eerste vierkant heeft als oppervlakte 77.2641 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 38.632 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 19.316 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        9.658 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 4.829 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 2.4145 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 1.2073 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.6036 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.3018 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.1509 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0755 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0377 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0189 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0094 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0047 cm².\nIn iteratie 15 zijn er 65535 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0024 cm².\nIn iteratie 16
+        zijn er 131071 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0012 cm².\nIn iteratie 17 zijn er 262143 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0006 cm².\nIn iteratie 18
+        zijn er 524287 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0003 cm².\nIn iteratie 19 zijn er 1048575 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0001 cm².\n"
+  - testcases:
+    - stdin: "8.48\n11"
+      stdout: "Het eerste vierkant heeft als oppervlakte 71.9104 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 35.9552 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 17.9776 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        8.9888 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 4.4944 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 2.2472 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 1.1236 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.5618 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.2809 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.1404 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0702 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0351 cm².\n"
+  - testcases:
+    - stdin: "4.44\n3"
+      stdout: "Het eerste vierkant heeft als oppervlakte 19.7136 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 9.8568 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 4.9284 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        2.4642 cm².\n"
+  - testcases:
+    - stdin: "2.13\n8"
+      stdout: "Het eerste vierkant heeft als oppervlakte 4.5369 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 2.2684 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 1.1342 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        0.5671 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 0.2836 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 0.1418 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 0.0709 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.0354 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.0177 cm².\n"
+  - testcases:
+    - stdin: "8.29\n14"
+      stdout: "Het eerste vierkant heeft als oppervlakte 68.7241 cm².\nIn iteratie
+        1 zijn er 3 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 34.362 cm².\nIn iteratie 2 zijn er 7 vierkanten in het totaal en
+        is de oppervlakte van het kleinste vierkant 17.181 cm².\nIn iteratie 3 zijn
+        er 15 vierkanten in het totaal en is de oppervlakte van het kleinste vierkant
+        8.5905 cm².\nIn iteratie 4 zijn er 31 vierkanten in het totaal en is de oppervlakte
+        van het kleinste vierkant 4.2953 cm².\nIn iteratie 5 zijn er 63 vierkanten
+        in het totaal en is de oppervlakte van het kleinste vierkant 2.1476 cm².\n\
+        In iteratie 6 zijn er 127 vierkanten in het totaal en is de oppervlakte van
+        het kleinste vierkant 1.0738 cm².\nIn iteratie 7 zijn er 255 vierkanten in
+        het totaal en is de oppervlakte van het kleinste vierkant 0.5369 cm².\nIn
+        iteratie 8 zijn er 511 vierkanten in het totaal en is de oppervlakte van het
+        kleinste vierkant 0.2685 cm².\nIn iteratie 9 zijn er 1023 vierkanten in het
+        totaal en is de oppervlakte van het kleinste vierkant 0.1342 cm².\nIn iteratie
+        10 zijn er 2047 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0671 cm².\nIn iteratie 11 zijn er 4095 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0336 cm².\nIn iteratie 12
+        zijn er 8191 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0168 cm².\nIn iteratie 13 zijn er 16383 vierkanten in het totaal
+        en is de oppervlakte van het kleinste vierkant 0.0084 cm².\nIn iteratie 14
+        zijn er 32767 vierkanten in het totaal en is de oppervlakte van het kleinste
+        vierkant 0.0042 cm².\n"

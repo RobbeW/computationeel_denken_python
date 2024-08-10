@@ -8,10 +8,13 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "evaluatie",
+    "for",
+    "fractaal"
   ],
   "internals": {
     "token": "_yBEF3Ha62_6qYrrxYwjSeJQk9U7kzsRKkQDe5aenQeMnZraCuuU_demSHfAy9mu",
