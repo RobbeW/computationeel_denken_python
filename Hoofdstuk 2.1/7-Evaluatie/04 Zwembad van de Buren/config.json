@@ -4,15 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Zwembad bij de buren",
-      "en": "Test Exercise - Neighbour's swimming pool"
+      "nl": "Zwembad bij de buren"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "selectie",
+    "evaluatie",
     "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

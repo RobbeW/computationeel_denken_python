@@ -1,6 +1,6 @@
 # Vraag de gebruiker om input
-tijd = float(input("Vul jouw totale rijtijd in (in uur): "))
-kilometers = int(input("Vul jouw maandelijks gereden kilometers in: "))
+tijd = float(input("Voer jouw totale rijtijd in (in uur): "))
+kilometers = int(input("Voer jouw maandelijks gereden kilometers in: "))
 
 # Bereken de kosten voor elk pakket
 prepaid = 3.49 * tijd + 0.37 * kilometers + 0

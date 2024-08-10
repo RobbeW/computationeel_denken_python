@@ -4,14 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Soort driehoek"
+      "nl": "Soort driehoek"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "python",
+    "evaluatie",
+    "selectie"
   ],
   "internals": {
     "token": "iAVmCjSwFW23appJmk48wJTSBcduavsG3mTw_SDcXUtxt4HU2E6y2wnCweInMBiB",

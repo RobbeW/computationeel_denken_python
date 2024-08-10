@@ -1,0 +1,77 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "4.5\n307"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 129.3
+        euro.\n"
+  - testcases:
+    - stdin: "12\n828"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 348.24
+        euro.\n"
+  - testcases:
+    - stdin: "11.6\n928"
+      stdout: "Coop formule is het meest voordelig.\nJe betaalt daarmee: 381.24 euro.\n"
+  - testcases:
+    - stdin: "10.1\n686"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 289.07
+        euro.\n"
+  - testcases:
+    - stdin: "12.3\n934"
+      stdout: "Coop formule is het meest voordelig.\nJe betaalt daarmee: 383.22 euro.\n"
+  - testcases:
+    - stdin: "10.0\n760"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 316.1
+        euro.\n"
+  - testcases:
+    - stdin: "3.9\n273"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 114.62
+        euro.\n"
+  - testcases:
+    - stdin: "4.5\n319"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 133.74
+        euro.\n"
+  - testcases:
+    - stdin: "3.3\n247"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 102.91
+        euro.\n"
+  - testcases:
+    - stdin: "3.5\n248"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 103.98
+        euro.\n"
+  - testcases:
+    - stdin: "11.7\n783"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 330.54
+        euro.\n"
+  - testcases:
+    - stdin: "8.8\n536"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 229.03
+        euro.\n"
+  - testcases:
+    - stdin: "8.5\n654"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 271.64
+        euro.\n"
+  - testcases:
+    - stdin: "4.5\n279"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 118.94
+        euro.\n"
+  - testcases:
+    - stdin: "7.5\n547"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 228.56
+        euro.\n"
+  - testcases:
+    - stdin: "13.4\n1031"
+      stdout: "Coop formule is het meest voordelig.\nJe betaalt daarmee: 415.23 euro.\n"
+  - testcases:
+    - stdin: "13.0\n897"
+      stdout: "Coop formule is het meest voordelig.\nJe betaalt daarmee: 371.01 euro.\n"
+  - testcases:
+    - stdin: "7.6\n463"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 197.83
+        euro.\n"
+  - testcases:
+    - stdin: "4.5\n297"
+      stdout: "Prepaid rijbudget is het meest voordelig.\nJe betaalt daarmee: 125.59
+        euro.\n"
+  - testcases:
+    - stdin: "12.7\n914"
+      stdout: "Coop formule is het meest voordelig.\nJe betaalt daarmee: 376.62 euro.\n"

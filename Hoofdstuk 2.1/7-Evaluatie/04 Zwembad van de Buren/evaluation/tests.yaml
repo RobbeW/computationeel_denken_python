@@ -1,0 +1,82 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "5.3\n1.3\n5.9\n1.1"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 30.07 m³.\n"
+  - testcases:
+    - stdin: "5.3\n1.6\n4.9\n1.1"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 35.3 m³.\n"
+  - testcases:
+    - stdin: "5\n1.5\n5\n1.5"
+      stdout: "Eddy en Freddy hebben even grote zwembaden.\nBeide zwembaden hebben
+        een volume van 29.45 m³.\n"
+  - testcases:
+    - stdin: "4.7\n1.3\n2.5\n0.8"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 22.55 m³.\n"
+  - testcases:
+    - stdin: "4.2\n1.3\n5.6\n0.6"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 18.01 m³.\n"
+  - testcases:
+    - stdin: "3.0\n0.7\n5.3\n0.5"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 11.03 m³.\n"
+  - testcases:
+    - stdin: "5.8\n1.1\n5.0\n1.6"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 31.42 m³.\n"
+  - testcases:
+    - stdin: "4.7\n0.8\n3.9\n1.1"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 13.88 m³.\n"
+  - testcases:
+    - stdin: "4.0\n0.8\n3.2\n1.1"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 10.05 m³.\n"
+  - testcases:
+    - stdin: "2.7\n1.6\n5.9\n1.0"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 27.34 m³.\n"
+  - testcases:
+    - stdin: "4.7\n0.7\n2.5\n1.2"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 12.14 m³.\n"
+  - testcases:
+    - stdin: "3.7\n1.6\n4.1\n1.5"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 19.8 m³.\n"
+  - testcases:
+    - stdin: "3.2\n0.8\n2.0\n0.7"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 6.43 m³.\n"
+  - testcases:
+    - stdin: "3.3\n1.5\n2.4\n0.9"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 12.83 m³.\n"
+  - testcases:
+    - stdin: "2.5\n1.0\n5.4\n1.1"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 25.19 m³.\n"
+  - testcases:
+    - stdin: "4.6\n1.3\n4.4\n1.0"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 21.6 m³.\n"
+  - testcases:
+    - stdin: "3.2\n1.4\n4.7\n0.9"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 15.61 m³.\n"
+  - testcases:
+    - stdin: "5.9\n0.8\n3.4\n1.2"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 21.87 m³.\n"
+  - testcases:
+    - stdin: "3.0\n0.6\n2.3\n1.3"
+      stdout: "Freddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft
+        een volume van 5.4 m³.\n"
+  - testcases:
+    - stdin: "5.0\n1.6\n5.4\n0.6"
+      stdout: "Eddy heeft het grootste zwembad van de buurt.\nHet zwembad heeft een
+        volume van 31.42 m³.\n"

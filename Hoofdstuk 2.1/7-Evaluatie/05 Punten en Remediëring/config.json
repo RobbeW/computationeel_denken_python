@@ -4,15 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Punten en remediëring",
-      "en": "Test Exercise - Grades and assessment"
+      "nl": "Punten en remediëring"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "evaluatie",
+    "selectie",
     "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

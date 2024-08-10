@@ -4,14 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Vetpercentage"
+      "nl": "Vetpercentage"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "python",
+    "evaluatie",
+    "selectie"
   ],
   "internals": {
     "token": "-aN-w4eusM-4uWWFfBXjZGTHJvDkH5wZqATw-B5ciYg39mRcSye4byi8zjxNueaH",

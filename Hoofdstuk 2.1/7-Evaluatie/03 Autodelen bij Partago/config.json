@@ -4,17 +4,18 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Autodelen bij Partago"
+      "nl": "Autodelen bij Partago"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
-    "Robbe Wulgaert"
+    "evaluatie",
+    "selectie"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "KvIpCbHvbwrS2SnYye3e_Yz-pmExPxwue6tvGYHUv_-mEWZrEGCKuIiNK3N_YvAp",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
