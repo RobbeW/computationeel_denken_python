@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '1'
+      stdout: "Deze hond is ongeveer 15 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '2'
+      stdout: "Deze hond is ongeveer 24 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '3'
+      stdout: "Deze hond is ongeveer 29 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '4'
+      stdout: "Deze hond is ongeveer 34 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "Deze hond is ongeveer 39 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "Deze hond is ongeveer 44 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "Deze hond is ongeveer 49 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "Deze hond is ongeveer 54 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "Deze hond is ongeveer 59 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "Deze hond is ongeveer 64 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "Deze hond is ongeveer 69 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "Deze hond is ongeveer 74 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "Deze hond is ongeveer 79 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '14'
+      stdout: "Deze hond is ongeveer 84 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '15'
+      stdout: "Deze hond is ongeveer 89 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '16'
+      stdout: "Deze hond is ongeveer 94 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '17'
+      stdout: "Deze hond is ongeveer 99 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "Deze hond is ongeveer 104 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "Deze hond is ongeveer 109 mensenjaren oud.\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "Deze hond is ongeveer 114 mensenjaren oud.\n"

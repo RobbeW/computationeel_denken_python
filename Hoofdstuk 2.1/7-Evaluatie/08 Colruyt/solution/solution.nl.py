@@ -1,5 +1,5 @@
 # Vraag het aantal
-aantal = int(input("Geef het aantal verpakkingen in:"))
+aantal = int(input("Geef het aantal verpakkingen in: "))
 
 # Kostprijs
 bedrag = aantal * 3.29

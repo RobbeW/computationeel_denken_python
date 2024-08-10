@@ -1,5 +1,5 @@
 # Vraag de leeftijd
-leeftijd = int(input("Geef de leeftijd in maanden in:"))
+leeftijd = int(input("Geef de leeftijd in maanden in: "))
 
 # Lichaamsmassa
 if leeftijd < 12:

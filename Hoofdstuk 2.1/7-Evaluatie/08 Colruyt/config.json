@@ -4,14 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Colruyt"
+      "nl": "Colruyt"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "python",
+    "evaulatie",
+    "selectie"
   ],
   "internals": {
     "token": "8ukfKu8YwRE3D-4Em2uGP4PQn6nTUGcb8D7St_vSzbemau4CDVNVwtCPMUFi8d_Z",

@@ -1,5 +1,5 @@
 # Vraag het aantal
-aantal = int(input("Geef het aantal hondenjaren in:"))
+aantal = int(input("Geef het aantal hondenjaren in: "))
 
 # Leeftijd berekenen
 if  aantal == 1:

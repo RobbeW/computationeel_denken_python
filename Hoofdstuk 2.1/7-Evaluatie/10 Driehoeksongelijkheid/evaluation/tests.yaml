@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "4\n7\n2"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "4\n5\n2"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "5\n2\n3"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "2\n5\n3"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "2\n3\n5"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "3\n12\n11"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "5\n6\n11"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "10\n11\n10"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "3\n7\n3"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "4\n7\n2"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "9\n2\n7"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "5\n9\n10"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "2\n9\n5"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "10\n4\n6"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "3\n7\n2"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "8\n6\n10"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "12\n6\n8"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "4\n2\n4"
+      stdout: "Deze zijden vormen een driehoek.\n"
+  - testcases:
+    - stdin: "5\n5\n10"
+      stdout: "Deze zijden vormen geen driehoek.\n"
+  - testcases:
+    - stdin: "8\n9\n4"
+      stdout: "Deze zijden vormen een driehoek.\n"

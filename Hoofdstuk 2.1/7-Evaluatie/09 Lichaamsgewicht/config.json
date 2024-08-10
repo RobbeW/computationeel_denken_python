@@ -4,14 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Ideale lichaamsmassa"
+      "nl": "Ideale lichaamsmassa"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "python",
+    "evaluatie",
+    "selectie"
   ],
   "internals": {
     "token": "BPi3DsHu_i_c6IUQJ4_sRKD8n_3kVMMPVhTizY7YSNPeyBE_3TVTyXN77yddXJip",
