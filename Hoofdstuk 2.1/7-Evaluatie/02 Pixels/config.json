@@ -4,14 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Selectie Toetsvraag - Pixels"
+      "nl": "Pixels"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "evaluatie",
+    "selectie",
     "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '2082'
+      stdout: "Het scherm is waarschijnlijk ok.\n"
+  - testcases:
+    - stdin: '2048'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3475'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '2204'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3296'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3206'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '2468'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3559'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '2517'
+      stdout: "Het scherm is waarschijnlijk ok.\n"
+  - testcases:
+    - stdin: '3585'
+      stdout: "Het scherm is waarschijnlijk ok.\n"
+  - testcases:
+    - stdin: '3241'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3055'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3201'
+      stdout: "Het scherm is waarschijnlijk ok.\n"
+  - testcases:
+    - stdin: '3496'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3865'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3042'
+      stdout: "Het scherm is waarschijnlijk ok.\n"
+  - testcases:
+    - stdin: '2158'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '3567'
+      stdout: "Het scherm is waarschijnlijk ok.\n"
+  - testcases:
+    - stdin: '2686'
+      stdout: "Het scherm bevat zeker een defect!\n"
+  - testcases:
+    - stdin: '2251'
+      stdout: "Het scherm bevat zeker een defect!\n"

@@ -33,10 +33,10 @@ spec.loader.exec_module(module)
 
 # generate test data
 ntests= 20
-cases = [ (42,),(29,),(30,),(40,),(50,) ]
+cases = [ (2082, ), (2048, ) ]
 
 while len( cases ) < ntests:
-    getal = random.randint(3,70)
+    getal = random.randint(2000, 4000)
     case = (getal,)
     if case not in cases:
         cases.append( case )
