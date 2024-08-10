@@ -10,8 +10,8 @@
   - testcases:
     - stdin: "256.0\n6"
       stdout: "De lengte van de zijde van vierkant 1 is 16.0 m.\nDe oppervlakte van
-        vierkant 2 is 64.0 m².\nDe lengte van de zijde van vierkant 2 is 8.0 m
-        .\nDe oppervlakte van vierkant 3 is 16.0 m².\nDe lengte van de zijde van vierkant
+        vierkant 2 is 64.0 m².\nDe lengte van de zijde van vierkant 2 is 8.0 m.\
+        \nDe oppervlakte van vierkant 3 is 16.0 m².\nDe lengte van de zijde van vierkant
         3 is 4.0 m.\nDe oppervlakte van vierkant 4 is 4.0 m².\nDe lengte van de zijde
         van vierkant 4 is 2.0 m.\nDe oppervlakte van vierkant 5 is 1.0 m².\nDe lengte
         van de zijde van vierkant 5 is 1.0 m.\nDe oppervlakte van vierkant 6 is 0.25
@@ -26,7 +26,7 @@
   - testcases:
     - stdin: "432.64\n7"
       stdout: "De lengte van de zijde van vierkant 1 is 20.8 m.\nDe oppervlakte van
-        vierkant 2 is 108.16 m².\nDe lengte van de zijde van vierkant 2 is 10.4 m.\n
+        vierkant 2 is 108.16 m².\nDe lengte van de zijde van vierkant 2 is 10.4 m.\n\
         De oppervlakte van vierkant 3 is 27.04 m².\nDe lengte van de zijde van vierkant
         3 is 5.2 m.\nDe oppervlakte van vierkant 4 is 6.76 m².\nDe lengte van de zijde
         van vierkant 4 is 2.6 m.\nDe oppervlakte van vierkant 5 is 1.69 m².\nDe lengte
@@ -36,19 +36,19 @@
   - testcases:
     - stdin: "338.56\n8"
       stdout: "De lengte van de zijde van vierkant 1 is 18.4 m.\nDe oppervlakte van
-        vierkant 2 is 84.64 m².\nDe lengte van de zijde van vierkant 2 is 9.2 m.\n
+        vierkant 2 is 84.64 m².\nDe lengte van de zijde van vierkant 2 is 9.2 m.\n\
         De oppervlakte van vierkant 3 is 21.16 m².\nDe lengte van de zijde van vierkant
         3 is 4.6 m.\nDe oppervlakte van vierkant 4 is 5.29 m².\nDe lengte van de zijde
         van vierkant 4 is 2.3 m.\nDe oppervlakte van vierkant 5 is 1.32 m².\nDe lengte
         van de zijde van vierkant 5 is 1.15 m.\nDe oppervlakte van vierkant 6 is 0.33
         m².\nDe lengte van de zijde van vierkant 6 is 0.57 m.\nDe oppervlakte van
-        vierkant 7 is 0.08 m².\nDe lengte van de zijde van vierkant 7 is 0.29 m.\n
+        vierkant 7 is 0.08 m².\nDe lengte van de zijde van vierkant 7 is 0.29 m.\n\
         De oppervlakte van vierkant 8 is 0.02 m².\nDe lengte van de zijde van vierkant
         8 is 0.14 m.\n"
   - testcases:
     - stdin: "163.84\n6"
       stdout: "De lengte van de zijde van vierkant 1 is 12.8 m.\nDe oppervlakte van
-        vierkant 2 is 40.96 m².\nDe lengte van de zijde van vierkant 2 is 6.4 m.\n
+        vierkant 2 is 40.96 m².\nDe lengte van de zijde van vierkant 2 is 6.4 m.\n\
         De oppervlakte van vierkant 3 is 10.24 m².\nDe lengte van de zijde van vierkant
         3 is 3.2 m.\nDe oppervlakte van vierkant 4 is 2.56 m².\nDe lengte van de zijde
         van vierkant 4 is 1.6 m.\nDe oppervlakte van vierkant 5 is 0.64 m².\nDe lengte
@@ -57,7 +57,7 @@
   - testcases:
     - stdin: "309.76\n7"
       stdout: "De lengte van de zijde van vierkant 1 is 17.6 m.\nDe oppervlakte van
-        vierkant 2 is 77.44 m².\nDe lengte van de zijde van vierkant 2 is 8.8 m.\n
+        vierkant 2 is 77.44 m².\nDe lengte van de zijde van vierkant 2 is 8.8 m.\n\
         De oppervlakte van vierkant 3 is 19.36 m².\nDe lengte van de zijde van vierkant
         3 is 4.4 m.\nDe oppervlakte van vierkant 4 is 4.84 m².\nDe lengte van de zijde
         van vierkant 4 is 2.2 m.\nDe oppervlakte van vierkant 5 is 1.21 m².\nDe lengte
@@ -75,19 +75,19 @@
   - testcases:
     - stdin: "125.44\n8"
       stdout: "De lengte van de zijde van vierkant 1 is 11.2 m.\nDe oppervlakte van
-        vierkant 2 is 31.36 m².\nDe lengte van de zijde van vierkant 2 is 5.6 m.\n
+        vierkant 2 is 31.36 m².\nDe lengte van de zijde van vierkant 2 is 5.6 m.\n\
         De oppervlakte van vierkant 3 is 7.84 m².\nDe lengte van de zijde van vierkant
         3 is 2.8 m.\nDe oppervlakte van vierkant 4 is 1.96 m².\nDe lengte van de zijde
         van vierkant 4 is 1.4 m.\nDe oppervlakte van vierkant 5 is 0.49 m².\nDe lengte
         van de zijde van vierkant 5 is 0.7 m.\nDe oppervlakte van vierkant 6 is 0.12
         m².\nDe lengte van de zijde van vierkant 6 is 0.35 m.\nDe oppervlakte van
-        vierkant 7 is 0.03 m².\nDe lengte van de zijde van vierkant 7 is 0.17 m.\n
+        vierkant 7 is 0.03 m².\nDe lengte van de zijde van vierkant 7 is 0.17 m.\n\
         De oppervlakte van vierkant 8 is 0.01 m².\nDe lengte van de zijde van vierkant
         8 is 0.09 m.\n"
   - testcases:
     - stdin: "207.36\n5"
       stdout: "De lengte van de zijde van vierkant 1 is 14.4 m.\nDe oppervlakte van
-        vierkant 2 is 51.84 m².\nDe lengte van de zijde van vierkant 2 is 7.2 m.\n
+        vierkant 2 is 51.84 m².\nDe lengte van de zijde van vierkant 2 is 7.2 m.\n\
         De oppervlakte van vierkant 3 is 12.96 m².\nDe lengte van de zijde van vierkant
         3 is 3.6 m.\nDe oppervlakte van vierkant 4 is 3.24 m².\nDe lengte van de zijde
         van vierkant 4 is 1.8 m.\nDe oppervlakte van vierkant 5 is 0.81 m².\nDe lengte
@@ -95,7 +95,7 @@
   - testcases:
     - stdin: "92.16\n8"
       stdout: "De lengte van de zijde van vierkant 1 is 9.6 m.\nDe oppervlakte van
-        vierkant 2 is 23.04 m².\nDe lengte van de zijde van vierkant 2 is 4.8 m.\n
+        vierkant 2 is 23.04 m².\nDe lengte van de zijde van vierkant 2 is 4.8 m.\n\
         De oppervlakte van vierkant 3 is 5.76 m².\nDe lengte van de zijde van vierkant
         3 is 2.4 m.\nDe oppervlakte van vierkant 4 is 1.44 m².\nDe lengte van de zijde
         van vierkant 4 is 1.2 m.\nDe oppervlakte van vierkant 5 is 0.36 m².\nDe lengte
@@ -107,25 +107,25 @@
   - testcases:
     - stdin: "231.04\n8"
       stdout: "De lengte van de zijde van vierkant 1 is 15.2 m.\nDe oppervlakte van
-        vierkant 2 is 57.76 m².\nDe lengte van de zijde van vierkant 2 is 7.6 m.\n
+        vierkant 2 is 57.76 m².\nDe lengte van de zijde van vierkant 2 is 7.6 m.\n\
         De oppervlakte van vierkant 3 is 14.44 m².\nDe lengte van de zijde van vierkant
         3 is 3.8 m.\nDe oppervlakte van vierkant 4 is 3.61 m².\nDe lengte van de zijde
         van vierkant 4 is 1.9 m.\nDe oppervlakte van vierkant 5 is 0.9 m².\nDe lengte
         van de zijde van vierkant 5 is 0.95 m.\nDe oppervlakte van vierkant 6 is 0.23
         m².\nDe lengte van de zijde van vierkant 6 is 0.47 m.\nDe oppervlakte van
-        vierkant 7 is 0.06 m².\nDe lengte van de zijde van vierkant 7 is 0.24 m.\n
+        vierkant 7 is 0.06 m².\nDe lengte van de zijde van vierkant 7 is 0.24 m.\n\
         De oppervlakte van vierkant 8 is 0.01 m².\nDe lengte van de zijde van vierkant
         8 is 0.12 m.\n"
   - testcases:
     - stdin: "92.16\n3"
       stdout: "De lengte van de zijde van vierkant 1 is 9.6 m.\nDe oppervlakte van
-        vierkant 2 is 23.04 m².\nDe lengte van de zijde van vierkant 2 is 4.8 m.\n
+        vierkant 2 is 23.04 m².\nDe lengte van de zijde van vierkant 2 is 4.8 m.\n\
         De oppervlakte van vierkant 3 is 5.76 m².\nDe lengte van de zijde van vierkant
         3 is 2.4 m.\n"
   - testcases:
     - stdin: "338.56\n4"
       stdout: "De lengte van de zijde van vierkant 1 is 18.4 m.\nDe oppervlakte van
-        vierkant 2 is 84.64 m².\nDe lengte van de zijde van vierkant 2 is 9.2 m.\n
+        vierkant 2 is 84.64 m².\nDe lengte van de zijde van vierkant 2 is 9.2 m.\n\
         De oppervlakte van vierkant 3 is 21.16 m².\nDe lengte van de zijde van vierkant
         3 is 4.6 m.\nDe oppervlakte van vierkant 4 is 5.29 m².\nDe lengte van de zijde
         van vierkant 4 is 2.3 m.\n"
@@ -136,14 +136,14 @@
   - testcases:
     - stdin: "256.0\n4"
       stdout: "De lengte van de zijde van vierkant 1 is 16.0 m.\nDe oppervlakte van
-        vierkant 2 is 64.0 m².\nDe lengte van de zijde van vierkant 2 is 8.0 m.\n
+        vierkant 2 is 64.0 m².\nDe lengte van de zijde van vierkant 2 is 8.0 m.\n\
         De oppervlakte van vierkant 3 is 16.0 m².\nDe lengte van de zijde van vierkant
         3 is 4.0 m.\nDe oppervlakte van vierkant 4 is 4.0 m².\nDe lengte van de zijde
         van vierkant 4 is 2.0 m.\n"
   - testcases:
     - stdin: "338.56\n7"
       stdout: "De lengte van de zijde van vierkant 1 is 18.4 m.\nDe oppervlakte van
-        vierkant 2 is 84.64 m².\nDe lengte van de zijde van vierkant 2 is 9.2 m.\n
+        vierkant 2 is 84.64 m².\nDe lengte van de zijde van vierkant 2 is 9.2 m.\n\
         De oppervlakte van vierkant 3 is 21.16 m².\nDe lengte van de zijde van vierkant
         3 is 4.6 m.\nDe oppervlakte van vierkant 4 is 5.29 m².\nDe lengte van de zijde
         van vierkant 4 is 2.3 m.\nDe oppervlakte van vierkant 5 is 1.32 m².\nDe lengte
@@ -153,10 +153,10 @@
   - testcases:
     - stdin: "655.36\n5"
       stdout: "De lengte van de zijde van vierkant 1 is 25.6 m.\nDe oppervlakte van
-        vierkant 2 is 163.84 m².\nDe lengte van de zijde van vierkant 2 is 12.8 m.\n
+        vierkant 2 is 163.84 m².\nDe lengte van de zijde van vierkant 2 is 12.8 m.\n\
         De oppervlakte van vierkant 3 is 40.96 m².\nDe lengte van de zijde van vierkant
         3 is 6.4 m.\nDe oppervlakte van vierkant 4 is 10.24 m².\nDe lengte van de
-        zijde van vierkant 4 is 3.2 m.\nDe oppervlakte van vierkant 5 is 2.56 m².\n
+        zijde van vierkant 4 is 3.2 m.\nDe oppervlakte van vierkant 5 is 2.56 m².\n\
         De lengte van de zijde van vierkant 5 is 1.6 m.\n"
   - testcases:
     - stdin: "144.0\n2"
