@@ -7,7 +7,7 @@ In een interview maakte Matt bekend dat hij de naam "Bart" koos omdat het een an
 ![Bart Simpson](media/bartsimpson.png "Bart Simpson"){:data-caption="Bart Simpson" width="45%"}
 
 ## Gevraagd
-Schrijf een programma dat een natuurlijk getal vraagt en vervolgens evenveel keer de zin "Ik zal meer dan twee oefeningen programmeren maken!" op het scherm afdrukt.
+Schrijf een programma dat een natuurlijk getal vraagt en vervolgens evenveel keer de zin `"Ik zal meer dan twee oefeningen programmeren maken!"` op het scherm afdrukt.
 
 #### Voorbeeld
 Na invoer van `11` verschijnt:
