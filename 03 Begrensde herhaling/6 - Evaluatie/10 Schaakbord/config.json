@@ -8,10 +8,12 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "evaluatie",
+    "for"
   ],
   "internals": {
     "token": "gi2m8pFqwCFzTP6JHd8dzXe6pSpcRICv-BX86KJAqh77TxdUuVNyAC7f45AdfcaN",
