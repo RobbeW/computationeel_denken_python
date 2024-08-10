@@ -16,7 +16,7 @@ $$
 
 met $$\mathsf{a_j}$$ de leeftijd in jaren.
 
-![Sleep eating...](media/sleep-eating.gif "Sleep eating..."){:data-caption="Sleep eating..." width="220px"}
+![Kleine kindjes worden groot...](media/growing_up.gif "Kleine kindjes worden groot..."){:data-caption="Kleine kindjes worden groot..." width="300px"}
 
 ## Opgave
 Schrijf een programma dat de leeftijd in **maanden** aan de gebruiker vraagt en vervolgens de ideale lichaamsmassa afdrukt. De massa wordt afgerond op één cijfer na de komma.
