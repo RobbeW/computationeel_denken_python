@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import random - Simulatie π",
-      "en": "Import random - Simulating π"
+      "nl": "Simulatie π",
+      "en": "Simulating π"
     }
   },
   "evaluation": {
@@ -14,7 +14,8 @@
     "time_limit": 120
   },
   "labels": [
-    "python"
+    "python",
+    "random"
   ],
   "internals": {
     "token": "u8ARRsUWUNyMtPwGQYgfWVtZRXkQGERTyAzM4fGHjj_tXCm_vts9NGqE7tVD8eKI",

@@ -4,19 +4,21 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import random - Test jouw maaltafels",
-      "en": "Import random - Test the tables of multiplication"
+      "nl": "Simulatie dobbelsteenworpen",
+      "en": "Simulating rolling dice"
     }
   },
   "evaluation": {
     "handler": "tested",
-    "test_suite": "tests.json"
+    "test_suite": "tests.json",
+    "time_limit": 120
   },
   "labels": [
-    "python"
+    "python",
+    "random"
   ],
   "internals": {
-    "token": "3ADrNSNR9YVkM2dEvRvxh4bVPxK_WxFZnxsIi6Gu7cyZWXa7xTbET-CiFtapBuw-",
+    "token": "gMhGeGUtq4sQcd7ZM7AaxJHm2g9jnk_Fftus3km5JjZSR3gEb7YCKC4GrMw54iE9",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

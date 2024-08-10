@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import random - Willekeurige maaltafel",
-      "en": "Import random - Random multiplication"
+      "nl": "Test jouw maaltafels",
+      "en": "Test the tables of multiplication"
     }
   },
   "evaluation": {
@@ -13,10 +13,11 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python"
+    "python",
+    "random"
   ],
   "internals": {
-    "token": "fTygwaEtAz6FDKZIFTCItzh_jDeGZKgmWhcq7jf7wbCxx2dwNs3_wdBs_JAEhUJr",
+    "token": "3ADrNSNR9YVkM2dEvRvxh4bVPxK_WxFZnxsIi6Gu7cyZWXa7xTbET-CiFtapBuw-",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
