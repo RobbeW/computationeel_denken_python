@@ -2,7 +2,7 @@
   contexts:
   - testcases:
     - stdin: "2.0\n5"
-      stdout: "De startomtrek was 6.0 cm.\nIn iteratie 1 bedraagt de omtrek 8.0 cm.\n
+      stdout: "De startomtrek was 6.0 cm.\nIn iteratie 1 bedraagt de omtrek 8.0 cm.\n\
         In iteratie 2 bedraagt de omtrek 10.67 cm.\nIn iteratie 3 bedraagt de omtrek
         14.22 cm.\nIn iteratie 4 bedraagt de omtrek 18.96 cm.\nIn iteratie 5 bedraagt
         de omtrek 25.28 cm.\n"
@@ -11,7 +11,7 @@
       stdout: "De startomtrek was 72.45 cm.\nIn iteratie 1 bedraagt de omtrek 96.6
         cm.\nIn iteratie 2 bedraagt de omtrek 128.8 cm.\nIn iteratie 3 bedraagt de
         omtrek 171.73 cm.\nIn iteratie 4 bedraagt de omtrek 228.98 cm.\nIn iteratie
-        5 bedraagt de omtrek 305.3 cm.\nIn iteratie 6 bedraagt de omtrek 407.07 cm.\n
+        5 bedraagt de omtrek 305.3 cm.\nIn iteratie 6 bedraagt de omtrek 407.07 cm.\n\
         In iteratie 7 bedraagt de omtrek 542.76 cm.\nIn iteratie 8 bedraagt de omtrek
         723.68 cm.\nIn iteratie 9 bedraagt de omtrek 964.91 cm.\nIn iteratie 10 bedraagt
         de omtrek 1286.55 cm.\n"
@@ -20,7 +20,7 @@
       stdout: "De startomtrek was 25.2 cm.\nIn iteratie 1 bedraagt de omtrek 33.6
         cm.\nIn iteratie 2 bedraagt de omtrek 44.8 cm.\nIn iteratie 3 bedraagt de
         omtrek 59.73 cm.\nIn iteratie 4 bedraagt de omtrek 79.64 cm.\nIn iteratie
-        5 bedraagt de omtrek 106.19 cm.\nIn iteratie 6 bedraagt de omtrek 141.59 cm.\n
+        5 bedraagt de omtrek 106.19 cm.\nIn iteratie 6 bedraagt de omtrek 141.59 cm.\n\
         In iteratie 7 bedraagt de omtrek 188.79 cm.\nIn iteratie 8 bedraagt de omtrek
         251.72 cm.\nIn iteratie 9 bedraagt de omtrek 335.62 cm.\nIn iteratie 10 bedraagt
         de omtrek 447.49 cm.\n"
@@ -29,7 +29,7 @@
       stdout: "De startomtrek was 53.7 cm.\nIn iteratie 1 bedraagt de omtrek 71.6
         cm.\nIn iteratie 2 bedraagt de omtrek 95.47 cm.\nIn iteratie 3 bedraagt de
         omtrek 127.29 cm.\nIn iteratie 4 bedraagt de omtrek 169.72 cm.\nIn iteratie
-        5 bedraagt de omtrek 226.29 cm.\nIn iteratie 6 bedraagt de omtrek 301.72 cm.\n
+        5 bedraagt de omtrek 226.29 cm.\nIn iteratie 6 bedraagt de omtrek 301.72 cm.\n\
         In iteratie 7 bedraagt de omtrek 402.3 cm.\nIn iteratie 8 bedraagt de omtrek
         536.39 cm.\nIn iteratie 9 bedraagt de omtrek 715.19 cm.\n"
   - testcases:
@@ -58,7 +58,7 @@
       stdout: "De startomtrek was 46.05 cm.\nIn iteratie 1 bedraagt de omtrek 61.4
         cm.\nIn iteratie 2 bedraagt de omtrek 81.87 cm.\nIn iteratie 3 bedraagt de
         omtrek 109.16 cm.\nIn iteratie 4 bedraagt de omtrek 145.54 cm.\nIn iteratie
-        5 bedraagt de omtrek 194.05 cm.\nIn iteratie 6 bedraagt de omtrek 258.74 cm.\n
+        5 bedraagt de omtrek 194.05 cm.\nIn iteratie 6 bedraagt de omtrek 258.74 cm.\n\
         In iteratie 7 bedraagt de omtrek 344.99 cm.\nIn iteratie 8 bedraagt de omtrek
         459.98 cm.\nIn iteratie 9 bedraagt de omtrek 613.31 cm.\n"
   - testcases:
@@ -70,14 +70,14 @@
       stdout: "De startomtrek was 36.15 cm.\nIn iteratie 1 bedraagt de omtrek 48.2
         cm.\nIn iteratie 2 bedraagt de omtrek 64.27 cm.\nIn iteratie 3 bedraagt de
         omtrek 85.69 cm.\nIn iteratie 4 bedraagt de omtrek 114.25 cm.\nIn iteratie
-        5 bedraagt de omtrek 152.34 cm.\nIn iteratie 6 bedraagt de omtrek 203.11 cm.\n
+        5 bedraagt de omtrek 152.34 cm.\nIn iteratie 6 bedraagt de omtrek 203.11 cm.\n\
         In iteratie 7 bedraagt de omtrek 270.82 cm.\n"
   - testcases:
     - stdin: "28.4\n9"
       stdout: "De startomtrek was 85.2 cm.\nIn iteratie 1 bedraagt de omtrek 113.6
         cm.\nIn iteratie 2 bedraagt de omtrek 151.47 cm.\nIn iteratie 3 bedraagt de
         omtrek 201.96 cm.\nIn iteratie 4 bedraagt de omtrek 269.27 cm.\nIn iteratie
-        5 bedraagt de omtrek 359.03 cm.\nIn iteratie 6 bedraagt de omtrek 478.71 cm.\n
+        5 bedraagt de omtrek 359.03 cm.\nIn iteratie 6 bedraagt de omtrek 478.71 cm.\n\
         In iteratie 7 bedraagt de omtrek 638.28 cm.\nIn iteratie 8 bedraagt de omtrek
         851.04 cm.\nIn iteratie 9 bedraagt de omtrek 1134.72 cm.\n"
   - testcases:
@@ -85,7 +85,7 @@
       stdout: "De startomtrek was 82.35 cm.\nIn iteratie 1 bedraagt de omtrek 109.8
         cm.\nIn iteratie 2 bedraagt de omtrek 146.4 cm.\nIn iteratie 3 bedraagt de
         omtrek 195.2 cm.\nIn iteratie 4 bedraagt de omtrek 260.27 cm.\nIn iteratie
-        5 bedraagt de omtrek 347.02 cm.\nIn iteratie 6 bedraagt de omtrek 462.7 cm.\n
+        5 bedraagt de omtrek 347.02 cm.\nIn iteratie 6 bedraagt de omtrek 462.7 cm.\n\
         In iteratie 7 bedraagt de omtrek 616.93 cm.\n"
   - testcases:
     - stdin: "6.05\n3"
@@ -97,7 +97,7 @@
       stdout: "De startomtrek was 24.9 cm.\nIn iteratie 1 bedraagt de omtrek 33.2
         cm.\nIn iteratie 2 bedraagt de omtrek 44.27 cm.\nIn iteratie 3 bedraagt de
         omtrek 59.02 cm.\nIn iteratie 4 bedraagt de omtrek 78.7 cm.\nIn iteratie 5
-        bedraagt de omtrek 104.93 cm.\nIn iteratie 6 bedraagt de omtrek 139.9 cm.\n
+        bedraagt de omtrek 104.93 cm.\nIn iteratie 6 bedraagt de omtrek 139.9 cm.\n\
         In iteratie 7 bedraagt de omtrek 186.54 cm.\nIn iteratie 8 bedraagt de omtrek
         248.72 cm.\nIn iteratie 9 bedraagt de omtrek 331.63 cm.\n"
   - testcases:
@@ -110,7 +110,7 @@
       stdout: "De startomtrek was 89.4 cm.\nIn iteratie 1 bedraagt de omtrek 119.2
         cm.\nIn iteratie 2 bedraagt de omtrek 158.93 cm.\nIn iteratie 3 bedraagt de
         omtrek 211.91 cm.\nIn iteratie 4 bedraagt de omtrek 282.55 cm.\nIn iteratie
-        5 bedraagt de omtrek 376.73 cm.\nIn iteratie 6 bedraagt de omtrek 502.31 cm.\n
+        5 bedraagt de omtrek 376.73 cm.\nIn iteratie 6 bedraagt de omtrek 502.31 cm.\n\
         In iteratie 7 bedraagt de omtrek 669.74 cm.\nIn iteratie 8 bedraagt de omtrek
         892.99 cm.\nIn iteratie 9 bedraagt de omtrek 1190.66 cm.\nIn iteratie 10 bedraagt
         de omtrek 1587.54 cm.\n"
