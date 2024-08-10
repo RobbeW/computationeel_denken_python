@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Ken jij het kwadraat van ...?",
-      "en": " Do you know the square of ...?"
+      "nl": "Ken jij het kwadraat van ...?"
     }
   },
   "evaluation": {
@@ -13,8 +12,9 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "evaluatie",
+    "for",
+    "random"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

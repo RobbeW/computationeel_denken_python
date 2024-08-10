@@ -12,7 +12,9 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python"
+    "evaluatie",
+    "for",
+    "random"
   ],
   "internals": {
     "token": "8HI2es42vV4w-vNIweczpUKZCT7_DTgm34vUW3MNACqnfaj8B4dAZmphg_FS3_k3",

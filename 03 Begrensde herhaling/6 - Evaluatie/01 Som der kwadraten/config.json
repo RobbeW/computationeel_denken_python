@@ -13,8 +13,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "evaluatie",
+    "for"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
