@@ -19,7 +19,7 @@ Voor invoer `625` verschijnt er:
 ```
 
 {: .callout.callout-warning}
->#### <span class="mdi mdi-alert-circle"></span> Extra voorwaarde
+>#### Extra voorwaarde <span class="mdi mdi-alert"></span> 
 > Gebruik geen worteltrekking om deze oefening op te lossen! Maak gebruik van een `for`-lus.
 
 {: .callout.callout-info}
