@@ -263,7 +263,7 @@
         In iteratie 13 meet de zijde 1.61 cm en bedraagt de oppervlakte 2.58 cm².\n"
   - testcases:
     - stdin: "17\n395940.4"
-      stdout: "De startzijde meet 629.24 cm en de oppervlakte was 395940.4 cm².\n
+      stdout: "De startzijde meet 629.24 cm en de oppervlakte was 395940.4 cm².\n\
         In iteratie 1 meet de zijde 444.94 cm en bedraagt de oppervlakte 197970.2
         cm².\nIn iteratie 2 meet de zijde 314.62 cm en bedraagt de oppervlakte 98985.1
         cm².\nIn iteratie 3 meet de zijde 222.47 cm en bedraagt de oppervlakte 49492.55
