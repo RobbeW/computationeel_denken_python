@@ -1,4 +1,4 @@
-![Een oneindige lus, de nachtmerrie van elke programmeur.](media/loop.gif "Een oneindige lus, de nachtmerrie van elke programmeur."){:data-caption="Een oneindige lus, de nachtmerrie van elke programmeur." width="230px"}
+![Een oneindige lus, de nachtmerrie van elke programmeur.](media/loop.gif "Een oneindige lus, de nachtmerrie van elke programmeur."){:data-caption="Een oneindige lus, de nachtmerrie van elke programmeur." width="400px"}
 
 ## Gevraagd
 
