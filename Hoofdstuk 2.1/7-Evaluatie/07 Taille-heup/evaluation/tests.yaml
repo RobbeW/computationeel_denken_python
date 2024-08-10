@@ -1,0 +1,108 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "man\n95.1\n98.2"
+      stdout: "Je taille-heup verhouding is: 0.97\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n95.1\n95.1"
+      stdout: "Je taille-heup verhouding is: 1.0\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n94.0\n100.0"
+      stdout: "Je taille-heup verhouding is: 0.94\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n0.8\n100.0"
+      stdout: "Je taille-heup verhouding is: 0.01\nLaag risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n0.9\n100.0"
+      stdout: "Je taille-heup verhouding is: 0.01\nLaag risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n103.5\n85.3"
+      stdout: "Je taille-heup verhouding is: 1.21\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n109.8\n98.2"
+      stdout: "Je taille-heup verhouding is: 1.12\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n109.4\n80.5"
+      stdout: "Je taille-heup verhouding is: 1.36\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n76.1\n118.2"
+      stdout: "Je taille-heup verhouding is: 0.64\nLaag risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n76.8\n119.2"
+      stdout: "Je taille-heup verhouding is: 0.64\nLaag risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n107.4\n85.1"
+      stdout: "Je taille-heup verhouding is: 1.26\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n95.6\n99.7"
+      stdout: "Je taille-heup verhouding is: 0.96\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n78.1\n76.7"
+      stdout: "Je taille-heup verhouding is: 1.02\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n100.2\n103.5"
+      stdout: "Je taille-heup verhouding is: 0.97\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n92.2\n107.3"
+      stdout: "Je taille-heup verhouding is: 0.86\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n86.0\n111.4"
+      stdout: "Je taille-heup verhouding is: 0.77\nLaag risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n97.0\n114.5"
+      stdout: "Je taille-heup verhouding is: 0.85\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n108.7\n91.8"
+      stdout: "Je taille-heup verhouding is: 1.18\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n81.7\n94.8"
+      stdout: "Je taille-heup verhouding is: 0.86\nLaag risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n85.6\n106.8"
+      stdout: "Je taille-heup verhouding is: 0.8\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n104.6\n78.0"
+      stdout: "Je taille-heup verhouding is: 1.34\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n113.9\n95.8"
+      stdout: "Je taille-heup verhouding is: 1.19\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n104.2\n103.6"
+      stdout: "Je taille-heup verhouding is: 1.01\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n86.5\n102.9"
+      stdout: "Je taille-heup verhouding is: 0.84\nVerhoogd risico op hart- en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n106.8\n88.5"
+      stdout: "Je taille-heup verhouding is: 1.21\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n89.1\n80.0"
+      stdout: "Je taille-heup verhouding is: 1.11\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n117.6\n104.3"
+      stdout: "Je taille-heup verhouding is: 1.13\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n110.1\n111.6"
+      stdout: "Je taille-heup verhouding is: 0.99\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "man\n107.2\n85.9"
+      stdout: "Je taille-heup verhouding is: 1.25\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
+  - testcases:
+    - stdin: "vrouw\n98.2\n92.8"
+      stdout: "Je taille-heup verhouding is: 1.06\nSterk verhoogd risico op hart-
+        en vaatziekten.\n"
