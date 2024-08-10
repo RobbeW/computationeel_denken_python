@@ -4,18 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Rij van Fibonacci",
-      "en": "Begrensde Herhaling - Rij van Fibonacci"
+      "nl": "Rij van Fibonacci"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
-    "robbe wulgaert"
+    "for"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "nfdfv2-NdhRD9AV9CmaBC7AdJ_THUCAtNAN2sGqiy5bxDnEm8eDUwjgeAVM2gas4",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."

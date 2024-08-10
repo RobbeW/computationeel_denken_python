@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '3'
+      stdout: "Het 3 e getal is 2\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "Het 9 e getal is 34\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "Het 1 e getal is 1\n"
+  - testcases:
+    - stdin: '2'
+      stdout: "Het 2 e getal is 1\n"
+  - testcases:
+    - stdin: '96'
+      stdout: "Het 96 e getal is 51680708854858323072\n"
+  - testcases:
+    - stdin: '16'
+      stdout: "Het 16 e getal is 987\n"
+  - testcases:
+    - stdin: '85'
+      stdout: "Het 85 e getal is 259695496911122585\n"
+  - testcases:
+    - stdin: '79'
+      stdout: "Het 79 e getal is 14472334024676221\n"
+  - testcases:
+    - stdin: '33'
+      stdout: "Het 33 e getal is 3524578\n"
+  - testcases:
+    - stdin: '36'
+      stdout: "Het 36 e getal is 14930352\n"
+  - testcases:
+    - stdin: '81'
+      stdout: "Het 81 e getal is 37889062373143906\n"
+  - testcases:
+    - stdin: '69'
+      stdout: "Het 69 e getal is 117669030460994\n"
+  - testcases:
+    - stdin: '97'
+      stdout: "Het 97 e getal is 83621143489848422977\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "Het 13 e getal is 233\n"
+  - testcases:
+    - stdin: '46'
+      stdout: "Het 46 e getal is 1836311903\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "Het 19 e getal is 4181\n"
+  - testcases:
+    - stdin: '23'
+      stdout: "Het 23 e getal is 28657\n"
+  - testcases:
+    - stdin: '48'
+      stdout: "Het 48 e getal is 4807526976\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "Het 7 e getal is 13\n"
+  - testcases:
+    - stdin: '67'
+      stdout: "Het 67 e getal is 44945570212853\n"
