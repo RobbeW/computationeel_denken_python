@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - R₀ waarde"
+      "nl": "R₀ waarde"
     }
   },
   "evaluation": {
@@ -12,7 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "while",
+    "import math"
   ],
   "internals": {
     "token": "N8uf2F2Dj2rRivggxkxiUt8QRHHsByPHH8CfJCNXwAIh9Fvnu5fkt3QFJt7HV-u5",

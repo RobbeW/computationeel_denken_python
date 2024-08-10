@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - Ontbinden in priemfactoren"
+      "nl": "Ontbinden in priemfactoren"
     }
   },
   "evaluation": {
@@ -12,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "while"
   ],
   "internals": {
     "token": "5EdmxW5zf46fdkDxUM9CZNqEzC7vVARzYDhzYXdSFKIp4Qs4vXUwiKWNt-iX5umX",

@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorwaardelijke Herhaling - Optellen",
-      "en": "Conditional Loop - Making Sums"
+      "nl": "Herhaaldelijk optellen"
     }
   },
   "evaluation": {
@@ -13,8 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "while",
+    "sentinel loop"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
