@@ -4,26 +4,26 @@
     - stdin: "4.0\n5"
       stdout: "De startoppervlakte was 4.0 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 3.0 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert er
-        2.25 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 1.69 cm².\n
+        2.25 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 1.69 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 1.27 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 0.95 cm².\n"
   - testcases:
     - stdin: "4.0\n20"
       stdout: "De startoppervlakte was 4.0 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 3.0 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert er
-        2.25 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 1.69 cm².\n
+        2.25 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 1.69 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 1.27 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 0.95 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 0.71 cm².\nNa iteratie 7 zijn er 2187 driehoeken
         en resteert er 0.53 cm².\nNa iteratie 8 zijn er 6561 driehoeken en resteert
-        er 0.4 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 0.3 cm².\n
+        er 0.4 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 0.3 cm².\n\
         Na iteratie 10 zijn er 59049 driehoeken en resteert er 0.23 cm².\nNa iteratie
         11 zijn er 177147 driehoeken en resteert er 0.17 cm².\nNa iteratie 12 zijn
         er 531441 driehoeken en resteert er 0.13 cm².\nNa iteratie 13 zijn er 1594323
         driehoeken en resteert er 0.1 cm².\nNa iteratie 14 zijn er 4782969 driehoeken
         en resteert er 0.07 cm².\nNa iteratie 15 zijn er 14348907 driehoeken en resteert
         er 0.05 cm².\nNa iteratie 16 zijn er 43046721 driehoeken en resteert er 0.04
-        cm².\nNa iteratie 17 zijn er 129140163 driehoeken en resteert er 0.03 cm².\n
+        cm².\nNa iteratie 17 zijn er 129140163 driehoeken en resteert er 0.03 cm².\n\
         Na iteratie 18 zijn er 387420489 driehoeken en resteert er 0.02 cm².\nNa iteratie
         19 zijn er 1162261467 driehoeken en resteert er 0.02 cm².\nNa iteratie 20
         zijn er 3486784401 driehoeken en resteert er 0.01 cm².\n"
@@ -31,29 +31,29 @@
     - stdin: "24.15\n10"
       stdout: "De startoppervlakte was 24.15 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 18.11 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 13.58 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 10.19 cm².\n
+        er 13.58 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 10.19 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 7.64 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 5.73 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 4.3 cm².\nNa iteratie 7 zijn er 2187 driehoeken
         en resteert er 3.22 cm².\nNa iteratie 8 zijn er 6561 driehoeken en resteert
-        er 2.42 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 1.81 cm².\n
+        er 2.42 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 1.81 cm².\n\
         Na iteratie 10 zijn er 59049 driehoeken en resteert er 1.36 cm².\n"
   - testcases:
     - stdin: "8.4\n10"
       stdout: "De startoppervlakte was 8.4 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 6.3 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert er
-        4.73 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 3.54 cm².\n
+        4.73 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 3.54 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 2.66 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 1.99 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 1.5 cm².\nNa iteratie 7 zijn er 2187 driehoeken
         en resteert er 1.12 cm².\nNa iteratie 8 zijn er 6561 driehoeken en resteert
-        er 0.84 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 0.63 cm².\n
+        er 0.84 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 0.63 cm².\n\
         Na iteratie 10 zijn er 59049 driehoeken en resteert er 0.47 cm².\n"
   - testcases:
     - stdin: "17.9\n9"
       stdout: "De startoppervlakte was 17.9 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 13.42 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 10.07 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 7.55 cm².\n
+        er 10.07 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 7.55 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 5.66 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 4.25 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 3.19 cm².\nNa iteratie 7 zijn er 2187 driehoeken
@@ -76,7 +76,7 @@
     - stdin: "25.55\n4"
       stdout: "De startoppervlakte was 25.55 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 19.16 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 14.37 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 10.78 cm².\n
+        er 14.37 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 10.78 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 8.08 cm².\n"
   - testcases:
     - stdin: "16.85\n1"
@@ -86,7 +86,7 @@
     - stdin: "15.35\n9"
       stdout: "De startoppervlakte was 15.35 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 11.51 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 8.63 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 6.48 cm².\n
+        er 8.63 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 6.48 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 4.86 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 3.64 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 2.73 cm².\nNa iteratie 7 zijn er 2187 driehoeken
@@ -101,7 +101,7 @@
     - stdin: "12.05\n7"
       stdout: "De startoppervlakte was 12.05 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 9.04 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert er
-        6.78 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 5.08 cm².\n
+        6.78 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 5.08 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 3.81 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 2.86 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 2.14 cm².\nNa iteratie 7 zijn er 2187 driehoeken
@@ -110,7 +110,7 @@
     - stdin: "28.4\n9"
       stdout: "De startoppervlakte was 28.4 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 21.3 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert er
-        15.97 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 11.98 cm².\n
+        15.97 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 11.98 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 8.99 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 6.74 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 5.05 cm².\nNa iteratie 7 zijn er 2187 driehoeken
@@ -120,7 +120,7 @@
     - stdin: "27.45\n7"
       stdout: "De startoppervlakte was 27.45 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 20.59 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 15.44 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 11.58 cm².\n
+        er 15.44 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 11.58 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 8.69 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 6.51 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 4.89 cm².\nNa iteratie 7 zijn er 2187 driehoeken
@@ -138,7 +138,7 @@
         iteratie 4 zijn er 81 driehoeken en resteert er 2.63 cm².\nNa iteratie 5 zijn
         er 243 driehoeken en resteert er 1.97 cm².\nNa iteratie 6 zijn er 729 driehoeken
         en resteert er 1.48 cm².\nNa iteratie 7 zijn er 2187 driehoeken en resteert
-        er 1.11 cm².\nNa iteratie 8 zijn er 6561 driehoeken en resteert er 0.83 cm².\n
+        er 1.11 cm².\nNa iteratie 8 zijn er 6561 driehoeken en resteert er 0.83 cm².\n\
         Na iteratie 9 zijn er 19683 driehoeken en resteert er 0.62 cm².\n"
   - testcases:
     - stdin: "13.75\n3"
@@ -149,18 +149,18 @@
     - stdin: "29.8\n10"
       stdout: "De startoppervlakte was 29.8 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 22.35 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 16.76 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 12.57 cm².\n
+        er 16.76 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 12.57 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 9.43 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 7.07 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 5.3 cm².\nNa iteratie 7 zijn er 2187 driehoeken
         en resteert er 3.98 cm².\nNa iteratie 8 zijn er 6561 driehoeken en resteert
-        er 2.98 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 2.24 cm².\n
+        er 2.98 cm².\nNa iteratie 9 zijn er 19683 driehoeken en resteert er 2.24 cm².\n\
         Na iteratie 10 zijn er 59049 driehoeken en resteert er 1.68 cm².\n"
   - testcases:
     - stdin: "15.05\n6"
       stdout: "De startoppervlakte was 15.05 cm².\nNa iteratie 1 zijn er 3 driehoeken
         en resteert er 11.29 cm².\nNa iteratie 2 zijn er 9 driehoeken en resteert
-        er 8.47 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 6.35 cm².\n
+        er 8.47 cm².\nNa iteratie 3 zijn er 27 driehoeken en resteert er 6.35 cm².\n\
         Na iteratie 4 zijn er 81 driehoeken en resteert er 4.76 cm².\nNa iteratie
         5 zijn er 243 driehoeken en resteert er 3.57 cm².\nNa iteratie 6 zijn er 729
         driehoeken en resteert er 2.68 cm².\n"
