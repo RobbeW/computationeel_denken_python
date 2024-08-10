@@ -1,0 +1,201 @@
+{
+  "tabs": [
+    {
+      "name": "Feedback",
+      "contexts": [
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(83138)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 83138 en invoer 50 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 50
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 2.0 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(2013)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 2013 en invoer 50 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 50
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 2.0 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(96930)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 96930 en invoer 500 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 500
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 2.4 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(35564)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 35564 en invoer 1000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 1000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 2.5 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(57796)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 57796 en invoer 10000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 10000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 2.59 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(70115)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 70115 en invoer 500000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 500000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 3.07 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(40994)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 40994 en invoer 10000000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 10000000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 3.08 %\n"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "before": {
+            "python": {
+              "data": "import random; random.seed(84070)"
+            }
+          },
+          "testcases": [
+            {
+              "description": "Uitvoeren met seed 84070 en invoer 50000000 leidt tot:",
+              "input": {
+                "stdin": {
+                  "type": "text",
+                  "data": 50000000
+                }
+              },
+              "output": {
+                "stdout": {
+                  "type": "text",
+                  "data": "De kans op grote straat is ongeveer 3.09 %\n"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
