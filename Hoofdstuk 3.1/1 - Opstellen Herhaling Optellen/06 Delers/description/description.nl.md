@@ -1,6 +1,6 @@
 
 ## Gevraagd
-Schrijf een programma dat een getal vraagt en vervolgens alle delers van dit getal weergeeft.
+Schrijf een programma dat een natuurlijk getal vraagt en vervolgens alle delers van dit getal weergeeft.
 
 #### Voorbeelden
 Voor invoer `2` verschijnt er:
