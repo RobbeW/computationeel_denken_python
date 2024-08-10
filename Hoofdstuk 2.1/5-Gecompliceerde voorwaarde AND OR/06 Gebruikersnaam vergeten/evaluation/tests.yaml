@@ -1,0 +1,23 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "janedoe@sintlievenscolege.be\njanedoe"
+      stdout: "Emailadres niet gekend.\n"
+  - testcases:
+    - stdin: "janedoe@sintlievenscollege.be\njanedoe"
+      stdout: "Resetlink verstuurd.\n"
+  - testcases:
+    - stdin: "janedoe@sintlievenscollege.be\njane.doe"
+      stdout: "Gebruiker en email komen niet overeen.\n"
+  - testcases:
+    - stdin: "janedoe\njanedoe"
+      stdout: "Emailadres niet gekend.\n"
+  - testcases:
+    - stdin: "janedoe\njanedoe@sintlievenscolege.be"
+      stdout: "Emailadres niet gekend.\n"
+  - testcases:
+    - stdin: "janedoe@sintlievenscollege.be\nJaneDoe"
+      stdout: "Gebruiker en email komen niet overeen.\n"
+  - testcases:
+    - stdin: "johndoe@sintlievenscollege.be\njohndoe"
+      stdout: "Emailadres niet gekend.\n"
