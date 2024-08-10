@@ -1,6 +1,6 @@
-De <a href="https://nl.wikipedia.org/wiki/Rij_van_Fibonacci" target="_blank">rij van Fibonnaci</a>, genoemd naar <a href="https://nl.wikipedia.org/wiki/Fibonacci" target="_blank">Leonardo van Pisa</a>, is een opeenvolging van natuurlijke getallen die aan een bepaald patroon voldoen. Elk getal is immers de som van de vorige twee getallen, waarbij de eerst twee getallen telkens gelijk zijn aan 1. 
+De <a href="https://nl.wikipedia.org/wiki/Rij_van_Fibonacci" target="_blank">rij van Fibonnaci</a>, genoemd naar de Italiaanse wiskundige Fibonnaci, ook gekend als <a href="https://nl.wikipedia.org/wiki/Fibonacci" target="_blank">Leonardo van Pisa</a>, is een opeenvolging van natuurlijke getallen die aan een bepaald patroon voldoen. Elk getal is immers de som van de vorige twee getallen, waarbij de eerst twee getallen telkens gelijk zijn aan 1. 
 
-![Een Italiaanse postzegel met een tekening van Fibonnaci.](media/stamp.png "Een Italiaanse postzegel met een tekening van Fibonnaci."){:data-caption="Een Italiaanse postzegel met een tekening van Fibonnaci."}
+![Een Italiaanse postzegel met een tekening van Fibonnaci.](media/stamp.png "Een Italiaanse postzegel met een tekening van Fibonnaci."){:data-caption="Een Italiaanse postzegel met een tekening van Fibonnaci." width="30%"}
 
 Je kan dit wiskundig noteren met behulp van een zogenaamd **recursief** voorschrift:
 
