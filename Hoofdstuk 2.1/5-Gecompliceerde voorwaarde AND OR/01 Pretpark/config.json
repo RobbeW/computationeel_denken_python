@@ -4,15 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Gecompliceerde Voorwaarde AND OR - Pretpark",
-      "en": "Complicated Conditions AND OR - Theme Park"
+      "nl": "Pretpark"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "and or",
     "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",

@@ -1,0 +1,77 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "8\n14\n10.5"
+      stdout: "Het getal 10.5 behoort tot [8, 14[.\n"
+  - testcases:
+    - stdin: "8\n14\n6.2"
+      stdout: "Het getal 6.2  behoort niet tot [8, 14[.\n"
+  - testcases:
+    - stdin: "4\n6\n4.0"
+      stdout: "Het getal 4.0 behoort tot [4, 6[.\n"
+  - testcases:
+    - stdin: "4\n6\n6.0"
+      stdout: "Het getal 6.0  behoort niet tot [4, 6[.\n"
+  - testcases:
+    - stdin: "4\n25\n20.0"
+      stdout: "Het getal 20.0 behoort tot [4, 25[.\n"
+  - testcases:
+    - stdin: "20\n29\n26.9"
+      stdout: "Het getal 26.9 behoort tot [20, 29[.\n"
+  - testcases:
+    - stdin: "4\n9\n1.7"
+      stdout: "Het getal 1.7  behoort niet tot [4, 9[.\n"
+  - testcases:
+    - stdin: "16\n17\n21.9"
+      stdout: "Het getal 21.9  behoort niet tot [16, 17[.\n"
+  - testcases:
+    - stdin: "8\n24\n15.3"
+      stdout: "Het getal 15.3 behoort tot [8, 24[.\n"
+  - testcases:
+    - stdin: "18\n21\n3.0"
+      stdout: "Het getal 3.0  behoort niet tot [18, 21[.\n"
+  - testcases:
+    - stdin: "2\n16\n17.2"
+      stdout: "Het getal 17.2  behoort niet tot [2, 16[.\n"
+  - testcases:
+    - stdin: "10\n23\n19.3"
+      stdout: "Het getal 19.3 behoort tot [10, 23[.\n"
+  - testcases:
+    - stdin: "5\n13\n11.5"
+      stdout: "Het getal 11.5 behoort tot [5, 13[.\n"
+  - testcases:
+    - stdin: "13\n29\n27.1"
+      stdout: "Het getal 27.1 behoort tot [13, 29[.\n"
+  - testcases:
+    - stdin: "19\n27\n22.0"
+      stdout: "Het getal 22.0 behoort tot [19, 27[.\n"
+  - testcases:
+    - stdin: "8\n13\n10.2"
+      stdout: "Het getal 10.2 behoort tot [8, 13[.\n"
+  - testcases:
+    - stdin: "13\n21\n17.1"
+      stdout: "Het getal 17.1 behoort tot [13, 21[.\n"
+  - testcases:
+    - stdin: "7\n10\n7.7"
+      stdout: "Het getal 7.7 behoort tot [7, 10[.\n"
+  - testcases:
+    - stdin: "20\n28\n25.2"
+      stdout: "Het getal 25.2 behoort tot [20, 28[.\n"
+  - testcases:
+    - stdin: "13\n27\n11.9"
+      stdout: "Het getal 11.9  behoort niet tot [13, 27[.\n"
+  - testcases:
+    - stdin: "9\n19\n12.1"
+      stdout: "Het getal 12.1 behoort tot [9, 19[.\n"
+  - testcases:
+    - stdin: "4\n22\n28.5"
+      stdout: "Het getal 28.5  behoort niet tot [4, 22[.\n"
+  - testcases:
+    - stdin: "7\n28\n23.6"
+      stdout: "Het getal 23.6 behoort tot [7, 28[.\n"
+  - testcases:
+    - stdin: "4\n27\n8.0"
+      stdout: "Het getal 8.0 behoort tot [4, 27[.\n"
+  - testcases:
+    - stdin: "10\n27\n2.7"
+      stdout: "Het getal 2.7  behoort niet tot [10, 27[.\n"

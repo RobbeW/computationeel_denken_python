@@ -1,0 +1,77 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "60.2\n178"
+      stdout: "Jouw BMI bedraagt: 19.0\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "57.3\n176"
+      stdout: "Jouw BMI bedraagt: 18.5\nDit komt overeen met de categorie: ondergewicht\n"
+  - testcases:
+    - stdin: "45\n178"
+      stdout: "Jouw BMI bedraagt: 14.2\nDit komt overeen met de categorie: ondergewicht\n"
+  - testcases:
+    - stdin: "81\n180"
+      stdout: "Jouw BMI bedraagt: 25.0\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "86.7\n170"
+      stdout: "Jouw BMI bedraagt: 30.0\nDit komt overeen met de categorie: overgewicht\n"
+  - testcases:
+    - stdin: "85\n178"
+      stdout: "Jouw BMI bedraagt: 26.83\nDit komt overeen met de categorie: overgewicht\n"
+  - testcases:
+    - stdin: "100\n178"
+      stdout: "Jouw BMI bedraagt: 31.56\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "101.8\n195"
+      stdout: "Jouw BMI bedraagt: 26.77\nDit komt overeen met de categorie: overgewicht\n"
+  - testcases:
+    - stdin: "93.3\n171"
+      stdout: "Jouw BMI bedraagt: 31.91\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "105.3\n187"
+      stdout: "Jouw BMI bedraagt: 30.11\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "93.1\n187"
+      stdout: "Jouw BMI bedraagt: 26.62\nDit komt overeen met de categorie: overgewicht\n"
+  - testcases:
+    - stdin: "60.0\n176"
+      stdout: "Jouw BMI bedraagt: 19.37\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "63.0\n177"
+      stdout: "Jouw BMI bedraagt: 20.11\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "56.5\n186"
+      stdout: "Jouw BMI bedraagt: 16.33\nDit komt overeen met de categorie: ondergewicht\n"
+  - testcases:
+    - stdin: "57.6\n178"
+      stdout: "Jouw BMI bedraagt: 18.18\nDit komt overeen met de categorie: ondergewicht\n"
+  - testcases:
+    - stdin: "101.9\n169"
+      stdout: "Jouw BMI bedraagt: 35.68\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "86.4\n157"
+      stdout: "Jouw BMI bedraagt: 35.05\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "84.7\n190"
+      stdout: "Jouw BMI bedraagt: 23.46\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "63.3\n159"
+      stdout: "Jouw BMI bedraagt: 25.04\nDit komt overeen met de categorie: overgewicht\n"
+  - testcases:
+    - stdin: "79.2\n182"
+      stdout: "Jouw BMI bedraagt: 23.91\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "111.3\n190"
+      stdout: "Jouw BMI bedraagt: 30.83\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "109.0\n174"
+      stdout: "Jouw BMI bedraagt: 36.0\nDit komt overeen met de categorie: obesitas\n"
+  - testcases:
+    - stdin: "79.8\n200"
+      stdout: "Jouw BMI bedraagt: 19.95\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "58.6\n170"
+      stdout: "Jouw BMI bedraagt: 20.28\nDit komt overeen met de categorie: gezond\n"
+  - testcases:
+    - stdin: "69.1\n189"
+      stdout: "Jouw BMI bedraagt: 19.34\nDit komt overeen met de categorie: gezond\n"

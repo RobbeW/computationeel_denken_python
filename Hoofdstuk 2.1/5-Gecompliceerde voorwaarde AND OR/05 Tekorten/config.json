@@ -4,15 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Gecompliceerde Voorwaarde AND OR - Tekorten",
-      "en": "Complicated Conditions AND OR - Failing Tests"
+      "nl": "Aantal tekorten"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "python",
+    "and or",
     "Robbe Wulgaert"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
