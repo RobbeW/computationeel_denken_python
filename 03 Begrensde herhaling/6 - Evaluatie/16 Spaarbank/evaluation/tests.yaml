@@ -1,0 +1,114 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "750.65\n2.1"
+      stdout: "Na 1 jaar staat er € 766.41 op de rekening.\nNa 2 jaar staat er € 782.51
+        op de rekening.\nNa 3 jaar staat er € 798.94 op de rekening.\nNa 4 jaar staat
+        er € 815.72 op de rekening.\nNa 5 jaar staat er € 832.85 op de rekening.\n"
+  - testcases:
+    - stdin: "750.0\n3.16"
+      stdout: "Na 1 jaar staat er € 773.7 op de rekening.\nNa 2 jaar staat er € 798.15
+        op de rekening.\nNa 3 jaar staat er € 823.37 op de rekening.\nNa 4 jaar staat
+        er € 849.39 op de rekening.\nNa 5 jaar staat er € 876.23 op de rekening.\n"
+  - testcases:
+    - stdin: "1400.0\n2.18"
+      stdout: "Na 1 jaar staat er € 1430.52 op de rekening.\nNa 2 jaar staat er €
+        1461.71 op de rekening.\nNa 3 jaar staat er € 1493.57 op de rekening.\nNa
+        4 jaar staat er € 1526.13 op de rekening.\nNa 5 jaar staat er € 1559.4 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1150.0\n2.06"
+      stdout: "Na 1 jaar staat er € 1173.69 op de rekening.\nNa 2 jaar staat er €
+        1197.87 op de rekening.\nNa 3 jaar staat er € 1222.54 op de rekening.\nNa
+        4 jaar staat er € 1247.73 op de rekening.\nNa 5 jaar staat er € 1273.43 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1150.0\n2.81"
+      stdout: "Na 1 jaar staat er € 1182.32 op de rekening.\nNa 2 jaar staat er €
+        1215.54 op de rekening.\nNa 3 jaar staat er € 1249.69 op de rekening.\nNa
+        4 jaar staat er € 1284.81 op de rekening.\nNa 5 jaar staat er € 1320.91 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1300.0\n2.19"
+      stdout: "Na 1 jaar staat er € 1328.47 op de rekening.\nNa 2 jaar staat er €
+        1357.56 op de rekening.\nNa 3 jaar staat er € 1387.29 op de rekening.\nNa
+        4 jaar staat er € 1417.68 op de rekening.\nNa 5 jaar staat er € 1448.72 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "700.05\n2.64"
+      stdout: "Na 1 jaar staat er € 718.53 op de rekening.\nNa 2 jaar staat er € 737.5
+        op de rekening.\nNa 3 jaar staat er € 756.97 op de rekening.\nNa 4 jaar staat
+        er € 776.95 op de rekening.\nNa 5 jaar staat er € 797.47 op de rekening.\n"
+  - testcases:
+    - stdin: "1000.6\n2.28"
+      stdout: "Na 1 jaar staat er € 1023.41 op de rekening.\nNa 2 jaar staat er €
+        1046.75 op de rekening.\nNa 3 jaar staat er € 1070.61 op de rekening.\nNa
+        4 jaar staat er € 1095.02 op de rekening.\nNa 5 jaar staat er € 1119.99 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "650.0\n2.33"
+      stdout: "Na 1 jaar staat er € 665.14 op de rekening.\nNa 2 jaar staat er € 680.64
+        op de rekening.\nNa 3 jaar staat er € 696.5 op de rekening.\nNa 4 jaar staat
+        er € 712.73 op de rekening.\nNa 5 jaar staat er € 729.34 op de rekening.\n"
+  - testcases:
+    - stdin: "1450.75\n2.26"
+      stdout: "Na 1 jaar staat er € 1483.54 op de rekening.\nNa 2 jaar staat er €
+        1517.06 op de rekening.\nNa 3 jaar staat er € 1551.35 op de rekening.\nNa
+        4 jaar staat er € 1586.41 op de rekening.\nNa 5 jaar staat er € 1622.26 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1400.05\n2.56"
+      stdout: "Na 1 jaar staat er € 1435.89 op de rekening.\nNa 2 jaar staat er €
+        1472.65 op de rekening.\nNa 3 jaar staat er € 1510.35 op de rekening.\nNa
+        4 jaar staat er € 1549.01 op de rekening.\nNa 5 jaar staat er € 1588.67 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "950.0\n2.66"
+      stdout: "Na 1 jaar staat er € 975.27 op de rekening.\nNa 2 jaar staat er € 1001.21
+        op de rekening.\nNa 3 jaar staat er € 1027.84 op de rekening.\nNa 4 jaar staat
+        er € 1055.19 op de rekening.\nNa 5 jaar staat er € 1083.25 op de rekening.\n"
+  - testcases:
+    - stdin: "1200.0\n2.78"
+      stdout: "Na 1 jaar staat er € 1233.36 op de rekening.\nNa 2 jaar staat er €
+        1267.65 op de rekening.\nNa 3 jaar staat er € 1302.89 op de rekening.\nNa
+        4 jaar staat er € 1339.11 op de rekening.\nNa 5 jaar staat er € 1376.34 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "900.0\n2.34"
+      stdout: "Na 1 jaar staat er € 921.06 op de rekening.\nNa 2 jaar staat er € 942.61
+        op de rekening.\nNa 3 jaar staat er € 964.67 op de rekening.\nNa 4 jaar staat
+        er € 987.24 op de rekening.\nNa 5 jaar staat er € 1010.34 op de rekening.\n"
+  - testcases:
+    - stdin: "1300.0\n2.95"
+      stdout: "Na 1 jaar staat er € 1338.35 op de rekening.\nNa 2 jaar staat er €
+        1377.83 op de rekening.\nNa 3 jaar staat er € 1418.48 op de rekening.\nNa
+        4 jaar staat er € 1460.32 op de rekening.\nNa 5 jaar staat er € 1503.4 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1250.55\n2.93"
+      stdout: "Na 1 jaar staat er € 1287.19 op de rekening.\nNa 2 jaar staat er €
+        1324.91 op de rekening.\nNa 3 jaar staat er € 1363.73 op de rekening.\nNa
+        4 jaar staat er € 1403.68 op de rekening.\nNa 5 jaar staat er € 1444.81 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1000.3\n2.47"
+      stdout: "Na 1 jaar staat er € 1025.01 op de rekening.\nNa 2 jaar staat er €
+        1050.33 op de rekening.\nNa 3 jaar staat er € 1076.27 op de rekening.\nNa
+        4 jaar staat er € 1102.85 op de rekening.\nNa 5 jaar staat er € 1130.09 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "750.15\n2.98"
+      stdout: "Na 1 jaar staat er € 772.5 op de rekening.\nNa 2 jaar staat er € 795.53
+        op de rekening.\nNa 3 jaar staat er € 819.23 op de rekening.\nNa 4 jaar staat
+        er € 843.64 op de rekening.\nNa 5 jaar staat er € 868.79 op de rekening.\n"
+  - testcases:
+    - stdin: "1350.0\n2.36"
+      stdout: "Na 1 jaar staat er € 1381.86 op de rekening.\nNa 2 jaar staat er €
+        1414.47 op de rekening.\nNa 3 jaar staat er € 1447.85 op de rekening.\nNa
+        4 jaar staat er € 1482.02 op de rekening.\nNa 5 jaar staat er € 1517.0 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1050.05\n2.3"
+      stdout: "Na 1 jaar staat er € 1074.2 op de rekening.\nNa 2 jaar staat er € 1098.91
+        op de rekening.\nNa 3 jaar staat er € 1124.18 op de rekening.\nNa 4 jaar staat
+        er € 1150.04 op de rekening.\nNa 5 jaar staat er € 1176.49 op de rekening.\n"

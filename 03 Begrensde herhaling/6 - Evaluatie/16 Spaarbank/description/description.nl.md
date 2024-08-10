@@ -1,40 +1,22 @@
 ## Gegeven
 
-Simon beslist om zijn loon uit de studentenjob te sparen via de bank. Hij zet een bedrag opzij en wil berekenen hoeveel geld er op de rekening zal staan na **vijf jaar**. Elk jaar stijgt het bedrag op de rekening met **2.0% (= de interest).**
+Simon beslist de centen die hij verdiende met vakantiewerk op een spaarboekje te plaatsen. Hij zet een bedrag opzij en wil berekenen hoeveel geld er op de rekening zal staan na **vijf jaar**. Het spaarboekje werkt met een samengestelde interest, dit betekent dat de interest na een jaar op het spaarboekje gestort wordt en meetelt bij de berekening van de volgende interest.
+
+![Samengestelde interest laat geld steeds meer aangroeien.](media/money.gif "Samengestelde interest laat geld steeds meer aangroeien."){:data-caption="Samengestelde interest laat geld steeds meer aangroeien." width="300px"}
 
 ## Gevraagd
 
-* Schrijf een programma dat vraagt naar het startbedrag, 
-* het aantal jaar dat Simon wil sparen 
-* en de jaarlijkse interest 
-* Gebruik hiervoor de `input-functie`;
-* Bereken het bedrag op de rekening na **elk jaar**; 
-* Print dit bedrag na elk jaarop het scherm; 
-* Bereken het **eindbedrag** na het opgegeven aantal jaren;
-* Print het eindbedrag op het scherm.
+* Schrijf een programma dat vraagt naar het startbedrag en de jaarlijkse interest;
+* Bereken en toon het **eindbedrag** na die vijf jaar en geef **alle tussentijdse bedragen** ook weer. **Rond af** op twee decimalen.
 
-## Invoer
-```
-Voer het startbedrag in (tussen 500 en 1000): 750.65
-Voer het aantal jaar in dat je wil sparen: 5
-Voer de jaarlijkse interest in (als een percentage): 2
+#### Voorbeeld
+
+Stel dat Simon € 750,65 op het spaarboekje stort. Hij belegt bij een bank die een interest van `2.10`% op jaarbasis verzekert. Dan verschijnt er:
 
 ```
-
-
-## Uitvoer
+Na 1 jaar staat er € 766.41 op de rekening.
+Na 2 jaar staat er € 782.51 op de rekening.
+Na 3 jaar staat er € 798.94 op de rekening.
+Na 4 jaar staat er € 815.72 op de rekening.
+Na 5 jaar staat er € 832.85 op de rekening.
 ```
-Na 1 jaar staat er ... euro op de rekening. 
-Na 2 jaar staat er ... euro op de rekening.
-Na 3 jaar staat er ... euro op de rekening.
-Na 4 jaar staat er ... euro op de rekening.
-Na 5 jaar staat er ... euro op de rekening.
-Het eindbedrag na 5 jaar is ... euro.
-
-```
-
-{: .callout.callout-success}
->## Tips: 
->* Gebruik de input()-functie om de gebruiker naar het startbedrag, het aantal jaar en de jaarlijkse interest te vragen. 
->* Vergeet niet om de input om te zetten naar een float of int.
->* Print na **elke iteratie** een bedrag naar het scherm. ## Gegeven:

@@ -4,16 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Spaarbank",
-      "en": "For i in Range - Savings"
+      "nl": "Samengestelde interest"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "evaluatie",
+    "for"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
