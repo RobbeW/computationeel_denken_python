@@ -2,7 +2,7 @@
 
 Indien **alle** dobbelstenen hetzelfde aantal ogen hebben, dan noemt de combinatie Yahtzee en levert die de meeste punten (namelijk 50) op.
 
-![Yahtzee, foto door Kent Landerholm op FLickr.](media/game.jpg "Yahtzee, foto door Kent Landerholm op FLickr."){:data-caption="Yahtzee, foto door Kent Landerholm op FLickr." width="35%"}
+![Yahtzee, het gezelschapspel.](media/game.png "Yahtzee, het gezelschapspel."){:data-caption="Yahtzee, het gezelschapspel." width="30%"}
 
 Hoewel je in het spel drie keer opnieuw mag werpen blijft de kans op de Yahtzee worp is natuurlijk vrij klein. Maar wat is de kans op één van de andere combinaties, bijvoorbeeld de *grote straat*? Een grote straat betekent dat je **vijf opeenvolgende dobbelstenen** hebt. Onderstaande worp is een voorbeeld van een grote straat, deze levert 40 punten op.
 
