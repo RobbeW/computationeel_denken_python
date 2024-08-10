@@ -1,94 +1,91 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '3'
-      stdout: "x x\nxxx\nx x\n"
-  - testcases:
     - stdin: '4'
-      stdout: "x  x\nxx x\nx xx\nx  x\n"
+      stdout: "X  X\nXX X\nX XX\nX  X\n"
   - testcases:
     - stdin: '5'
-      stdout: "x   x\nxx  x\nx x x\nx  xx\nx   x\n"
+      stdout: "X   X\nXX  X\nX X X\nX  XX\nX   X\n"
   - testcases:
     - stdin: '6'
-      stdout: "x    x\nxx   x\nx x  x\nx  x x\nx   xx\nx    x\n"
+      stdout: "X    X\nXX   X\nX X  X\nX  X X\nX   XX\nX    X\n"
   - testcases:
     - stdin: '7'
-      stdout: "x     x\nxx    x\nx x   x\nx  x  x\nx   x x\nx    xx\nx     x\n"
+      stdout: "X     X\nXX    X\nX X   X\nX  X  X\nX   X X\nX    XX\nX     X\n"
   - testcases:
     - stdin: '8'
-      stdout: "x      x\nxx     x\nx x    x\nx  x   x\nx   x  x\nx    x x\nx     xx\n\
-        x      x\n"
+      stdout: "X      X\nXX     X\nX X    X\nX  X   X\nX   X  X\nX    X X\nX     XX\n\
+        X      X\n"
   - testcases:
     - stdin: '9'
-      stdout: "x       x\nxx      x\nx x     x\nx  x    x\nx   x   x\nx    x  x\n\
-        x     x x\nx      xx\nx       x\n"
+      stdout: "X       X\nXX      X\nX X     X\nX  X    X\nX   X   X\nX    X  X\n\
+        X     X X\nX      XX\nX       X\n"
   - testcases:
     - stdin: '10'
-      stdout: "x        x\nxx       x\nx x      x\nx  x     x\nx   x    x\nx    x\
-        \   x\nx     x  x\nx      x x\nx       xx\nx        x\n"
+      stdout: "X        X\nXX       X\nX X      X\nX  X     X\nX   X    X\nX    X\
+        \   X\nX     X  X\nX      X X\nX       XX\nX        X\n"
   - testcases:
     - stdin: '11'
-      stdout: "x         x\nxx        x\nx x       x\nx  x      x\nx   x     x\nx\
-        \    x    x\nx     x   x\nx      x  x\nx       x x\nx        xx\nx       \
-        \  x\n"
+      stdout: "X         X\nXX        X\nX X       X\nX  X      X\nX   X     X\nX\
+        \    X    X\nX     X   X\nX      X  X\nX       X X\nX        XX\nX       \
+        \  X\n"
   - testcases:
     - stdin: '12'
-      stdout: "x          x\nxx         x\nx x        x\nx  x       x\nx   x     \
-        \ x\nx    x     x\nx     x    x\nx      x   x\nx       x  x\nx        x x\n\
-        x         xx\nx          x\n"
+      stdout: "X          X\nXX         X\nX X        X\nX  X       X\nX   X     \
+        \ X\nX    X     X\nX     X    X\nX      X   X\nX       X  X\nX        X X\n\
+        X         XX\nX          X\n"
   - testcases:
     - stdin: '13'
-      stdout: "x           x\nxx          x\nx x         x\nx  x        x\nx   x \
-        \      x\nx    x      x\nx     x     x\nx      x    x\nx       x   x\nx  \
-        \      x  x\nx         x x\nx          xx\nx           x\n"
+      stdout: "X           X\nXX          X\nX X         X\nX  X        X\nX   X \
+        \      X\nX    X      X\nX     X     X\nX      X    X\nX       X   X\nX  \
+        \      X  X\nX         X X\nX          XX\nX           X\n"
   - testcases:
     - stdin: '14'
-      stdout: "x            x\nxx           x\nx x          x\nx  x         x\nx \
-        \  x        x\nx    x       x\nx     x      x\nx      x     x\nx       x \
-        \   x\nx        x   x\nx         x  x\nx          x x\nx           xx\nx \
-        \           x\n"
+      stdout: "X            X\nXX           X\nX X          X\nX  X         X\nX \
+        \  X        X\nX    X       X\nX     X      X\nX      X     X\nX       X \
+        \   X\nX        X   X\nX         X  X\nX          X X\nX           XX\nX \
+        \           X\n"
   - testcases:
     - stdin: '15'
-      stdout: "x             x\nxx            x\nx x           x\nx  x          x\n\
-        x   x         x\nx    x        x\nx     x       x\nx      x      x\nx    \
-        \   x     x\nx        x    x\nx         x   x\nx          x  x\nx        \
-        \   x x\nx            xx\nx             x\n"
+      stdout: "X             X\nXX            X\nX X           X\nX  X          X\n\
+        X   X         X\nX    X        X\nX     X       X\nX      X      X\nX    \
+        \   X     X\nX        X    X\nX         X   X\nX          X  X\nX        \
+        \   X X\nX            XX\nX             X\n"
   - testcases:
     - stdin: '16'
-      stdout: "x              x\nxx             x\nx x            x\nx  x        \
-        \   x\nx   x          x\nx    x         x\nx     x        x\nx      x    \
-        \   x\nx       x      x\nx        x     x\nx         x    x\nx          x\
-        \   x\nx           x  x\nx            x x\nx             xx\nx           \
-        \   x\n"
+      stdout: "X              X\nXX             X\nX X            X\nX  X        \
+        \   X\nX   X          X\nX    X         X\nX     X        X\nX      X    \
+        \   X\nX       X      X\nX        X     X\nX         X    X\nX          X\
+        \   X\nX           X  X\nX            X X\nX             XX\nX           \
+        \   X\n"
   - testcases:
     - stdin: '17'
-      stdout: "x               x\nxx              x\nx x             x\nx  x     \
-        \       x\nx   x           x\nx    x          x\nx     x         x\nx    \
-        \  x        x\nx       x       x\nx        x      x\nx         x     x\nx\
-        \          x    x\nx           x   x\nx            x  x\nx             x x\n\
-        x              xx\nx               x\n"
+      stdout: "X               X\nXX              X\nX X             X\nX  X     \
+        \       X\nX   X           X\nX    X          X\nX     X         X\nX    \
+        \  X        X\nX       X       X\nX        X      X\nX         X     X\nX\
+        \          X    X\nX           X   X\nX            X  X\nX             X X\n\
+        X              XX\nX               X\n"
   - testcases:
     - stdin: '18'
-      stdout: "x                x\nxx               x\nx x              x\nx  x  \
-        \           x\nx   x            x\nx    x           x\nx     x          x\n\
-        x      x         x\nx       x        x\nx        x       x\nx         x  \
-        \    x\nx          x     x\nx           x    x\nx            x   x\nx    \
-        \         x  x\nx              x x\nx               xx\nx                x\n"
+      stdout: "X                X\nXX               X\nX X              X\nX  X  \
+        \           X\nX   X            X\nX    X           X\nX     X          X\n\
+        X      X         X\nX       X        X\nX        X       X\nX         X  \
+        \    X\nX          X     X\nX           X    X\nX            X   X\nX    \
+        \         X  X\nX              X X\nX               XX\nX                X\n"
   - testcases:
     - stdin: '19'
-      stdout: "x                 x\nxx                x\nx x               x\nx  x\
-        \              x\nx   x             x\nx    x            x\nx     x      \
-        \     x\nx      x          x\nx       x         x\nx        x        x\nx\
-        \         x       x\nx          x      x\nx           x     x\nx         \
-        \   x    x\nx             x   x\nx              x  x\nx               x x\n\
-        x                xx\nx                 x\n"
+      stdout: "X                 X\nXX                X\nX X               X\nX  X\
+        \              X\nX   X             X\nX    X            X\nX     X      \
+        \     X\nX      X          X\nX       X         X\nX        X        X\nX\
+        \         X       X\nX          X      X\nX           X     X\nX         \
+        \   X    X\nX             X   X\nX              X  X\nX               X X\n\
+        X                XX\nX                 X\n"
   - testcases:
     - stdin: '20'
-      stdout: "x                  x\nxx                 x\nx x                x\n\
-        x  x               x\nx   x              x\nx    x             x\nx     x\
-        \            x\nx      x           x\nx       x          x\nx        x   \
-        \      x\nx         x        x\nx          x       x\nx           x      x\n\
-        x            x     x\nx             x    x\nx              x   x\nx      \
-        \         x  x\nx                x x\nx                 xx\nx            \
-        \      x\n"
+      stdout: "X                  X\nXX                 X\nX X                X\n\
+        X  X               X\nX   X              X\nX    X             X\nX     X\
+        \            X\nX      X           X\nX       X          X\nX        X   \
+        \      X\nX         X        X\nX          X       X\nX           X      X\n\
+        X            X     X\nX             X    X\nX              X   X\nX      \
+        \         X  X\nX                X X\nX                 XX\nX            \
+        \      X\n"

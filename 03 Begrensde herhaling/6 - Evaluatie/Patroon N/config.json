@@ -12,7 +12,9 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "evaluatie",
+    "for",
+    "ASCII patroon"
   ],
   "internals": {
     "token": "wmg6bTW2xisZ2ivkrYrJqf28gff-mencXq6BtDczPiyHW8ciIfc9VAn7_yxh8wyi",

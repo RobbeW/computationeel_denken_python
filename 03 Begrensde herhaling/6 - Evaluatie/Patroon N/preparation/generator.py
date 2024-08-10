@@ -1,5 +1,4 @@
 import os
-import sys
 import importlib.util
 import random
 import ruamel.yaml
@@ -33,12 +32,10 @@ module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
 # generate test data
-ntests = 2
-cases = [(3,)]
+cases = []
+for i in range(4,21):
+    cases.append( (i,))
 
-for n in range(4, 21):
-    cases.append( (n, ) )
-        
 # generate unit tests for functions
 yamldata = []
 
@@ -71,12 +68,11 @@ for i in range(len(cases)):
     
     outputtxt = ""
     for line in result_lines:
-        if not(line.startswith( 'Geef' )):
+        if not(line.startswith( 'Geef' ) or line.startswith( 'Voer' )):
             print(line)
             outputtxt += line + "\n"
             
     testcase = { input: stdin, output: outputtxt }            
     yamldata[0]['contexts'][i]["testcases"].append( testcase)
-
 
 write_yaml(yamldata)
