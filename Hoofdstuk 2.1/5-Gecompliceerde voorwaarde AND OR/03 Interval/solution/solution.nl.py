@@ -7,4 +7,4 @@ getal = float( input( "Voer een decimaal getal in: " ) )
 if a <= getal < b:
     print("Het getal", getal, "behoort tot [" + str(a) +", " + str(b)+"[.")
 else:
-    print("Het getal", getal, " behoort niet tot [" + str(a) +", " + str(b)+"[.")
+    print("Het getal", getal, "behoort niet tot [" + str(a) +", " + str(b)+"[.")
