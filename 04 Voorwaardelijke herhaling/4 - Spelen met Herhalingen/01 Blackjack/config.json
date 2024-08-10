@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Oefening - Blackjack"
+      "nl": "Blackjack"
     }
   },
   "evaluation": {
@@ -12,8 +12,8 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "while",
+    "random"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

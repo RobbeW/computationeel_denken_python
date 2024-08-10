@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Oefening - Dubbele zessen"
+      "nl": "Dubbele zessen"
     }
   },
   "evaluation": {
@@ -12,7 +12,8 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python"
+    "while",
+    "random"
   ],
   "internals": {
     "token": "uMIn5wh5Et8W8XRXUyNEVuve9qVuBxpdzGJrhbVyyEff_Bef2MFZBaUqkzISVYYD",
