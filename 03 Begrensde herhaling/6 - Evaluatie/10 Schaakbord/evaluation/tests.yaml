@@ -1,7 +1,8 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdout: |
+    - stdin: none
+      stdout: |
         Op veld 1 ligt 1 rijstkorrel.
         Op veld 2 liggen 2 rijstkorrels.
         Op veld 3 liggen 4 rijstkorrels.

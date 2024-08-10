@@ -1,7 +1,8 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdout: |
+    - stdin: none
+      stdout: |
         Tafel van 1 :
         1 x 1 = 1
         1 x 2 = 2
