@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '4'
+      stdout: "4 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '24'
+      stdout: "24 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '625'
+      stdout: "625 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '717849'
+      stdout: "717849 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '9442'
+      stdout: "9442 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '3008'
+      stdout: "3008 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '1384'
+      stdout: "1384 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '36'
+      stdout: "36 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '9865'
+      stdout: "9865 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '4621'
+      stdout: "4621 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '2126'
+      stdout: "2126 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '49'
+      stdout: "49 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '902500'
+      stdout: "902500 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '1089'
+      stdout: "1089 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '41'
+      stdout: "41 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '523438'
+      stdout: "523438 is geen volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '81'
+      stdout: "81 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '25600'
+      stdout: "25600 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '106929'
+      stdout: "106929 is een volkomen kwadraat.\n"
+  - testcases:
+    - stdin: '66'
+      stdout: "66 is geen volkomen kwadraat.\n"

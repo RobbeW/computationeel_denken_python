@@ -2,16 +2,18 @@
   "type": "exercise",
   "programming_language": "python",
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Volkomen kwadraat"
+      "nl": "Volkomen kwadraat"
     }
   },
   "labels": [
-    "python"
+    "python",
+    "for"
   ],
   "internals": {
     "token": "VsnZQUuezDi98beAPGNA7dpByymgeeKit-cyGXvmPbr7pQ5sQK8rt3R5IZZVvzv5",

@@ -2,16 +2,18 @@
   "type": "exercise",
   "programming_language": "python",
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Delers"
+      "nl": "Delers"
     }
   },
   "labels": [
-    "python"
+    "python",
+    "for"
   ],
   "internals": {
     "token": "v2EYm827qRKe-5zgZIjEHv_A9-U-mu8D7YKXgGNez4tY8zNPfVN-NHu-23wKk-nm",

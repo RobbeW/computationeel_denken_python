@@ -2,16 +2,18 @@
   "type": "exercise",
   "programming_language": "python",
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Gebrekkig, perfect en overvloedig"
+      "nl": "Gebrekkige, perfecte en overvloedige getallen"
     }
   },
   "labels": [
-    "python"
+    "python",
+    "for"
   ],
   "internals": {
     "token": "3tCy8cPp7sErRRtVHCSBAAkwwmwmjZSkCZc3Ki3Z4-b4M7XfeUhnvbFarZNSbSjN",
