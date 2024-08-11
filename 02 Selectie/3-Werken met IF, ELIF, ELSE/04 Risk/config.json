@@ -12,7 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "selectie",
+    "if, elif en else"
   ],
   "internals": {
     "token": "qMDByMZtrhsKtttZWAnnsPqxTCKQVZUpakSWswI7vHvnRq79Zaa5QzCKdHMYSWYe",

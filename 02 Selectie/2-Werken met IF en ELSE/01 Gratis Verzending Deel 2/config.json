@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF en ELSE - Gratis verzending Deel 2"
+      "nl": "Gratis verzending Deel 2"
     }
   },
   "evaluation": {
@@ -12,8 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "selectie",
+    "if en else"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

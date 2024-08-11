@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF en ELSE - Onbekenden A en B",
-      "en": "IF and ELSE function - Unknown Values A and B"
+      "nl": "Onbekenden A en B"
     }
   },
   "evaluation": {
@@ -13,8 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "selectie",
+    "if en else"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

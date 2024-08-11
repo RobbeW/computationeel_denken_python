@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF, ELIF en ELSE - Korting op pizza's"
+      "nl": "Korting op pizza's"
     }
   },
   "evaluation": {
@@ -12,8 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "selectie",
+    "if, elif en else"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Werken met IF en ELSE - Positief, negatief of nul"
+      "nl": "Positief, negatief of nul"
     }
   },
   "evaluation": {
@@ -12,9 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert", 
-    "www.robbewulgaert.be"
+    "selectie",
+    "if en else"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
