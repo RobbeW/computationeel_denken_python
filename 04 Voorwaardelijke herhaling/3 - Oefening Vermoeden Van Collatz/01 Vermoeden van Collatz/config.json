@@ -13,8 +13,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "while"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

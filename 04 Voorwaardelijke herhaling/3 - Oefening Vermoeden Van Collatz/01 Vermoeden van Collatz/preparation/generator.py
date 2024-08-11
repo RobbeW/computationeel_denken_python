@@ -1,6 +1,5 @@
 import os
-import sys
-import importlib
+import importlib.util
 import random
 import ruamel.yaml
 import subprocess
@@ -40,7 +39,9 @@ cases = [(9,),(6,)]
 while len( cases ) < ntests:
     n = random.randint(10,2000)
     cases.append( (n, ) )
-        
+
+cases.sort()
+
 # generate unit tests for functions
 yamldata = []
 
