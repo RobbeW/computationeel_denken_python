@@ -1,27 +1,22 @@
 ## Gegeven
-* Lees een woord in en druk dat omgekeerd (van achteren naar voren) af.
 
-* Om deze opdracht uit te voeren heb je twee tekstfuncties nodig:
-```
-len(woord): geeft je het aantal letters (karakters) dat het woord lang is;
-```
+Wedden dat ik het kan is een Nederlands televisieprogramma op SBS6. In het programma gaan gewone mensen bepaalde uitdagingen aan. In 2017 nam de 11 jarige Abel uit Haarlem deel, hij kan namelijk woorden achterstevoren lezen.
 
-```
-woord [x] geeft je de x+1 letter uit het woord, m.a.w. de eerste letter uit het woord is woord[0]
-```
+<div class="hidden-print">
+    <div class="dodona-centered-group">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sMJRVHY3VOE?si=qHWDjFmplPMvQfM_&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+Het woord `"Limonade"` leest Abel als `"edanomiL"`, enz..
 
 ## Gevraagd
 
-* Schrijf een programma dat een woord inleest;
-* Het programma moet dit woord vervolgens omgekeerd afdrukken.
+Schrijf een programma dat een woord inleest en dit vervolgens achterstevoren afdrukt.
 
-## Invoer
-```
-Voer een woord in: Python
+#### Voorbeeld
 
+Na de invoer `"Limonade"` verschijnt:
 ```
-## Uitvoer
-```
-Het omgekeerde woord is: nohtyP
-
+edanomiL
 ```

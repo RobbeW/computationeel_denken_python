@@ -4,16 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Itereren over een String - Woord Omdraaien",
-      "en": "Iterate Using a String - Flipping a Word"
+      "nl": "Woord omdraaien"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe Wulgaert"
+    "for",
+    "tekst"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
