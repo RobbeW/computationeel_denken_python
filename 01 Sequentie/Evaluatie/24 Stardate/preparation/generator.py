@@ -41,7 +41,7 @@ while len(cases) < ntests:
     stardate = round((Y-1900)*100+M+D*0.01,2)
     if (stardate,) not in cases:
         cases.append( (stardate, ) )
-    
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

@@ -7,4 +7,4 @@ minuten = (sec - uren * 60 * 60) // 60
 seconden = sec % 60
 
 # Uitvoer
-print(str(uren)+':'+str(minuten)+':'+str(seconden))
+print(uren, ":", minuten, ":", seconden)

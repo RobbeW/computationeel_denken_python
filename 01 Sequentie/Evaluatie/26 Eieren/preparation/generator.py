@@ -41,6 +41,7 @@ while len(cases) < ntests:
     nieuw = random.randint(0, 200)
     cases.append( (gross, dozijn, apart, nieuw ) )
 
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

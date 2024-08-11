@@ -36,7 +36,7 @@ ntests = 20
 cases = [ ]
 for i in range(15, 180, 15):
     cases.append( (i, ))
-
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

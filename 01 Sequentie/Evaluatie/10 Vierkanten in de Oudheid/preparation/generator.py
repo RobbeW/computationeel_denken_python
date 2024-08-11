@@ -37,7 +37,7 @@ ntests= 20
 cases = [(15.763,),]
 while len(cases) < ntests:
     cases.append( (round( random.uniform(5, 25), 3),) )
-    
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

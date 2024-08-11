@@ -38,7 +38,7 @@ while len(cases) < ntests:
     x = random.randint(1000,2200)
     if (x, ) not in cases:
         cases.append( (x, ) )
-    
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

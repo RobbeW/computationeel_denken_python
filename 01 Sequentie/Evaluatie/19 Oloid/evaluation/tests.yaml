@@ -1,14 +1,17 @@
 - tab: Feedback
   contexts:
   - testcases:
+    - stdin: '1.4'
+      stdout: "Het hoogteverschil is 0.08 cm.\n"
+  - testcases:
+    - stdin: '2.5'
+      stdout: "Het hoogteverschil is 0.14 cm.\n"
+  - testcases:
     - stdin: '3.2'
       stdout: "Het hoogteverschil is 0.18 cm.\n"
   - testcases:
-    - stdin: '14.7'
-      stdout: "Het hoogteverschil is 0.85 cm.\n"
-  - testcases:
-    - stdin: '13.0'
-      stdout: "Het hoogteverschil is 0.75 cm.\n"
+    - stdin: '3.8'
+      stdout: "Het hoogteverschil is 0.22 cm.\n"
   - testcases:
     - stdin: '5.3'
       stdout: "Het hoogteverschil is 0.31 cm.\n"
@@ -16,35 +19,32 @@
     - stdin: '5.8'
       stdout: "Het hoogteverschil is 0.33 cm.\n"
   - testcases:
-    - stdin: '12.5'
-      stdout: "Het hoogteverschil is 0.72 cm.\n"
+    - stdin: '7.4'
+      stdout: "Het hoogteverschil is 0.43 cm.\n"
+  - testcases:
+    - stdin: '9.7'
+      stdout: "Het hoogteverschil is 0.56 cm.\n"
+  - testcases:
+    - stdin: '10.4'
+      stdout: "Het hoogteverschil is 0.6 cm.\n"
+  - testcases:
+    - stdin: '11.3'
+      stdout: "Het hoogteverschil is 0.65 cm.\n"
+  - testcases:
+    - stdin: '11.4'
+      stdout: "Het hoogteverschil is 0.66 cm.\n"
   - testcases:
     - stdin: '12.1'
       stdout: "Het hoogteverschil is 0.7 cm.\n"
   - testcases:
-    - stdin: '18.3'
-      stdout: "Het hoogteverschil is 1.05 cm.\n"
+    - stdin: '12.5'
+      stdout: "Het hoogteverschil is 0.72 cm.\n"
   - testcases:
-    - stdin: '2.5'
-      stdout: "Het hoogteverschil is 0.14 cm.\n"
+    - stdin: '13.0'
+      stdout: "Het hoogteverschil is 0.75 cm.\n"
   - testcases:
-    - stdin: '7.4'
-      stdout: "Het hoogteverschil is 0.43 cm.\n"
-  - testcases:
-    - stdin: '3.8'
-      stdout: "Het hoogteverschil is 0.22 cm.\n"
-  - testcases:
-    - stdin: '17.0'
-      stdout: "Het hoogteverschil is 0.98 cm.\n"
-  - testcases:
-    - stdin: '1.4'
-      stdout: "Het hoogteverschil is 0.08 cm.\n"
-  - testcases:
-    - stdin: '19.2'
-      stdout: "Het hoogteverschil is 1.11 cm.\n"
-  - testcases:
-    - stdin: '10.4'
-      stdout: "Het hoogteverschil is 0.6 cm.\n"
+    - stdin: '14.7'
+      stdout: "Het hoogteverschil is 0.85 cm.\n"
   - testcases:
     - stdin: '15.6'
       stdout: "Het hoogteverschil is 0.9 cm.\n"
@@ -52,11 +52,11 @@
     - stdin: '16.9'
       stdout: "Het hoogteverschil is 0.97 cm.\n"
   - testcases:
-    - stdin: '11.3'
-      stdout: "Het hoogteverschil is 0.65 cm.\n"
+    - stdin: '17.0'
+      stdout: "Het hoogteverschil is 0.98 cm.\n"
   - testcases:
-    - stdin: '9.7'
-      stdout: "Het hoogteverschil is 0.56 cm.\n"
+    - stdin: '18.3'
+      stdout: "Het hoogteverschil is 1.05 cm.\n"
   - testcases:
-    - stdin: '11.4'
-      stdout: "Het hoogteverschil is 0.66 cm.\n"
+    - stdin: '19.2'
+      stdout: "Het hoogteverschil is 1.11 cm.\n"

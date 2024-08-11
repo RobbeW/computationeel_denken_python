@@ -40,7 +40,11 @@ while len(cases) < ntests:
     cases.append( tuple(round(random.uniform(-10,10),1) for _ in range(1)) ) 
 
 for i in range(17):
-    cases.append( (1-1/10**i,))
+    a = random.randint(1,10)
+    cases.append( (a - 1 / 10**i,))
+    cases.append( (-a + 1 / 10**i,))
+
+cases.sort()
 
 # generate unit tests for functions
 yamldata = []

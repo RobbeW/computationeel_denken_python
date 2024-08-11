@@ -1,29 +1,20 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '4761'
-      stdout: "Duizendtallen = 4\nHonderdtallen = 7\nTientallen = 6\nEenheden = 1\n"
+    - stdin: '1384'
+      stdout: "Duizendtallen = 1\nHonderdtallen = 3\nTientallen = 8\nEenheden = 4\n"
   - testcases:
-    - stdin: '2632'
-      stdout: "Duizendtallen = 2\nHonderdtallen = 6\nTientallen = 3\nEenheden = 2\n"
+    - stdin: '1666'
+      stdout: "Duizendtallen = 1\nHonderdtallen = 6\nTientallen = 6\nEenheden = 6\n"
   - testcases:
-    - stdin: '4748'
-      stdout: "Duizendtallen = 4\nHonderdtallen = 7\nTientallen = 4\nEenheden = 8\n"
-  - testcases:
-    - stdin: '5137'
-      stdout: "Duizendtallen = 5\nHonderdtallen = 1\nTientallen = 3\nEenheden = 7\n"
-  - testcases:
-    - stdin: '9442'
-      stdout: "Duizendtallen = 9\nHonderdtallen = 4\nTientallen = 4\nEenheden = 2\n"
-  - testcases:
-    - stdin: '9341'
-      stdout: "Duizendtallen = 9\nHonderdtallen = 3\nTientallen = 4\nEenheden = 1\n"
+    - stdin: '1722'
+      stdout: "Duizendtallen = 1\nHonderdtallen = 7\nTientallen = 2\nEenheden = 2\n"
   - testcases:
     - stdin: '2264'
       stdout: "Duizendtallen = 2\nHonderdtallen = 2\nTientallen = 6\nEenheden = 4\n"
   - testcases:
-    - stdin: '6493'
-      stdout: "Duizendtallen = 6\nHonderdtallen = 4\nTientallen = 9\nEenheden = 3\n"
+    - stdin: '2632'
+      stdout: "Duizendtallen = 2\nHonderdtallen = 6\nTientallen = 3\nEenheden = 2\n"
   - testcases:
     - stdin: '3008'
       stdout: "Duizendtallen = 3\nHonderdtallen = 0\nTientallen = 0\nEenheden = 8\n"
@@ -31,32 +22,41 @@
     - stdin: '3441'
       stdout: "Duizendtallen = 3\nHonderdtallen = 4\nTientallen = 4\nEenheden = 1\n"
   - testcases:
+    - stdin: '4685'
+      stdout: "Duizendtallen = 4\nHonderdtallen = 6\nTientallen = 8\nEenheden = 5\n"
+  - testcases:
+    - stdin: '4748'
+      stdout: "Duizendtallen = 4\nHonderdtallen = 7\nTientallen = 4\nEenheden = 8\n"
+  - testcases:
+    - stdin: '4761'
+      stdout: "Duizendtallen = 4\nHonderdtallen = 7\nTientallen = 6\nEenheden = 1\n"
+  - testcases:
+    - stdin: '5137'
+      stdout: "Duizendtallen = 5\nHonderdtallen = 1\nTientallen = 3\nEenheden = 7\n"
+  - testcases:
+    - stdin: '6493'
+      stdout: "Duizendtallen = 6\nHonderdtallen = 4\nTientallen = 9\nEenheden = 3\n"
+  - testcases:
     - stdin: '6735'
       stdout: "Duizendtallen = 6\nHonderdtallen = 7\nTientallen = 3\nEenheden = 5\n"
-  - testcases:
-    - stdin: '1384'
-      stdout: "Duizendtallen = 1\nHonderdtallen = 3\nTientallen = 8\nEenheden = 4\n"
-  - testcases:
-    - stdin: '9103'
-      stdout: "Duizendtallen = 9\nHonderdtallen = 1\nTientallen = 0\nEenheden = 3\n"
-  - testcases:
-    - stdin: '1666'
-      stdout: "Duizendtallen = 1\nHonderdtallen = 6\nTientallen = 6\nEenheden = 6\n"
   - testcases:
     - stdin: '7038'
       stdout: "Duizendtallen = 7\nHonderdtallen = 0\nTientallen = 3\nEenheden = 8\n"
   - testcases:
-    - stdin: '4685'
-      stdout: "Duizendtallen = 4\nHonderdtallen = 6\nTientallen = 8\nEenheden = 5\n"
+    - stdin: '8492'
+      stdout: "Duizendtallen = 8\nHonderdtallen = 4\nTientallen = 9\nEenheden = 2\n"
   - testcases:
     - stdin: '8910'
       stdout: "Duizendtallen = 8\nHonderdtallen = 9\nTientallen = 1\nEenheden = 0\n"
   - testcases:
+    - stdin: '9103'
+      stdout: "Duizendtallen = 9\nHonderdtallen = 1\nTientallen = 0\nEenheden = 3\n"
+  - testcases:
+    - stdin: '9341'
+      stdout: "Duizendtallen = 9\nHonderdtallen = 3\nTientallen = 4\nEenheden = 1\n"
+  - testcases:
+    - stdin: '9442'
+      stdout: "Duizendtallen = 9\nHonderdtallen = 4\nTientallen = 4\nEenheden = 2\n"
+  - testcases:
     - stdin: '9865'
       stdout: "Duizendtallen = 9\nHonderdtallen = 8\nTientallen = 6\nEenheden = 5\n"
-  - testcases:
-    - stdin: '1722'
-      stdout: "Duizendtallen = 1\nHonderdtallen = 7\nTientallen = 2\nEenheden = 2\n"
-  - testcases:
-    - stdin: '8492'
-      stdout: "Duizendtallen = 8\nHonderdtallen = 4\nTientallen = 9\nEenheden = 2\n"

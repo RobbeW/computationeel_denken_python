@@ -1,35 +1,32 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '315'
-      stdout: "315513 is een palindroomgetal.\n"
+    - stdin: '179'
+      stdout: "179971 is een palindroomgetal.\n"
   - testcases:
     - stdin: '202'
       stdout: "202202 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '837'
-      stdout: "837738 is een palindroomgetal.\n"
+    - stdin: '225'
+      stdout: "225522 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '748'
-      stdout: "748847 is een palindroomgetal.\n"
+    - stdin: '252'
+      stdout: "252252 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '703'
-      stdout: "703307 is een palindroomgetal.\n"
+    - stdin: '315'
+      stdout: "315513 is een palindroomgetal.\n"
   - testcases:
     - stdin: '334'
       stdout: "334433 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '879'
-      stdout: "879978 is een palindroomgetal.\n"
-  - testcases:
     - stdin: '358'
       stdout: "358853 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '892'
-      stdout: "892298 is een palindroomgetal.\n"
+    - stdin: '443'
+      stdout: "443344 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '720'
-      stdout: "720027 is een palindroomgetal.\n"
+    - stdin: '621'
+      stdout: "621126 is een palindroomgetal.\n"
   - testcases:
     - stdin: '627'
       stdout: "627726 is een palindroomgetal.\n"
@@ -37,26 +34,29 @@
     - stdin: '700'
       stdout: "700007 is een palindroomgetal.\n"
   - testcases:
+    - stdin: '703'
+      stdout: "703307 is een palindroomgetal.\n"
+  - testcases:
+    - stdin: '720'
+      stdout: "720027 is een palindroomgetal.\n"
+  - testcases:
+    - stdin: '748'
+      stdout: "748847 is een palindroomgetal.\n"
+  - testcases:
+    - stdin: '837'
+      stdout: "837738 is een palindroomgetal.\n"
+  - testcases:
     - stdin: '848'
       stdout: "848848 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '621'
-      stdout: "621126 is een palindroomgetal.\n"
-  - testcases:
-    - stdin: '179'
-      stdout: "179971 is een palindroomgetal.\n"
+    - stdin: '879'
+      stdout: "879978 is een palindroomgetal.\n"
   - testcases:
     - stdin: '883'
       stdout: "883388 is een palindroomgetal.\n"
   - testcases:
-    - stdin: '443'
-      stdout: "443344 is een palindroomgetal.\n"
-  - testcases:
-    - stdin: '225'
-      stdout: "225522 is een palindroomgetal.\n"
-  - testcases:
-    - stdin: '252'
-      stdout: "252252 is een palindroomgetal.\n"
+    - stdin: '892'
+      stdout: "892298 is een palindroomgetal.\n"
   - testcases:
     - stdin: '960'
       stdout: "960069 is een palindroomgetal.\n"

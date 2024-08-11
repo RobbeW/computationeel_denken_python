@@ -1,29 +1,8 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '3.0'
-      stdout: "De oppervlakte bedraagt 7.07 cm².\n"
-  - testcases:
-    - stdin: '5.3'
-      stdout: "De oppervlakte bedraagt 22.06 cm².\n"
-  - testcases:
-    - stdin: '4.8'
-      stdout: "De oppervlakte bedraagt 18.1 cm².\n"
-  - testcases:
-    - stdin: '2.4'
-      stdout: "De oppervlakte bedraagt 4.52 cm².\n"
-  - testcases:
-    - stdin: '2.5'
-      stdout: "De oppervlakte bedraagt 4.91 cm².\n"
-  - testcases:
-    - stdin: '4.6'
-      stdout: "De oppervlakte bedraagt 16.62 cm².\n"
-  - testcases:
-    - stdin: '4.5'
-      stdout: "De oppervlakte bedraagt 15.9 cm².\n"
-  - testcases:
-    - stdin: '6.5'
-      stdout: "De oppervlakte bedraagt 33.18 cm².\n"
+    - stdin: '1.1'
+      stdout: "De oppervlakte bedraagt 0.95 cm².\n"
   - testcases:
     - stdin: '1.5'
       stdout: "De oppervlakte bedraagt 1.77 cm².\n"
@@ -31,32 +10,53 @@
     - stdin: '1.9'
       stdout: "De oppervlakte bedraagt 2.84 cm².\n"
   - testcases:
-    - stdin: '6.0'
-      stdout: "De oppervlakte bedraagt 28.27 cm².\n"
-  - testcases:
-    - stdin: '1.1'
-      stdout: "De oppervlakte bedraagt 0.95 cm².\n"
-  - testcases:
-    - stdin: '6.8'
-      stdout: "De oppervlakte bedraagt 36.32 cm².\n"
-  - testcases:
-    - stdin: '4.0'
-      stdout: "De oppervlakte bedraagt 12.57 cm².\n"
-  - testcases:
-    - stdin: '5.6'
-      stdout: "De oppervlakte bedraagt 24.63 cm².\n"
-  - testcases:
     - stdin: '2.3'
       stdout: "De oppervlakte bedraagt 4.15 cm².\n"
   - testcases:
-    - stdin: '4.2'
-      stdout: "De oppervlakte bedraagt 13.85 cm².\n"
+    - stdin: '2.4'
+      stdout: "De oppervlakte bedraagt 4.52 cm².\n"
+  - testcases:
+    - stdin: '2.5'
+      stdout: "De oppervlakte bedraagt 4.91 cm².\n"
+  - testcases:
+    - stdin: '3.0'
+      stdout: "De oppervlakte bedraagt 7.07 cm².\n"
+  - testcases:
+    - stdin: '3.2'
+      stdout: "De oppervlakte bedraagt 8.04 cm².\n"
   - testcases:
     - stdin: '3.7'
       stdout: "De oppervlakte bedraagt 10.75 cm².\n"
   - testcases:
+    - stdin: '4.0'
+      stdout: "De oppervlakte bedraagt 12.57 cm².\n"
+  - testcases:
+    - stdin: '4.2'
+      stdout: "De oppervlakte bedraagt 13.85 cm².\n"
+  - testcases:
     - stdin: '4.3'
       stdout: "De oppervlakte bedraagt 14.52 cm².\n"
   - testcases:
-    - stdin: '3.2'
-      stdout: "De oppervlakte bedraagt 8.04 cm².\n"
+    - stdin: '4.5'
+      stdout: "De oppervlakte bedraagt 15.9 cm².\n"
+  - testcases:
+    - stdin: '4.6'
+      stdout: "De oppervlakte bedraagt 16.62 cm².\n"
+  - testcases:
+    - stdin: '4.8'
+      stdout: "De oppervlakte bedraagt 18.1 cm².\n"
+  - testcases:
+    - stdin: '5.3'
+      stdout: "De oppervlakte bedraagt 22.06 cm².\n"
+  - testcases:
+    - stdin: '5.6'
+      stdout: "De oppervlakte bedraagt 24.63 cm².\n"
+  - testcases:
+    - stdin: '6.0'
+      stdout: "De oppervlakte bedraagt 28.27 cm².\n"
+  - testcases:
+    - stdin: '6.5'
+      stdout: "De oppervlakte bedraagt 33.18 cm².\n"
+  - testcases:
+    - stdin: '6.8'
+      stdout: "De oppervlakte bedraagt 36.32 cm².\n"

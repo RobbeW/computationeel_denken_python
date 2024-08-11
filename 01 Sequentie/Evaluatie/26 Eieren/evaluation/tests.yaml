@@ -1,62 +1,62 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "2\n1\n3\n6"
-      stdout: "Totale aantal eieren: 2 gros, 1 dozijn en 9 eieren.\n"
-  - testcases:
     - stdin: "0\n3\n4\n16"
       stdout: "Totale aantal eieren: 0 gros, 4 dozijn en 8 eieren.\n"
-  - testcases:
-    - stdin: "0\n11\n4\n8"
-      stdout: "Totale aantal eieren: 1 gros, 0 dozijn en 0 eieren.\n"
-  - testcases:
-    - stdin: "1\n10\n9\n58"
-      stdout: "Totale aantal eieren: 2 gros, 3 dozijn en 7 eieren.\n"
-  - testcases:
-    - stdin: "4\n9\n8\n150"
-      stdout: "Totale aantal eieren: 5 gros, 10 dozijn en 2 eieren.\n"
-  - testcases:
-    - stdin: "8\n1\n5\n31"
-      stdout: "Totale aantal eieren: 8 gros, 4 dozijn en 0 eieren.\n"
-  - testcases:
-    - stdin: "2\n5\n0\n126"
-      stdout: "Totale aantal eieren: 3 gros, 3 dozijn en 6 eieren.\n"
   - testcases:
     - stdin: "0\n5\n11\n57"
       stdout: "Totale aantal eieren: 0 gros, 10 dozijn en 8 eieren.\n"
   - testcases:
-    - stdin: "7\n8\n0\n117"
-      stdout: "Totale aantal eieren: 8 gros, 5 dozijn en 9 eieren.\n"
-  - testcases:
-    - stdin: "3\n8\n2\n65"
-      stdout: "Totale aantal eieren: 4 gros, 1 dozijn en 7 eieren.\n"
+    - stdin: "0\n11\n4\n8"
+      stdout: "Totale aantal eieren: 1 gros, 0 dozijn en 0 eieren.\n"
   - testcases:
     - stdin: "1\n5\n0\n109"
       stdout: "Totale aantal eieren: 2 gros, 2 dozijn en 1 eieren.\n"
   - testcases:
-    - stdin: "4\n8\n10\n78"
-      stdout: "Totale aantal eieren: 5 gros, 3 dozijn en 4 eieren.\n"
+    - stdin: "1\n7\n2\n103"
+      stdout: "Totale aantal eieren: 2 gros, 3 dozijn en 9 eieren.\n"
   - testcases:
-    - stdin: "6\n2\n11\n14"
-      stdout: "Totale aantal eieren: 6 gros, 4 dozijn en 1 eieren.\n"
+    - stdin: "1\n10\n9\n58"
+      stdout: "Totale aantal eieren: 2 gros, 3 dozijn en 7 eieren.\n"
+  - testcases:
+    - stdin: "2\n1\n3\n6"
+      stdout: "Totale aantal eieren: 2 gros, 1 dozijn en 9 eieren.\n"
   - testcases:
     - stdin: "2\n3\n3\n138"
       stdout: "Totale aantal eieren: 3 gros, 2 dozijn en 9 eieren.\n"
   - testcases:
-    - stdin: "6\n7\n2\n133"
-      stdout: "Totale aantal eieren: 7 gros, 6 dozijn en 3 eieren.\n"
+    - stdin: "2\n5\n0\n126"
+      stdout: "Totale aantal eieren: 3 gros, 3 dozijn en 6 eieren.\n"
   - testcases:
-    - stdin: "9\n7\n11\n15"
-      stdout: "Totale aantal eieren: 9 gros, 9 dozijn en 2 eieren.\n"
-  - testcases:
-    - stdin: "5\n9\n3\n37"
-      stdout: "Totale aantal eieren: 6 gros, 0 dozijn en 4 eieren.\n"
-  - testcases:
-    - stdin: "1\n7\n2\n103"
-      stdout: "Totale aantal eieren: 2 gros, 3 dozijn en 9 eieren.\n"
+    - stdin: "3\n8\n2\n65"
+      stdout: "Totale aantal eieren: 4 gros, 1 dozijn en 7 eieren.\n"
   - testcases:
     - stdin: "3\n11\n3\n132"
       stdout: "Totale aantal eieren: 4 gros, 10 dozijn en 3 eieren.\n"
   - testcases:
+    - stdin: "4\n8\n10\n78"
+      stdout: "Totale aantal eieren: 5 gros, 3 dozijn en 4 eieren.\n"
+  - testcases:
+    - stdin: "4\n9\n8\n150"
+      stdout: "Totale aantal eieren: 5 gros, 10 dozijn en 2 eieren.\n"
+  - testcases:
     - stdin: "4\n10\n3\n16"
       stdout: "Totale aantal eieren: 4 gros, 11 dozijn en 7 eieren.\n"
+  - testcases:
+    - stdin: "5\n9\n3\n37"
+      stdout: "Totale aantal eieren: 6 gros, 0 dozijn en 4 eieren.\n"
+  - testcases:
+    - stdin: "6\n2\n11\n14"
+      stdout: "Totale aantal eieren: 6 gros, 4 dozijn en 1 eieren.\n"
+  - testcases:
+    - stdin: "6\n7\n2\n133"
+      stdout: "Totale aantal eieren: 7 gros, 6 dozijn en 3 eieren.\n"
+  - testcases:
+    - stdin: "7\n8\n0\n117"
+      stdout: "Totale aantal eieren: 8 gros, 5 dozijn en 9 eieren.\n"
+  - testcases:
+    - stdin: "8\n1\n5\n31"
+      stdout: "Totale aantal eieren: 8 gros, 4 dozijn en 0 eieren.\n"
+  - testcases:
+    - stdin: "9\n7\n11\n15"
+      stdout: "Totale aantal eieren: 9 gros, 9 dozijn en 2 eieren.\n"

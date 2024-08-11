@@ -1,62 +1,62 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '3912'
-      stdout: "1:5:12\n"
-  - testcases:
-    - stdin: '12579'
-      stdout: "3:29:39\n"
-  - testcases:
-    - stdin: '8528'
-      stdout: "2:22:8\n"
-  - testcases:
-    - stdin: '40615'
-      stdout: "11:16:55\n"
-  - testcases:
-    - stdin: '16992'
-      stdout: "4:43:12\n"
-  - testcases:
-    - stdin: '18550'
-      stdout: "5:9:10\n"
-  - testcases:
-    - stdin: '41719'
-      stdout: "11:35:19\n"
-  - testcases:
-    - stdin: '35771'
-      stdout: "9:56:11\n"
-  - testcases:
-    - stdin: '40438'
-      stdout: "11:13:58\n"
-  - testcases:
-    - stdin: '35365'
-      stdout: "9:49:25\n"
-  - testcases:
-    - stdin: '7058'
-      stdout: "1:57:38\n"
-  - testcases:
-    - stdin: '23974'
-      stdout: "6:39:34\n"
-  - testcases:
-    - stdin: '10032'
-      stdout: "2:47:12\n"
-  - testcases:
-    - stdin: '11766'
-      stdout: "3:16:6\n"
-  - testcases:
-    - stdin: '24940'
-      stdout: "6:55:40\n"
-  - testcases:
     - stdin: '3538'
-      stdout: "0:58:58\n"
+      stdout: "0 : 58 : 58\n"
   - testcases:
-    - stdin: '34413'
-      stdout: "9:33:33\n"
+    - stdin: '3912'
+      stdout: "1 : 5 : 12\n"
   - testcases:
     - stdin: '4664'
-      stdout: "1:17:44\n"
+      stdout: "1 : 17 : 44\n"
   - testcases:
-    - stdin: '26152'
-      stdout: "7:15:52\n"
+    - stdin: '7058'
+      stdout: "1 : 57 : 38\n"
+  - testcases:
+    - stdin: '8528'
+      stdout: "2 : 22 : 8\n"
+  - testcases:
+    - stdin: '10032'
+      stdout: "2 : 47 : 12\n"
+  - testcases:
+    - stdin: '11766'
+      stdout: "3 : 16 : 6\n"
+  - testcases:
+    - stdin: '12579'
+      stdout: "3 : 29 : 39\n"
   - testcases:
     - stdin: '16743'
-      stdout: "4:39:3\n"
+      stdout: "4 : 39 : 3\n"
+  - testcases:
+    - stdin: '16992'
+      stdout: "4 : 43 : 12\n"
+  - testcases:
+    - stdin: '18550'
+      stdout: "5 : 9 : 10\n"
+  - testcases:
+    - stdin: '23974'
+      stdout: "6 : 39 : 34\n"
+  - testcases:
+    - stdin: '24940'
+      stdout: "6 : 55 : 40\n"
+  - testcases:
+    - stdin: '26152'
+      stdout: "7 : 15 : 52\n"
+  - testcases:
+    - stdin: '34413'
+      stdout: "9 : 33 : 33\n"
+  - testcases:
+    - stdin: '35365'
+      stdout: "9 : 49 : 25\n"
+  - testcases:
+    - stdin: '35771'
+      stdout: "9 : 56 : 11\n"
+  - testcases:
+    - stdin: '40438'
+      stdout: "11 : 13 : 58\n"
+  - testcases:
+    - stdin: '40615'
+      stdout: "11 : 16 : 55\n"
+  - testcases:
+    - stdin: '41719'
+      stdout: "11 : 35 : 19\n"
