@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Complexe Operatoren - De modulo-operator",
-      "en": "Complex Operators - Modulo"
+      "nl": "De modulo-operator"
     }
   },
   "evaluation": {
@@ -13,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "modulo"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

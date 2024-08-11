@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Complexe Operatoren - Even en oneven kwadraten",
-      "en": "Complex Operators - Even and Odd Squared"
+      "nl": "Even en oneven kwadraten",
+      "en": "Even and Odd Squared"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "modulo"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

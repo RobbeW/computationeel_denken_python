@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Complexe Operatoren - Betalen in biljetten",
-      "en": "Complex Operators - Paying with bills"
+      "nl": "Betalen in biljetten",
+      "en": "Paying with bills"
     }
   },
   "evaluation": {
@@ -13,8 +13,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "modulo"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
