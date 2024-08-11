@@ -25,10 +25,3 @@ Voer een woord in: Python
 Het omgekeerde woord is: nohtyP
 
 ```
-
-{: .callout.callout-success}
->## Tips
->* Gebruik de `input()-functie` om een woord in te lezen.
->* Gebruik de `len()-functie` om de lengte van het woord te bepalen.
->* Gebruik een `for-lus` en de tekstfunctie `woord[x]` om het woord omgekeerd af te drukken.
->* Vergeet niet dat indexen in Python vanaf 0 beginnen!
