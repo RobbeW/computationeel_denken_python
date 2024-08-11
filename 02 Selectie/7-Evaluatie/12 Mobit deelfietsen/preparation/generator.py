@@ -41,6 +41,7 @@ while len( cases ) < ntests:
     if case not in cases:
         cases.append( case )
 
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

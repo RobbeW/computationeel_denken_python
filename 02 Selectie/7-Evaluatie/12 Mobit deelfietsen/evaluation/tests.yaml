@@ -1,17 +1,35 @@
 - tab: Feedback
   contexts:
   - testcases:
+    - stdin: '3'
+      stdout: "Kostprijs: € 0.29\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "Kostprijs: € 0.45\n"
+  - testcases:
+    - stdin: '21'
+      stdout: "Kostprijs: € 0.9\n"
+  - testcases:
     - stdin: '35'
       stdout: "Kostprijs: € 0.9\n"
+  - testcases:
+    - stdin: '40'
+      stdout: "Kostprijs: € 0.9\n"
+  - testcases:
+    - stdin: '52'
+      stdout: "Kostprijs: € 1.35\n"
+  - testcases:
+    - stdin: '63'
+      stdout: "Kostprijs: € 2.0\n"
   - testcases:
     - stdin: '72'
       stdout: "Kostprijs: € 2.0\n"
   - testcases:
-    - stdin: '3'
-      stdout: "Kostprijs: € 0.29\n"
+    - stdin: '77'
+      stdout: "Kostprijs: € 2.0\n"
   - testcases:
-    - stdin: '52'
-      stdout: "Kostprijs: € 1.35\n"
+    - stdin: '116'
+      stdout: "Kostprijs: € 3.3\n"
   - testcases:
     - stdin: '118'
       stdout: "Kostprijs: € 3.3\n"
@@ -19,44 +37,26 @@
     - stdin: '130'
       stdout: "Kostprijs: € 4.1\n"
   - testcases:
-    - stdin: '264'
-      stdout: "Kostprijs: € 10.7\n"
-  - testcases:
-    - stdin: '261'
-      stdout: "Kostprijs: € 10.7\n"
-  - testcases:
-    - stdin: '40'
-      stdout: "Kostprijs: € 0.9\n"
-  - testcases:
     - stdin: '172'
       stdout: "Kostprijs: € 5.7\n"
-  - testcases:
-    - stdin: '63'
-      stdout: "Kostprijs: € 2.0\n"
-  - testcases:
-    - stdin: '77'
-      stdout: "Kostprijs: € 2.0\n"
   - testcases:
     - stdin: '180'
       stdout: "Kostprijs: € 5.7\n"
   - testcases:
-    - stdin: '13'
-      stdout: "Kostprijs: € 0.45\n"
+    - stdin: '189'
+      stdout: "Kostprijs: € 6.7\n"
+  - testcases:
+    - stdin: '248'
+      stdout: "Kostprijs: € 9.7\n"
   - testcases:
     - stdin: '254'
       stdout: "Kostprijs: € 9.7\n"
   - testcases:
-    - stdin: '21'
-      stdout: "Kostprijs: € 0.9\n"
+    - stdin: '261'
+      stdout: "Kostprijs: € 10.7\n"
   - testcases:
-    - stdin: '189'
-      stdout: "Kostprijs: € 6.7\n"
-  - testcases:
-    - stdin: '116'
-      stdout: "Kostprijs: € 3.3\n"
-  - testcases:
-    - stdin: '248'
-      stdout: "Kostprijs: € 9.7\n"
+    - stdin: '264'
+      stdout: "Kostprijs: € 10.7\n"
   - testcases:
     - stdin: '278'
       stdout: "Kostprijs: € 10.7\n"

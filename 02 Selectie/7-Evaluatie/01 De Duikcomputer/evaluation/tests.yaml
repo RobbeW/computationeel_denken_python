@@ -1,38 +1,17 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '42'
-      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '29'
+    - stdin: '6'
       stdout: "Je hoeft niet te stoppen op 3 meter.\n"
   - testcases:
-    - stdin: '30'
-      stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '40'
-      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '50'
-      stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '15'
+    - stdin: '8'
       stdout: "Je hoeft niet te stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '32'
-      stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '35'
-      stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '68'
-      stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
   - testcases:
     - stdin: '12'
       stdout: "Je hoeft niet te stoppen op 3 meter.\n"
   - testcases:
-    - stdin: '45'
-      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
+    - stdin: '15'
+      stdout: "Je hoeft niet te stoppen op 3 meter.\n"
   - testcases:
     - stdin: '18'
       stdout: "Je hoeft niet te stoppen op 3 meter.\n"
@@ -40,23 +19,44 @@
     - stdin: '22'
       stdout: "Je hoeft niet te stoppen op 3 meter.\n"
   - testcases:
-    - stdin: '47'
-      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '6'
+    - stdin: '29'
       stdout: "Je hoeft niet te stoppen op 3 meter.\n"
   - testcases:
-    - stdin: '66'
-      stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
-  - testcases:
-    - stdin: '8'
-      stdout: "Je hoeft niet te stoppen op 3 meter.\n"
+    - stdin: '30'
+      stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
   - testcases:
     - stdin: '31'
       stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
   - testcases:
-    - stdin: '64'
+    - stdin: '32'
+      stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '35'
+      stdout: "Je moet vijf minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '40'
+      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '42'
+      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '45'
+      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '47'
+      stdout: "Je moet tien minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '50'
       stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
   - testcases:
     - stdin: '61'
+      stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '64'
+      stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '66'
+      stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"
+  - testcases:
+    - stdin: '68'
       stdout: "Je moet twaalf minuten stoppen op 3 meter.\n"

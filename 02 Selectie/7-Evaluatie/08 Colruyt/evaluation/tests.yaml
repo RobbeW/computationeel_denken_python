@@ -10,11 +10,26 @@
     - stdin: '3'
       stdout: "De kostprijs is 6.91 euro.\n"
   - testcases:
-    - stdin: '10'
-      stdout: "De kostprijs is 23.03 euro.\n"
+    - stdin: '4'
+      stdout: "De kostprijs is 9.21 euro.\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "De kostprijs is 11.51 euro.\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "De kostprijs is 13.82 euro.\n"
   - testcases:
     - stdin: '7'
       stdout: "De kostprijs is 16.12 euro.\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "De kostprijs is 18.42 euro.\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "De kostprijs is 20.73 euro.\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "De kostprijs is 23.03 euro.\n"
   - testcases:
     - stdin: '11'
       stdout: "De kostprijs is 25.33 euro.\n"
@@ -22,41 +37,26 @@
     - stdin: '12'
       stdout: "De kostprijs is 27.64 euro.\n"
   - testcases:
-    - stdin: '20'
-      stdout: "De kostprijs is 46.06 euro.\n"
-  - testcases:
-    - stdin: '6'
-      stdout: "De kostprijs is 13.82 euro.\n"
+    - stdin: '13'
+      stdout: "De kostprijs is 29.94 euro.\n"
   - testcases:
     - stdin: '14'
       stdout: "De kostprijs is 32.24 euro.\n"
   - testcases:
-    - stdin: '8'
-      stdout: "De kostprijs is 18.42 euro.\n"
-  - testcases:
     - stdin: '15'
       stdout: "De kostprijs is 34.55 euro.\n"
-  - testcases:
-    - stdin: '4'
-      stdout: "De kostprijs is 9.21 euro.\n"
-  - testcases:
-    - stdin: '19'
-      stdout: "De kostprijs is 43.76 euro.\n"
-  - testcases:
-    - stdin: '5'
-      stdout: "De kostprijs is 11.51 euro.\n"
-  - testcases:
-    - stdin: '18'
-      stdout: "De kostprijs is 41.45 euro.\n"
-  - testcases:
-    - stdin: '17'
-      stdout: "De kostprijs is 39.15 euro.\n"
-  - testcases:
-    - stdin: '13'
-      stdout: "De kostprijs is 29.94 euro.\n"
   - testcases:
     - stdin: '16'
       stdout: "De kostprijs is 36.85 euro.\n"
   - testcases:
-    - stdin: '9'
-      stdout: "De kostprijs is 20.73 euro.\n"
+    - stdin: '17'
+      stdout: "De kostprijs is 39.15 euro.\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "De kostprijs is 41.45 euro.\n"
+  - testcases:
+    - stdin: '19'
+      stdout: "De kostprijs is 43.76 euro.\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "De kostprijs is 46.06 euro.\n"

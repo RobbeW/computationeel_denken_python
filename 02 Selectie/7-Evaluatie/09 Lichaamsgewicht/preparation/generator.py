@@ -38,7 +38,7 @@ while len(cases) < ntests:
     age = random.randint(1,150)
     if (age, ) not in cases:
         cases.append( (age, ) ) 
-
+cases.sort()
 
 # generate unit tests for functions
 yamldata = []
