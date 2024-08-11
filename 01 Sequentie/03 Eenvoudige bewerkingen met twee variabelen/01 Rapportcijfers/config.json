@@ -4,20 +4,19 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Eenvoudige Bewerkingen en Operatoren - Drukkerij",
-      "en": "Simple Calculations and Operators - Printing"
+      "nl": "Integers en Floats - Rapportcijfers",
+      "en": "Integers and Floats - Grades"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "datatypes"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "4-TVf2SbXdbkaEwVtUEimYJNGaUm8wNNPqsAWaBww-WY4Q8yamvvCJapirJAPi3B",
+    "token": "QA_2KJgqFNMCT66pJUPJhFTgsakpW--xTSyx56YnvFVtSAMgR8uRNnGsmpaYIkGj",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

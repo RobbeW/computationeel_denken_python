@@ -4,20 +4,19 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Wie is Alice?",
-      "en": "Who is Alice?"
+      "nl": "Eenvoudige Bewerkingen en Operatoren - Drukkerij",
+      "en": "Simple Calculations and Operators - Printing"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "operatoren"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "cFC6XTt6XNj9KVqcUmdtX5VjEm5jncRCqZnUzu9ws6S9Kr8r87XXiXFxgtpW9Ii-",
+    "token": "4-TVf2SbXdbkaEwVtUEimYJNGaUm8wNNPqsAWaBww-WY4Q8yamvvCJapirJAPi3B",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
