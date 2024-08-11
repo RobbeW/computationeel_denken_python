@@ -14,7 +14,7 @@ Om een online bestelling te regelen, hebben we enkele gegevens nodig van onze kl
 Bij de achtereenvolgende invoer van `Karim`, `Cerit` en `Koekoekstraat` verschijnt er:
  
 ```
-De bestelling wordt verzonden naar: Karim Cerik in de Koekoekstraat. 
+De bestelling wordt verzonden naar: Karim Cerit in de Koekoekstraat. 
 ```
 
 {: .callout.callout-info}

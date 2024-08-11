@@ -4,16 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Concateneren - Online Bestelling",
-      "en": "Concatenation - Online Order"
+      "nl": "Online bestelling"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "sequentie",
+    "concatenatie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

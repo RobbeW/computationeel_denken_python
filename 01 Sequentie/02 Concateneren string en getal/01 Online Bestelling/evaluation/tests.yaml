@@ -1,0 +1,38 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Karim\nCerit\nKoekoekstraat"
+      stdout: "De bestelling wordt verzonden naar: Karim Cerit in de Koekoekstraat.\n"
+  - testcases:
+    - stdin: "Sherlock\nHolmes\nBaker Street"
+      stdout: "De bestelling wordt verzonden naar: Sherlock Holmes in de Baker Street.\n"
+  - testcases:
+    - stdin: "Harry\nPotter\nLigusterlaan"
+      stdout: "De bestelling wordt verzonden naar: Harry Potter in de Ligusterlaan.\n"
+  - testcases:
+    - stdin: "Donald\nDuck\nKwakstraat"
+      stdout: "De bestelling wordt verzonden naar: Donald Duck in de Kwakstraat.\n"
+  - testcases:
+    - stdin: "Tony\nStark\nBleeker Street"
+      stdout: "De bestelling wordt verzonden naar: Tony Stark in de Bleeker Street.\n"
+  - testcases:
+    - stdin: "Frodo\nBalings\nBalingshoek"
+      stdout: "De bestelling wordt verzonden naar: Frodo Balings in de Balingshoek.\n"
+  - testcases:
+    - stdin: "Bruce\nWayne\nWayne Manor"
+      stdout: "De bestelling wordt verzonden naar: Bruce Wayne in de Wayne Manor.\n"
+  - testcases:
+    - stdin: "James\nBond\nDowning Street"
+      stdout: "De bestelling wordt verzonden naar: James Bond in de Downing Street.\n"
+  - testcases:
+    - stdin: "Peter\nParker\nQueens Boulevard"
+      stdout: "De bestelling wordt verzonden naar: Peter Parker in de Queens Boulevard.\n"
+  - testcases:
+    - stdin: "Bilbo\nBalings\nBalingshoek"
+      stdout: "De bestelling wordt verzonden naar: Bilbo Balings in de Balingshoek.\n"
+  - testcases:
+    - stdin: "Clark\nKent\nSullivan Lane"
+      stdout: "De bestelling wordt verzonden naar: Clark Kent in de Sullivan Lane.\n"
+  - testcases:
+    - stdin: "Arthur\nDent\nWest End"
+      stdout: "De bestelling wordt verzonden naar: Arthur Dent in de West End.\n"
