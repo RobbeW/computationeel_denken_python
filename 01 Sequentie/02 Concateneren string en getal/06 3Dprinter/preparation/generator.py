@@ -39,6 +39,7 @@ while len(cases) < ntests:
     I = V / ( 8 * 0.05 )
     if (V,) not in cases and round(I, 3) == I:
         cases.append( (V,) )
+cases.sort()
 
 # generate unit tests for functions
 yamldata = []

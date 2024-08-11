@@ -1,17 +1,38 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '5342'
-      stdout: "Je dient nog 4658 stappen te zetten.\n"
+    - stdin: '384'
+      stdout: "Je dient nog 9616 stappen te zetten.\n"
   - testcases:
-    - stdin: '9995'
-      stdout: "Je dient nog 5 stappen te zetten.\n"
+    - stdin: '666'
+      stdout: "Je dient nog 9334 stappen te zetten.\n"
+  - testcases:
+    - stdin: '722'
+      stdout: "Je dient nog 9278 stappen te zetten.\n"
+  - testcases:
+    - stdin: '1126'
+      stdout: "Je dient nog 8874 stappen te zetten.\n"
+  - testcases:
+    - stdin: '1264'
+      stdout: "Je dient nog 8736 stappen te zetten.\n"
   - testcases:
     - stdin: '1632'
       stdout: "Je dient nog 8368 stappen te zetten.\n"
   - testcases:
-    - stdin: '9653'
-      stdout: "Je dient nog 347 stappen te zetten.\n"
+    - stdin: '2008'
+      stdout: "Je dient nog 7992 stappen te zetten.\n"
+  - testcases:
+    - stdin: '2093'
+      stdout: "Je dient nog 7907 stappen te zetten.\n"
+  - testcases:
+    - stdin: '2441'
+      stdout: "Je dient nog 7559 stappen te zetten.\n"
+  - testcases:
+    - stdin: '3621'
+      stdout: "Je dient nog 6379 stappen te zetten.\n"
+  - testcases:
+    - stdin: '3685'
+      stdout: "Je dient nog 6315 stappen te zetten.\n"
   - testcases:
     - stdin: '3748'
       stdout: "Je dient nog 6252 stappen te zetten.\n"
@@ -19,74 +40,53 @@
     - stdin: '4137'
       stdout: "Je dient nog 5863 stappen te zetten.\n"
   - testcases:
-    - stdin: '9929'
-      stdout: "Je dient nog 71 stappen te zetten.\n"
+    - stdin: '4186'
+      stdout: "Je dient nog 5814 stappen te zetten.\n"
   - testcases:
-    - stdin: '8442'
-      stdout: "Je dient nog 1558 stappen te zetten.\n"
-  - testcases:
-    - stdin: '9609'
-      stdout: "Je dient nog 391 stappen te zetten.\n"
-  - testcases:
-    - stdin: '8341'
-      stdout: "Je dient nog 1659 stappen te zetten.\n"
-  - testcases:
-    - stdin: '1264'
-      stdout: "Je dient nog 8736 stappen te zetten.\n"
+    - stdin: '5342'
+      stdout: "Je dient nog 4658 stappen te zetten.\n"
   - testcases:
     - stdin: '5493'
       stdout: "Je dient nog 4507 stappen te zetten.\n"
   - testcases:
-    - stdin: '2008'
-      stdout: "Je dient nog 7992 stappen te zetten.\n"
-  - testcases:
-    - stdin: '2441'
-      stdout: "Je dient nog 7559 stappen te zetten.\n"
-  - testcases:
     - stdin: '5735'
       stdout: "Je dient nog 4265 stappen te zetten.\n"
-  - testcases:
-    - stdin: '384'
-      stdout: "Je dient nog 9616 stappen te zetten.\n"
-  - testcases:
-    - stdin: '8103'
-      stdout: "Je dient nog 1897 stappen te zetten.\n"
-  - testcases:
-    - stdin: '666'
-      stdout: "Je dient nog 9334 stappen te zetten.\n"
   - testcases:
     - stdin: '6038'
       stdout: "Je dient nog 3962 stappen te zetten.\n"
   - testcases:
-    - stdin: '3685'
-      stdout: "Je dient nog 6315 stappen te zetten.\n"
-  - testcases:
-    - stdin: '7910'
-      stdout: "Je dient nog 2090 stappen te zetten.\n"
-  - testcases:
-    - stdin: '8865'
-      stdout: "Je dient nog 1135 stappen te zetten.\n"
-  - testcases:
-    - stdin: '722'
-      stdout: "Je dient nog 9278 stappen te zetten.\n"
+    - stdin: '6097'
+      stdout: "Je dient nog 3903 stappen te zetten.\n"
   - testcases:
     - stdin: '7492'
       stdout: "Je dient nog 2508 stappen te zetten.\n"
   - testcases:
-    - stdin: '3621'
-      stdout: "Je dient nog 6379 stappen te zetten.\n"
+    - stdin: '7910'
+      stdout: "Je dient nog 2090 stappen te zetten.\n"
+  - testcases:
+    - stdin: '8103'
+      stdout: "Je dient nog 1897 stappen te zetten.\n"
+  - testcases:
+    - stdin: '8341'
+      stdout: "Je dient nog 1659 stappen te zetten.\n"
+  - testcases:
+    - stdin: '8442'
+      stdout: "Je dient nog 1558 stappen te zetten.\n"
+  - testcases:
+    - stdin: '8865'
+      stdout: "Je dient nog 1135 stappen te zetten.\n"
   - testcases:
     - stdin: '8990'
       stdout: "Je dient nog 1010 stappen te zetten.\n"
   - testcases:
-    - stdin: '2093'
-      stdout: "Je dient nog 7907 stappen te zetten.\n"
+    - stdin: '9609'
+      stdout: "Je dient nog 391 stappen te zetten.\n"
   - testcases:
-    - stdin: '4186'
-      stdout: "Je dient nog 5814 stappen te zetten.\n"
+    - stdin: '9653'
+      stdout: "Je dient nog 347 stappen te zetten.\n"
   - testcases:
-    - stdin: '1126'
-      stdout: "Je dient nog 8874 stappen te zetten.\n"
+    - stdin: '9929'
+      stdout: "Je dient nog 71 stappen te zetten.\n"
   - testcases:
-    - stdin: '6097'
-      stdout: "Je dient nog 3903 stappen te zetten.\n"
+    - stdin: '9995'
+      stdout: "Je dient nog 5 stappen te zetten.\n"
