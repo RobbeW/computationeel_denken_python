@@ -1,0 +1,80 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: hallo
+      stdout: "Voor een woord in: \nhapallopo\n"
+  - testcases:
+    - stdin: bakker
+      stdout: "Voor een woord in: \nbapakkeper\n"
+  - testcases:
+    - stdin: molen
+      stdout: "Voor een woord in: \nmopolepen\n"
+  - testcases:
+    - stdin: wacht
+      stdout: "Voor een woord in: \nwapacht\n"
+  - testcases:
+    - stdin: grond
+      stdout: "Voor een woord in: \ngropond\n"
+  - testcases:
+    - stdin: vis
+      stdout: "Voor een woord in: \nvipis\n"
+  - testcases:
+    - stdin: lamp
+      stdout: "Voor een woord in: \nlapamp\n"
+  - testcases:
+    - stdin: zon
+      stdout: "Voor een woord in: \nzopon\n"
+  - testcases:
+    - stdin: tafel
+      stdout: "Voor een woord in: \ntapafepel\n"
+  - testcases:
+    - stdin: koffer
+      stdout: "Voor een woord in: \nkopoffeper\n"
+  - testcases:
+    - stdin: mama
+      stdout: "Voor een woord in: \nmapamapa\n"
+  - testcases:
+    - stdin: blik
+      stdout: "Voor een woord in: \nblipik\n"
+  - testcases:
+    - stdin: peper
+      stdout: "Voor een woord in: \npepepeper\n"
+  - testcases:
+    - stdin: ster
+      stdout: "Voor een woord in: \nsteper\n"
+  - testcases:
+    - stdin: kerk
+      stdout: "Voor een woord in: \nkeperk\n"
+  - testcases:
+    - stdin: kam
+      stdout: "Voor een woord in: \nkapam\n"
+  - testcases:
+    - stdin: glas
+      stdout: "Voor een woord in: \nglapas\n"
+  - testcases:
+    - stdin: markt
+      stdout: "Voor een woord in: \nmaparkt\n"
+  - testcases:
+    - stdin: appel
+      stdout: "Voor een woord in: \napappepel\n"
+  - testcases:
+    - stdin: klok
+      stdout: "Voor een woord in: \nklopok\n"
+  - testcases:
+    - stdin: pint
+      stdout: "Voor een woord in: \npipint\n"
+  - testcases:
+    - stdin: hemd
+      stdout: "Voor een woord in: \nhepemd\n"
+  - testcases:
+    - stdin: haring
+      stdout: "Voor een woord in: \nhapariping\n"
+  - testcases:
+    - stdin: pot
+      stdout: "Voor een woord in: \npopot\n"
+  - testcases:
+    - stdin: bad
+      stdout: "Voor een woord in: \nbapad\n"
+  - testcases:
+    - stdin: wind
+      stdout: "Voor een woord in: \nwipind\n"

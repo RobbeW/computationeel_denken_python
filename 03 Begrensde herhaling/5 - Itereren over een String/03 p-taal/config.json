@@ -4,16 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Itereren over een String - Verdubbel Klinkers",
-      "en": "Iterate Using a String - Double all Vowels"
+      "nl": "P-taal"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "for",
+    "tekst"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
