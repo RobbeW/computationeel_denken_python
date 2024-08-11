@@ -19,4 +19,4 @@ De omtrek van het vierkant is 66.0 cm en de oppervlakte is 272.25 cm².
 
 {: .callout.callout-info}
 >#### Tip
-> Gebruik `int()` of `float()` om de invoer het correcte datatype om te zetten. 
+> Gebruik `int()` of `float()` om de invoer naar het correcte datatype om te zetten. 
