@@ -14,22 +14,22 @@
   - testcases:
     - stdin: "janedoe@student.sintlievenscollege.be\njohndoe\njohndoe@sintlievenscollege.be\n\
         janeddoe\njanedoe@sintlievenscollege.be\njanedoe"
-      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n
+      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n\
         Probeer opnieuw.\nResetlink verstuurd.\n"
   - testcases:
     - stdin: "janedoe@student.sintlievenscollege.be\nJanedoe\njohndoe@sintlievenscollege.be\n\
         janedo\njanedoe@sintlievenscolege.be\nJANE"
-      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n
+      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n\
         Probeer opnieuw.\nEmailadres niet gekend.\n"
   - testcases:
     - stdin: "janedoe@sintlievenscolege.be\njane.doe\njanedoe@sintlievenscolege.be\n\
         JaneDoe\njanedoe@student.sintlievenscollege.be\nJaneDoe"
-      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n
+      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n\
         Probeer opnieuw.\nEmailadres niet gekend.\n"
   - testcases:
     - stdin: "johndoe@sintlievenscollege.be\njane.doe\njohndoe@sintlievenscollege.be\n\
         JANE\njanedoe@sintlievenscolege.be\njanedo"
-      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n
+      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n\
         Probeer opnieuw.\nEmailadres niet gekend.\n"
   - testcases:
     - stdin: "janedoe@sintlievenscolege.be\njohndoe\njanedoe@sintlievenscollege.be\n\
@@ -38,7 +38,7 @@
   - testcases:
     - stdin: "janedoe@sintlievenscolege.com\njohndoe\njanedoe@sintlievenscolege.com\n\
         janedo\njanedoe@student.sintlievenscollege.be\nJaneDoe"
-      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n
+      stdout: "Emailadres niet gekend.\nProbeer opnieuw.\nEmailadres niet gekend.\n\
         Probeer opnieuw.\nEmailadres niet gekend.\n"
   - testcases:
     - stdin: "janedoe@sintlievenscolege.be\njaneddoe\njanedoe@sintlievenscollege.be\n\
