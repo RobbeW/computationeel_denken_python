@@ -2,7 +2,7 @@
   contexts:
   - testcases:
     - stdin: lepel
-      stdout: "True\n"
+      stdout: !boolean(True)
   - testcases:
     - stdin: meetsysteem
       stdout: "True\n"
