@@ -39,4 +39,4 @@ Want 2 yard + 1 feet + 3,01 inch komt overeen met 2,21 m.
 >#### Tips
 > 
 > - Er zijn meerdere oplossingsmethodes mogelijk. Een gemakkelijke manier is om de ingevoerde meters eerst om te rekenen naar inch. Vervolgens met je dit enkel nog verdelen over de feet en de yards.
-> - Een kommagetal geheel maken doe je via `int()`. Zo is `int( 7.0 )` gelijk aan `7`.
+> - Een kommagetal geheel maken doe je via `int()`. Zo is `int(7.0)` gelijk aan `7`.
