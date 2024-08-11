@@ -1,26 +1,14 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '5'
-      stdout: "Het getal is positief.\n"
-  - testcases:
-    - stdin: '0'
-      stdout: "Het getal is positief.\n"
-  - testcases:
-    - stdin: '-3'
+    - stdin: '-9.53'
       stdout: "Het getal is strikt negatief.\n"
   - testcases:
-    - stdin: '-0.0001'
+    - stdin: '-8.46'
       stdout: "Het getal is strikt negatief.\n"
   - testcases:
-    - stdin: '0.0001'
-      stdout: "Het getal is positief.\n"
-  - testcases:
-    - stdin: '4.41'
-      stdout: "Het getal is positief.\n"
-  - testcases:
-    - stdin: '2.66'
-      stdout: "Het getal is positief.\n"
+    - stdin: '-7.02'
+      stdout: "Het getal is strikt negatief.\n"
   - testcases:
     - stdin: '-5.42'
       stdout: "Het getal is strikt negatief.\n"
@@ -28,35 +16,47 @@
     - stdin: '-4.95'
       stdout: "Het getal is strikt negatief.\n"
   - testcases:
-    - stdin: '2.12'
+    - stdin: '-3.29'
+      stdout: "Het getal is strikt negatief.\n"
+  - testcases:
+    - stdin: '-3'
+      stdout: "Het getal is strikt negatief.\n"
+  - testcases:
+    - stdin: '-0.11'
+      stdout: "Het getal is strikt negatief.\n"
+  - testcases:
+    - stdin: '-0.0001'
+      stdout: "Het getal is strikt negatief.\n"
+  - testcases:
+    - stdin: '0'
+      stdout: "Het getal is positief.\n"
+  - testcases:
+    - stdin: '0.0001'
       stdout: "Het getal is positief.\n"
   - testcases:
     - stdin: '1.73'
       stdout: "Het getal is positief.\n"
   - testcases:
-    - stdin: '8.22'
+    - stdin: '2.12'
       stdout: "Het getal is positief.\n"
   - testcases:
-    - stdin: '-8.46'
-      stdout: "Het getal is strikt negatief.\n"
+    - stdin: '2.66'
+      stdout: "Het getal is positief.\n"
   - testcases:
-    - stdin: '-3.29'
-      stdout: "Het getal is strikt negatief.\n"
+    - stdin: '4.41'
+      stdout: "Het getal is positief.\n"
   - testcases:
-    - stdin: '-7.02'
-      stdout: "Het getal is strikt negatief.\n"
+    - stdin: '5'
+      stdout: "Het getal is positief.\n"
+  - testcases:
+    - stdin: '5.39'
+      stdout: "Het getal is positief.\n"
   - testcases:
     - stdin: '6.81'
       stdout: "Het getal is positief.\n"
   - testcases:
-    - stdin: '-9.53'
-      stdout: "Het getal is strikt negatief.\n"
-  - testcases:
-    - stdin: '9.21'
+    - stdin: '8.22'
       stdout: "Het getal is positief.\n"
   - testcases:
-    - stdin: '-0.11'
-      stdout: "Het getal is strikt negatief.\n"
-  - testcases:
-    - stdin: '5.39'
+    - stdin: '9.21'
       stdout: "Het getal is positief.\n"

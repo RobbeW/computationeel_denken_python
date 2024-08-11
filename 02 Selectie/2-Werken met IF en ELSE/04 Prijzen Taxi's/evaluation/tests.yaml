@@ -1,25 +1,25 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '20.0'
+    - stdin: '7.2'
       stdout: "De voordeligste formule is: TAX-B\n"
   - testcases:
-    - stdin: '200.0'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
+    - stdin: '12.3'
+      stdout: "De voordeligste formule is: TAX-B\n"
   - testcases:
-    - stdin: '25.0'
+    - stdin: '19.2'
+      stdout: "De voordeligste formule is: TAX-B\n"
+  - testcases:
+    - stdin: '20.0'
       stdout: "De voordeligste formule is: TAX-B\n"
   - testcases:
     - stdin: '24.9'
       stdout: "De voordeligste formule is: TAX-B\n"
   - testcases:
+    - stdin: '25.0'
+      stdout: "De voordeligste formule is: TAX-B\n"
+  - testcases:
     - stdin: '25.1'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '73.4'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '65.1'
       stdout: "De voordeligste formule is: BXL-TAX\n"
   - testcases:
     - stdin: '26.7'
@@ -28,35 +28,35 @@
     - stdin: '29.0'
       stdout: "De voordeligste formule is: BXL-TAX\n"
   - testcases:
-    - stdin: '62.6'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '60.7'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '91.5'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '12.3'
-      stdout: "De voordeligste formule is: TAX-B\n"
-  - testcases:
     - stdin: '36.9'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '19.2'
-      stdout: "De voordeligste formule is: TAX-B\n"
-  - testcases:
-    - stdin: '84.8'
-      stdout: "De voordeligste formule is: BXL-TAX\n"
-  - testcases:
-    - stdin: '7.2'
-      stdout: "De voordeligste formule is: TAX-B\n"
-  - testcases:
-    - stdin: '96.2'
       stdout: "De voordeligste formule is: BXL-TAX\n"
   - testcases:
     - stdin: '52.0'
       stdout: "De voordeligste formule is: BXL-TAX\n"
   - testcases:
+    - stdin: '60.7'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '62.6'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '65.1'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '73.4'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
     - stdin: '78.1'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '84.8'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '91.5'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '96.2'
+      stdout: "De voordeligste formule is: BXL-TAX\n"
+  - testcases:
+    - stdin: '200.0'
       stdout: "De voordeligste formule is: BXL-TAX\n"

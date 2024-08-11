@@ -40,7 +40,7 @@ while len(cases) < ntests:
     a = (bedrag + 4)*100
     if ceil(a) == floor(a) and (bedrag,) not in cases:
         cases.append( (bedrag, ) )
-    
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 

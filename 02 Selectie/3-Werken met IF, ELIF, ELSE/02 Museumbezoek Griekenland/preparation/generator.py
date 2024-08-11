@@ -41,7 +41,18 @@ belgian_forenames = [
 ]
 
 # Generate a list of tuples with each name and a random age between 18 and 80
-cases = [(name, random.randint(18, 80)) for name in belgian_forenames]
+unsorted = [(name, random.randint(18, 80)) for name in belgian_forenames]
+
+cases = [unsorted[0]]
+for i in range(1,len(unsorted)):
+    unsort = unsorted[i]
+    for j in range(len(cases)):
+        case = cases[j]
+        if unsort[1] <= case[1]:
+            cases.insert(j, unsort)
+            break
+    if unsort not in cases:
+        cases.append(unsort)
     
 # generate unit tests for functions
 yamldata = []
