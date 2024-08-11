@@ -4,20 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Extra Oefening - Oneven Vermenigvuldigingen",
-      "en": "For i in Range - Extra Exercise - Uneven Multiplications"
+      "nl": "Game rank"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert",
-    "Python in de Klas",
-    "AI in de Klas"
+    "for",
+    "tekst"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "PcEWCFswPar_58THiAqzEgAn7K-9WRxqu-KpnrPcTit3x7nMgsGX9N6z3r3XJcXu",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
