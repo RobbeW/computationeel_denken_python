@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Afronden tot X Cijfers - De schrijnwerkerij",
-      "en": "Rounding Numbers - The lumbermill"
+      "nl": "De schrijnwerkerij"
     }
   },
   "evaluation": {
@@ -13,7 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-
+    "sequentie",
+    "round()"
   ],
   "internals": {
     "token": "yPbQQHiS2KBq7_FhYxqrue3kTgStiieGfv_VVg5gIS4YxNn5FqgMfE7ghqc8h_v8",

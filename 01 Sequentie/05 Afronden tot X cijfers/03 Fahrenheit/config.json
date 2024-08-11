@@ -7,11 +7,12 @@
   },
   "description": {
     "names": {
-      "nl": "Afronden tot X Cijfers - Fahrenheit"
+      "nl": "Fahrenheit"
     }
   },
   "labels": [
-
+    "sequentie",
+    "round()"
   ],
   "access": "public",
   "internals": {

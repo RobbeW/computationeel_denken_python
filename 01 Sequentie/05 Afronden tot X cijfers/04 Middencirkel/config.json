@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Afronden tot X Cijfers - Middencirkel"
+      "nl": "Middencirkel"
     }
   },
   "evaluation": {
@@ -12,7 +12,8 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-
+    "sequentie",
+    "round()"
   ],
   "internals": {
     "token": "qcZSVDHRyEG3CKAQQE2sx8hq7ZYTCpsHe99s_vZeeZjcKbVXzz_yz5DR9IE6C4nY",
