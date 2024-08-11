@@ -1,0 +1,92 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: PPP
+      stdout: "9\n"
+  - testcases:
+    - stdin: TTPST
+      stdout: "18\n"
+  - testcases:
+    - stdin: STPSSP
+      stdout: "21\n"
+  - testcases:
+    - stdin: TTPPSS
+      stdout: "26\n"
+  - testcases:
+    - stdin: PPTPSPSP
+      stdout: "37\n"
+  - testcases:
+    - stdin: PPPTPTPS
+      stdout: "37\n"
+  - testcases:
+    - stdin: PSSSSTSSPP
+      stdout: "53\n"
+  - testcases:
+    - stdin: PPPPPSPSPSPSPP
+      stdout: "116\n"
+  - testcases:
+    - stdin: STPTPPPSPPSPSTP
+      stdout: "110\n"
+  - testcases:
+    - stdin: TPTTPPPPTTTTPPPPTT
+      stdout: "162\n"
+  - testcases:
+    - stdin: TTTSSTSSTTTPTTSTPSPS
+      stdout: "179\n"
+  - testcases:
+    - stdin: SSSPPPPPSPSPPTSSPPPS
+      stdout: "193\n"
+  - testcases:
+    - stdin: SSTTTTSTTSTSSSTTSTTSTSTST
+      stdout: "317\n"
+  - testcases:
+    - stdin: PSSSPTPPPPPSSPPPTPPSTPSSPSTPP
+      stdout: "381\n"
+  - testcases:
+    - stdin: PTSPSSSTSSPTSSTSPTSSPPSSTPSTT
+      stdout: "358\n"
+  - testcases:
+    - stdin: PPPPPSSPPTSSPSSPSPPPPSPSPPSTSP
+      stdout: "428\n"
+  - testcases:
+    - stdin: PSSSSSTTSPSSSSSSTSTPSPSPPPTPSTSPSS
+      stdout: "520\n"
+  - testcases:
+    - stdin: TPTTTPPTTTTTTTTPPTPTTPTTTTTPTTTTTTP
+      stdout: "757\n"
+  - testcases:
+    - stdin: SSSPPSSPSPSPTPPTPSPSSTSTTTTSTSPPSPPSTT
+      stdout: "564\n"
+  - testcases:
+    - stdin: TTPSSPSTSTSSTPTTPSSTTPSTTPPSTPSTTTSTSSP
+      stdout: "596\n"
+  - testcases:
+    - stdin: PTSTTPPPPPTPTTPPPTTTPPPPPTPTPTPPTTPTPPP
+      stdout: "762\n"
+  - testcases:
+    - stdin: STPPTTTPPPSTTPPTTTTPPPSTSTTTTTTSSTSTTTSPTP
+      stdout: "748\n"
+  - testcases:
+    - stdin: PSPPPPSPPPTPPPTPPPSTPPPSPPPPPPPPPSPPPPSPSP
+      stdout: "1103\n"
+  - testcases:
+    - stdin: SPPPPSPTTTPPTSPSSPSSSTSSPSSPSSPSSTSTSPSSSSSS
+      stdout: "843\n"
+  - testcases:
+    - stdin: TPTSSPPSPSTSSSPPPSSPSSPSSPPSPSSSSPTSPSTSPSSS
+      stdout: "861\n"
+  - testcases:
+    - stdin: SSTSSSSSSSSSSSSTSSSSSTSSTSSSSSTSSSTSSSSSTTTS
+      stdout: "1306\n"
+  - testcases:
+    - stdin: STPTTSTTTSSTSSPPSSSPTSTTPSSSTSPSTTSSTTSSTSTPP
+      stdout: "809\n"
+  - testcases:
+    - stdin: PTTTTPPPPPSTPPTTPTTPTPPPPTPTTTSTTPTTPTPTTPTTT
+      stdout: "955\n"
+  - testcases:
+    - stdin: SSTSTTSSSSSSTTSSTSPTSTPSSSTSSSPSSSSSTSTTTSSSTSSS
+      stdout: "1187\n"
+  - testcases:
+    - stdin: SSSSSPSPSSTSPSSTPPPTSSSPPTPSPPSPTSPPSPSSSTPSSTPPP
+      stdout: "988\n"

@@ -4,18 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Toetsvraag 4 - Ken jij het kwadraat van ...?",
-      "en": "For i in Range - Test Exercise 4 - Do you know the square of ...?"
+      "nl": "7 Wonders"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "for",
+    "tekst"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "NgrrrmUdCbaCVwuWFJYjmQvEJB5JdNDUsgnvc3MtEQxJTx497JPxmd2qgNe3P72A",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
