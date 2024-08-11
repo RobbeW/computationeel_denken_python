@@ -45,7 +45,7 @@ while len(cases) < ntests:
     else:
         getal = random.randint(10**(2*exp -1),10**(2*exp))
         cases.append( (getal, ) )
-
+cases.sort()
 
 # generate unit tests for functions
 yamldata = []

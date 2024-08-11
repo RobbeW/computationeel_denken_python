@@ -13,37 +13,16 @@
     - stdin: '28'
       stdout: "De som van de echte delers is: 28\nDit getal is perfect.\n"
   - testcases:
-    - stdin: '945'
-      stdout: "De som van de echte delers is: 975\nDit getal is overvloedig.\n"
-  - testcases:
-    - stdin: '496'
-      stdout: "De som van de echte delers is: 496\nDit getal is perfect.\n"
-  - testcases:
-    - stdin: '371'
-      stdout: "De som van de echte delers is: 61\nDit getal is gebrekkig.\n"
-  - testcases:
     - stdin: '54'
       stdout: "De som van de echte delers is: 66\nDit getal is overvloedig.\n"
-  - testcases:
-    - stdin: '327'
-      stdout: "De som van de echte delers is: 113\nDit getal is gebrekkig.\n"
-  - testcases:
-    - stdin: '304'
-      stdout: "De som van de echte delers is: 316\nDit getal is overvloedig.\n"
   - testcases:
     - stdin: '120'
       stdout: "De som van de echte delers is: 240\nDit getal is overvloedig.\n"
   - testcases:
-    - stdin: '392'
-      stdout: "De som van de echte delers is: 463\nDit getal is overvloedig.\n"
-  - testcases:
     - stdin: '132'
       stdout: "De som van de echte delers is: 204\nDit getal is overvloedig.\n"
   - testcases:
-    - stdin: '399'
-      stdout: "De som van de echte delers is: 241\nDit getal is gebrekkig.\n"
-  - testcases:
-    - stdin: '313'
+    - stdin: '263'
       stdout: "De som van de echte delers is: 1\nDit getal is gebrekkig.\n"
   - testcases:
     - stdin: '266'
@@ -52,11 +31,32 @@
     - stdin: '303'
       stdout: "De som van de echte delers is: 105\nDit getal is gebrekkig.\n"
   - testcases:
+    - stdin: '304'
+      stdout: "De som van de echte delers is: 316\nDit getal is overvloedig.\n"
+  - testcases:
+    - stdin: '313'
+      stdout: "De som van de echte delers is: 1\nDit getal is gebrekkig.\n"
+  - testcases:
+    - stdin: '327'
+      stdout: "De som van de echte delers is: 113\nDit getal is gebrekkig.\n"
+  - testcases:
+    - stdin: '371'
+      stdout: "De som van de echte delers is: 61\nDit getal is gebrekkig.\n"
+  - testcases:
     - stdin: '377'
       stdout: "De som van de echte delers is: 43\nDit getal is gebrekkig.\n"
+  - testcases:
+    - stdin: '392'
+      stdout: "De som van de echte delers is: 463\nDit getal is overvloedig.\n"
+  - testcases:
+    - stdin: '399'
+      stdout: "De som van de echte delers is: 241\nDit getal is gebrekkig.\n"
   - testcases:
     - stdin: '469'
       stdout: "De som van de echte delers is: 75\nDit getal is gebrekkig.\n"
   - testcases:
-    - stdin: '263'
-      stdout: "De som van de echte delers is: 1\nDit getal is gebrekkig.\n"
+    - stdin: '496'
+      stdout: "De som van de echte delers is: 496\nDit getal is perfect.\n"
+  - testcases:
+    - stdin: '945'
+      stdout: "De som van de echte delers is: 975\nDit getal is overvloedig.\n"

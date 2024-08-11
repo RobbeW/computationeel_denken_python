@@ -10,32 +10,23 @@
     - stdin: '15'
       stdout: "15 is niet priem.\n"
   - testcases:
-    - stdin: '371'
-      stdout: "371 is niet priem.\n"
+    - stdin: '42'
+      stdout: "42 is niet priem.\n"
   - testcases:
     - stdin: '54'
       stdout: "54 is niet priem.\n"
   - testcases:
-    - stdin: '327'
-      stdout: "327 is niet priem.\n"
-  - testcases:
-    - stdin: '304'
-      stdout: "304 is niet priem.\n"
-  - testcases:
     - stdin: '120'
       stdout: "120 is niet priem.\n"
-  - testcases:
-    - stdin: '392'
-      stdout: "392 is niet priem.\n"
   - testcases:
     - stdin: '132'
       stdout: "132 is niet priem.\n"
   - testcases:
-    - stdin: '399'
-      stdout: "399 is niet priem.\n"
+    - stdin: '174'
+      stdout: "174 is niet priem.\n"
   - testcases:
-    - stdin: '313'
-      stdout: "313 is priem.\n"
+    - stdin: '263'
+      stdout: "263 is priem.\n"
   - testcases:
     - stdin: '266'
       stdout: "266 is niet priem.\n"
@@ -43,20 +34,29 @@
     - stdin: '303'
       stdout: "303 is niet priem.\n"
   - testcases:
+    - stdin: '304'
+      stdout: "304 is niet priem.\n"
+  - testcases:
+    - stdin: '313'
+      stdout: "313 is priem.\n"
+  - testcases:
+    - stdin: '327'
+      stdout: "327 is niet priem.\n"
+  - testcases:
+    - stdin: '371'
+      stdout: "371 is niet priem.\n"
+  - testcases:
     - stdin: '377'
       stdout: "377 is niet priem.\n"
   - testcases:
-    - stdin: '469'
-      stdout: "469 is niet priem.\n"
-  - testcases:
-    - stdin: '263'
-      stdout: "263 is priem.\n"
-  - testcases:
-    - stdin: '42'
-      stdout: "42 is niet priem.\n"
+    - stdin: '392'
+      stdout: "392 is niet priem.\n"
   - testcases:
     - stdin: '394'
       stdout: "394 is niet priem.\n"
   - testcases:
-    - stdin: '174'
-      stdout: "174 is niet priem.\n"
+    - stdin: '399'
+      stdout: "399 is niet priem.\n"
+  - testcases:
+    - stdin: '469'
+      stdout: "469 is niet priem.\n"

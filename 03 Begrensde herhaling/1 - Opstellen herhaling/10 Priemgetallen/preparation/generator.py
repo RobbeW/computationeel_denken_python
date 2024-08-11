@@ -41,6 +41,7 @@ while len(cases) < ntests:
 
 cases.append( (10000,) )
 
+cases.sort()
 # generate unit tests for functions
 yamldata = []
 
