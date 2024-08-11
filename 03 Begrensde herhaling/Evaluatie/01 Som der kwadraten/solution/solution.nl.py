@@ -6,5 +6,4 @@ for i in range (1, n+1):
     som_kwadraten += i**2
 
 # Print de som van de kwadraten op het scherm
-print()
 print("De som van de kwadraten van 1 tot en met", n, "is", som_kwadraten)

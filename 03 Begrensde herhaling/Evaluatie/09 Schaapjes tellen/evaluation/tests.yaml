@@ -1,0 +1,126 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '1'
+      stdout: "1 schaap\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n"
+  - testcases:
+    - stdin: '25'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n"
+  - testcases:
+    - stdin: '26'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n"
+  - testcases:
+    - stdin: '27'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n"
+  - testcases:
+    - stdin: '34'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n"
+  - testcases:
+    - stdin: '35'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n"
+  - testcases:
+    - stdin: '36'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n36 schapen\n"
+  - testcases:
+    - stdin: '38'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n36 schapen\n37 schapen\n38 schapen\n"
+  - testcases:
+    - stdin: '41'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n36 schapen\n37 schapen\n38 schapen\n39 schapen\n
+        40 schapen\n41 schapen\n"
+  - testcases:
+    - stdin: '42'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n36 schapen\n37 schapen\n38 schapen\n39 schapen\n
+        40 schapen\n41 schapen\n42 schapen\n"
+  - testcases:
+    - stdin: '44'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n36 schapen\n37 schapen\n38 schapen\n39 schapen\n
+        40 schapen\n41 schapen\n42 schapen\n43 schapen\n44 schapen\n"
+  - testcases:
+    - stdin: '50'
+      stdout: "1 schaap\n2 schapen\n3 schapen\n4 schapen\n5 schapen\n6 schapen\n7
+        schapen\n8 schapen\n9 schapen\n10 schapen\n11 schapen\n12 schapen\n13 schapen\n
+        14 schapen\n15 schapen\n16 schapen\n17 schapen\n18 schapen\n19 schapen\n20
+        schapen\n21 schapen\n22 schapen\n23 schapen\n24 schapen\n25 schapen\n26 schapen\n
+        27 schapen\n28 schapen\n29 schapen\n30 schapen\n31 schapen\n32 schapen\n33
+        schapen\n34 schapen\n35 schapen\n36 schapen\n37 schapen\n38 schapen\n39 schapen\n
+        40 schapen\n41 schapen\n42 schapen\n43 schapen\n44 schapen\n45 schapen\n46
+        schapen\n47 schapen\n48 schapen\n49 schapen\n50 schapen\n"

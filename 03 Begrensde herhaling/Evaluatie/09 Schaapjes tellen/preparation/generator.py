@@ -38,8 +38,10 @@ cases = [(5,),(1,),(20,)]
 
 while len( cases ) < ntests:
     n = random.randint(4,50)
-    cases.append( (n, ) )
-    
+    if (n,) not in cases:
+        cases.append( (n, ) )
+
+cases.sort()
     
     
 # generate unit tests for functions

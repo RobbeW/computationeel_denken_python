@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '1'
+      stdout: De som van de kwadraten van 1 tot en met 1 is 1
+  - testcases:
+    - stdin: '3'
+      stdout: De som van de kwadraten van 1 tot en met 3 is 14
+  - testcases:
+    - stdin: '5'
+      stdout: De som van de kwadraten van 1 tot en met 5 is 55
+  - testcases:
+    - stdin: '7'
+      stdout: De som van de kwadraten van 1 tot en met 7 is 140
+  - testcases:
+    - stdin: '10'
+      stdout: De som van de kwadraten van 1 tot en met 10 is 385
+  - testcases:
+    - stdin: '12'
+      stdout: De som van de kwadraten van 1 tot en met 12 is 650
+  - testcases:
+    - stdin: '13'
+      stdout: De som van de kwadraten van 1 tot en met 13 is 819
+  - testcases:
+    - stdin: '15'
+      stdout: De som van de kwadraten van 1 tot en met 15 is 1240
+  - testcases:
+    - stdin: '19'
+      stdout: De som van de kwadraten van 1 tot en met 19 is 2470
+  - testcases:
+    - stdin: '20'
+      stdout: De som van de kwadraten van 1 tot en met 20 is 2870
+  - testcases:
+    - stdin: '22'
+      stdout: De som van de kwadraten van 1 tot en met 22 is 3795
+  - testcases:
+    - stdin: '27'
+      stdout: De som van de kwadraten van 1 tot en met 27 is 6930
+  - testcases:
+    - stdin: '28'
+      stdout: De som van de kwadraten van 1 tot en met 28 is 7714
+  - testcases:
+    - stdin: '37'
+      stdout: De som van de kwadraten van 1 tot en met 37 is 17575
+  - testcases:
+    - stdin: '38'
+      stdout: De som van de kwadraten van 1 tot en met 38 is 19019
+  - testcases:
+    - stdin: '38'
+      stdout: De som van de kwadraten van 1 tot en met 38 is 19019
+  - testcases:
+    - stdin: '43'
+      stdout: De som van de kwadraten van 1 tot en met 43 is 27434
+  - testcases:
+    - stdin: '43'
+      stdout: De som van de kwadraten van 1 tot en met 43 is 27434
+  - testcases:
+    - stdin: '44'
+      stdout: De som van de kwadraten van 1 tot en met 44 is 29370
+  - testcases:
+    - stdin: '46'
+      stdout: De som van de kwadraten van 1 tot en met 46 is 33511
