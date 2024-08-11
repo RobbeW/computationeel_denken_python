@@ -31,14 +31,19 @@ spec = importlib.util.spec_from_file_location(module_name, file_path)
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
-# generate test data
-ntests= 20
-cases = [(0.326,),]
+# Unit tests
+ntests = 20
+cases = [ (16.5,) ]
 while len(cases) < ntests:
-    V = round( random.uniform(0.3, 1.4), 3)
-    I = V / ( 8 * 0.05 )
-    if (V,) not in cases and round(I, 3) == I:
-        cases.append( (V,) )
+    z = round(random.uniform(5,50), 2)
+    
+    A = (z * z)
+    O = 4 * z
+    
+    case = (z, )
+    if  round(A,2) == A and round(O, 2) == O:
+        if case not in cases:
+            cases.append(case)
 
 # generate unit tests for functions
 yamldata = []
@@ -72,7 +77,7 @@ for i in range(len(cases)):
     
     outputtxt = ""
     for line in result_lines:
-        if not(line.startswith( 'Geef' ) or line.startswith( 'Hoeveel' )):
+        if not(line.startswith( 'Geef' ) or line.startswith( 'Voer' )):
             print(line)
             outputtxt += line + "\n"
             

@@ -1,16 +1,18 @@
 {
   "type": "exercise",
   "programming_language": "python",
-  "evaluation": {
-    "pythia_judge": "output"
-  },
   "description": {
     "names": {
-      "nl": "Concateneren - Stappenteller"
+      "nl": "Stappenteller"
     }
   },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
   "labels": [
-
+    "sequentie",
+    "concatenatie"
   ],
   "access": "public",
   "internals": {

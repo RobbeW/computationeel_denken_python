@@ -6,5 +6,4 @@ oppervlakte = zijde * zijde
 omtrek = 4 * zijde
 
 # Print de oppervlakte en omtrek van het vierkant
-print("De omtrek van het vierkant is", omtrek, "centimeter.")
-print("De oppervlakte van het vierkant is", oppervlakte, "vierkante centimeter.")
+print(f"De omtrek van het vierkant is {omtrek} cm en de oppervlakte is {oppervlakte} cm².")

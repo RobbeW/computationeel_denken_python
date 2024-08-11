@@ -11,10 +11,10 @@ Per definitie is een vierkant een rechthoek met 4 even lange zijden. Ook hiervan
 
 #### Voorbeeld
 
-Voor een vierkant met zijde van `16.42` cm verschijnt er:
+Voor een vierkant met zijde van `16.5` cm verschijnt er:
 
 ```
-De omtrek van het vierkant is 65.68 cm en de oppervlakte is 269.61640000000006 cm².
+De omtrek van het vierkant is 66.0 cm en de oppervlakte is 272.25 cm².
 ```
 
 {: .callout.callout-info}

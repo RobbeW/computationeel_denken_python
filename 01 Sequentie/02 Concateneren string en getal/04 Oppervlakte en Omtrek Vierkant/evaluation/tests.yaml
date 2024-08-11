@@ -1,0 +1,69 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '16.5'
+      stdout: "De omtrek van het vierkant is 66.0 cm en de oppervlakte is 272.25 cm².\n"
+  - testcases:
+    - stdin: '46.0'
+      stdout: "De omtrek van het vierkant is 184.0 cm en de oppervlakte is 2116.0
+        cm².\n"
+  - testcases:
+    - stdin: '22.2'
+      stdout: "De omtrek van het vierkant is 88.8 cm en de oppervlakte is 492.84 cm².\n"
+  - testcases:
+    - stdin: '11.5'
+      stdout: "De omtrek van het vierkant is 46.0 cm en de oppervlakte is 132.25 cm².\n"
+  - testcases:
+    - stdin: '9.6'
+      stdout: "De omtrek van het vierkant is 38.4 cm en de oppervlakte is 92.16 cm².\n"
+  - testcases:
+    - stdin: '22.8'
+      stdout: "De omtrek van het vierkant is 91.2 cm en de oppervlakte is 519.84 cm².\n"
+  - testcases:
+    - stdin: '14.0'
+      stdout: "De omtrek van het vierkant is 56.0 cm en de oppervlakte is 196.0 cm².\n"
+  - testcases:
+    - stdin: '46.1'
+      stdout: "De omtrek van het vierkant is 184.4 cm en de oppervlakte is 2125.21
+        cm².\n"
+  - testcases:
+    - stdin: '38.6'
+      stdout: "De omtrek van het vierkant is 154.4 cm en de oppervlakte is 1489.96
+        cm².\n"
+  - testcases:
+    - stdin: '43.5'
+      stdout: "De omtrek van het vierkant is 174.0 cm en de oppervlakte is 1892.25
+        cm².\n"
+  - testcases:
+    - stdin: '6.5'
+      stdout: "De omtrek van het vierkant is 26.0 cm en de oppervlakte is 42.25 cm².\n"
+  - testcases:
+    - stdin: '26.0'
+      stdout: "De omtrek van het vierkant is 104.0 cm en de oppervlakte is 676.0 cm².\n"
+  - testcases:
+    - stdin: '15.2'
+      stdout: "De omtrek van het vierkant is 60.8 cm en de oppervlakte is 231.04 cm².\n"
+  - testcases:
+    - stdin: '34.4'
+      stdout: "De omtrek van het vierkant is 137.6 cm en de oppervlakte is 1183.36
+        cm².\n"
+  - testcases:
+    - stdin: '13.4'
+      stdout: "De omtrek van het vierkant is 53.6 cm en de oppervlakte is 179.56 cm².\n"
+  - testcases:
+    - stdin: '29.0'
+      stdout: "De omtrek van het vierkant is 116.0 cm en de oppervlakte is 841.0 cm².\n"
+  - testcases:
+    - stdin: '8.2'
+      stdout: "De omtrek van het vierkant is 32.8 cm en de oppervlakte is 67.24 cm².\n"
+  - testcases:
+    - stdin: '23.5'
+      stdout: "De omtrek van het vierkant is 94.0 cm en de oppervlakte is 552.25 cm².\n"
+  - testcases:
+    - stdin: '30.7'
+      stdout: "De omtrek van het vierkant is 122.8 cm en de oppervlakte is 942.49
+        cm².\n"
+  - testcases:
+    - stdin: '46.2'
+      stdout: "De omtrek van het vierkant is 184.8 cm en de oppervlakte is 2134.44
+        cm².\n"

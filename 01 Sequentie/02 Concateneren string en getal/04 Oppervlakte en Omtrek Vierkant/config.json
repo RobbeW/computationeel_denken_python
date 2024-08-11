@@ -1,15 +1,16 @@
 {
   "description": {
     "names": {
-      "nl": "Concateneren - Oppervlakte en omtrek vierkant"
+      "nl": "Oppervlakte en omtrek vierkant"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "Python",
-    "Robbe Wulgaert"
+    "sequentie",
+    "concatenatie"
   ],
   "access": "public",
   "internals": {

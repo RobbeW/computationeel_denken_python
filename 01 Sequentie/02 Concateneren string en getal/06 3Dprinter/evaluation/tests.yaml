@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '0.326'
+      stdout: "De stroomsterkte is 0.815 Ampère.\n"
+  - testcases:
+    - stdin: '1.092'
+      stdout: "De stroomsterkte is 2.73 Ampère.\n"
+  - testcases:
+    - stdin: '1.302'
+      stdout: "De stroomsterkte is 3.255 Ampère.\n"
+  - testcases:
+    - stdin: '0.464'
+      stdout: "De stroomsterkte is 1.16 Ampère.\n"
+  - testcases:
+    - stdin: '0.844'
+      stdout: "De stroomsterkte is 2.11 Ampère.\n"
+  - testcases:
+    - stdin: '0.904'
+      stdout: "De stroomsterkte is 2.26 Ampère.\n"
+  - testcases:
+    - stdin: '0.602'
+      stdout: "De stroomsterkte is 1.505 Ampère.\n"
+  - testcases:
+    - stdin: '0.438'
+      stdout: "De stroomsterkte is 1.095 Ampère.\n"
+  - testcases:
+    - stdin: '1.266'
+      stdout: "De stroomsterkte is 3.165 Ampère.\n"
+  - testcases:
+    - stdin: '1.124'
+      stdout: "De stroomsterkte is 2.81 Ampère.\n"
+  - testcases:
+    - stdin: '0.71'
+      stdout: "De stroomsterkte is 1.775 Ampère.\n"
+  - testcases:
+    - stdin: '0.528'
+      stdout: "De stroomsterkte is 1.32 Ampère.\n"
+  - testcases:
+    - stdin: '0.734'
+      stdout: "De stroomsterkte is 1.835 Ampère.\n"
+  - testcases:
+    - stdin: '1.25'
+      stdout: "De stroomsterkte is 3.125 Ampère.\n"
+  - testcases:
+    - stdin: '0.81'
+      stdout: "De stroomsterkte is 2.025 Ampère.\n"
+  - testcases:
+    - stdin: '1.058'
+      stdout: "De stroomsterkte is 2.645 Ampère.\n"
+  - testcases:
+    - stdin: '0.52'
+      stdout: "De stroomsterkte is 1.3 Ampère.\n"
+  - testcases:
+    - stdin: '0.772'
+      stdout: "De stroomsterkte is 1.93 Ampère.\n"
+  - testcases:
+    - stdin: '0.898'
+      stdout: "De stroomsterkte is 2.245 Ampère.\n"
+  - testcases:
+    - stdin: '1.01'
+      stdout: "De stroomsterkte is 2.525 Ampère.\n"

@@ -1,14 +1,16 @@
 {
   "description": {
     "names": {
-      "nl": "Concateneren - 3D-printer"
+      "nl": "3D-printer"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "Python"
+    "sequentie",
+    "concatenatie"
   ],
   "access": "public",
   "internals": {

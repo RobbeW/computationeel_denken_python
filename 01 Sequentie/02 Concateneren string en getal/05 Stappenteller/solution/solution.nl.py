@@ -1,5 +1,5 @@
 aantalStappen = int( input( 'Hoeveel stappen heb je vandaag reeds gezet? ' ) )
 
-teDoen = 10000 - aantalStappen
+te_doen = 10000 - aantalStappen
 
-print('Je dient nog {} stappen te zetten.'.format( teDoen ) )
+print(f"Je dient nog {te_doen} stappen te zetten." )
