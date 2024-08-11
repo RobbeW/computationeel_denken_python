@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Cilinder"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "import math"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "wKMdFs3ZxTmeD2RpDgsYDGscWVxkZa3JKc9VRpZMBJKKqkbfDuHNAPX9paw8m4qr",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

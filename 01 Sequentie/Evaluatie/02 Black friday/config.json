@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Black Friday"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "gqc52-d8G326cdess6d9jRtmZBrxgfGAJf9Et55CjDS8iSX2NH2WYw8h9WA2_2rA",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

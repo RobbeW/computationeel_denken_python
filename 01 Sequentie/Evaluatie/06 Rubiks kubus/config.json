@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Rubiks kubus"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "3q6wJ4eKqDIXvsuCbRgsEGPt6yURRYMeiMEPz5g-4TNCTCKGg9725zIcKg5a9xKC",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

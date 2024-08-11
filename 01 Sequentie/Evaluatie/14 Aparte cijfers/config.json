@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Aparte cijfers"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "cq9ddgy7Da7X-i_-69MFHisCxPPCAYUGmqDiHgH4gIPqDPxpCnDsp7AczWifTkhk",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

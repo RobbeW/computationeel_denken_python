@@ -1,0 +1,24 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Vierkanten in de Oudheid"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "import math"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "YIJknU8YSm-vxA5hh25pRMVwi5Pu-GUj7zimp7FsV_dckVnf4UJKXKKfV4Jf8U2e",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

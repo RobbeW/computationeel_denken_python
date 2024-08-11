@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Digitale klok"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "2v9tphJpXWn_urErnBfUfeehn87vCMcXA3Y_D5iDPyiHYuErqCFjW6VAzcHjX2v8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

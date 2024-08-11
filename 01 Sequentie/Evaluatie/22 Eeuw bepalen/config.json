@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Eeuw bepalen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "JxWcjBBGbKgGCgvBFkR9hW8zihqnVrt2VvbAx8ksEEM8ShmcZMTWf4KhXkyyqJZY",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

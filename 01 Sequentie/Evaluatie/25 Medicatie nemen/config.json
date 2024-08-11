@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Medicatie nemen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "RJAm8tksENcm-pVjdMnZ8sivmPrm_mNyXgJeg6nXNhbA6I_GR8bSZKrbtbgSz2_y",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

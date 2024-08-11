@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Stardate"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "vG2z-5JeGihQ8QZVqvcKzgEP2R4TGR6UBvWRvB65k7edK7HdmFbVCPyXdWzr5VBE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

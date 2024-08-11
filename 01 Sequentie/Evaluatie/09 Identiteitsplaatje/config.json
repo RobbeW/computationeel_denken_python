@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Identiteitsplaatje"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "concatenatie"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "D8UvcSsmqYwUSXdujg7h53Ed3ZvDICMc_fX_fcHiHizCQcVmGkHjiPwzMpvyMSNV",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

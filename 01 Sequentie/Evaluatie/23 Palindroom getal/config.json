@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Palindroomgetal"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "5X8mCIjrp7KsZekyTnqEAPKSCm5un4h7etTi2J8WX5UiTGTxrzRihVZUt4-6wGzF",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

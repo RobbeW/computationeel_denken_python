@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Brandende kaars"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "63iD6SRuaCwrMTCT87gU6KhXE8nSfWamIYX2Xj2QgWeMz9NGF9Y4Tz43s7xrAdTV",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

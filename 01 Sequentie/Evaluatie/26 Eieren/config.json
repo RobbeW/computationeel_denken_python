@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Eieren"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "evaluatie",
+    "sequentie",
+    "modulo"
+  ],
+  "access": "public",
+  "internals": {
+    "token": "SCNJHJuCtPtXYCCSQ6T4yjBcDTAT6xPgaUjBkdTnYjeHwiBCXfNkCegAYKJdezW3",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
