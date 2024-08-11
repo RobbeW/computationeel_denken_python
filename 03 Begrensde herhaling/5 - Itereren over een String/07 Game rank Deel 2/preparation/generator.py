@@ -34,13 +34,16 @@ spec.loader.exec_module(module)
 # generate test data
 ntests = 30
 opties = ["W", "L"]
-cases = [("WWWWWLWW",), ("LLLWWLWW",), ("LLLLLLWWLWW", ), ("WWLWLLWLLL",)]
-while len(cases) < ntests:
+cases_u = [("WWWWWLWW",), ("LLLWWLWW",), ("LLLLLLWWLWW", ), ("WWLWLLWLLL",)]
+while len(cases_u) < ntests:
     e = random.randint(1,6)
     k = random.randint(10**(e-1), 10**e)
     p = round(random.uniform(0,1), 2)
     case = "".join(random.choices(opties, k = k, weights=(p,1-p)))
-    cases.append( (case,))
+    cases_u.append( (case,))
+
+
+cases = sorted(cases_u, key=lambda x: len(x[0]))
 
 # generate unit tests for functions
 yamldata = []
