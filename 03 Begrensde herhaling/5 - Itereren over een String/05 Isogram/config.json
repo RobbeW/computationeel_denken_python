@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Isogram"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "for",
+    "tekst"
+  ],
+  "internals": {
+    "token": "PcEWCFswPar_58THiAqzEgAn7K-9WRxqu-KpnrPcTit3x7nMgsGX9N6z3r3XJcXu",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

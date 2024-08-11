@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: hond
+      stdout: "True\n"
+  - testcases:
+    - stdin: verantwoordelijkheid
+      stdout: "False\n"
+  - testcases:
+    - stdin: herinnering
+      stdout: "False\n"
+  - testcases:
+    - stdin: professionele
+      stdout: "False\n"
+  - testcases:
+    - stdin: herstellingswerkzaamheden
+      stdout: "False\n"
+  - testcases:
+    - stdin: bibliotheek
+      stdout: "False\n"
+  - testcases:
+    - stdin: drinkfles
+      stdout: "True\n"
+  - testcases:
+    - stdin: dampkringslucht
+      stdout: "True\n"
+  - testcases:
+    - stdin: onderwijsinstellingen
+      stdout: "False\n"
+  - testcases:
+    - stdin: afkomst
+      stdout: "True\n"
+  - testcases:
+    - stdin: televisieschermen
+      stdout: "False\n"
+  - testcases:
+    - stdin: onafhankelijkheid
+      stdout: "False\n"
+  - testcases:
+    - stdin: blijf
+      stdout: "True\n"
+  - testcases:
+    - stdin: kamp
+      stdout: "True\n"
+  - testcases:
+    - stdin: verschrikkingen
+      stdout: "False\n"
+  - testcases:
+    - stdin: filmproducent
+      stdout: "True\n"
+  - testcases:
+    - stdin: plafond
+      stdout: "True\n"
+  - testcases:
+    - stdin: net
+      stdout: "True\n"
+  - testcases:
+    - stdin: landbouwgeschrift
+      stdout: "True\n"
+  - testcases:
+    - stdin: gras
+      stdout: "True\n"
