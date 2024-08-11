@@ -1,0 +1,59 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: zaaiingen
+      stdout: "2\n"
+  - testcases:
+    - stdin: aaiingen
+      stdout: "2\n"
+  - testcases:
+    - stdin: boaasiel
+      stdout: "1\n"
+  - testcases:
+    - stdin: woord
+      stdout: "1\n"
+  - testcases:
+    - stdin: oogheelkunde
+      stdout: "2\n"
+  - testcases:
+    - stdin: bioaccumuleer
+      stdout: "1\n"
+  - testcases:
+    - stdin: voordoen
+      stdout: "1\n"
+  - testcases:
+    - stdin: geologie
+      stdout: "0\n"
+  - testcases:
+    - stdin: meeuwenjacht
+      stdout: "1\n"
+  - testcases:
+    - stdin: aambeien
+      stdout: "1\n"
+  - testcases:
+    - stdin: aambeeld
+      stdout: "2\n"
+  - testcases:
+    - stdin: zeeoever
+      stdout: "1\n"
+  - testcases:
+    - stdin: zaagmachinebediener
+      stdout: "1\n"
+  - testcases:
+    - stdin: boomverzorger
+      stdout: "1\n"
+  - testcases:
+    - stdin: oogbeoordelaar
+      stdout: "3\n"
+  - testcases:
+    - stdin: voorschakelaar
+      stdout: "2\n"
+  - testcases:
+    - stdin: zaaiakker
+      stdout: "1\n"
+  - testcases:
+    - stdin: aaiobject
+      stdout: "1\n"
+  - testcases:
+    - stdin: nalatenschap
+      stdout: "0\n"
