@@ -25,7 +25,7 @@ Bij de invoer `hallo` verschijnt:
 hapallopo
 ```
 
-{: .callout.callout-success}
+{: .callout.callout-info}
 >#### Tip
 > Controleren of een teken een klinker is kan kort via de voorwaarde `if teken in "aeiou":`.
 

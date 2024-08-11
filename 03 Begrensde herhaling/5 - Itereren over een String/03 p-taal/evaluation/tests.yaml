@@ -2,79 +2,79 @@
   contexts:
   - testcases:
     - stdin: hallo
-      stdout: "Voor een woord in: \nhapallopo\n"
+      stdout: "hapallopo\n"
   - testcases:
     - stdin: bakker
-      stdout: "Voor een woord in: \nbapakkeper\n"
+      stdout: "bapakkeper\n"
   - testcases:
     - stdin: molen
-      stdout: "Voor een woord in: \nmopolepen\n"
+      stdout: "mopolepen\n"
   - testcases:
     - stdin: wacht
-      stdout: "Voor een woord in: \nwapacht\n"
+      stdout: "wapacht\n"
   - testcases:
     - stdin: grond
-      stdout: "Voor een woord in: \ngropond\n"
+      stdout: "gropond\n"
   - testcases:
     - stdin: vis
-      stdout: "Voor een woord in: \nvipis\n"
+      stdout: "vipis\n"
   - testcases:
     - stdin: lamp
-      stdout: "Voor een woord in: \nlapamp\n"
+      stdout: "lapamp\n"
   - testcases:
     - stdin: zon
-      stdout: "Voor een woord in: \nzopon\n"
+      stdout: "zopon\n"
   - testcases:
     - stdin: tafel
-      stdout: "Voor een woord in: \ntapafepel\n"
+      stdout: "tapafepel\n"
   - testcases:
     - stdin: koffer
-      stdout: "Voor een woord in: \nkopoffeper\n"
+      stdout: "kopoffeper\n"
   - testcases:
     - stdin: mama
-      stdout: "Voor een woord in: \nmapamapa\n"
+      stdout: "mapamapa\n"
   - testcases:
     - stdin: blik
-      stdout: "Voor een woord in: \nblipik\n"
+      stdout: "blipik\n"
   - testcases:
     - stdin: peper
-      stdout: "Voor een woord in: \npepepeper\n"
+      stdout: "pepepeper\n"
   - testcases:
     - stdin: ster
-      stdout: "Voor een woord in: \nsteper\n"
+      stdout: "steper\n"
   - testcases:
     - stdin: kerk
-      stdout: "Voor een woord in: \nkeperk\n"
+      stdout: "keperk\n"
   - testcases:
     - stdin: kam
-      stdout: "Voor een woord in: \nkapam\n"
+      stdout: "kapam\n"
   - testcases:
     - stdin: glas
-      stdout: "Voor een woord in: \nglapas\n"
+      stdout: "glapas\n"
   - testcases:
     - stdin: markt
-      stdout: "Voor een woord in: \nmaparkt\n"
+      stdout: "maparkt\n"
   - testcases:
     - stdin: appel
-      stdout: "Voor een woord in: \napappepel\n"
+      stdout: "apappepel\n"
   - testcases:
     - stdin: klok
-      stdout: "Voor een woord in: \nklopok\n"
+      stdout: "klopok\n"
   - testcases:
     - stdin: pint
-      stdout: "Voor een woord in: \npipint\n"
+      stdout: "pipint\n"
   - testcases:
     - stdin: hemd
-      stdout: "Voor een woord in: \nhepemd\n"
+      stdout: "hepemd\n"
   - testcases:
     - stdin: haring
-      stdout: "Voor een woord in: \nhapariping\n"
+      stdout: "hapariping\n"
   - testcases:
     - stdin: pot
-      stdout: "Voor een woord in: \npopot\n"
+      stdout: "popot\n"
   - testcases:
     - stdin: bad
-      stdout: "Voor een woord in: \nbapad\n"
+      stdout: "bapad\n"
   - testcases:
     - stdin: wind
-      stdout: "Voor een woord in: \nwipind\n"
+      stdout: "wipind\n"

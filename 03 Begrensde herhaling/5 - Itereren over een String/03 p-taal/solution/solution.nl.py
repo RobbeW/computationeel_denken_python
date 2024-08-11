@@ -1,5 +1,5 @@
 # Lees de zin in van de gebruiker
-woord = input("Voor een woord in: ")
+woord = input("Voer een woord in: ")
 
 nieuw = ""
 for teken in woord:
