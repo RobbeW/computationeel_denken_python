@@ -1,56 +1,62 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '0.0'
-      stdout: "temperatuur: 32.0 °F\n"
-  - testcases:
-    - stdin: '100.0'
-      stdout: "temperatuur: 212.0 °F\n"
-  - testcases:
-    - stdin: '15.0'
-      stdout: "temperatuur: 59.0 °F\n"
-  - testcases:
-    - stdin: '20.251'
-      stdout: "temperatuur: 68.45 °F\n"
-  - testcases:
-    - stdin: '16.587'
-      stdout: "temperatuur: 61.86 °F\n"
-  - testcases:
-    - stdin: '-0.392'
-      stdout: "temperatuur: 31.29 °F\n"
-  - testcases:
-    - stdin: '0.607'
-      stdout: "temperatuur: 33.09 °F\n"
-  - testcases:
-    - stdin: '15.455'
-      stdout: "temperatuur: 59.82 °F\n"
-  - testcases:
-    - stdin: '14.634'
-      stdout: "temperatuur: 58.34 °F\n"
-  - testcases:
-    - stdin: '28.263'
-      stdout: "temperatuur: 82.87 °F\n"
+    - stdin: '-9.014'
+      stdout: "temperatuur: 15.77 °F\n"
   - testcases:
     - stdin: '-6.758'
       stdout: "temperatuur: 19.84 °F\n"
   - testcases:
-    - stdin: '4.083'
-      stdout: "temperatuur: 39.35 °F\n"
-  - testcases:
     - stdin: '-3.741'
       stdout: "temperatuur: 25.27 °F\n"
   - testcases:
-    - stdin: '25.302'
-      stdout: "temperatuur: 77.54 °F\n"
+    - stdin: '-0.551'
+      stdout: "temperatuur: 31.01 °F\n"
   - testcases:
-    - stdin: '-9.014'
-      stdout: "temperatuur: 15.77 °F\n"
+    - stdin: '-0.392'
+      stdout: "temperatuur: 31.29 °F\n"
   - testcases:
-    - stdin: '30.341'
-      stdout: "temperatuur: 86.61 °F\n"
+    - stdin: '0.0'
+      stdout: "temperatuur: 32.0 °F\n"
+  - testcases:
+    - stdin: '0.607'
+      stdout: "temperatuur: 33.09 °F\n"
+  - testcases:
+    - stdin: '0.733'
+      stdout: "temperatuur: 33.32 °F\n"
+  - testcases:
+    - stdin: '4.083'
+      stdout: "temperatuur: 39.35 °F\n"
+  - testcases:
+    - stdin: '9.206'
+      stdout: "temperatuur: 48.57 °F\n"
   - testcases:
     - stdin: '10.773'
       stdout: "temperatuur: 51.39 °F\n"
+  - testcases:
+    - stdin: '12.727'
+      stdout: "temperatuur: 54.91 °F\n"
+  - testcases:
+    - stdin: '13.048'
+      stdout: "temperatuur: 55.49 °F\n"
+  - testcases:
+    - stdin: '14.634'
+      stdout: "temperatuur: 58.34 °F\n"
+  - testcases:
+    - stdin: '15.0'
+      stdout: "temperatuur: 59.0 °F\n"
+  - testcases:
+    - stdin: '15.455'
+      stdout: "temperatuur: 59.82 °F\n"
+  - testcases:
+    - stdin: '16.587'
+      stdout: "temperatuur: 61.86 °F\n"
+  - testcases:
+    - stdin: '20.251'
+      stdout: "temperatuur: 68.45 °F\n"
+  - testcases:
+    - stdin: '20.283'
+      stdout: "temperatuur: 68.51 °F\n"
   - testcases:
     - stdin: '22.316'
       stdout: "temperatuur: 72.17 °F\n"
@@ -58,20 +64,14 @@
     - stdin: '25.221'
       stdout: "temperatuur: 77.4 °F\n"
   - testcases:
-    - stdin: '20.283'
-      stdout: "temperatuur: 68.51 °F\n"
+    - stdin: '25.302'
+      stdout: "temperatuur: 77.54 °F\n"
   - testcases:
-    - stdin: '-0.551'
-      stdout: "temperatuur: 31.01 °F\n"
+    - stdin: '28.263'
+      stdout: "temperatuur: 82.87 °F\n"
   - testcases:
-    - stdin: '12.727'
-      stdout: "temperatuur: 54.91 °F\n"
+    - stdin: '30.341'
+      stdout: "temperatuur: 86.61 °F\n"
   - testcases:
-    - stdin: '9.206'
-      stdout: "temperatuur: 48.57 °F\n"
-  - testcases:
-    - stdin: '13.048'
-      stdout: "temperatuur: 55.49 °F\n"
-  - testcases:
-    - stdin: '0.733'
-      stdout: "temperatuur: 33.32 °F\n"
+    - stdin: '100.0'
+      stdout: "temperatuur: 212.0 °F\n"

@@ -1,56 +1,8 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '893'
-      stdout: "8\n"
-  - testcases:
     - stdin: '13'
       stdout: "0\n"
-  - testcases:
-    - stdin: '4512'
-      stdout: "5\n"
-  - testcases:
-    - stdin: '2671306'
-      stdout: "3\n"
-  - testcases:
-    - stdin: '4838166'
-      stdout: "1\n"
-  - testcases:
-    - stdin: '9442'
-      stdout: "4\n"
-  - testcases:
-    - stdin: '866415'
-      stdout: "4\n"
-  - testcases:
-    - stdin: '180939'
-      stdout: "9\n"
-  - testcases:
-    - stdin: '3008'
-      stdout: "0\n"
-  - testcases:
-    - stdin: '960'
-      stdout: "9\n"
-  - testcases:
-    - stdin: '1384'
-      stdout: "3\n"
-  - testcases:
-    - stdin: '15329'
-      stdout: "3\n"
-  - testcases:
-    - stdin: '4685'
-      stdout: "6\n"
-  - testcases:
-    - stdin: '80925'
-      stdout: "9\n"
-  - testcases:
-    - stdin: '68'
-      stdout: "0\n"
-  - testcases:
-    - stdin: '661'
-      stdout: "6\n"
-  - testcases:
-    - stdin: '361'
-      stdout: "3\n"
   - testcases:
     - stdin: '57'
       stdout: "0\n"
@@ -58,35 +10,83 @@
     - stdin: '64'
       stdout: "0\n"
   - testcases:
-    - stdin: '6044'
+    - stdin: '68'
       stdout: "0\n"
   - testcases:
-    - stdin: '34230'
+    - stdin: '206'
       stdout: "2\n"
-  - testcases:
-    - stdin: '1929033'
-      stdout: "0\n"
   - testcases:
     - stdin: '349'
       stdout: "3\n"
   - testcases:
+    - stdin: '361'
+      stdout: "3\n"
+  - testcases:
+    - stdin: '661'
+      stdout: "6\n"
+  - testcases:
+    - stdin: '893'
+      stdout: "8\n"
+  - testcases:
     - stdin: '928'
+      stdout: "9\n"
+  - testcases:
+    - stdin: '960'
+      stdout: "9\n"
+  - testcases:
+    - stdin: '1384'
+      stdout: "3\n"
+  - testcases:
+    - stdin: '3008'
+      stdout: "0\n"
+  - testcases:
+    - stdin: '4512'
+      stdout: "5\n"
+  - testcases:
+    - stdin: '4645'
+      stdout: "6\n"
+  - testcases:
+    - stdin: '4685'
+      stdout: "6\n"
+  - testcases:
+    - stdin: '6044'
+      stdout: "0\n"
+  - testcases:
+    - stdin: '9442'
+      stdout: "4\n"
+  - testcases:
+    - stdin: '15329'
+      stdout: "3\n"
+  - testcases:
+    - stdin: '17747'
+      stdout: "7\n"
+  - testcases:
+    - stdin: '32982'
+      stdout: "9\n"
+  - testcases:
+    - stdin: '34230'
+      stdout: "2\n"
+  - testcases:
+    - stdin: '80925'
+      stdout: "9\n"
+  - testcases:
+    - stdin: '180939'
       stdout: "9\n"
   - testcases:
     - stdin: '523438'
       stdout: "4\n"
   - testcases:
-    - stdin: '32982'
-      stdout: "9\n"
-  - testcases:
     - stdin: '711658'
       stdout: "6\n"
   - testcases:
-    - stdin: '17747'
-      stdout: "7\n"
+    - stdin: '866415'
+      stdout: "4\n"
   - testcases:
-    - stdin: '4645'
-      stdout: "6\n"
+    - stdin: '1929033'
+      stdout: "0\n"
   - testcases:
-    - stdin: '206'
-      stdout: "2\n"
+    - stdin: '2671306'
+      stdout: "3\n"
+  - testcases:
+    - stdin: '4838166'
+      stdout: "1\n"

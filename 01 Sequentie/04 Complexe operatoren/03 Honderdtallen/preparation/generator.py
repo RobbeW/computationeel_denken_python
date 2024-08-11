@@ -40,7 +40,8 @@ while len(cases) < ntests:
     getal = random.randint(10**a, 10**(a+1)-1)
     if (getal,) not in cases:
         cases.append( (getal,) )
-    
+cases.sort()
+
 # generate unit tests for functions
 yamldata = []
 

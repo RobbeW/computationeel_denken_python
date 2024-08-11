@@ -1,82 +1,82 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '2543'
-      stdout: "biljet 50: 50\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n
-        munt 1: 1\n"
+    - stdin: '97'
+      stdout: "biljet 50: 1\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 1\n\
+        munt 1: 0\n"
   - testcases:
     - stdin: '227'
-      stdout: "biljet 50: 4\nbiljet 20: 1\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 1\n
+      stdout: "biljet 50: 4\nbiljet 20: 1\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 1\n\
         munt 1: 0\n"
-  - testcases:
-    - stdin: '2951'
-      stdout: "biljet 50: 59\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 0\n
-        munt 1: 1\n"
-  - testcases:
-    - stdin: '409'
-      stdout: "biljet 50: 8\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 2\n
-        munt 1: 0\n"
-  - testcases:
-    - stdin: '2593'
-      stdout: "biljet 50: 51\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n
-        munt 1: 1\n"
-  - testcases:
-    - stdin: '2414'
-      stdout: "biljet 50: 48\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 2\n
-        munt 1: 0\n"
-  - testcases:
-    - stdin: '938'
-      stdout: "biljet 50: 18\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 1\n
-        munt 1: 1\n"
-  - testcases:
-    - stdin: '1035'
-      stdout: "biljet 50: 20\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 0\n
-        munt 1: 0\n"
-  - testcases:
-    - stdin: '2483'
-      stdout: "biljet 50: 49\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 1\n
-        munt 1: 1\n"
-  - testcases:
-    - stdin: '2111'
-      stdout: "biljet 50: 42\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 0\n
-        munt 1: 1\n"
-  - testcases:
-    - stdin: '2403'
-      stdout: "biljet 50: 48\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n
-        munt 1: 1\n"
-  - testcases:
-    - stdin: '2994'
-      stdout: "biljet 50: 59\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 2\n
-        munt 1: 0\n"
-  - testcases:
-    - stdin: '2086'
-      stdout: "biljet 50: 41\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 0\n
-        munt 1: 1\n"
   - testcases:
     - stdin: '317'
-      stdout: "biljet 50: 6\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 1\n
+      stdout: "biljet 50: 6\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 1\n\
         munt 1: 0\n"
   - testcases:
-    - stdin: '1374'
-      stdout: "biljet 50: 27\nbiljet 20: 1\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 2\n
+    - stdin: '409'
+      stdout: "biljet 50: 8\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 2\n\
         munt 1: 0\n"
   - testcases:
     - stdin: '503'
-      stdout: "biljet 50: 10\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n
+      stdout: "biljet 50: 10\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n\
         munt 1: 1\n"
   - testcases:
     - stdin: '611'
-      stdout: "biljet 50: 12\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 0\n
+      stdout: "biljet 50: 12\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 0\n\
         munt 1: 1\n"
   - testcases:
-    - stdin: '1434'
-      stdout: "biljet 50: 28\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 2\n
+    - stdin: '938'
+      stdout: "biljet 50: 18\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 1\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '1035'
+      stdout: "biljet 50: 20\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 0\n\
         munt 1: 0\n"
   - testcases:
-    - stdin: '97'
-      stdout: "biljet 50: 1\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 1\n
+    - stdin: '1374'
+      stdout: "biljet 50: 27\nbiljet 20: 1\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 2\n\
+        munt 1: 0\n"
+  - testcases:
+    - stdin: '1434'
+      stdout: "biljet 50: 28\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 2\n\
         munt 1: 0\n"
   - testcases:
     - stdin: '2026'
-      stdout: "biljet 50: 40\nbiljet 20: 1\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 0\n
+      stdout: "biljet 50: 40\nbiljet 20: 1\nbiljet 10: 0\nbiljet 5: 1\nmunt 2: 0\n\
         munt 1: 1\n"
+  - testcases:
+    - stdin: '2086'
+      stdout: "biljet 50: 41\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 1\nmunt 2: 0\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2111'
+      stdout: "biljet 50: 42\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 0\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2403'
+      stdout: "biljet 50: 48\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2414'
+      stdout: "biljet 50: 48\nbiljet 20: 0\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 2\n\
+        munt 1: 0\n"
+  - testcases:
+    - stdin: '2483'
+      stdout: "biljet 50: 49\nbiljet 20: 1\nbiljet 10: 1\nbiljet 5: 0\nmunt 2: 1\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2543'
+      stdout: "biljet 50: 50\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2593'
+      stdout: "biljet 50: 51\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 1\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2951'
+      stdout: "biljet 50: 59\nbiljet 20: 0\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 0\n\
+        munt 1: 1\n"
+  - testcases:
+    - stdin: '2994'
+      stdout: "biljet 50: 59\nbiljet 20: 2\nbiljet 10: 0\nbiljet 5: 0\nmunt 2: 2\n\
+        munt 1: 0\n"

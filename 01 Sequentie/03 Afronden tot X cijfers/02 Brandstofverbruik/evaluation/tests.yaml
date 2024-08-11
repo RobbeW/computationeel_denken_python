@@ -1,17 +1,23 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '100.0'
-      stdout: "4.5 liter\n"
-  - testcases:
     - stdin: '45.0'
       stdout: "2.02 liter\n"
   - testcases:
-    - stdin: '7203.0'
-      stdout: "324.13 liter\n"
+    - stdin: '100.0'
+      stdout: "4.5 liter\n"
   - testcases:
-    - stdin: '6330.7'
-      stdout: "284.88 liter\n"
+    - stdin: '235.8'
+      stdout: "10.61 liter\n"
+  - testcases:
+    - stdin: '772.8'
+      stdout: "34.78 liter\n"
+  - testcases:
+    - stdin: '1491.2'
+      stdout: "67.1 liter\n"
+  - testcases:
+    - stdin: '2250.4'
+      stdout: "101.27 liter\n"
   - testcases:
     - stdin: '2288.5'
       stdout: "102.98 liter\n"
@@ -19,74 +25,68 @@
     - stdin: '2526.2'
       stdout: "113.68 liter\n"
   - testcases:
-    - stdin: '6061.1'
-      stdout: "272.75 liter\n"
-  - testcases:
-    - stdin: '5865.7'
-      stdout: "263.96 liter\n"
-  - testcases:
-    - stdin: '9110.4'
-      stdout: "409.97 liter\n"
-  - testcases:
-    - stdin: '772.8'
-      stdout: "34.78 liter\n"
-  - testcases:
-    - stdin: '3353.7'
-      stdout: "150.92 liter\n"
-  - testcases:
-    - stdin: '1491.2'
-      stdout: "67.1 liter\n"
-  - testcases:
-    - stdin: '8405.3'
-      stdout: "378.24 liter\n"
-  - testcases:
-    - stdin: '235.8'
-      stdout: "10.61 liter\n"
-  - testcases:
-    - stdin: '9605.0'
-      stdout: "432.23 liter\n"
-  - testcases:
-    - stdin: '4946.4'
-      stdout: "222.59 liter\n"
-  - testcases:
-    - stdin: '7694.5'
-      stdout: "346.25 liter\n"
-  - testcases:
-    - stdin: '8386.1'
-      stdout: "377.37 liter\n"
-  - testcases:
-    - stdin: '7210.5'
-      stdout: "324.47 liter\n"
-  - testcases:
-    - stdin: '2250.4'
-      stdout: "101.27 liter\n"
-  - testcases:
-    - stdin: '5411.7'
-      stdout: "243.53 liter\n"
-  - testcases:
-    - stdin: '4573.4'
-      stdout: "205.8 liter\n"
-  - testcases:
-    - stdin: '5488.0'
-      stdout: "246.96 liter\n"
-  - testcases:
     - stdin: '2556.2'
       stdout: "115.03 liter\n"
-  - testcases:
-    - stdin: '3722.5'
-      stdout: "167.51 liter\n"
-  - testcases:
-    - stdin: '4283.2'
-      stdout: "192.74 liter\n"
   - testcases:
     - stdin: '2748.8'
       stdout: "123.7 liter\n"
   - testcases:
-    - stdin: '8307.5'
-      stdout: "373.84 liter\n"
+    - stdin: '3353.7'
+      stdout: "150.92 liter\n"
   - testcases:
-    - stdin: '9841.7'
-      stdout: "442.88 liter\n"
+    - stdin: '3722.5'
+      stdout: "167.51 liter\n"
   - testcases:
     - stdin: '3822.1'
       stdout: "171.99 liter\n"
+  - testcases:
+    - stdin: '4283.2'
+      stdout: "192.74 liter\n"
+  - testcases:
+    - stdin: '4573.4'
+      stdout: "205.8 liter\n"
+  - testcases:
+    - stdin: '4946.4'
+      stdout: "222.59 liter\n"
+  - testcases:
+    - stdin: '5411.7'
+      stdout: "243.53 liter\n"
+  - testcases:
+    - stdin: '5488.0'
+      stdout: "246.96 liter\n"
+  - testcases:
+    - stdin: '5865.7'
+      stdout: "263.96 liter\n"
+  - testcases:
+    - stdin: '6061.1'
+      stdout: "272.75 liter\n"
+  - testcases:
+    - stdin: '6330.7'
+      stdout: "284.88 liter\n"
+  - testcases:
+    - stdin: '7203.0'
+      stdout: "324.13 liter\n"
+  - testcases:
+    - stdin: '7210.5'
+      stdout: "324.47 liter\n"
+  - testcases:
+    - stdin: '7694.5'
+      stdout: "346.25 liter\n"
+  - testcases:
+    - stdin: '8307.5'
+      stdout: "373.84 liter\n"
+  - testcases:
+    - stdin: '8386.1'
+      stdout: "377.37 liter\n"
+  - testcases:
+    - stdin: '8405.3'
+      stdout: "378.24 liter\n"
+  - testcases:
+    - stdin: '9110.4'
+      stdout: "409.97 liter\n"
+  - testcases:
+    - stdin: '9605.0'
+      stdout: "432.23 liter\n"
+  - testcases:
+    - stdin: '9841.7'
+      stdout: "442.88 liter\n"
