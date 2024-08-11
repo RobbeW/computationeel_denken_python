@@ -1,0 +1,180 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "1520.25\n2.1"
+      stdout: "Na 1 jaar staat er € 1552.18 op de rekening.\nNa 2 jaar staat er €
+        1584.77 op de rekening.\nNa 3 jaar staat er € 1618.05 op de rekening.\nNa
+        4 jaar staat er € 1652.03 op de rekening.\nNa 5 jaar staat er € 1686.72 op
+        de rekening.\nNa 6 jaar staat er € 1722.14 op de rekening.\nNa 7 jaar staat
+        er € 1758.31 op de rekening.\nNa 8 jaar staat er € 1795.23 op de rekening.\n\
+        Na 9 jaar staat er € 1832.93 op de rekening.\nNa 10 jaar staat er € 1871.43
+        op de rekening.\nNa 11 jaar staat er € 1910.72 op de rekening.\nNa 12 jaar
+        staat er € 1950.85 op de rekening.\nNa 13 jaar staat er € 1991.82 op de rekening.\n\
+        Na 14 jaar staat er € 2033.65 op de rekening.\n"
+  - testcases:
+    - stdin: "1800.0\n2.34"
+      stdout: "Na 1 jaar staat er € 1842.12 op de rekening.\nNa 2 jaar staat er €
+        1885.23 op de rekening.\nNa 3 jaar staat er € 1929.34 op de rekening.\nNa
+        4 jaar staat er € 1974.49 op de rekening.\nNa 5 jaar staat er € 2020.69 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1450.0\n2.18"
+      stdout: "Na 1 jaar staat er € 1481.61 op de rekening.\nNa 2 jaar staat er €
+        1513.91 op de rekening.\nNa 3 jaar staat er € 1546.91 op de rekening.\nNa
+        4 jaar staat er € 1580.64 op de rekening.\nNa 5 jaar staat er € 1615.09 op
+        de rekening.\nNa 6 jaar staat er € 1650.3 op de rekening.\nNa 7 jaar staat
+        er € 1686.28 op de rekening.\nNa 8 jaar staat er € 1723.04 op de rekening.\n\
+        Na 9 jaar staat er € 1760.6 op de rekening.\nNa 10 jaar staat er € 1798.98
+        op de rekening.\nNa 11 jaar staat er € 1838.2 op de rekening.\nNa 12 jaar
+        staat er € 1878.27 op de rekening.\nNa 13 jaar staat er € 1919.22 op de rekening.\n\
+        Na 14 jaar staat er € 1961.06 op de rekening.\nNa 15 jaar staat er € 2003.81
+        op de rekening.\n"
+  - testcases:
+    - stdin: "1900.0\n3.43"
+      stdout: "Na 1 jaar staat er € 1965.17 op de rekening.\nNa 2 jaar staat er €
+        2032.58 op de rekening.\n"
+  - testcases:
+    - stdin: "1600.0\n3.08"
+      stdout: "Na 1 jaar staat er € 1649.28 op de rekening.\nNa 2 jaar staat er €
+        1700.08 op de rekening.\nNa 3 jaar staat er € 1752.44 op de rekening.\nNa
+        4 jaar staat er € 1806.42 op de rekening.\nNa 5 jaar staat er € 1862.05 op
+        de rekening.\nNa 6 jaar staat er € 1919.4 op de rekening.\nNa 7 jaar staat
+        er € 1978.52 op de rekening.\nNa 8 jaar staat er € 2039.46 op de rekening.\n"
+  - testcases:
+    - stdin: "1400.85\n2.07"
+      stdout: "Na 1 jaar staat er € 1429.85 op de rekening.\nNa 2 jaar staat er €
+        1459.45 op de rekening.\nNa 3 jaar staat er € 1489.66 op de rekening.\nNa
+        4 jaar staat er € 1520.49 op de rekening.\nNa 5 jaar staat er € 1551.97 op
+        de rekening.\nNa 6 jaar staat er € 1584.09 op de rekening.\nNa 7 jaar staat
+        er € 1616.88 op de rekening.\nNa 8 jaar staat er € 1650.35 op de rekening.\n\
+        Na 9 jaar staat er € 1684.51 op de rekening.\nNa 10 jaar staat er € 1719.38
+        op de rekening.\nNa 11 jaar staat er € 1754.97 op de rekening.\nNa 12 jaar
+        staat er € 1791.3 op de rekening.\nNa 13 jaar staat er € 1828.38 op de rekening.\n\
+        Na 14 jaar staat er € 1866.23 op de rekening.\nNa 15 jaar staat er € 1904.86
+        op de rekening.\nNa 16 jaar staat er € 1944.29 op de rekening.\nNa 17 jaar
+        staat er € 1984.54 op de rekening.\nNa 18 jaar staat er € 2025.62 op de rekening.\n"
+  - testcases:
+    - stdin: "1400.0\n2.1"
+      stdout: "Na 1 jaar staat er € 1429.4 op de rekening.\nNa 2 jaar staat er € 1459.42
+        op de rekening.\nNa 3 jaar staat er € 1490.07 op de rekening.\nNa 4 jaar staat
+        er € 1521.36 op de rekening.\nNa 5 jaar staat er € 1553.31 op de rekening.\n\
+        Na 6 jaar staat er € 1585.92 op de rekening.\nNa 7 jaar staat er € 1619.23
+        op de rekening.\nNa 8 jaar staat er € 1653.23 op de rekening.\nNa 9 jaar staat
+        er € 1687.95 op de rekening.\nNa 10 jaar staat er € 1723.4 op de rekening.\n\
+        Na 11 jaar staat er € 1759.59 op de rekening.\nNa 12 jaar staat er € 1796.54
+        op de rekening.\nNa 13 jaar staat er € 1834.27 op de rekening.\nNa 14 jaar
+        staat er € 1872.79 op de rekening.\nNa 15 jaar staat er € 1912.12 op de rekening.\n\
+        Na 16 jaar staat er € 1952.27 op de rekening.\nNa 17 jaar staat er € 1993.27
+        op de rekening.\nNa 18 jaar staat er € 2035.13 op de rekening.\n"
+  - testcases:
+    - stdin: "1250.4\n2.84"
+      stdout: "Na 1 jaar staat er € 1285.91 op de rekening.\nNa 2 jaar staat er €
+        1322.43 op de rekening.\nNa 3 jaar staat er € 1359.99 op de rekening.\nNa
+        4 jaar staat er € 1398.61 op de rekening.\nNa 5 jaar staat er € 1438.33 op
+        de rekening.\nNa 6 jaar staat er € 1479.18 op de rekening.\nNa 7 jaar staat
+        er € 1521.19 op de rekening.\nNa 8 jaar staat er € 1564.39 op de rekening.\n\
+        Na 9 jaar staat er € 1608.82 op de rekening.\nNa 10 jaar staat er € 1654.51
+        op de rekening.\nNa 11 jaar staat er € 1701.5 op de rekening.\nNa 12 jaar
+        staat er € 1749.82 op de rekening.\nNa 13 jaar staat er € 1799.52 op de rekening.\n\
+        Na 14 jaar staat er € 1850.62 op de rekening.\nNa 15 jaar staat er € 1903.18
+        op de rekening.\nNa 16 jaar staat er € 1957.23 op de rekening.\nNa 17 jaar
+        staat er € 2012.82 op de rekening.\n"
+  - testcases:
+    - stdin: "1750.6\n2.28"
+      stdout: "Na 1 jaar staat er € 1790.51 op de rekening.\nNa 2 jaar staat er €
+        1831.34 op de rekening.\nNa 3 jaar staat er € 1873.09 op de rekening.\nNa
+        4 jaar staat er € 1915.8 op de rekening.\nNa 5 jaar staat er € 1959.48 op
+        de rekening.\nNa 6 jaar staat er € 2004.15 op de rekening.\n"
+  - testcases:
+    - stdin: "1250.0\n2.33"
+      stdout: "Na 1 jaar staat er € 1279.12 op de rekening.\nNa 2 jaar staat er €
+        1308.93 op de rekening.\nNa 3 jaar staat er € 1339.43 op de rekening.\nNa
+        4 jaar staat er € 1370.64 op de rekening.\nNa 5 jaar staat er € 1402.57 op
+        de rekening.\nNa 6 jaar staat er € 1435.25 op de rekening.\nNa 7 jaar staat
+        er € 1468.69 op de rekening.\nNa 8 jaar staat er € 1502.91 op de rekening.\n\
+        Na 9 jaar staat er € 1537.93 op de rekening.\nNa 10 jaar staat er € 1573.76
+        op de rekening.\nNa 11 jaar staat er € 1610.43 op de rekening.\nNa 12 jaar
+        staat er € 1647.96 op de rekening.\nNa 13 jaar staat er € 1686.35 op de rekening.\n\
+        Na 14 jaar staat er € 1725.65 op de rekening.\nNa 15 jaar staat er € 1765.85
+        op de rekening.\nNa 16 jaar staat er € 1807.0 op de rekening.\nNa 17 jaar
+        staat er € 1849.1 op de rekening.\nNa 18 jaar staat er € 1892.18 op de rekening.\n\
+        Na 19 jaar staat er € 1936.27 op de rekening.\nNa 20 jaar staat er € 1981.39
+        op de rekening.\nNa 21 jaar staat er € 2027.55 op de rekening.\n"
+  - testcases:
+    - stdin: "1650.75\n2.26"
+      stdout: "Na 1 jaar staat er € 1688.06 op de rekening.\nNa 2 jaar staat er €
+        1726.21 op de rekening.\nNa 3 jaar staat er € 1765.22 op de rekening.\nNa
+        4 jaar staat er € 1805.11 op de rekening.\nNa 5 jaar staat er € 1845.91 op
+        de rekening.\nNa 6 jaar staat er € 1887.63 op de rekening.\nNa 7 jaar staat
+        er € 1930.29 op de rekening.\nNa 8 jaar staat er € 1973.91 op de rekening.\n\
+        Na 9 jaar staat er € 2018.52 op de rekening.\n"
+  - testcases:
+    - stdin: "1650.05\n2.56"
+      stdout: "Na 1 jaar staat er € 1692.29 op de rekening.\nNa 2 jaar staat er €
+        1735.61 op de rekening.\nNa 3 jaar staat er € 1780.05 op de rekening.\nNa
+        4 jaar staat er € 1825.61 op de rekening.\nNa 5 jaar staat er € 1872.35 op
+        de rekening.\nNa 6 jaar staat er € 1920.28 op de rekening.\nNa 7 jaar staat
+        er € 1969.44 op de rekening.\nNa 8 jaar staat er € 2019.86 op de rekening.\n"
+  - testcases:
+    - stdin: "1400.0\n2.66"
+      stdout: "Na 1 jaar staat er € 1437.24 op de rekening.\nNa 2 jaar staat er €
+        1475.47 op de rekening.\nNa 3 jaar staat er € 1514.72 op de rekening.\nNa
+        4 jaar staat er € 1555.01 op de rekening.\nNa 5 jaar staat er € 1596.37 op
+        de rekening.\nNa 6 jaar staat er € 1638.84 op de rekening.\nNa 7 jaar staat
+        er € 1682.43 op de rekening.\nNa 8 jaar staat er € 1727.18 op de rekening.\n\
+        Na 9 jaar staat er € 1773.13 op de rekening.\nNa 10 jaar staat er € 1820.29
+        op de rekening.\nNa 11 jaar staat er € 1868.71 op de rekening.\nNa 12 jaar
+        staat er € 1918.42 op de rekening.\nNa 13 jaar staat er € 1969.45 op de rekening.\n\
+        Na 14 jaar staat er € 2021.83 op de rekening.\n"
+  - testcases:
+    - stdin: "1900.35\n3.2"
+      stdout: "Na 1 jaar staat er € 1961.16 op de rekening.\nNa 2 jaar staat er €
+        2023.92 op de rekening.\n"
+  - testcases:
+    - stdin: "1400.3\n2.1"
+      stdout: "Na 1 jaar staat er € 1429.71 op de rekening.\nNa 2 jaar staat er €
+        1459.73 op de rekening.\nNa 3 jaar staat er € 1490.38 op de rekening.\nNa
+        4 jaar staat er € 1521.68 op de rekening.\nNa 5 jaar staat er € 1553.64 op
+        de rekening.\nNa 6 jaar staat er € 1586.26 op de rekening.\nNa 7 jaar staat
+        er € 1619.58 op de rekening.\nNa 8 jaar staat er € 1653.59 op de rekening.\n\
+        Na 9 jaar staat er € 1688.31 op de rekening.\nNa 10 jaar staat er € 1723.77
+        op de rekening.\nNa 11 jaar staat er € 1759.97 op de rekening.\nNa 12 jaar
+        staat er € 1796.93 op de rekening.\nNa 13 jaar staat er € 1834.66 op de rekening.\n\
+        Na 14 jaar staat er € 1873.19 op de rekening.\nNa 15 jaar staat er € 1912.53
+        op de rekening.\nNa 16 jaar staat er € 1952.69 op de rekening.\nNa 17 jaar
+        staat er € 1993.69 op de rekening.\nNa 18 jaar staat er € 2035.56 op de rekening.\n"
+  - testcases:
+    - stdin: "1400.05\n2.97"
+      stdout: "Na 1 jaar staat er € 1441.63 op de rekening.\nNa 2 jaar staat er €
+        1484.45 op de rekening.\nNa 3 jaar staat er € 1528.54 op de rekening.\nNa
+        4 jaar staat er € 1573.93 op de rekening.\nNa 5 jaar staat er € 1620.68 op
+        de rekening.\nNa 6 jaar staat er € 1668.81 op de rekening.\nNa 7 jaar staat
+        er € 1718.38 op de rekening.\nNa 8 jaar staat er € 1769.41 op de rekening.\n\
+        Na 9 jaar staat er € 1821.96 op de rekening.\nNa 10 jaar staat er € 1876.08
+        op de rekening.\nNa 11 jaar staat er € 1931.8 op de rekening.\nNa 12 jaar
+        staat er € 1989.17 op de rekening.\nNa 13 jaar staat er € 2048.25 op de rekening.\n"
+  - testcases:
+    - stdin: "1750.65\n2.38"
+      stdout: "Na 1 jaar staat er € 1792.32 op de rekening.\nNa 2 jaar staat er €
+        1834.97 op de rekening.\nNa 3 jaar staat er € 1878.64 op de rekening.\nNa
+        4 jaar staat er € 1923.36 op de rekening.\nNa 5 jaar staat er € 1969.13 op
+        de rekening.\nNa 6 jaar staat er € 2016.0 op de rekening.\n"
+  - testcases:
+    - stdin: "1700.45\n3.08"
+      stdout: "Na 1 jaar staat er € 1752.82 op de rekening.\nNa 2 jaar staat er €
+        1806.81 op de rekening.\nNa 3 jaar staat er € 1862.46 op de rekening.\nNa
+        4 jaar staat er € 1919.82 op de rekening.\nNa 5 jaar staat er € 1978.95 op
+        de rekening.\nNa 6 jaar staat er € 2039.91 op de rekening.\n"
+  - testcases:
+    - stdin: "1800.0\n2.64"
+      stdout: "Na 1 jaar staat er € 1847.52 op de rekening.\nNa 2 jaar staat er €
+        1896.29 op de rekening.\nNa 3 jaar staat er € 1946.36 op de rekening.\nNa
+        4 jaar staat er € 1997.74 op de rekening.\nNa 5 jaar staat er € 2050.48 op
+        de rekening.\n"
+  - testcases:
+    - stdin: "1650.15\n2.98"
+      stdout: "Na 1 jaar staat er € 1699.32 op de rekening.\nNa 2 jaar staat er €
+        1749.96 op de rekening.\nNa 3 jaar staat er € 1802.11 op de rekening.\nNa
+        4 jaar staat er € 1855.82 op de rekening.\nNa 5 jaar staat er € 1911.12 op
+        de rekening.\nNa 6 jaar staat er € 1968.07 op de rekening.\nNa 7 jaar staat
+        er € 2026.72 op de rekening.\n"

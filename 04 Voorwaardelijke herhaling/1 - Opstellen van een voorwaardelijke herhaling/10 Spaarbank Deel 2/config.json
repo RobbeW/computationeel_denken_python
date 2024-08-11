@@ -4,18 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Opstellen Voorwaardelijke Herhaling - Spaarbank",
-      "en": "Conditional Loop - Bank Savings"
+      "nl": "Samengestelde interest"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "while"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "3DnRzcS55PE5bitw9prDPD4f4WkpWI8IFIy2_kgaP8ky_uHaQzEsb4zMWat-rT2W",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
