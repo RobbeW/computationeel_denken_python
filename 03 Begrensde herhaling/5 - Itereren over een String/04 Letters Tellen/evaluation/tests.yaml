@@ -1,0 +1,65 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "jazzzangeres\nz"
+      stdout: "De letter z komt 3 keer voor in jazzzangeres.\n"
+  - testcases:
+    - stdin: "lettergreep\ne"
+      stdout: "De letter e komt 4 keer voor in lettergreep.\n"
+  - testcases:
+    - stdin: "voorstel\no"
+      stdout: "De letter o komt 2 keer voor in voorstel.\n"
+  - testcases:
+    - stdin: "schrijfster\nr"
+      stdout: "De letter r komt 2 keer voor in schrijfster.\n"
+  - testcases:
+    - stdin: "commissie\ni"
+      stdout: "De letter i komt 2 keer voor in commissie.\n"
+  - testcases:
+    - stdin: "appelleer\ne"
+      stdout: "De letter e komt 3 keer voor in appelleer.\n"
+  - testcases:
+    - stdin: "natuurlijk\nt"
+      stdout: "De letter t komt 1 keer voor in natuurlijk.\n"
+  - testcases:
+    - stdin: "schaduw\nd"
+      stdout: "De letter d komt 1 keer voor in schaduw.\n"
+  - testcases:
+    - stdin: "herstellingswerkzaamheden\ne"
+      stdout: "De letter e komt 5 keer voor in herstellingswerkzaamheden.\n"
+  - testcases:
+    - stdin: "sneeuwvlok\nn"
+      stdout: "De letter n komt 1 keer voor in sneeuwvlok.\n"
+  - testcases:
+    - stdin: "koffiepot\no"
+      stdout: "De letter o komt 2 keer voor in koffiepot.\n"
+  - testcases:
+    - stdin: "autoweg\na"
+      stdout: "De letter a komt 1 keer voor in autoweg.\n"
+  - testcases:
+    - stdin: "roestvrij\nr"
+      stdout: "De letter r komt 2 keer voor in roestvrij.\n"
+  - testcases:
+    - stdin: "papegaaien\na"
+      stdout: "De letter a komt 3 keer voor in papegaaien.\n"
+  - testcases:
+    - stdin: "schrijver\nr"
+      stdout: "De letter r komt 2 keer voor in schrijver.\n"
+  - testcases:
+    - stdin: "informatie\ni"
+      stdout: "De letter i komt 2 keer voor in informatie.\n"
+  - testcases:
+    - stdin: "boekenkast\nk"
+      stdout: "De letter k komt 2 keer voor in boekenkast.\n"
+  - testcases:
+    - stdin: "verjaardag\na"
+      stdout: "De letter a komt 3 keer voor in verjaardag.\n"
+  - testcases:
+    - stdin: "computer\nt"
+      stdout: "De letter t komt 1 keer voor in computer.\n"
+  - testcases:
+    - stdin: "onderwijzer\nr"
+      stdout: "De letter r komt 2 keer voor in onderwijzer.\n"
+  - testcases:
+    - stdin: "telefoneren\ne"
+      stdout: "De letter e komt 4 keer voor in telefoneren.\n"

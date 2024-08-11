@@ -1,19 +1,13 @@
-## Opgave
+## Gegeven
+Hoeveel keer komt de letter `"z"` voor in het woord `"jazzzangeres"`? Sommige woorden bevatten bepaalde letters veel keren.
 
-Lees een zin en een letter in. De computer telt hoeveel keer die letter in de zin voorkomt.
+## Gevraagd
+Schrijf een programma dat aan de gebruiker een woord en daarna een letter vraagt. Je bepaalt vervolgens hoeveel keer de letter in het woord voorkomt.
 
-## Invoer
-```
-Voer een zin in: Zwarte gaten ontstaan in goede cafés.
-Voer een letter in: a
-```
+#### Voorbeeld
 
-## Uitvoer
-```
-De letter X komt Y keer voor in de zin.
-```
-{: .callout.callout-success}
->## Tips
->* Gebruik voor deze oefening de count-functie; 
->* De syntax van deze functie is: variabele.count(wat_je_wil_tellen)
+Voor het woord `"jazzzangeres"` en de letter `"z"` verschijnt er:
 
+```
+De letter z komt 3 keer voor in jazzzangeres.
+```

@@ -4,18 +4,17 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Itereren over een String - Letters Tellen",
-      "en": "Iterate Using a String - Counting Characters"
+      "nl": "Letters tellen"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "for",
+    "tekst"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "KknRBRhkfszJUWCXsxbGm5IWwZKVPqCnfQruAh47fzqRcMypsVM-xjpmmH_M46C8",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
