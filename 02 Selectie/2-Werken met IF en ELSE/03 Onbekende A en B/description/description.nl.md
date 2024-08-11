@@ -1,9 +1,9 @@
 ## Gegeven
 Een getal $$\mathsf{a}$$ wordt ingelezen en doorloopt een volledige beslissingsboom. 
 
-![Stroomdiagram.](media/image.png "Stroomdiagram."){:data-caption="Stroomdiagram." .light-only width="30%"}
+![Stroomdiagram.](media/image.png "Stroomdiagram."){:data-caption="Stroomdiagram." .light-only width="40%"}
 
-![Stroomdiagram.](media/image_dark.png "Stroomdiagram."){:data-caption="Stroomdiagram." .dark-only width="30%"}
+![Stroomdiagram.](media/image_dark.png "Stroomdiagram."){:data-caption="Stroomdiagram." .dark-only width="40%"}
 
 ## Gevraagd
 * Lees een **geheel getal** $$\mathsf{a}$$ in.
