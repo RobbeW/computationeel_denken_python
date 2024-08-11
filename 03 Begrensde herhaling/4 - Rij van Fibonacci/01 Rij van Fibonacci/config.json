@@ -12,7 +12,6 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
     "for"
   ],
   "internals": {
