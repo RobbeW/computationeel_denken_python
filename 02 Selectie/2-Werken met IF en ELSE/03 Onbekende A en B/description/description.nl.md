@@ -1,10 +1,13 @@
 ## Gegeven
 Een getal $$\mathsf{a}$$ wordt ingelezen en doorloopt een volledige beslissingsboom. 
 
+![Stroomdiagram.](media/image.png "Stroomdiagram."){:data-caption="Stroomdiagram." .light-only width="30%"}
+
+![Stroomdiagram.](media/image_dark.png "Stroomdiagram."){:data-caption="Stroomdiagram." .dark-only width="30%"}
+
 ## Gevraagd
 * Lees een **geheel getal** $$\mathsf{a}$$ in.
-* Is $$\mathsf{a}$$ groter dan 20, bereken dan $$\mathsf{b}$$ als volgt: $$\mathsf{b = a^2 - 2 \cdot a}$$;
-* In het andere geval, bereken dan $$b$$ als volgt: $$\mathsf{b = a^2 + 2 \cdot a}$$;
+* Bepaal $$\mathsf{b}$$ overeenkomstig het stroomdiagram.
 * Toon tot slot het getal $$\mathsf{b}$$.
 
 #### Voorbeeld
