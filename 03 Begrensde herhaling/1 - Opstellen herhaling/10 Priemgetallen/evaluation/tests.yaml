@@ -40,7 +40,7 @@
         23\n29\n31\n37\n41\n43\n47\n53\n59\n61\n67\n71\n73\n79\n83\n89\n97\n101\n\
         103\n107\n109\n113\n127\nEr werden 31 priemgetallen gevonden.\n"
   - testcases:
-    - stdin: '262'\
+    - stdin: '262'
       stdout: "De priemgetallen kleiner dan 262 zijn:\n2\n3\n5\n7\n11\n13\n17\n19\n\
         23\n29\n31\n37\n41\n43\n47\n53\n59\n61\n67\n71\n73\n79\n83\n89\n97\n101\n\
         103\n107\n109\n113\n127\n131\n137\n139\n149\n151\n157\n163\n167\n173\n179\n\
