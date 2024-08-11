@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Bureau van Pythagoras"
+      "nl": "Bureau van Pythagoras"
     }
   },
   "evaluation": {
@@ -12,8 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "Python",
-    "Robbe Wulgaert"
+    "import math"
   ],
   "internals": {
     "token": "uUsqP4YZDGNWz-aRuBRMSgbhvsq3egeKAbe7txnKSDc5Fm9HRIH8TqsY_dtDeBYd",

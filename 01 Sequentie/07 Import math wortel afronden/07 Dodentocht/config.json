@@ -12,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "sequentie"
   ],
   "internals": {
     "token": "2PTRZQBmFHUPspz2ptGtR2HMhNGytW5nf3U6AFbR4hY-3DeuWMr3q5MSqFIkVjIV",

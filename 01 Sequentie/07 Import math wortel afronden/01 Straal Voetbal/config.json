@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Straal Voetbal",
-      "en": "Import Math, Pi and Square Roots - Radius Soccer Ball"
+      "nl": "Straal voetbal",
+      "en": "Radius Soccer Ball"
     }
   },
   "evaluation": {
@@ -13,8 +13,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "Robbe Wulgaert",
-    "Python"
+    "import math"
   ],
   "internals": {
     "token": "dFmTyVKnpW2BgHkMVpVey7T_NqN4R6NFrsVSEv5I3HGR5xdTyrFEM-xjNAsuNEQG",

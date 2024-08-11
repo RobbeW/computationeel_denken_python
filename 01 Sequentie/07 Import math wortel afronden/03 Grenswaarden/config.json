@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Import Math, Pi en Wortels - Grenswaarden"
+      "nl": "Grenswaarden"
     }
   },
   "evaluation": {
@@ -12,7 +12,7 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "import math"
   ],
   "internals": {
     "token": "pmjvQeqpxMvbwHtGb2USmeDwxbvpU7yr6i_87Sti9Y4HKqP6qwrTV5fq9fRnEQ3U",
