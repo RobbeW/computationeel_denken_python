@@ -1,0 +1,92 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: F
+      stdout: "0\n"
+  - testcases:
+    - stdin: J
+      stdout: "1\n"
+  - testcases:
+    - stdin: JJJ
+      stdout: "6\n"
+  - testcases:
+    - stdin: FJFJ
+      stdout: "2\n"
+  - testcases:
+    - stdin: JJFFJF
+      stdout: "4\n"
+  - testcases:
+    - stdin: JJFFJFFJJJ
+      stdout: "10\n"
+  - testcases:
+    - stdin: JJJJJJJJJJ
+      stdout: "55\n"
+  - testcases:
+    - stdin: JJFFJJFFFJJ
+      stdout: "9\n"
+  - testcases:
+    - stdin: FJJJJJJJFJJ
+      stdout: "31\n"
+  - testcases:
+    - stdin: FFFJFJFJJFFF
+      stdout: "5\n"
+  - testcases:
+    - stdin: JJJFJJJFJFJFF
+      stdout: "14\n"
+  - testcases:
+    - stdin: JFJFJFJFJFJFJF
+      stdout: "7\n"
+  - testcases:
+    - stdin: JJJJFJJJJFJJJJF
+      stdout: "30\n"
+  - testcases:
+    - stdin: FFFFFJJJFJJFFFJJJFFF
+      stdout: "15\n"
+  - testcases:
+    - stdin: FFJFJFJFJJJJJFFJJJJFJFJJJJ
+      stdout: "39\n"
+  - testcases:
+    - stdin: JJJJJJJJFJJFJJJJFJFJJJJJJF
+      stdout: "71\n"
+  - testcases:
+    - stdin: JJJJJJJJJJJJJJJJJJJJJJJJJJJJF
+      stdout: "406\n"
+  - testcases:
+    - stdin: FJFJJFJFJFFFFFJJFFJJFJJFFFFFJJJJFFJJJ
+      stdout: "31\n"
+  - testcases:
+    - stdin: JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+      stdout: "780\n"
+  - testcases:
+    - stdin: JJJJJJFFJJJJJJFJJFFJFJFJJFFFJJJFJFJJJFFJJJ
+      stdout: "69\n"
+  - testcases:
+    - stdin: FFFFJFFFFFJFFJJFFJFFJFFFFFFJFFJJJFJFFFFJJFJFFFJJFFJFFF
+      stdout: "23\n"
+  - testcases:
+    - stdin: JJFFFJFFFFFFFFFFFFJFJFFFJFFJFFFFFJFFFJFFFFFJJJFFFJFJJFFFFFJ
+      stdout: "21\n"
+  - testcases:
+    - stdin: JFFFJFFJFFJFFFJFFJFJJFJJJFJJJFFJJFJJJJJFFJFJJFJFJJJFJJFJJJFJJJJFF
+      stdout: "69\n"
+  - testcases:
+    - stdin: FFFFFFFFFFFJFFFFFJFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFJFFFFFFFFFFFFFFFFJFFFFFF
+      stdout: "4\n"
+  - testcases:
+    - stdin: FFFJJJJFJJJJFJJJJJJJJJJJJJJJJJJJFJFJFJJJJJJJJJJJJJJFJFJJJJJJJJJJFJJFJJJJ
+      stdout: "386\n"
+  - testcases:
+    - stdin: JFJJJJJFJJJFFJFJFFFJFJJJJFJFFFFJFFJJFJJJJFJJFJJJJJFJJFJJFJJJJJJJJJJJFFJJF
+      stdout: "143\n"
+  - testcases:
+    - stdin: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      stdout: "0\n"
+  - testcases:
+    - stdin: FFFFFFFFFJFFFFFFFJFFFJFFFFFFFFFFFFFFFJFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      stdout: "4\n"
+  - testcases:
+    - stdin: FFFFFFFJFFJFFFFFFFFFFFFFJFFFFFFFFFFFFFJFJFJJFFFFFFFJFFFFFFJFFFJFFFFFFFFFFFFFF
+      stdout: "11\n"
+  - testcases:
+    - stdin: JJFFJFJFJJFJJJFJJFFJJJFJFJFFJJJJJFJJJJFJFJFJJJFJJJJJFFFJJJJJJJJFJFJFJFFFJFJFFJ
+      stdout: "115\n"

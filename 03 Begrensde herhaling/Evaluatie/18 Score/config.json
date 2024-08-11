@@ -4,18 +4,18 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Begrensde Herhaling - Toetsvraag 1 - Spaarbank",
-      "en": "For i in Range - Test Exercise 1 - Savings"
+      "nl": "Score"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "robbe wulgaert"
+    "evaluatie",
+    "for",
+    "tekst"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
     "token": "PfuzBs5bziIs3FcM6UPhhRiq7DSPmPSzKeZ_C5JGK78pdhvC7QDMiXzUEWEP4eyN",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
