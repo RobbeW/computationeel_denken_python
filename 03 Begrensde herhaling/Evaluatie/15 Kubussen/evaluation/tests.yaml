@@ -1,78 +1,91 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '5'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\n"
-  - testcases:
     - stdin: '2'
       stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\n"
   - testcases:
-    - stdin: '17'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
-        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384\
-        \ vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met\
-        \ zijde 10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\n\
-        Een kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft\
-        \ 1014 vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus\
-        \ met zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n\
-        Een kubus met zijde 17 heeft 1734 vierkanten.\n"
+    - stdin: '5'
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\n"
   - testcases:
     - stdin: '7'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
         Een kubus met zijde 7 heeft 294 vierkanten.\n"
   - testcases:
-    - stdin: '16'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
-        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384\
-        \ vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met\
-        \ zijde 10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\n\
-        Een kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft\
-        \ 1014 vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus\
-        \ met zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n"
-  - testcases:
-    - stdin: '15'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
-        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384\
-        \ vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met\
-        \ zijde 10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\n\
-        Een kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft\
-        \ 1014 vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus\
-        \ met zijde 15 heeft 1350 vierkanten.\n"
-  - testcases:
     - stdin: '9'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
-        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384\
-        \ vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\n"
-  - testcases:
-    - stdin: '18'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
-        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384\
-        \ vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met\
-        \ zijde 10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\n\
-        Een kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft\
-        \ 1014 vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus\
-        \ met zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n\
-        Een kubus met zijde 17 heeft 1734 vierkanten.\nEen kubus met zijde 18 heeft\
-        \ 1944 vierkanten.\n"
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\n"
   - testcases:
     - stdin: '10'
-      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft\
-        \ 54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met\
-        \ zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
-        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384\
-        \ vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met\
-        \ zijde 10 heeft 600 vierkanten.\n"
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met zijde
+        10 heeft 600 vierkanten.\n"
+  - testcases:
+    - stdin: '15'
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met zijde
+        10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\nEen
+        kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft 1014
+        vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus met
+        zijde 15 heeft 1350 vierkanten.\n"
+  - testcases:
+    - stdin: '16'
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met zijde
+        10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\nEen
+        kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft 1014
+        vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus met
+        zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n"
+  - testcases:
+    - stdin: '17'
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met zijde
+        10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\nEen
+        kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft 1014
+        vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus met
+        zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n\
+        Een kubus met zijde 17 heeft 1734 vierkanten.\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met zijde
+        10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\nEen
+        kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft 1014
+        vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus met
+        zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n\
+        Een kubus met zijde 17 heeft 1734 vierkanten.\nEen kubus met zijde 18 heeft
+        1944 vierkanten.\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "Een kubus met zijde 2 heeft 24 vierkanten.\nEen kubus met zijde 3 heeft
+        54 vierkanten.\nEen kubus met zijde 4 heeft 96 vierkanten.\nEen kubus met
+        zijde 5 heeft 150 vierkanten.\nEen kubus met zijde 6 heeft 216 vierkanten.\n\
+        Een kubus met zijde 7 heeft 294 vierkanten.\nEen kubus met zijde 8 heeft 384
+        vierkanten.\nEen kubus met zijde 9 heeft 486 vierkanten.\nEen kubus met zijde
+        10 heeft 600 vierkanten.\nEen kubus met zijde 11 heeft 726 vierkanten.\nEen
+        kubus met zijde 12 heeft 864 vierkanten.\nEen kubus met zijde 13 heeft 1014
+        vierkanten.\nEen kubus met zijde 14 heeft 1176 vierkanten.\nEen kubus met
+        zijde 15 heeft 1350 vierkanten.\nEen kubus met zijde 16 heeft 1536 vierkanten.\n\
+        Een kubus met zijde 17 heeft 1734 vierkanten.\nEen kubus met zijde 18 heeft
+        1944 vierkanten.\n"

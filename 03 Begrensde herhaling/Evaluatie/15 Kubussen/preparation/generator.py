@@ -1,6 +1,5 @@
 import os
-import sys
-import importlib
+import importlib.util
 import random
 import ruamel.yaml
 import subprocess
@@ -39,7 +38,8 @@ cases = [(5,),(2,)]
 while len( cases ) < ntests:
     n = random.randint(6,20)
     cases.append((n, ) )
-        
+
+cases.sort()
     
 # generate unit tests for functions
 yamldata = []
@@ -62,7 +62,7 @@ for i in range(len(cases)):
     # generate output to output file
     script = os.path.join(solutiondir, 'solution.nl.py')
     process= subprocess.run(
-        ['python3.8', script],
+        ['python3', script],
         input=stdin,
         encoding='utf-8',
         capture_output=True
