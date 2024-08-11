@@ -1,6 +1,6 @@
 ## Gegeven
 
-Wedden dat ik het kan is een Nederlands televisieprogramma op SBS6. In het programma gaan gewone mensen bepaalde uitdagingen aan. In 2017 nam de 11 jarige Abel uit Haarlem deel, hij kan namelijk woorden achterstevoren lezen.
+**'Wedden dat ik het kan'** is een Nederlands televisieprogramma op SBS6. In het programma gaan gewone mensen bepaalde uitdagingen aan. In 2017 nam de 11 jarige Abel uit Haarlem deel, hij kan namelijk woorden achterstevoren lezen.
 
 <div class="hidden-print">
     <div class="dodona-centered-group">
