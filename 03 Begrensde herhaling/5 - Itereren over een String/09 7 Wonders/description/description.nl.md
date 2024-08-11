@@ -30,4 +30,7 @@ De kaarten `"TTPPSS"` leveren het volgende aantal punten:
 26
 ```
 
+{: .callout.callout-secondary}
+>#### Bron
+> 2e ProgNova Multi-University Programming Contest van 2016
 
