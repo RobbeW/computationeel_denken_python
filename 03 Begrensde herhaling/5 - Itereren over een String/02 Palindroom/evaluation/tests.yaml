@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: lepel
+      stdout: "True\n"
+  - testcases:
+    - stdin: meetsysteem
+      stdout: "True\n"
+  - testcases:
+    - stdin: neven
+      stdout: "True\n"
+  - testcases:
+    - stdin: droommoord
+      stdout: "True\n"
+  - testcases:
+    - stdin: negen
+      stdout: "True\n"
+  - testcases:
+    - stdin: kajak
+      stdout: "True\n"
+  - testcases:
+    - stdin: radar
+      stdout: "True\n"
+  - testcases:
+    - stdin: meem
+      stdout: "True\n"
+  - testcases:
+    - stdin: niveau
+      stdout: "False\n"
+  - testcases:
+    - stdin: madam
+      stdout: "True\n"
+  - testcases:
+    - stdin: koorts
+      stdout: "False\n"
+  - testcases:
+    - stdin: verren
+      stdout: "False\n"
+  - testcases:
+    - stdin: titel
+      stdout: "False\n"
+  - testcases:
+    - stdin: motor
+      stdout: "False\n"
+  - testcases:
+    - stdin: tarwe
+      stdout: "False\n"
+  - testcases:
+    - stdin: regen
+      stdout: "False\n"
+  - testcases:
+    - stdin: kranig
+      stdout: "False\n"
+  - testcases:
+    - stdin: boer
+      stdout: "False\n"
+  - testcases:
+    - stdin: lamp
+      stdout: "False\n"
+  - testcases:
+    - stdin: kok
+      stdout: "True\n"

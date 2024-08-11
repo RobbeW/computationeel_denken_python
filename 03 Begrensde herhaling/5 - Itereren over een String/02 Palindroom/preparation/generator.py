@@ -31,25 +31,29 @@ spec = importlib.util.spec_from_file_location(module_name, file_path)
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
-# generate test data
-cases=[
-    ("limonade",),
-    ("amerika",),
-    ("bushalte",),
-    ("slingeraap",),
-    ("basketbal",),
-    ("fruitboom",),
-    ("ridderzaal",),
-    ("bakpapier",),
-    ("donderdag",),
-    ("trommelaar",),
-    ("betoveren",),
-    ("fotoalbum",),
-    ("slaapfeest",),
-    ("metrokaart",),
-    ("tafelpoot",),
-    ("simkaart",)
+cases = [
+    ("lepel",),        # Palindroom
+    ("meetsysteem",),  # Palindroom
+    ("neven",),        # Palindroom
+    ("droommoord",),   # Palindroom
+    ("negen",),        # Palindroom
+    ("kajak",),        # Palindroom
+    ("radar",),        # Palindroom
+    ("meem",),         # Palindroom
+    ("niveau",),       # Palindroom
+    ("madam",),        # Palindroom
+    ("koorts",),       # Geen palindroom
+    ("verren",),       # Geen palindroom
+    ("titel",),        # Palindroom
+    ("motor",),        # Geen palindroom
+    ("tarwe",),        # Geen palindroom
+    ("regen",),        # Geen palindroom
+    ("kranig",),       # Geen palindroom
+    ("boer",),         # Geen palindroom
+    ("lamp",),         # Geen palindroom
+    ("kok",)           # Palindroom
 ]
+
 
 # generate unit tests for functions
 yamldata = []

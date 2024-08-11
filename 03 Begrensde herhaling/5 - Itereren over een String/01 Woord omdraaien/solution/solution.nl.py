@@ -6,6 +6,5 @@ omgekeerde_woord = ""
 for teken in woord:
     omgekeerde_woord = teken + omgekeerde_woord
 
-print()
 # Print het omgekeerde woord
 print(omgekeerde_woord)

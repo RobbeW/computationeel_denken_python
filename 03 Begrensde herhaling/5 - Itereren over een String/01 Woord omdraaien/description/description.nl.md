@@ -8,7 +8,7 @@
     </div>
 </div>
 
-Het woord `"Limonade"` leest Abel als `"edanomiL"`, enz..
+Het woord `"limonade"` leest Abel als `"edanomil"`, enz..
 
 ## Gevraagd
 
@@ -16,7 +16,7 @@ Schrijf een programma dat een woord inleest en dit vervolgens achterstevoren afd
 
 #### Voorbeeld
 
-Na de invoer `"Limonade"` verschijnt:
+Na de invoer `"limonade"` verschijnt:
 ```
-edanomiL
+edanomil
 ```

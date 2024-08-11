@@ -1,50 +1,50 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: Limonade
-      stdout: "edanomiL\n"
+    - stdin: limonade
+      stdout: "edanomil\n"
   - testcases:
-    - stdin: Amerika
-      stdout: "akiremA\n"
+    - stdin: amerika
+      stdout: "akirema\n"
   - testcases:
-    - stdin: Bushalte
-      stdout: "etlahsuB\n"
+    - stdin: bushalte
+      stdout: "etlahsub\n"
   - testcases:
-    - stdin: Slingeraap
-      stdout: "paaregnilS\n"
+    - stdin: slingeraap
+      stdout: "paaregnils\n"
   - testcases:
-    - stdin: Basketbal
-      stdout: "labteksaB\n"
+    - stdin: basketbal
+      stdout: "labteksab\n"
   - testcases:
-    - stdin: Fruitboom
-      stdout: "moobtiurF\n"
+    - stdin: fruitboom
+      stdout: "moobtiurf\n"
   - testcases:
-    - stdin: Ridderzaal
-      stdout: "laazreddiR\n"
+    - stdin: ridderzaal
+      stdout: "laazreddir\n"
   - testcases:
-    - stdin: Bakpapier
-      stdout: "reipapkaB\n"
+    - stdin: bakpapier
+      stdout: "reipapkab\n"
   - testcases:
-    - stdin: Donderdag
-      stdout: "gadrednoD\n"
+    - stdin: donderdag
+      stdout: "gadrednod\n"
   - testcases:
-    - stdin: Trommelaar
-      stdout: "raalemmorT\n"
+    - stdin: trommelaar
+      stdout: "raalemmort\n"
   - testcases:
-    - stdin: Betoveren
-      stdout: "nerevoteB\n"
+    - stdin: betoveren
+      stdout: "nerevoteb\n"
   - testcases:
-    - stdin: Fotoalbum
-      stdout: "mublaotoF\n"
+    - stdin: fotoalbum
+      stdout: "mublaotof\n"
   - testcases:
-    - stdin: Slaapfeest
-      stdout: "tseefpaalS\n"
+    - stdin: slaapfeest
+      stdout: "tseefpaals\n"
   - testcases:
-    - stdin: Metrokaart
-      stdout: "traakorteM\n"
+    - stdin: metrokaart
+      stdout: "traakortem\n"
   - testcases:
-    - stdin: Tafelpoot
-      stdout: "tooplefaT\n"
+    - stdin: tafelpoot
+      stdout: "tooplefat\n"
   - testcases:
-    - stdin: Simkaart
-      stdout: "traakmiS\n"
+    - stdin: simkaart
+      stdout: "traakmis\n"
