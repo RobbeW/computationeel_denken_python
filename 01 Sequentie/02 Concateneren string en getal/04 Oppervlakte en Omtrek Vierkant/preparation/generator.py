@@ -41,9 +41,10 @@ while len(cases) < ntests:
     O = 4 * z
     
     case = (z, )
-    if  round(A,2) == A and round(O, 2) == O:
+    if  round(A,4) == A and round(O, 4) == O:
         if case not in cases:
             cases.append(case)
+cases.sort()
 
 # generate unit tests for functions
 yamldata = []
