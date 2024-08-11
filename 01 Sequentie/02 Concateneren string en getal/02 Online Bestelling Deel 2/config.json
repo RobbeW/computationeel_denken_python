@@ -1,16 +1,16 @@
 {
   "description": {
     "names": {
-      "nl": "Concateneren - Online Bestelling Deel 2",
-      "en": "Combining - Online Order Part 2"
+      "nl": "Online bestelling Deel 2"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "Robbe Wulgaert",
-    "Python"
+    "sequentie",
+    "concatenatie"
   ],
   "access": "public",
   "internals": {

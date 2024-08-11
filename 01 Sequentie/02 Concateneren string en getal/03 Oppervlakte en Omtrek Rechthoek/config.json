@@ -4,16 +4,16 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Concateneren - Oppervlakte en omtrek rechthoek",
-      "en": "Combining - Dimensions rectangle"
+      "nl": "Oppervlakte en omtrek rechthoek"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "Robbe Wulgaert"
+    "sequentie",
+    "concatenatie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {

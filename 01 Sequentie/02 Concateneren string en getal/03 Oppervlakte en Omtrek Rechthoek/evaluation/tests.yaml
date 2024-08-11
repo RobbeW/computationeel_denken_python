@@ -1,0 +1,82 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "10.75\n5.66"
+      stdout: "De oppervlakte van de rechthoek is 60.845 vierkante meter.\nDe omtrek
+        van de rechthoek is 32.82 meter.\n"
+  - testcases:
+    - stdin: "46.0\n8.16"
+      stdout: "De oppervlakte van de rechthoek is 375.36 vierkante meter.\nDe omtrek
+        van de rechthoek is 108.32 meter.\n"
+  - testcases:
+    - stdin: "24.32\n15.5"
+      stdout: "De oppervlakte van de rechthoek is 376.96 vierkante meter.\nDe omtrek
+        van de rechthoek is 79.64 meter.\n"
+  - testcases:
+    - stdin: "38.36\n29.5"
+      stdout: "De oppervlakte van de rechthoek is 1131.62 vierkante meter.\nDe omtrek
+        van de rechthoek is 135.72 meter.\n"
+  - testcases:
+    - stdin: "26.0\n14.09"
+      stdout: "De oppervlakte van de rechthoek is 366.34 vierkante meter.\nDe omtrek
+        van de rechthoek is 80.18 meter.\n"
+  - testcases:
+    - stdin: "41.08\n39.0"
+      stdout: "De oppervlakte van de rechthoek is 1602.12 vierkante meter.\nDe omtrek
+        van de rechthoek is 160.16 meter.\n"
+  - testcases:
+    - stdin: "30.29\n17.0"
+      stdout: "De oppervlakte van de rechthoek is 514.93 vierkante meter.\nDe omtrek
+        van de rechthoek is 94.58 meter.\n"
+  - testcases:
+    - stdin: "44.0\n40.4"
+      stdout: "De oppervlakte van de rechthoek is 1777.6 vierkante meter.\nDe omtrek
+        van de rechthoek is 168.8 meter.\n"
+  - testcases:
+    - stdin: "16.0\n12.25"
+      stdout: "De oppervlakte van de rechthoek is 196.0 vierkante meter.\nDe omtrek
+        van de rechthoek is 56.5 meter.\n"
+  - testcases:
+    - stdin: "36.65\n31.6"
+      stdout: "De oppervlakte van de rechthoek is 1158.14 vierkante meter.\nDe omtrek
+        van de rechthoek is 136.5 meter.\n"
+  - testcases:
+    - stdin: "25.6\n11.45"
+      stdout: "De oppervlakte van de rechthoek is 293.12 vierkante meter.\nDe omtrek
+        van de rechthoek is 74.1 meter.\n"
+  - testcases:
+    - stdin: "11.2\n6.65"
+      stdout: "De oppervlakte van de rechthoek is 74.48 vierkante meter.\nDe omtrek
+        van de rechthoek is 35.7 meter.\n"
+  - testcases:
+    - stdin: "34.4\n11.85"
+      stdout: "De oppervlakte van de rechthoek is 407.64 vierkante meter.\nDe omtrek
+        van de rechthoek is 92.5 meter.\n"
+  - testcases:
+    - stdin: "44.6\n21.0"
+      stdout: "De oppervlakte van de rechthoek is 936.6 vierkante meter.\nDe omtrek
+        van de rechthoek is 131.2 meter.\n"
+  - testcases:
+    - stdin: "44.36\n32.5"
+      stdout: "De oppervlakte van de rechthoek is 1441.7 vierkante meter.\nDe omtrek
+        van de rechthoek is 153.72 meter.\n"
+  - testcases:
+    - stdin: "46.0\n40.3"
+      stdout: "De oppervlakte van de rechthoek is 1853.8 vierkante meter.\nDe omtrek
+        van de rechthoek is 172.6 meter.\n"
+  - testcases:
+    - stdin: "44.65\n35.2"
+      stdout: "De oppervlakte van de rechthoek is 1571.68 vierkante meter.\nDe omtrek
+        van de rechthoek is 159.7 meter.\n"
+  - testcases:
+    - stdin: "22.55\n19.2"
+      stdout: "De oppervlakte van de rechthoek is 432.96 vierkante meter.\nDe omtrek
+        van de rechthoek is 83.5 meter.\n"
+  - testcases:
+    - stdin: "18.0\n9.47"
+      stdout: "De oppervlakte van de rechthoek is 170.46 vierkante meter.\nDe omtrek
+        van de rechthoek is 54.94 meter.\n"
+  - testcases:
+    - stdin: "8.68\n6.25"
+      stdout: "De oppervlakte van de rechthoek is 54.25 vierkante meter.\nDe omtrek
+        van de rechthoek is 29.86 meter.\n"

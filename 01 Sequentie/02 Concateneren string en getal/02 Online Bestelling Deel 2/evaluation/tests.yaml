@@ -1,0 +1,46 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Karim\nCerit\nKoekoekstraat\n77\n9000"
+      stdout: "De bestelling wordt verzonden naar: Karim Cerit, Koekoekstraat 77,
+        9000.\n"
+  - testcases:
+    - stdin: "Sherlock\nHolmes\nBaker Street\n221B\nNW1 6XE"
+      stdout: "De bestelling wordt verzonden naar: Sherlock Holmes, Baker Street 221B,
+        NW1 6XE.\n"
+  - testcases:
+    - stdin: "Harry\nPotter\nLigusterlaan\n4\nCH61 1DE"
+      stdout: "De bestelling wordt verzonden naar: Harry Potter, Ligusterlaan 4, CH61
+        1DE.\n"
+  - testcases:
+    - stdin: "Donald\nDuck\nKwakstraat\n13\n37326"
+      stdout: "De bestelling wordt verzonden naar: Donald Duck, Kwakstraat 13, 37326.\n"
+  - testcases:
+    - stdin: "Tony\nStark\nBleeker Street\n177A\n10012"
+      stdout: "De bestelling wordt verzonden naar: Tony Stark, Bleeker Street 177A,
+        10012.\n"
+  - testcases:
+    - stdin: "Frodo\nBalings\nBalingshoek\n1\nSH1"
+      stdout: "De bestelling wordt verzonden naar: Frodo Balings, Balingshoek 1, SH1.\n"
+  - testcases:
+    - stdin: "Bruce\nWayne\nWayne Manor\n1007\nNJ07007"
+      stdout: "De bestelling wordt verzonden naar: Bruce Wayne, Wayne Manor 1007,
+        NJ07007.\n"
+  - testcases:
+    - stdin: "James\nBond\nDowning Street\n10\nSW1A 2AA"
+      stdout: "De bestelling wordt verzonden naar: James Bond, Downing Street 10,
+        SW1A 2AA.\n"
+  - testcases:
+    - stdin: "Peter\nParker\nQueens Boulevard\n20\n11375"
+      stdout: "De bestelling wordt verzonden naar: Peter Parker, Queens Boulevard
+        20, 11375.\n"
+  - testcases:
+    - stdin: "Bilbo\nBalings\nBalingshoek\n1\nSH1"
+      stdout: "De bestelling wordt verzonden naar: Bilbo Balings, Balingshoek 1, SH1.\n"
+  - testcases:
+    - stdin: "Clark\nKent\nSullivan Lane\n344\n10001"
+      stdout: "De bestelling wordt verzonden naar: Clark Kent, Sullivan Lane 344,
+        10001.\n"
+  - testcases:
+    - stdin: "Arthur\nDent\nWest End\n42\n4101"
+      stdout: "De bestelling wordt verzonden naar: Arthur Dent, West End 42, 4101.\n"
