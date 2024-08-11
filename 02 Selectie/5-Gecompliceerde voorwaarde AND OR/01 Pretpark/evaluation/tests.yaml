@@ -1,50 +1,50 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "Emma\n14"
-      stdout: "Emma, je mag gratis binnen!\n"
-  - testcases:
-    - stdin: "Kim\n18"
-      stdout: "Kim, je moet een dagticket kopen van 35 euro.\n"
-  - testcases:
-    - stdin: "Anna\n12"
-      stdout: "Anna, je mag gratis binnen!\n"
-  - testcases:
-    - stdin: "Eva\n16"
-      stdout: "Eva, je mag gratis binnen!\n"
-  - testcases:
-    - stdin: "Jan\n19"
-      stdout: "Jan, je moet een dagticket kopen van 35 euro.\n"
-  - testcases:
     - stdin: "Piet\n9"
       stdout: "Piet, je moet een dagticket kopen van 35 euro.\n"
-  - testcases:
-    - stdin: "Joris\n18"
-      stdout: "Joris, je moet een dagticket kopen van 35 euro.\n"
-  - testcases:
-    - stdin: "Korneel\n17"
-      stdout: "Korneel, je moet een dagticket kopen van 35 euro.\n"
   - testcases:
     - stdin: "Eymen\n11"
       stdout: "Eymen, je moet een dagticket kopen van 35 euro.\n"
   - testcases:
-    - stdin: "Louis\n20"
-      stdout: "Louis, je moet een dagticket kopen van 35 euro.\n"
+    - stdin: "Anna\n12"
+      stdout: "Anna, je mag gratis binnen!\n"
   - testcases:
     - stdin: "Bob\n12"
       stdout: "Bob, je mag gratis binnen!\n"
   - testcases:
-    - stdin: "Koen\n20"
-      stdout: "Koen, je moet een dagticket kopen van 35 euro.\n"
+    - stdin: "Emma\n14"
+      stdout: "Emma, je mag gratis binnen!\n"
   - testcases:
-    - stdin: "Myriam\n17"
-      stdout: "Myriam, je moet een dagticket kopen van 35 euro.\n"
+    - stdin: "Eva\n16"
+      stdout: "Eva, je mag gratis binnen!\n"
   - testcases:
     - stdin: "Kristina\n16"
       stdout: "Kristina, je mag gratis binnen!\n"
   - testcases:
+    - stdin: "Korneel\n17"
+      stdout: "Korneel, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
+    - stdin: "Myriam\n17"
+      stdout: "Myriam, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
     - stdin: "Marie\n17"
       stdout: "Marie, je moet een dagticket kopen van 35 euro.\n"
   - testcases:
+    - stdin: "Kim\n18"
+      stdout: "Kim, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
+    - stdin: "Joris\n18"
+      stdout: "Joris, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
+    - stdin: "Jan\n19"
+      stdout: "Jan, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
     - stdin: "Fien\n19"
       stdout: "Fien, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
+    - stdin: "Louis\n20"
+      stdout: "Louis, je moet een dagticket kopen van 35 euro.\n"
+  - testcases:
+    - stdin: "Koen\n20"
+      stdout: "Koen, je moet een dagticket kopen van 35 euro.\n"

@@ -38,6 +38,8 @@ cases = [('Emma', 14), ('Kim', 18), ("Anna",12), ("Eva",16)]
 for name in names:
     case = (name, random.randint(8,22))
     cases.append(case)
+    
+cases = sorted(cases, key = lambda x: x[1])
 
 # generate unit tests for functions
 yamldata = []

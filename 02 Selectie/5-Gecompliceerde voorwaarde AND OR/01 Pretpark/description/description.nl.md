@@ -1,5 +1,5 @@
 ## Gegeven
-Een pretpark doet dit weekend een heuse reclamestunt. Al wie tussen 12 **en** 16 jaar (grenzen inbegrepen) oud is, mag gratis binnen. Alle anderen moeten een dagticket kopen van € 35.
+Een pretpark doet dit weekend een heuse reclamestunt. Al wie tussen 12 **en** 16 jaar (grenzen inbegrepen) oud is, mag gratis binnen. **Alle anderen** moeten een dagticket kopen van € 35.
 
 ![Lachende gezichten op en achtbaan.](media/chris-slupski.jpg "Foto door Chris Slupski op Unsplash."){:data-caption="Lachende gezichten op en achtbaan." width="40%"}
 

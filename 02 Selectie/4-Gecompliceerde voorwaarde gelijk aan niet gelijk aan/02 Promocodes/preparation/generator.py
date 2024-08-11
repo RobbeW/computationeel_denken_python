@@ -40,6 +40,8 @@ while len(cases) < ntests:
     case = (round(round(random.uniform(15,80), 1) +random.randint(0,1)*0.05, 2), code[0])
     cases.append(case)
 
+cases = sorted(cases, key= lambda x:x[0])
+
 # generate unit tests for functions
 yamldata = []
 
