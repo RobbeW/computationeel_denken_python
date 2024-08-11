@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Eenvoudige Bewerkingen en Operatoren - Drukkerij",
-      "en": "Simple Calculations and Operators - Printing"
+      "nl": "Drukkerij"
     }
   },
   "evaluation": {

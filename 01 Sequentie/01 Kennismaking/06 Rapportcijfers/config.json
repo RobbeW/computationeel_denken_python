@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Integers en Floats - Rapportcijfers",
-      "en": "Integers and Floats - Grades"
+      "nl": "Rapportcijfers"
     }
   },
   "evaluation": {
