@@ -69,7 +69,7 @@ for i in range(len(cases)):
     
     outputtxt = ""
     for line in result_lines:
-        if not(line.startswith( 'Geef' ) or line.startswith( 'Voer' )):
+        if not(line.startswith( 'Geef' ) or line.startswith( 'Hoeveel' )):
             print(line)
             outputtxt += line + "\n"
             

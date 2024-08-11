@@ -2,45 +2,34 @@
   contexts:
   - testcases:
     - stdin: '15'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 15 minuten
-        vliegt, dan heb je 435.0 km afgelegd.\n"
+      stdout: "Als je 15 minuten vliegt, dan heb je 435.0 km afgelegd.\n"
   - testcases:
     - stdin: '30'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 30 minuten
-        vliegt, dan heb je 870.0 km afgelegd.\n"
+      stdout: "Als je 30 minuten vliegt, dan heb je 870.0 km afgelegd.\n"
   - testcases:
     - stdin: '45'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 45 minuten
-        vliegt, dan heb je 1305.0 km afgelegd.\n"
+      stdout: "Als je 45 minuten vliegt, dan heb je 1305.0 km afgelegd.\n"
   - testcases:
     - stdin: '60'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 60 minuten
-        vliegt, dan heb je 1740.0 km afgelegd.\n"
+      stdout: "Als je 60 minuten vliegt, dan heb je 1740.0 km afgelegd.\n"
   - testcases:
     - stdin: '75'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 75 minuten
-        vliegt, dan heb je 2175.0 km afgelegd.\n"
+      stdout: "Als je 75 minuten vliegt, dan heb je 2175.0 km afgelegd.\n"
   - testcases:
     - stdin: '90'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 90 minuten
-        vliegt, dan heb je 2610.0 km afgelegd.\n"
+      stdout: "Als je 90 minuten vliegt, dan heb je 2610.0 km afgelegd.\n"
   - testcases:
     - stdin: '105'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 105 minuten
-        vliegt, dan heb je 3045.0 km afgelegd.\n"
+      stdout: "Als je 105 minuten vliegt, dan heb je 3045.0 km afgelegd.\n"
   - testcases:
     - stdin: '120'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 120 minuten
-        vliegt, dan heb je 3480.0 km afgelegd.\n"
+      stdout: "Als je 120 minuten vliegt, dan heb je 3480.0 km afgelegd.\n"
   - testcases:
     - stdin: '135'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 135 minuten
-        vliegt, dan heb je 3915.0 km afgelegd.\n"
+      stdout: "Als je 135 minuten vliegt, dan heb je 3915.0 km afgelegd.\n"
   - testcases:
     - stdin: '150'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 150 minuten
-        vliegt, dan heb je 4350.0 km afgelegd.\n"
+      stdout: "Als je 150 minuten vliegt, dan heb je 4350.0 km afgelegd.\n"
   - testcases:
     - stdin: '165'
-      stdout: "Hoeveel minuten zal je met de Concorde vliegen? \nAls je 165 minuten
-        vliegt, dan heb je 4785.0 km afgelegd.\n"
+      stdout: "Als je 165 minuten vliegt, dan heb je 4785.0 km afgelegd.\n"
