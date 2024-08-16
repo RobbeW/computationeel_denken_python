@@ -6,12 +6,12 @@ lengte = float(input("Voer jouw lengte in (in meter): "))
 lengte /= 100
 bmi = round(massa / (lengte ** 2), 2)
 
-# Categoriseer de BMI
+# Categoriseer de BMI met behulp van 'and' en 'or'
 if bmi <= 18.5:
     categorie = "ondergewicht"
-elif bmi <= 25:
+elif bmi > 18.5 and bmi <= 25:
     categorie = "gezond"
-elif bmi <= 30:
+elif bmi > 25 and bmi <= 30:
     categorie = "overgewicht"
 else:
     categorie = "obesitas"
