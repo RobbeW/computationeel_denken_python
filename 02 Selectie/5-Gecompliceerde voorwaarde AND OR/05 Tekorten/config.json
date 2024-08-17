@@ -12,9 +12,14 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "and or",
-    "Robbe Wulgaert"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Selectie",
+    "if, else en elif-functies",
+    "AND en OR",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
