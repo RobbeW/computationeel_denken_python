@@ -12,8 +12,15 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "while",
-    "import math"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Voorwaardelijke Herhaling",
+    "While-lus",
+    "Import", 
+    "Math", 
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "N8uf2F2Dj2rRivggxkxiUt8QRHHsByPHH8CfJCNXwAIh9Fvnu5fkt3QFJt7HV-u5",
