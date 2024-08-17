@@ -13,7 +13,14 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Voorwaardelijke Herhaling",
+    "While-lus",
+    "Evaluatie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
