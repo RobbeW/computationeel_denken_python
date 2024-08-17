@@ -9,8 +9,13 @@
     "pythia_judge": "output"
   },
   "labels": [
-    "Python",
-    "Robbe Wulgaert"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Sequentie",
+    "Input-functie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "type": "content",
   "access": "public",
