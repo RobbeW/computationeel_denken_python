@@ -12,8 +12,15 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "for",
-    "tekst"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "Lijsten",
+    "String",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "PcEWCFswPar_58THiAqzEgAn7K-9WRxqu-KpnrPcTit3x7nMgsGX9N6z3r3XJcXu",
