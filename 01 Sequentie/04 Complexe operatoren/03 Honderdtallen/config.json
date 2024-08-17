@@ -12,7 +12,13 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "modulo"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Sequentie",
+    "Modulo",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "ICyANetWZqp4E7FvTjW__6XPCi4nQnvR_7eU7fzS2eeMQTnnQQktJzNcfVhMyPmu",
