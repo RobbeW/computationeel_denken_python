@@ -9,9 +9,14 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "for",
-    "fractaal"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "Fractaal",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "access": "public",
   "internals": {
