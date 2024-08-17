@@ -11,6 +11,7 @@
     "handler": "tested",
     "test_suite": "tests.yaml"
   },
+  "labels": [
     "Robbe Wulgaert",
     "Python", 
     "Python in de Klas", 
