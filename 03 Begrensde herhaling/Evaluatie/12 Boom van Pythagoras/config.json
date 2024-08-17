@@ -12,9 +12,15 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "evaluatie",
-    "for",
-    "fractaal"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "Fractaal",
+    "Evaluatie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "_yBEF3Ha62_6qYrrxYwjSeJQk9U7kzsRKkQDe5aenQeMnZraCuuU_demSHfAy9mu",
