@@ -12,8 +12,14 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "sequentie",
-    "round()"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Sequentie",
+    "Afronden",
+    "round()",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "yPbQQHiS2KBq7_FhYxqrue3kTgStiieGfv_VVg5gIS4YxNn5FqgMfE7ghqc8h_v8",
