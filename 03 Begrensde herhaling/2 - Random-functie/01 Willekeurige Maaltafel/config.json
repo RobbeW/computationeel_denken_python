@@ -13,8 +13,14 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    "python",
-    "random"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "Random-functie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "fTygwaEtAz6FDKZIFTCItzh_jDeGZKgmWhcq7jf7wbCxx2dwNs3_wdBs_JAEhUJr",
