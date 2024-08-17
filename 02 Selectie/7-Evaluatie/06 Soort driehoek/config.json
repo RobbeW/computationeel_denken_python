@@ -12,9 +12,13 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python",
-    "evaluatie",
-    "selectie"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Selectie",
+    "Evaluatie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "iAVmCjSwFW23appJmk48wJTSBcduavsG3mTw_SDcXUtxt4HU2E6y2wnCweInMBiB",
