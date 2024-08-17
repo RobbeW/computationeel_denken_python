@@ -9,9 +9,14 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "evaluatie",
-    "sequentie",
-    "modulo"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Sequentie",
+    "Evaluatie",
+    "Modulo",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "access": "public",
   "internals": {
