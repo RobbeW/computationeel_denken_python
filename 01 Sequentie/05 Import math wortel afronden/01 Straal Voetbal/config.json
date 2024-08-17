@@ -13,7 +13,16 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "import math"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Sequentie",
+    "import",
+    "Math",
+    "Pi",
+    "Wortels",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "dFmTyVKnpW2BgHkMVpVey7T_NqN4R6NFrsVSEv5I3HGR5xdTyrFEM-xjNAsuNEQG",
