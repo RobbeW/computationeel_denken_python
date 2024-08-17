@@ -11,8 +11,13 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "sequentie",
-    "concatenatie"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Sequentie",
+    "Concateneren",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "access": "public",
   "internals": {
