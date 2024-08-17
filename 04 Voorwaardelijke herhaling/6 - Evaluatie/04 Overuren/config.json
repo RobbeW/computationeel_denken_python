@@ -13,7 +13,14 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "python"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Voorwaardelijke Herhaling",
+    "While-lus",
+    "Evaluatie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "dYsFncZ_pWf8pAqwQmJ5tJn97GQhV28_wwKXca_qzPRnDDYqbacGjhBAbJ9HjkGU",
