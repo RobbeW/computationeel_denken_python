@@ -12,7 +12,16 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "for"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "Lijsten",
+    "Append-functie",
+    "Fibonacci",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "nfdfv2-NdhRD9AV9CmaBC7AdJ_THUCAtNAN2sGqiy5bxDnEm8eDUwjgeAVM2gas4",
