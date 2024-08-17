@@ -1,4 +1,4 @@
-Deze oefening werd gemaakt door Robbe Wulgaert. 
+Deze oefening werd gemaakt door Robbe Wulgaert en Dieter Vanderfaeillie. 
 
 Meer informatie: [www.robbewulgaert.be](www.robbewulgaert.be)
 
