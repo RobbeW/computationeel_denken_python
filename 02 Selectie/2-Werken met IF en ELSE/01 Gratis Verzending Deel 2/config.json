@@ -12,8 +12,13 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "selectie",
-    "if en else"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Selectie",
+    "if en else-functies",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
