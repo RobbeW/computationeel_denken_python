@@ -12,8 +12,13 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "selectie",
-    "if, elif en else"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Selectie",
+    "if, else en elif-functies",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "qMDByMZtrhsKtttZWAnnsPqxTCKQVZUpakSWswI7vHvnRq79Zaa5QzCKdHMYSWYe",
