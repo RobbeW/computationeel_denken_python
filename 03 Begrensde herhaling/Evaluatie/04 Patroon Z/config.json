@@ -12,9 +12,15 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    "evaluatie",
-    "for",
-    "ASCII patroon"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "ASCII patroon",
+    "Evaluatie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "internals": {
     "token": "3z2iM7vw-9zJPsv7-EfyBE8bnf5c3X9mb2wkk6RtytX3xAqe_gwJFBgwhaa8sP4Y",
