@@ -11,10 +11,13 @@
     "handler": "tested",
     "test_suite": "tests.yaml"
   },
-  "labels": [
-    "python",
-    "for",
-    "robbe wulgaert"
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Begrensde Herhaling",
+    "For-lus",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
