@@ -10,9 +10,9 @@ Een rechthoek is per definitie een vierhoek met vier rechte hoeken. Deze heeft e
 ## Gevraagd
 
 * Schrijf een programma dat **vraagt** naar de lengte en breedte van een rechthoek;
-* Bereken de **oppervlakte** van de rechthoek;
-* Bereken de **omtrek** van de rechthoek;
-* Geef de oppervlakte en omtrek van de rechthoek weer op het scherm.
+* Bereken de `oppervlakte` van de rechthoek;
+* Bereken de `omtrek` van de rechthoek;
+* Geef de `oppervlakte` en `omtrek` van de rechthoek weer op het scherm.
 
 #### Voorbeeld
 
