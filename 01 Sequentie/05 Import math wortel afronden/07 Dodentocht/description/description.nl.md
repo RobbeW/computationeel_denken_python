@@ -16,7 +16,7 @@ Indien je bijvoorbeeld aan kilometerpost 30 bent aangekomen met een gemiddelde s
 
 ## Gevraagd
 
-- Vraag de gebruiker naar het aantal kilometers, wat een kommagetal kan zijn;
+- Vraag de gebruiker naar het aantal reeds afgelegde kilometers, wat een kommagetal kan zijn;
 - Vraag vervolgens de gemiddelde snelheid;
 - Geef daarna op het scherm weer wat de gemiddelde snelheid op het resterende deel moet zijn. **Rond af** op één decimaal.
 
