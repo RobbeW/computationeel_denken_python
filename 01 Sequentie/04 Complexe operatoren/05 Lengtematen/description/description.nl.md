@@ -15,11 +15,11 @@ Het verband tussen de lengtematen *inch*, *foot* en *yard* is als volgt.
 
 ## Gevraagd
 
-Schrijf een programma dat voor aan de gebruiker een aantal meter vraagt. 
+* Schrijf een programma dat voor aan de gebruiker een aantal meter vraagt. 
 
-Daarna wordt er uitgerekend met hoeveel *yard*, *feet* en *inch* dit overeenkomt.
+* Daarna wordt er uitgerekend met hoeveel *yard*, *feet* en *inch* dit overeenkomt.
 
-Zorg ervoor dat het aantal *feet* en het aantal *yard* een geheel getal is. Terwijl de kleinste eenheid *inch* een kommagetal (afgerond op 2 cijfers) kan zijn.
+* Zorg ervoor dat het aantal *feet* en het aantal *yard* een geheel getal is. Terwijl de kleinste eenheid *inch* een kommagetal (afgerond op 2 cijfers) kan zijn.
 
 #### Voorbeeld 1
 Voor een lengte van 1,80 m geldt:
