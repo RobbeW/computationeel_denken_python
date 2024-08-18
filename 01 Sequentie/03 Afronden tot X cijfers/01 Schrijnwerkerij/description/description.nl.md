@@ -8,7 +8,7 @@ Hij voert de afmetingen telkens in via zijn machine.
 
 * Schrijf een programma dat de gebruiker vraagt naar de `lengte` en de `breedte`. 
 * Bereken de `omtrek` en vervolgens de `oppervlakte` tot **2 decimalen.**
-* Print de **omtrek** en de **oppervlakte** naar het scherm. 
+* Print de `omtrek` en de `oppervlakte` naar het scherm. 
 
 #### Voorbeeld
 
