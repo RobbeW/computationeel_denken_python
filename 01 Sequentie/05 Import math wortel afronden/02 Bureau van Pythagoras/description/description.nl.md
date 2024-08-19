@@ -6,7 +6,7 @@ Gelukkig kan dit eenvoudig met behulp van **de stelling van Pythagoras**:
 >#### Stelling van Pythagoras
 > In een rechthoekige driehoek is de som van de kwadraten van de rechthoekszijden gelijk aan het kwadraat van de schuine zijde.
 
-Hieronder zie je een figuur die stelling beter illustreert, er geldt in deze figuur dus $$\mathsf{a^2+b^2 = c^2}$$.
+Hieronder zie je een figuur die stelling beter illustreert. Er geldt in deze figuur dus $$\mathsf{a^2+b^2 = c^2}$$.
 
 ![De stelling van Pythagoras.](media/image.png "De stelling van Pythagoras."){:data-caption="De stelling van Pythagoras." .light-only width="30%"}
 
@@ -14,7 +14,7 @@ Hieronder zie je een figuur die stelling beter illustreert, er geldt in deze fig
 
 
 ## Gevraagd
-- Bereken de **lengte van de schuine zijde** (c) met behulp van de stelling van Pythagoras;
+- Bereken de **lengte van de schuine zijde (c)** met behulp van de stelling van Pythagoras;
 - Geef de berekende lengte weer op het scherm in de volgende vorm: 
 
 ```
