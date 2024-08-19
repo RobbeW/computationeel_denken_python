@@ -7,7 +7,6 @@ bloedgroep = input("Voer de bloedgroep in: ")
 geloof = input("Voer het geloof van de soldaat in: ")
 
 # Weergeven op het scherm
-print()
 print( "BELGISCH LEGER   " + geboortedatum )
 print( naam, voornaam )
 print( soldatennr, bloedgroep, geloof )
