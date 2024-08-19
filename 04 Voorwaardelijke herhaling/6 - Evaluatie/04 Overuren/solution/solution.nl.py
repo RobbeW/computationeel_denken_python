@@ -12,5 +12,4 @@ else:
     verdiende_bedrag = 8 * standaard_uurloon + (gewerkte_uren - 8) * overuren_uurloon
 
 # druk het verdiende bedrag af op het scherm
-print()
 print("Simon heeft vandaag", round(verdiende_bedrag, 2), "euro verdiend.")
