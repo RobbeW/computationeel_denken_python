@@ -18,12 +18,12 @@ Indien je bijvoorbeeld aan kilometerpost 30 bent aangekomen met een gemiddelde s
 
 - Vraag de gebruiker naar het aantal reeds afgelegde kilometers, wat een kommagetal kan zijn;
 - Vraag vervolgens de gemiddelde snelheid, wat ook een kommagetal kan zijn; 
-- Geef daarna op het scherm weer wat de gemiddelde snelheid op het resterende deel moet zijn. **Rond af** op twee decimalen.
+- Geef daarna op het scherm weer wat de gemiddelde snelheid op het resterende deel moet zijn. **Rond af** tot één decimaal.
 
 #### Voorbeeld
 
 Bij invoer `30.0` km en snelheid `4.25` km/u verschijnt er:
 
 ```
-Je moet minstens 4.13 km/u blijven wandelen.
+Je moet minstens 4.1 km/u blijven wandelen.
 ```
