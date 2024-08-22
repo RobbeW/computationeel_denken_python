@@ -12,7 +12,7 @@ De <a href="https://nl.wikipedia.org/wiki/Dodentocht_Bornem" target="_blank">Dod
 
 Stel dat je een wandelaar bent en een bepaalde afstand reeds hebt afgelegd. Je sporthorloge geeft je ook je gemiddelde snelheid. Schrijf nu een programma dat aan de hand van deze gegevens bepaalt wat je gemiddelde snelheid moet zijn om de wandeltocht succesvol te kunnen voltooien.
 
-Indien je bijvoorbeeld aan kilometerpost 30 bent aangekomen met een gemiddelde snelheid van 4,25 km/u, dan zal je berekening aantonen dat de rest uitwandelen aan 4,13 km/u zal volstaan.
+Indien je bijvoorbeeld aan kilometerpost 30 bent aangekomen met een gemiddelde snelheid van 4,25 km/u, dan zal je berekening aantonen dat de rest uitwandelen aan 4,1 km/u zal volstaan.
 
 ## Gevraagd
 
