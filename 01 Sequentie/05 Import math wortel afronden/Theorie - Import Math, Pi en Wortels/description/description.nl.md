@@ -1,11 +1,10 @@
 # Theorie - Import Math, Pi en Wortels
 
-
 ## Doel
 
 In deze video leer je: 
 - een Python-bibliotheek importeren; 
-- gebruikmaken van de `math()` bibliotheek om: 
+- gebruikmaken van de `math` bibliotheek om: 
   - een vierkantswortel te trekken; 
   - een wiskundig meer correcte versie van pi te gebruiken; 
   - een getal naar boven of naar onder afronden; 
