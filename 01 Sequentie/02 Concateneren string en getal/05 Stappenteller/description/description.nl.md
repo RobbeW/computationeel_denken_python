@@ -1,6 +1,6 @@
 ## Gegeven
 
-Het Vlaams Instituut Gezond Leven lanceerde in 2022 de <a href="https://10000stappen.gezondleven.be/" target="_blank">campagne</a> "10.000 stappen: elke stap telt!"
+Het Vlaams Instituut Gezond Leven lanceerde in 2022 de <a href="https://10000stappen.gezondleven.be/" target="_blank">campagne</a> "10 000 stappen: elke stap telt!"
 
 ![Stappen is gezond!](media/abbey_road.gif "De Beatles, wandelend op Abbey Road"){:data-caption="Stappen is gezond!" width="200px"}
 
