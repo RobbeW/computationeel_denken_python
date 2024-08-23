@@ -3,7 +3,7 @@
 In deze video leer je: 
 * meerdere variabelen aanmaken;
 * datatype `string` gebruiken; 
-* meerdere outputs (een `variabele`, een `string` ...) naar het scherm printen met één `print-functie`;
+* meerdere outputs (een `variabele`, een `string` ...) naar het scherm printen met één `print()`-functie;
 * het **kommateken** gebruiken om te `concateneren` mét spatieteken, of het **plusteken** om te concateneren zonder spatie.
 
 {: .callout.callout-info}
