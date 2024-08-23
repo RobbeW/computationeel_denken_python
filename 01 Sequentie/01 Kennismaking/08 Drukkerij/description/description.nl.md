@@ -1,6 +1,6 @@
 ## Gegeven
 
-Er is een vaste kost van 2 000 euro voor het drukken van een tijdschrift. Per exemplaar komt er 5 euro bij voor het papier, het drukwerk en de bindkosten.
+Er is een vaste kost van 2 000 euro voor het drukken van een tijdschrift. Per exemplaar komt er 5 euro bij voor het papier, het drukwerk en de bindkosten.
 
 ## Gevraagd
 
@@ -25,4 +25,4 @@ Verschijnt als uitvoer de `totale kostprijs` en de `prijs per exemplaar` op het 
 {: .callout.callout-info}
 >#### Tips
 >* Gebruik de formule `totale kostprijs = vaste kost + (aantal exemplaren * kost per exemplaar)`.
->* Print de `totale kostprijs` en de `prijs per exemplaar` op het scherm met behulp van de `print()-functie`. 
+>* Print de `totale kostprijs` en de `prijs per exemplaar` op het scherm met behulp van de `print()`-functie. 
