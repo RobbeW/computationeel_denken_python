@@ -6,7 +6,7 @@ Een koeriersbedrijf hanteert volgende regels voor het bepalen van de prijs van e
 - `massa`: extra per **begonnen** 20 gram: € 0,40  
 Dit betekent dat voor een massa van 25 gram er € 0,80 betaald moet worden
 - `afstand`: extra per **begonnen** 10 km: € 0,30  
-Dit betekent dat voor een massa van 13 km er € 0,60 betaald moet worden
+Dit betekent dat voor een afstand van 13 km er € 0,60 betaald moet worden
 
 ## Gevraagd
 - Schrijf een programma dat vraagt naar de **massa** van het pakje en de **afstand**;
