@@ -4,7 +4,7 @@ De Concorde was een supersonisch passagiersvliegtuig, tot stand gekomen door een
 
 ![De neus van een Franse Concorde.](media/bernd-dittrich.jpg "Foto door Bernd Dittrich op Unsplash."){:data-caption="De neus van een Franse Concorde." width="40%"}
 
-De *gemiddelde snelheid* van een Concorde ligt op 1 740 km/u.
+De *gemiddelde snelheid* van een Concorde ligt op 1 740 km/u.
 
 ## Gevraagd
 
