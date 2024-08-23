@@ -22,7 +22,7 @@ restbedrag = bedrag % 50      # dit berekent de rest zonder quotiënt en kent de
 
 #### Voorbeeld
 
-Bij een invoer van € 2 543 verschijnt er:
+Bij een invoer van € 2 543 verschijnt er:
 
 ```
 biljet 50: 50
