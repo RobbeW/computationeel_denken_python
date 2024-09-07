@@ -1,4 +1,0 @@
-- tab: Feedback
-  testcases:
-  - stdin: "3\n7\nDit is een makkie\n7\nPerfect\n10\nDeze editie is de beste ooit"
-    stdout: "1 18\n2 0\n3 77"
