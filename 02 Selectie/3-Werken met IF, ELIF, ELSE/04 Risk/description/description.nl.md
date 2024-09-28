@@ -4,9 +4,15 @@
 
 ![Een spelletje Risk.](media/dave-photoz.jpg "Foto door Dave Photoz op Unsplash."){:data-caption="Een spelletje Risk." width="40%"}
 
-Bij het aanvallen is het steeds zo dat de aanvaller met drie dobbelstenen gooit en de verdediger met slechts twee dobbelstenen mag gooien. Daarna wordt het aantal ogen gerangschikt van hoog naar laag en als de aanvaller bij zijn twee hoogste waarden telkens **hoger scoort** dan de twee hoogste waarden van de verdediger, dan worden twee legereenheden van de verdediger vernietigd.
+Bij het aanvallen is het steeds zo dat de aanvaller met drie dobbelstenen gooit en de verdediger met slechts twee dobbelstenen mag gooien. Daarna worden de ogen gerangschikt van hoog naar laag, en de twee hoogste dobbelstenen van de aanvaller worden vergeleken met de twee dobbelstenen van de verdediger.
 
-Een voorbeeld ter verduidelijking.
+De vergelijking gebeurt als volgt:
+
+* Voor elk paar van dobbelstenen (hoogste tegen hoogste, tweede hoogste tegen tweede hoogste):
+* Als de dobbelsteen van de aanvaller **strikt hoger is dan die van de verdediger**, verliest de verdediger één legereenheid.
+* In **alle andere gevallen** (dus als de dobbelstenen gelijk zijn of de aanvaller lager gooit), verliest de aanvaller één legereenheid.
+
+Een eerste voorbeeld ter verduidelijking: 
 
 Als de **aanvaller** de volgende dobbelstenen gooit:
 
@@ -16,7 +22,27 @@ en de **verdediger** gooit op zijn beurt:
 
  <span class="mdi mdi-36px mdi-dice-4-outline"></span> <span class="mdi mdi-36px mdi-dice-3-outline"></span>
 
-In dit geval verliezen beide legers een eenheid. De 5 van de aanvaller wint immers van de 4 van de verdediging. Maar de volgende hoogste waarde van de aanvaller, namelijk een 2, verlies van de volgende hoogste waarde van de verdediging, namelijk een 3.
+In dit geval verliezen beide legers een eenheid. We leggen dit als volgt uit: 
+* De 5 van de aanvaller wint immers van de 4 van de verdediging.
+* Maar de volgende hoogste waarde van de aanvaller, namelijk een 2, verlies van de volgende hoogste waarde van de verdediging, namelijk een 3.
+
+Een nieuw voorbeeld waarin een **gelijkspel** voorkomt:
+
+Als de aanvaller de volgende dobbelstenen gooit:
+
+ <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-3-outline"></span> <span class="mdi mdi-36px mdi-dice-2-outline"></span>
+
+en de verdediger gooit op zijn beurt:
+
+ <span class="mdi mdi-36px mdi-dice-5-outline"></span> <span class="mdi mdi-36px mdi-dice-4-outline"></span>
+
+In dit geval verliest de aanvaller twee legereenheden. Hier is wat er gebeurt:
+* De hoogste worp van aanvaller en verdediger is bij beiden een vijf.
+* Omdat de waarden gelijk zijn, en dus niet **strikt hoger**, wint de verdediger bij deze worp en verliest de aanvaller een eenheid.
+* De tweede hoogte worp van de aanvaller is een 3. Van de verdediger een 4.
+* De aanvaller verliest nog een legereenheid. 
+
+
 
 ## Gevraagd
 
