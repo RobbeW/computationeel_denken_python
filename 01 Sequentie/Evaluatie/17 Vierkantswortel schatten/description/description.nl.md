@@ -22,7 +22,7 @@ Schrijf een programma dat een natuurlijk getal aan de gebruiker vraagt en vervol
 #### Voorbeelden
 Voor het getal `32` verschijnt er:
 ```
-De vierkantswortel van 32 wordt geschat als 5.7 en is in werkelijkheid 3.657
+De vierkantswortel van 32 wordt geschat als 5.7 en is in werkelijkheid 5.657
 ```
 
 Voor het getal `25` verschijnt er:
