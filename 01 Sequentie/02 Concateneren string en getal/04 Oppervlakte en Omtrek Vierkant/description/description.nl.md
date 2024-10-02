@@ -4,7 +4,7 @@ Per definitie is een vierkant een rechthoek met 4 even lange zijden. Ook hiervan
 
 ## Gevraagd
 
-* Vraag de gebruiker om de lengte van de zijve van eenn vierkant;
+* Vraag de gebruiker om de lengte van de zijde van een vierkant;
 * Bereken de `omtrek` van het vierkant;
 * Bereken de `oppervlakte` van het vierkant;
 * Vergeet niet om te debuggen en eventuele fouten op te lossen.
