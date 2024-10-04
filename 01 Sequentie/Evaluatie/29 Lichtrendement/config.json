@@ -10,11 +10,15 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python in de Klas", 
+    "Python in de Klas",
     "Sequentie",
     "Evaluatie",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "SJF6IM4rqm9SifUIMWpFX-w6n44b-RDkkHYdYmYSN9XQNYTRfyUyEqtt3nsMYQ9P",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
