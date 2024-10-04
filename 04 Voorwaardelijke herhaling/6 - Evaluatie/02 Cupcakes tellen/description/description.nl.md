@@ -7,7 +7,7 @@ De prijs per cupcake bedraagt € 1,20.
 
 ## Gevraagd
 * Schrijf een programma dat de gebruiker vraagt naar het aantal te bestellen cupcakes.
-* Bereken vervolgens de totaalprijs en geef dit weer op het scherm. Ronf af op 2 decimalen.
+* Bereken vervolgens de totaalprijs en geef dit weer op het scherm. Rond af op 2 decimalen.
 
 #### Voorbeeld
 Bij 15 cupcakes verschijnt er:
