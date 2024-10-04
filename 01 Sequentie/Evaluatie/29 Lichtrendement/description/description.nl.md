@@ -4,7 +4,7 @@ Indien je een lamp wil aankopen zal je twee belangrijke cijfers terugvinden. Het
 
 ![Drie E27 lampen.](media/lampen.png "Drie E27 lampen."){:data-caption="Drie E27 lampen." width="40%"}
 
-Eén van bovenstaande lampen heeft bijvoorbeeld een vermogen van 8,8 W. (dit bepaalt de hoeveelheid stroom die verbruikt wordt) De lamp kan 806 lumen produceren. Men kan dan gemakkelijk berekenen dat deze lamp een **lichtremendement** van **91,59 lumen per watt** heeft.
+Eén van bovenstaande lampen heeft bijvoorbeeld een vermogen van 8,8 W. (dit bepaalt de hoeveelheid stroom die verbruikt wordt) De lamp kan 806 lumen produceren. Men kan dan gemakkelijk berekenen dat deze lamp een **lichtrendement** van **91,59 lumen per watt** heeft.
 
 ## Gevraagd
 
