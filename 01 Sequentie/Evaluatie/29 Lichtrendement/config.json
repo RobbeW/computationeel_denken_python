@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Lichtrendement"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "Robbe Wulgaert",
+    "Python in de Klas", 
+    "Sequentie",
+    "Evaluatie",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
+  ],
+  "access": "public"
+}

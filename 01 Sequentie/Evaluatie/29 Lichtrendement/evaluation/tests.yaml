@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "8.8\n806"
+      stdout: "Het lichtrendement is 91.59 lumen per watt.\n"
+  - testcases:
+    - stdin: "5.5\n470"
+      stdout: "Het lichtrendement is 85.45 lumen per watt.\n"
+  - testcases:
+    - stdin: "37.4\n540"
+      stdout: "Het lichtrendement is 14.44 lumen per watt.\n"
+  - testcases:
+    - stdin: "39.8\n350"
+      stdout: "Het lichtrendement is 8.79 lumen per watt.\n"
+  - testcases:
+    - stdin: "10.5\n700"
+      stdout: "Het lichtrendement is 66.67 lumen per watt.\n"
+  - testcases:
+    - stdin: "48.0\n905"
+      stdout: "Het lichtrendement is 18.85 lumen per watt.\n"
+  - testcases:
+    - stdin: "39.6\n735"
+      stdout: "Het lichtrendement is 18.56 lumen per watt.\n"
+  - testcases:
+    - stdin: "26.7\n270"
+      stdout: "Het lichtrendement is 10.11 lumen per watt.\n"
+  - testcases:
+    - stdin: "14.9\n440"
+      stdout: "Het lichtrendement is 29.53 lumen per watt.\n"
+  - testcases:
+    - stdin: "8.1\n265"
+      stdout: "Het lichtrendement is 32.72 lumen per watt.\n"
+  - testcases:
+    - stdin: "44.0\n660"
+      stdout: "Het lichtrendement is 15.0 lumen per watt.\n"
+  - testcases:
+    - stdin: "13.3\n220"
+      stdout: "Het lichtrendement is 16.54 lumen per watt.\n"
+  - testcases:
+    - stdin: "16.0\n875"
+      stdout: "Het lichtrendement is 54.69 lumen per watt.\n"
+  - testcases:
+    - stdin: "12.9\n905"
+      stdout: "Het lichtrendement is 70.16 lumen per watt.\n"
+  - testcases:
+    - stdin: "21.8\n520"
+      stdout: "Het lichtrendement is 23.85 lumen per watt.\n"
+  - testcases:
+    - stdin: "9.7\n460"
+      stdout: "Het lichtrendement is 47.42 lumen per watt.\n"
+  - testcases:
+    - stdin: "15.6\n580"
+      stdout: "Het lichtrendement is 37.18 lumen per watt.\n"
+  - testcases:
+    - stdin: "17.6\n510"
+      stdout: "Het lichtrendement is 28.98 lumen per watt.\n"
+  - testcases:
+    - stdin: "22.8\n905"
+      stdout: "Het lichtrendement is 39.69 lumen per watt.\n"
+  - testcases:
+    - stdin: "34.2\n865"
+      stdout: "Het lichtrendement is 25.29 lumen per watt.\n"
