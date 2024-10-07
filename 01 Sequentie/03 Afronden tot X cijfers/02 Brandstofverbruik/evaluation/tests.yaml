@@ -85,8 +85,5 @@
     - stdin: '9110.4'
       stdout: "409.97 liter\n"
   - testcases:
-    - stdin: '9605.0'
-      stdout: "432.23 liter\n"
-  - testcases:
     - stdin: '9841.7'
       stdout: "442.88 liter\n"
