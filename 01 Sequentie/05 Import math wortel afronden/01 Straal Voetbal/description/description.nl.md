@@ -9,6 +9,7 @@ Gegeven is de omtrek van een cirkel.
 ## Gevraagd
 
 - **Importeer** de benodigde `math`-bibliotheek;
+- **Vraag de gebruiker** naar de `omtrek` van de cirkel;
 - Bereken de **straal** van de cirkel met een precisie van **twee decimalen**;
 
 #### Voorbeeld
