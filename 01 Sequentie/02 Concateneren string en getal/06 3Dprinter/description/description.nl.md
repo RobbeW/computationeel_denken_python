@@ -12,7 +12,7 @@ waarbij I de stroomsterkte voorstelt die de motor nodig heeft.
 
 ## Gevraagd
 
-Schrijf een programma dat voor een ingelezen V<span style="vertical-align: sub;">ref</span> de stroomsterkte uitrekent.
+Schrijf een programma dat een spanning V<span style="vertical-align: sub;">ref</span> aan de gebruiker **vraagt**, en vervolgens de stroomsterkte **uitrekent**.
 
 #### Voorbeeld
 Bij invoer `0.326` als V<span style="vertical-align: sub;">ref</span> verschijnt als uitvoer:
