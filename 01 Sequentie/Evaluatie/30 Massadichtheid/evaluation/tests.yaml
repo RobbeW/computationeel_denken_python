@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "19.94\n0.2"
+      stdout: "De massadichtheid bedraagt 997.0 kg / m³.\n"
+  - testcases:
+    - stdin: "76.57\n0.6"
+      stdout: "De massadichtheid bedraagt 1276.167 kg / m³.\n"
+  - testcases:
+    - stdin: "35.14\n0.3"
+      stdout: "De massadichtheid bedraagt 1171.333 kg / m³.\n"
+  - testcases:
+    - stdin: "65.97\n0.5"
+      stdout: "De massadichtheid bedraagt 1319.4 kg / m³.\n"
+  - testcases:
+    - stdin: "58.46\n0.5"
+      stdout: "De massadichtheid bedraagt 1169.2 kg / m³.\n"
+  - testcases:
+    - stdin: "22.85\n0.3"
+      stdout: "De massadichtheid bedraagt 761.667 kg / m³.\n"
+  - testcases:
+    - stdin: "23.94\n0.3"
+      stdout: "De massadichtheid bedraagt 798.0 kg / m³.\n"
+  - testcases:
+    - stdin: "28.75\n0.4"
+      stdout: "De massadichtheid bedraagt 718.75 kg / m³.\n"
+  - testcases:
+    - stdin: "21.98\n0.3"
+      stdout: "De massadichtheid bedraagt 732.667 kg / m³.\n"
+  - testcases:
+    - stdin: "25.54\n0.2"
+      stdout: "De massadichtheid bedraagt 1277.0 kg / m³.\n"
+  - testcases:
+    - stdin: "10.86\n0.1"
+      stdout: "De massadichtheid bedraagt 1086.0 kg / m³.\n"
+  - testcases:
+    - stdin: "53.29\n0.5"
+      stdout: "De massadichtheid bedraagt 1065.8 kg / m³.\n"
+  - testcases:
+    - stdin: "8.02\n0.1"
+      stdout: "De massadichtheid bedraagt 802.0 kg / m³.\n"
+  - testcases:
+    - stdin: "39.91\n0.4"
+      stdout: "De massadichtheid bedraagt 997.75 kg / m³.\n"
+  - testcases:
+    - stdin: "69.64\n0.5"
+      stdout: "De massadichtheid bedraagt 1392.8 kg / m³.\n"
+  - testcases:
+    - stdin: "40.94\n0.3"
+      stdout: "De massadichtheid bedraagt 1364.667 kg / m³.\n"
+  - testcases:
+    - stdin: "60.34\n0.6"
+      stdout: "De massadichtheid bedraagt 1005.667 kg / m³.\n"
+  - testcases:
+    - stdin: "14.89\n0.2"
+      stdout: "De massadichtheid bedraagt 744.5 kg / m³.\n"
+  - testcases:
+    - stdin: "43.7\n0.5"
+      stdout: "De massadichtheid bedraagt 874.0 kg / m³.\n"
+  - testcases:
+    - stdin: "20.46\n0.2"
+      stdout: "De massadichtheid bedraagt 1023.0 kg / m³.\n"

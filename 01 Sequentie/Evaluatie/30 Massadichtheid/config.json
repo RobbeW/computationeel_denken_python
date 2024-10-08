@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "Massadichtheid"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "Sequentie",
+    "Evaluatie"
+  ],
+  "access": "public"
+}
