@@ -13,7 +13,7 @@ elif totale_aankoop > 40:
 elif totale_aankoop > 30:
     korting = 0.12
 elif totale_aankoop > 25:
-    korting = 0.8
+    korting = 0.08
 else:
     korting = 0
 
