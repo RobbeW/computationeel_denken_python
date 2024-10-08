@@ -12,5 +12,9 @@
     "Sequentie",
     "Evaluatie"
   ],
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "vviQ3aRQkenXm_439yNKTStkycfD3higJeJDVbSn4RSWQ_DP93hgw88xikYghImN",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
