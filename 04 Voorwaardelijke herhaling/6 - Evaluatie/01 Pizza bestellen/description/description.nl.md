@@ -1,6 +1,6 @@
 ## Gegeven
 
-Je plaatst bij de lokale pizzeria een bestelling voor een pizza van € 13,95. Je kan echter ook extra's selecteren:
+Je plaatst bij de lokale pizzeria een bestelling voor een pizza van € 13.75. Je kan echter ook extra's selecteren:
 
 * Een *cheesy crust bodem* kost € 2 meer,
 * Voor elke extra groente (bvb paprika, champignons, ...) komt er € 1,25 bij,
