@@ -12,7 +12,7 @@ Massadichtheid is een grootheid uit de fysica die uitdrukt hoeveel massa van een
 
 #### Voorbeeld
 
-Bij een hoeveelheid water met een massa van `19.94` kilogram en `0.2` dm³ verschijnt er:
+Bij een hoeveelheid water met een massa van `19.94` kilogram en `20` dm³ verschijnt er:
 ```
 De massadichtheid bedraagt 997.0 kg / m³.
 ```

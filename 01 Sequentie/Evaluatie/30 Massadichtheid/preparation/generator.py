@@ -33,13 +33,13 @@ spec.loader.exec_module(module)
 
 # generate test data
 ntests = 20
-cases = [(19.94, 0.2) ]
+cases = [(19.94, 20) ]
 while len(cases) < ntests:
     p = round(random.uniform(700,1500), 1)
     multi = random.randint(1,6)
     m = round(p * multi / 100, 2)
-    V = round(multi / 10, 2)
-    if round(m / (V / 10), 1) == round(m * 10 / V, 1):
+    V = round(multi *10, 2)
+    if round(m / (V / 1000), 1) == round(m * 1000 / V, 1):
         case = (m, V)
         if case not in cases:
             cases.append( case )
