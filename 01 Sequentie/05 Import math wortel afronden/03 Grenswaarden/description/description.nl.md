@@ -1,6 +1,6 @@
 ## Gegeven
 
-Schrijf een programma dat voor een kommagetal $$\mathsf{x}$$ het grootste **geheel** getal $$\mathsf{z}$$ en kleinste **geheel** getal $$\mathsf{y}$$ bepaalt zodat:
+Schrijf een programma dat voor een kommagetal $$\mathsf{x}$$ het grootste **geheel** getal $$\mathsf{y}$$ en kleinste **geheel** getal $$\mathsf{z}$$ bepaalt zodat:
 
 $$
 \mathsf{y \leqslant x < z}
