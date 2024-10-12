@@ -8,14 +8,14 @@ We gaan dit proces in detail bekijken. De levenscyclus van een mug bestaat uit v
 
 Om dit proces te simuleren, maken we een aantal vereenvoudigende veronderstellingen (die niet helemaal natuurgetrouw zijn). We gaan ervan uit dat de volgende transformaties aan het einde van elke week plaatsvinden:
 
-- Elke volwassen mug legt een **aantal eitjes** en sterft. Diezelfde dag wordt uit elk eitje een larve geboren,
-- Sommige larven zijn niet sterk genoeg of worden opgegeten. Enkel **elke 3<sup>e</sup> larve** blijft leven en zal gaan verpoppen,
-- Uit **elke 2<sup>e</sup> ontpopping** komt een mug. De andere poppen drogen uit.
+- Elke volwassen mug legt een **aantal eitjes** en sterft. Diezelfde dag komt uit elk eitje een larve,
+- Sommige larven zijn niet sterk genoeg of worden opgegeten. Ongeveer **de helft van de larven** overleeft en zal gaan verpoppen,
+- Uit ongeveer **twee derde van de poppen** komt een mug. De andere poppen drogen uit.
 
 Bijvoorbeeld: 
-* Zijn er 5 larven, dan blijft er slechts 1 over om te verpoppen *(1 op elke 3 overleeft)*.
-* Zijn er 6 larven, dan gaan er 2 verpoppen.
-* Hetzelfde principe geldt voor de transformatie van poppen naar volwassen muggen.
+* Zijn er **5 larven**, dan blijven er 2 over om te verpoppen *(hier zal je de gehele deling // moeten gebruiken)*.
+* Zijn er 6 **larven**, dan blijven er 3 over.
+* Zijn er 6 **poppen**, dan komen er daar 4 muggen uit. 
 
 ## Gevraagd
 
@@ -29,17 +29,17 @@ Het programma moet het aantal muggen aan het einde van het aantal weken berekene
 
 #### Voorbeelden
 
-Stel dat er `10` muggen, `40` larven en `20` poppen zijn in het begin. Vervolgens wordt ingetikt dat één mug telkens `8` eitjes legt en er in het totaal `10` weken gesimuleerd worden.
+Stel dat er `10` muggen, `40` larven en `20` poppen zijn in het begin. Vervolgens wordt ingetikt dat één mug telkens `8` eitjes legt en er in totaal `10` weken gesimuleerd worden.
 
 Er verschijnt:
 ```
-Er zijn 22 muggen na week 10
+Er zijn 4218 muggen na week 10
 ```
 
 Bij achtereenvolgende invoer `10`, `10`, `10` (muggen, larven en poppen) en daarna `2` (het aantal eitjes dat elke mug legt) en `6` (het aantal weken) verschijnt er:
 
 ```
-Er is 1 mug na week 6
+Er zijn 63 muggen na week 6
 ```
 
 {: .callout.callout-secondary}
