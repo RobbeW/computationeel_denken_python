@@ -2,10 +2,10 @@
   contexts:
   - testcases:
     - stdin: "10\n40\n20\n8\n10"
-      stdout: "Er zijn 22 muggen na week 10\n"
+      stdout: "Er zijn 267 muggen na week 10\n"
   - testcases:
     - stdin: "10\n10\n10\n2\n6"
-      stdout: "Er is 1 mug na week 6\n"
+      stdout: "Er zijn 7 muggen na week 6\n"
   - testcases:
     - stdin: "144\n8\n55\n0\n4"
       stdout: "Er zijn geen muggen na week 4\n"
@@ -14,8 +14,7 @@
       stdout: "Er zijn 18655729371043189178 muggen na week 60\n"
   - testcases:
     - stdin: "1034\n2482\n2110\n37\n189"
-      stdout: "Er zijn 61329617981907622801623982161743993755992554785097115 muggen\
-        \ na week 189\n"
+      stdout: "Er zijn 61329617981907622801623982161743993755992554785097115 muggen na week 189\n"
   - testcases:
     - stdin: "2085\n316\n1373\n7\n40"
       stdout: "Er zijn 5072 muggen na week 40\n"
@@ -81,8 +80,7 @@
       stdout: "Er zijn 6778838095592312667624585 muggen na week 181\n"
   - testcases:
     - stdin: "2808\n25\n2923\n39\n183"
-      stdout: "Er zijn 108670535625192556637259965040695439870952711782773636 muggen\
-        \ na week 183\n"
+      stdout: "Er zijn 108670535625192556637259965040695439870952711782773636 muggen na week 183\n"
   - testcases:
     - stdin: "2010\n1370\n2979\n49\n102"
       stdout: "Er zijn 20545529070185254242417121548441973 muggen na week 102\n"
@@ -118,8 +116,7 @@
       stdout: "Er zijn 6761703 muggen na week 37\n"
   - testcases:
     - stdin: "1298\n2881\n1034\n43\n171"
-      stdout: "Er zijn 7350840491683371610874201382919273093110133908872943 muggen\
-        \ na week 171\n"
+      stdout: "Er zijn 7350840491683371610874201382919273093110133908872943 muggen na week 171\n"
   - testcases:
     - stdin: "2589\n923\n584\n42\n101"
       stdout: "Er zijn 1182842039115239012192975444271 muggen na week 101\n"
@@ -134,8 +131,7 @@
       stdout: "Er zijn 2239821 muggen na week 112\n"
   - testcases:
     - stdin: "136\n2489\n2174\n48\n189"
-      stdout: "Er zijn 106710729501573572985208420194530329073740042555888586719232\
-        \ muggen na week 189\n"
+      stdout: "Er zijn 106710729501573572985208420194530329073740042555888586719232 muggen na week 189\n"
   - testcases:
     - stdin: "807\n1251\n484\n46\n121"
       stdout: "Er zijn 58610735981256019916800907818110289956 muggen na week 121\n"
