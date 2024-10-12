@@ -25,9 +25,6 @@
     - stdin: '-7.0'
       stdout: "-7 ≤ -7.0 < -6\n"
   - testcases:
-    - stdin: '-7.0'
-      stdout: "-7 ≤ -7.0 < -6\n"
-  - testcases:
     - stdin: '-6.999999999999'
       stdout: "-7 ≤ -6.999999999999 < -6\n"
   - testcases:
