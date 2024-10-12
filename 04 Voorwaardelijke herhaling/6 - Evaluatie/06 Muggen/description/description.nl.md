@@ -6,7 +6,7 @@ We gaan dit proces in detail bekijken. De levenscyclus van een mug bestaat uit v
 
 ![Levenscyclus van een mug.](media/mosquito-life-cycle.png "Levenscyclus van een mug."){:data-caption="Levenscyclus van een mug." width="35%"}
 
-Om dit proces te simuleren, maken we een aantal vereenvoudigende veronderstellingen (die niet helemaal natuurgetrouw zijn). We gaan ervan uit dat de volgende transformaties aan het einde van elke week plaatsvinden:
+Om dit proces te simuleren, maken we een aantal vereenvoudigende veronderstellingen (die niet natuurgetrouw zijn). Zo gaan we ervan uit dat er geen natuurlijke vijanden zijn en de volwassen muggen niet sterven na een bepaalde periode.  Aan het einde van elke week vinden volgende transformaties plaats:
 
 - Elke volwassen mug legt een **aantal eitjes** en sterft. Diezelfde dag komt uit elk eitje een larve,
 - Sommige larven zijn niet sterk genoeg of worden opgegeten. Ongeveer **de helft van de larven** overleeft en zal gaan verpoppen,
