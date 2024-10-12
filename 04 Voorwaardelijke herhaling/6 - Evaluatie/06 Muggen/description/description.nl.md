@@ -1,21 +1,21 @@
 ## Gegeven
 
-Heb je je al afgevraagd waarom er zoveel muggen zijn in vochtige omgevingen? Een van de redenen is dat vrouwelijke muggen wel honderden eitjes kunnen leggen. De meeste overleven gelukkig niet, maar men zegt dat één paar muggen in enkele weken duizenden muggen kan voortbrengen.
+Heb je je ooit afgevraagd waarom er zoveel muggen zijn in vochtige omgevingen? Eén reden is dat vrouwelijke muggen honderden eitjes kunnen leggen. Gelukkig overleven de meeste eitjes niet, maar men zegt dat een enkel paar muggen in enkele weken duizenden nakomelingen kan voortbrengen.
 
-We bekijken dit in meer detail. De levenscyclus van een mug bestaat uit 4 stadia: eitje, larve, verpopping en volwassen mug.
+We gaan dit proces in detail bekijken. De levenscyclus van een mug bestaat uit vier stadia: eitje, larve, pop, en volwassen mug.
 
 ![Levenscyclus van een mug.](media/mosquito-life-cycle.png "Levenscyclus van een mug."){:data-caption="Levenscyclus van een mug." width="35%"}
 
-We maken nu verschillende veronderstellingen die niet volledig juist zijn in de natuur, maar nodig zijn om dit eenvoudig te kunnen simuleren. We zullen ervan uitgaan dat de volgende transformaties telkens op het einde van de week plaatsvinden:
+Om dit proces te simuleren, maken we een aantal vereenvoudigende veronderstellingen (die niet helemaal natuurgetrouw zijn). We gaan ervan uit dat de volgende transformaties aan het einde van elke week plaatsvinden:
 
 - Elke volwassen mug legt een **aantal eitjes** en sterft. Diezelfde dag wordt uit elk eitje een larve geboren,
 - Sommige larven zijn niet sterk genoeg of worden opgegeten. Enkel **elke 3<sup>e</sup> larve** blijft leven en zal gaan verpoppen,
 - Uit **elke 2<sup>e</sup> ontpopping** komt een mug. De andere poppen drogen uit.
 
 Bijvoorbeeld: 
-* als er 5 larven zijn en elke 3<sup>e</sup> overleeft, dan zal er maar 1 enkele larve gaan verpoppen.
-* Waren er 6 larven, dan zouden er 2 verpoppen.
-* Werk analoog voor de transformatie van poppen naar muggen.
+* Zijn er 5 larven, dan blijft er slechts 1 over om te verpoppen *(1 op elke 3 overleeft)*.
+* Zijn er 6 larven, dan gaan er 2 verpoppen.
+* Hetzelfde principe geldt voor de transformatie van poppen naar volwassen muggen.
 
 ## Gevraagd
 
@@ -25,11 +25,11 @@ Schijf een programma dat:
 - Daarna **vraagt** `hoeveel eitjes` één volwassen mug legt,
 - Tot slot het `aantal weken` dat je wil simuleren **vraagt.**
 
-Bereken met bovenstaande gegevens hoeveel muggen er zijn op het einde van de `aantal weken' en geeft dit weer op het scherm.
+Het programma moet het aantal muggen aan het einde van het aantal weken berekenen en dit weergeven op het scherm.
 
 #### Voorbeelden
 
-Stel dat er `10` muggen, `40` larven en `20` poppen zijn in het begin. Vervolgens wordt ingetikt dat één mug telkens `8` eitjes legt en er in het totaal `10` dagen gesimuleerd worden.
+Stel dat er `10` muggen, `40` larven en `20` poppen zijn in het begin. Vervolgens wordt ingetikt dat één mug telkens `8` eitjes legt en er in het totaal `10` weken gesimuleerd worden.
 
 Er verschijnt:
 ```
