@@ -8,7 +8,7 @@ Massadichtheid is een grootheid uit de fysica die uitdrukt hoeveel massa van een
 ## Gevraagd
 
 - Vraag aan de gebruik een **massa** in **kilogram** en een **volume** in kubieke **deci**meter.
-- Bereken vervolgens de **massadichtheid** en geef deze weer. **Rond** hierbij **af** op één decimaal.
+- Bereken vervolgens de **massadichtheid** en geef deze weer. **Rond** hierbij **af** op drie cecimalen.
 
 #### Voorbeeld
 
