@@ -9,6 +9,6 @@ Je kan deze lijst gebruiken:
 
 ## Opgave
 
-Programmeer zelf volgende sorteeralgoritmes:<a href="https://nl.wikipedia.org/wiki/Bubblesort" target="_blank">Bubblesort</a>, <a href="https://nl.wikipedia.org/wiki/Insertion_sort" target="_blank">Insertion sort</a>,  <a href="https://nl.wikipedia.org/wiki/Quicksort" target="_blank">Quicksort</a> & <a href="https://nl.wikipedia.org/wiki/Mergesort" target="_blank">Mergesort</a>.
+Programmeer zelf volgende sorteeralgoritmes: <a href="https://nl.wikipedia.org/wiki/Bubblesort" target="_blank">Bubblesort</a>, <a href="https://nl.wikipedia.org/wiki/Insertion_sort" target="_blank">Insertion sort</a>,  <a href="https://nl.wikipedia.org/wiki/Quicksort" target="_blank">Quicksort</a> & <a href="https://nl.wikipedia.org/wiki/Mergesort" target="_blank">Mergesort</a>.
 Probeer ook bij elk algoritme te timen hoe lang het duurt om de lijst te sorteren en bekijk of dit een verwacht resultaat geeft.
 Zoek hierna ook een voorbeeld van een lijst die **slecht** werkt voor elk sorteeralgoritme. (Meestal is quicksort bijvoorbeeld sneller dan bubblesort, zoek een lijst waarbij dit niet het geval is).
