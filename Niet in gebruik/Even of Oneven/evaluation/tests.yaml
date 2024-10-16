@@ -1,0 +1,62 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "10"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "24"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "7"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "999999"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "0"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "3"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "80"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "1000000"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "77"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "1"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "44"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "9"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "26"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "888"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "1234"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "23"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "5555"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "987"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
+  - testcases:
+    - stdin: "22"
+      stdout: "Dit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\nDit getal is even.\n"
+  - testcases:
+    - stdin: "11"
+      stdout: "Dit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\nDit getal is oneven.\n"
