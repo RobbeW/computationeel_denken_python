@@ -15,7 +15,7 @@ Geef daarna **ook de classificatie** weer op het scherm.
 
 ### Formule 
 ```
-BMI = lengte / (massa ** 2)
+BMI = massa / (lengte ** 2)
 ```
 
 #### Voorbeeld
