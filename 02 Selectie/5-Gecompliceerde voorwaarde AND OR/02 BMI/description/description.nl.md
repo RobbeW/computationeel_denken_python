@@ -13,6 +13,11 @@ Vraag aan een gebruiker eerst zijn massa (in kg) en vervolgens de lengte (in cm)
 
 Geef daarna **ook de classificatie** weer op het scherm.
 
+### Formule 
+```
+BMI = lengte / (massa ** 2)
+```
+
 #### Voorbeeld
 Voor een volwassen persoon van 60,2 kg en 178 centimeter verschijnt er:
 
