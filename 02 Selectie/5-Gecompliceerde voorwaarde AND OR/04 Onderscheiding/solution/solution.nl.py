@@ -17,6 +17,5 @@ if score1 >= 10 and score2 >= 10 and score3 >= 10:
     else:
         print("Beoordeling: geslaagd.")
 else:
-    # Deze regel is aangepast om duidelijk te maken dat de student niet geslaagd is
     # als een of meer scores lager dan 10 zijn.
     print("Beoordeling: niet geslaagd.")
