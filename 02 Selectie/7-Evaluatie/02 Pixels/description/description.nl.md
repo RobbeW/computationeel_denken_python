@@ -6,9 +6,11 @@ De meeste computerschermen bestaan uit een hoeveelheid pixels. Deze zijn opgebou
 
 ## Gevraagd
 
-Een beeldscherm passeert na assemblage vaak door een kwaliteitskeuring. Een computer telt vervolgens het aantal subpixels, indien dit niet deelbaar is door 3, dan bevat het scherm minstens één **dode** pixel en is het dus defect.
-
-Vraag naar het aantal subpixels en controleer of dit aantal deelbaar is door drie. Geef een passende boodschap mee.
+* Een beeldscherm passeert na assemblage vaak door een kwaliteitskeuring. 
+* Een computer telt vervolgens het `aantal subpixels`.
+* Indien dit niet deelbaar is door 3, dan bevat het scherm minstens één **dode** pixel en is het dus defect.
+* Vraag naar het `aantal subpixels` en controleer of dit aantal deelbaar is door drie.
+* Geef een passende boodschap mee op het scherm. 
 
 #### Voorbeelden
 Indien er `2082` subpixels geteld worden, dan verschijnt de volgende boodschap:
