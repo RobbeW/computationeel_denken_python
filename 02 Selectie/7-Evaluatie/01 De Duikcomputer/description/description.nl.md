@@ -11,7 +11,9 @@ Wanneer je aan diepteduiken doet, moet je opletten bij het terugkeren naar de op
 
 ## Gevraagd
 
-Schrijf een programma voor een eenvoudige duikcomputer. Vraag naar de **tijdsduur** van de duik op 18 meter diepte en geef daarna weer hoe lang en op welke diepte de duiker moet pauzeren wanneer deze aan **decompressie** doet. 
+* Schrijf een programma voor een eenvoudige duikcomputer. 
+* Vraag naar de `tijdsduur` van de duik op 18 meter diepte.
+* Geef daarna weer op het scherm hoe `lang` en op welke `diepte` de duiker moet pauzeren wanneer deze aan **decompressie** doet. 
 
 #### Voorbeelden
 Indien de gebruiker `42` minuten intikt, dan verschijnt er:
