@@ -13,7 +13,7 @@ In onderstaande tabel zie je de risico's uitgedrukt voor blanke volwassenen.
 |                       | Mannen        |   Vrouwen     |
 |:----------------------|:-------------:|:-------------:|
 | Laag risico           | < 0,94        | < 0,80        |
-| Verhoogd risico       | 0,94 tot 1,00 | 0,80 tot 0,90 |
+| Verhoogd risico       | 0,94 tot en met 1,00 | 0,80 tot en met 0,90 |
 | Sterk verhoogd risico | > 1,00        | > 0,90        |
 {:class="table table-striped table-condensed" style="width:auto;margin-left:auto;margin-right:auto;"}
 
