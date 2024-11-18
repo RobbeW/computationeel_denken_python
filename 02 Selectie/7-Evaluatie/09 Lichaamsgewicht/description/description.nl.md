@@ -31,3 +31,8 @@ Voor een kind van 30 maand oud verschijnt er:
 ```
 De ideale lichaamsmassa is 15.0 kg.
 ```
+
+Indien het kind te oud is, verschijnt er: 
+```
+Dit kind is te oud om de formule van Leffler te gebruiken.
+```
