@@ -21,6 +21,12 @@ Freddy heeft het grootste zwembad van de buurt.
 Het zwembad heeft een volume van 30.07 m³.
 ```
 
+Maar indien beide zwembaden even groot zijn, dan verschijnt er: 
+```
+Eddy en Freddy hebben even grote zwembaden.
+Beide zwembaden hebben een volume van X m³.
+```
+
 {: .callout.callout-info}
 >#### Tip
 > Gebruik de constante `math.pi` nadat je `math` importeerde.
