@@ -28,7 +28,7 @@ Schrijf een programma dat:
    - Het **aantal segmenten** verdubbelt.
    - De **totale lengte** berekent met de formule:
      ```
-     Totale lengte n = Startlengte × (√2)^n
+     Totale lengte na iteratie n = Startlengte × (√2)^n
      ```
 5. De totale lengte van de draakkromme voor elke iteratie print, **afgerond op 2 decimalen**, bijvoorbeeld:
 
