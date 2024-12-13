@@ -21,14 +21,15 @@ Schrijf een programma dat:
 
 1. De **startlengte** van één zijde als invoer vraagt (in centimeters).
 2. Het **aantal iteraties** als invoer vraagt.
-3. Voor elke iteratie:
+3. Start het **aantal segmenten op 1.** 
+4. Voor elke iteratie:
    - De **lengte van elk segment** berekent door deling met `√2`.
    - Het **aantal segmenten** verdubbelt.
    - De **totale lengte** berekent met de formule:
      ```
      Totale lengte n = Startlengte × (√2)^n
      ```
-4. De totale lengte van de draakkromme voor elke iteratie print, **afgerond op 2 decimalen**, bijvoorbeeld:
+5. De totale lengte van de draakkromme voor elke iteratie print, **afgerond op 2 decimalen**, bijvoorbeeld:
 
 
 #### Voorbeeld
