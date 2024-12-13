@@ -36,11 +36,11 @@ Schrijf een programma dat:
 Meet de zijde oorspronkelijk `1` cm en bereken je de lengte tot en met iteratie `5`, dan verschijnt er:
 ```
 De startlengte was 1.0 cm.
-In iteratie 1 is de lengte van de draakkromme 1.41 cm.
-In iteratie 2 is de lengte van de draakkromme 2.0 cm.
-In iteratie 3 is de lengte van de draakkromme 2.83 cm.
-In iteratie 4 is de lengte van de draakkromme 4.0 cm.
-In iteratie 5 is de lengte van de draakkromme 5.66 cm.
+In iteratie 1 bedraagt de lengte van de draakkromme 1.41 cm.
+In iteratie 2 bedraagt de lengte van de draakkromme 2.0 cm.
+In iteratie 3 bedraagt de lengte van de draakkromme 2.83 cm.
+In iteratie 4 bedraagt de lengte van de draakkromme 4.0 cm.
+In iteratie 5 bedraagt de lengte van de draakkromme 5.66 cm.
 
 ```
 
