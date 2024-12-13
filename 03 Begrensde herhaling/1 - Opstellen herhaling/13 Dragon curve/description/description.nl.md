@@ -29,6 +29,7 @@ In iteratie 5 is de lengte van de draakkromme 5.66 cm.
 {: .callout.callout-info}
 >#### Opmerking
 > De waarden zijn berekend met de formule:
-> \[
-> \text{Lengte iteratie n} = \text{Startlengte} \times (\sqrt{2})^{n}
-> \]
+>
+> ```
+> Lengte iteratie n = Startlengte × (√2)^n
+> ```
