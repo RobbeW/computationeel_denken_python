@@ -9,7 +9,8 @@ De draakkromme ontstaat door elk lijnstuk op een specifieke manier in **twee te 
 Omdat het **aantal segmenten toeneemt** terwijl hun individuele **lengte afneemt**, groeit de totale lengte van de draakkromme bij elke iteratie. 
 Dit kan worden berekend met de formule:
 ```
-Totale lengte n = Startlengte × (√2)^n
+Totale lengte na iteratie n = Startlengte × (√2)^n
+
 ```
 
 ![Vorming van de draakkromme.](media/image.png "Vorming van de draakkromme."){:data-caption="Vorming van de draakkromme." .light-only width="354px"}
