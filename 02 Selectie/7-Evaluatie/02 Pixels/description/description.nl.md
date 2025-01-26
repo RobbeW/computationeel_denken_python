@@ -22,5 +22,5 @@ Het scherm is waarschijnlijk ok.
 Indien er `2048` subpixels geteld worden, dan verschijnt de volgende boodschap:
 
 ```
-Het scherm bevat zeker een defect!
+Het scherm bevat waarschijnlijk een defect!
 ```
