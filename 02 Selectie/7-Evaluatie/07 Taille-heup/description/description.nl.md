@@ -1,9 +1,5 @@
-De <a href="https://nl.wikipedia.org/wiki/Wereldgezondheidsorganisatie" target="_blank">Wereldgezondheidsorganisatie (WHO)</a> gebruikt steeds vaker de taille-heup verhouding als indicator van het risico op hartziekte. 
+De <a href="https://nl.wikipedia.org/wiki/Wereldgezondheidsorganisatie" target="_blank">Wereldgezondheidsorganisatie (WHO)</a> gebruikt steeds vaker de **taille-heup verhouding** als indicator van het risico op hartziekte. 
 
-De formule hiervoor is: 
-```
-p = taille / heup
-```
 
 ![De heup omtrek bepalen.](media/huha-inc.jpg "Foto door Huha Inc. op Unsplash."){:data-caption="De heup omtrek bepalen." width="40%"}
 
@@ -21,7 +17,7 @@ In onderstaande tabel zie je de risico's uitgedrukt voor blanke volwassenen.
 * Schrijf een programma dat het biologische geslacht van de gebruiker vraagt.
 * De gebruiker antwoordt hierop met `"man"` of `"vrouw"`.
 * Daarna vraagt je programma in volgorde naar de omtrek van de taille en de heup.
-* Tot slot geeft het programma de taille-heupverhouding en de categorie weer.
+* Tot slot geeft het programma de taille-heup**verhouding** en de categorie weer.
 * **Rond** hierbij **af** op twee decimalen.
 
 #### Voorbeelden
