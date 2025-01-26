@@ -13,7 +13,7 @@ Vraag aan een gebruiker eerst zijn massa (in kg) en vervolgens de lengte (in cm)
 
 Geef daarna **ook de classificatie** weer op het scherm.
 
-### Formule 
+#### Formule 
 
 $$
 \mathsf{\text{BMI} = \dfrac{m}{{\ell}^2}}
