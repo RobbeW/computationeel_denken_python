@@ -4,6 +4,15 @@
     - stdin: '3'
       stdout: "Kostprijs: € 0.29\n"
   - testcases:
+    - stdin: '4'
+      stdout: "Kostprijs: € 0.45\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "Kostprijs: € 0.45\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "Kostprijs: € 0.45\n"
+  - testcases:
     - stdin: '13'
       stdout: "Kostprijs: € 0.45\n"
   - testcases:
@@ -28,9 +37,6 @@
     - stdin: '77'
       stdout: "Kostprijs: € 2.0\n"
   - testcases:
-    - stdin: '116'
-      stdout: "Kostprijs: € 3.3\n"
-  - testcases:
     - stdin: '118'
       stdout: "Kostprijs: € 3.3\n"
   - testcases:
@@ -46,9 +52,6 @@
     - stdin: '189'
       stdout: "Kostprijs: € 6.7\n"
   - testcases:
-    - stdin: '248'
-      stdout: "Kostprijs: € 9.7\n"
-  - testcases:
     - stdin: '254'
       stdout: "Kostprijs: € 9.7\n"
   - testcases:
@@ -56,7 +59,4 @@
       stdout: "Kostprijs: € 10.7\n"
   - testcases:
     - stdin: '264'
-      stdout: "Kostprijs: € 10.7\n"
-  - testcases:
-    - stdin: '278'
       stdout: "Kostprijs: € 10.7\n"

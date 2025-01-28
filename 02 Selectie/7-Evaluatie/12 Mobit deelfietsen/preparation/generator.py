@@ -33,7 +33,7 @@ spec.loader.exec_module(module)
 
 # generate test data
 ntests= 20
-cases = [ (35,), (72,),(3,),]
+cases = [ (35,), (72,),(3,), (4,),(5, ),(6,)]
 
 while len( cases ) < ntests:
     tijd = random.randint(1, 5*60)
