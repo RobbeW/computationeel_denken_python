@@ -6,7 +6,7 @@
 
 Men hanteert hierbij de volgende tariefkaart, waarbij er telkens per **begonnen** blok van 20 minuten wordt gerekend.
 
-| Period        | Prijs per blok  |
+| Periode       | Prijs per blok  |
 |:--------------|:---------------:|
 | 1ste uur      | € 0,45          |
 | 2de uur       | € 0,65          |
