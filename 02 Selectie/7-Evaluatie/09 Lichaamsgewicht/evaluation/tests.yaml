@@ -58,6 +58,9 @@
     - stdin: '118'
       stdout: "De ideale lichaamsmassa is 29.7 kg.\n"
   - testcases:
+    - stdin: '120'
+      stdout: "De ideale lichaamsmassa is 30.0 kg.\n"
+  - testcases:
     - stdin: '124'
       stdout: "Dit kind is te oud om de formule van Leffler te gebruiken.\n"
   - testcases:
@@ -71,7 +74,4 @@
       stdout: "Dit kind is te oud om de formule van Leffler te gebruiken.\n"
   - testcases:
     - stdin: '139'
-      stdout: "Dit kind is te oud om de formule van Leffler te gebruiken.\n"
-  - testcases:
-    - stdin: '141'
       stdout: "Dit kind is te oud om de formule van Leffler te gebruiken.\n"
