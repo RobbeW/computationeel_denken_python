@@ -20,5 +20,5 @@ Voer uw gebruikersnaam in: janedoe
 
 leidt tot de uitvoer:
 ```
-Gebruiker en email komen niet overeen.
+Emailadres niet gekend.
 ```
