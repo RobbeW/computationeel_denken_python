@@ -1,32 +1,32 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: 30
+    - stdin: '30'
       stdout: "N\n"
   - testcases:
-    - stdin: 51
+    - stdin: '51'
       stdout: "N\n"
   - testcases:
-    - stdin: 1000033
+    - stdin: '1000033'
       stdout: "Y\n"
   - testcases:
-    - stdin: 1000579
+    - stdin: '1000579'
       stdout: "Y\n"
   - testcases:
-    - stdin: 1001123
+    - stdin: '1001123'
       stdout: "Y\n"
   - testcases:
-    - stdin: 1001327
+    - stdin: '1001327'
       stdout: "Y\n"
   - testcases:
-    - stdin: 1001333
+    - stdin: '1001333'
       stdout: "N\n"
   - testcases:
-    - stdin: 1001621
+    - stdin: '1001621'
       stdout: "Y\n"
   - testcases:
-    - stdin: 1002083
+    - stdin: '1002083'
       stdout: "Y\n"
   - testcases:
-    - stdin: 1002289
+    - stdin: '1002289'
       stdout: "Y\n"
