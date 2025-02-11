@@ -1,13 +1,17 @@
 import math
 
 # Invoer vragen
-z = float( input( 'Geef de zijde in (in cm): ' ) )
-n = int( input( 'Geef de iteratie in: ' ) )
+lengte_zijde = float(input("Geef de zijde in (in cm): "))
+aantal_iteraties = int(input("Geef de iteratie in: "))
 
-# Lengte berekenen
-aantal = 2
-print("De startlengte was", round(aantal * z, 2), "cm.")
-for i in range(n):
-    z /= math.sqrt(2)
-    aantal *= 2
-    print("In iteratie", i+1, "bedraagt de lengte van de draakkromme", round(aantal * z, 2), "cm.")
+
+# Aantal segmenten start op 1
+totaal_segmenten = 1 
+print("De startlengte was", round(totaal_segmenten * lengte_zijde, 2), "cm.")
+
+
+# Iteraties uitvoeren
+for i in range(aantal_iteraties):
+    lengte_zijde = lengte_zijde / math.sqrt(2)  # Deel de zijde door √2
+    totaal_segmenten = totaal_segmenten * 2  
+    print("In iteratie", i + 1, "is de lengte van de draakkromme", round(totaal_segmenten * lengte_zijde, 2), "cm.")

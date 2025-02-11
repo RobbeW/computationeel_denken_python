@@ -32,8 +32,8 @@ module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
 # generate test data
-ntests= 20
-cases = [(1,),(5,),(12,),(30,)]
+ntests= 25
+cases = [(1,),(5,),(12,),(30,), (100,), (120, )]
 while len(cases) < ntests:
     age = random.randint(1,150)
     if (age, ) not in cases:

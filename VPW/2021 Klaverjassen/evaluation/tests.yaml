@@ -1,4 +1,62 @@
 - tab: Feedback
-  testcases:
-  - stdin: "2\nS\nRB R7 S9 S7 HD H7 KB K7\nH\nRB R7 S9 S7 HD H7 KB K7"
-    stdout: "1 21\n2 7"
+  contexts:
+  - testcases:
+    - expression: klaverjassen("♠", ['♦B', '♦7', '♠9', '♠7', '♥D', '♥7', '♣B', '♣7'])
+      return: 21
+  - testcases:
+    - expression: klaverjassen("♥", ['♦B', '♦7', '♠9', '♠7', '♥D', '♥7', '♣B', '♣7'])
+      return: 7
+  - testcases:
+    - expression: klaverjassen("♠", ['♠8', '♣H', '♣A', '♠7', '♦B', '♥B', '♦T', '♣T'])
+      return: 39
+  - testcases:
+    - expression: klaverjassen("♠", ['♠H', '♦B', '♥A', '♠T', '♦7', '♦A', '♥T', '♠B'])
+      return: 68
+  - testcases:
+    - expression: klaverjassen("♦", ['♦7', '♠9', '♦B', '♦A', '♥T', '♣7', '♠7', '♥7'])
+      return: 41
+  - testcases:
+    - expression: klaverjassen("♠", ['♠A', '♥8', '♠7', '♣9', '♠H', '♥B', '♦7', '♥T'])
+      return: 27
+  - testcases:
+    - expression: klaverjassen("♠", ['♠A', '♥D', '♦T', '♥B', '♣9', '♦A', '♣H', '♥9'])
+      return: 41
+  - testcases:
+    - expression: klaverjassen("♦", ['♦B', '♠D', '♣8', '♠9', '♠H', '♠7', '♠8', '♣9'])
+      return: 27
+  - testcases:
+    - expression: klaverjassen("♦", ['♦9', '♥7', '♠D', '♦H', '♣B', '♣A', '♥8', '♣7'])
+      return: 34
+  - testcases:
+    - expression: klaverjassen("♠", ['♠T', '♥T', '♣T', '♠7', '♠H', '♦7', '♥8', '♦T'])
+      return: 44
+  - testcases:
+    - expression: klaverjassen("♦", ['♦9', '♠7', '♦7', '♣8', '♠8', '♣B', '♥B', '♣D'])
+      return: 21
+  - testcases:
+    - expression: klaverjassen("♥", ['♥D', '♠A', '♥H', '♠7', '♦T', '♣T', '♥8', '♣8'])
+      return: 38
+  - testcases:
+    - expression: klaverjassen("♠", ['♠A', '♣H', '♥A', '♦8', '♥H', '♥D', '♥B', '♥T'])
+      return: 45
+  - testcases:
+    - expression: klaverjassen("♣", ['♣B', '♣8', '♥9', '♣7', '♦H', '♠8', '♥A', '♥D'])
+      return: 38
+  - testcases:
+    - expression: klaverjassen("♠", ['♠7', '♣9', '♦D', '♥A', '♠T', '♣H', '♠8', '♦A'])
+      return: 39
+  - testcases:
+    - expression: klaverjassen("♦", ['♦8', '♦B', '♦T', '♦A', '♣8', '♣7', '♠T', '♦D'])
+      return: 54
+  - testcases:
+    - expression: klaverjassen("♣", ['♣8', '♠7', '♦A', '♥9', '♣B', '♣T', '♥H', '♠9'])
+      return: 45
+  - testcases:
+    - expression: klaverjassen("♥", ['♥H', '♦H', '♥B', '♦8', '♠7', '♣8', '♣D', '♠B'])
+      return: 33
+  - testcases:
+    - expression: klaverjassen("♦", ['♦7', '♦8', '♥A', '♣7', '♦T', '♦B', '♥H', '♦D'])
+      return: 48
+  - testcases:
+    - expression: klaverjassen("♥", ['♥A', '♥7', '♠T', '♥8', '♠7', '♠H', '♠8', '♦A'])
+      return: 36

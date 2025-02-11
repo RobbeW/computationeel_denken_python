@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Even of oneven?"
+      "nl": "Stijgend getal"
     }
   },
   "evaluation": {
@@ -15,14 +15,13 @@
     "Robbe Wulgaert",
     "Python",
     "Python in de Klas",
-    "Sequentie",
-    "Concateneren",
+    "Selectie",
+    "Evaluatie",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "4nwPumM6yKXDynfhnrIMBn8HDmQyiC8Gvwz-TccHa7TPImGCmP5cncBbwgG8VgGi",
+    "token": "EnVbC-87ycR4wFVDpuYF3TUC3BShs9fYdrkiCT9s5vP8WPDRjQdmP-vveSZ35VJ5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

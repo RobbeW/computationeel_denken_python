@@ -5,4 +5,4 @@ getal = int(input("Voer een getal in: "))
 if getal % 3 == 0:
     print("Het scherm is waarschijnlijk ok.")
 else:
-    print("Het scherm bevat zeker een defect!")
+    print("Het scherm bevat waarschijnlijk een defect!")

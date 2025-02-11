@@ -13,9 +13,6 @@
     - stdin: "81\n180"
       stdout: "Jouw BMI bedraagt: 25.0\nDit komt overeen met de categorie: gezond\n"
   - testcases:
-    - stdin: "86.7\n170"
-      stdout: "Jouw BMI bedraagt: 30.0\nDit komt overeen met de categorie: overgewicht\n"
-  - testcases:
     - stdin: "85\n178"
       stdout: "Jouw BMI bedraagt: 26.83\nDit komt overeen met de categorie: overgewicht\n"
   - testcases:

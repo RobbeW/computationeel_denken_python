@@ -24,7 +24,7 @@ en de **verdediger** gooit op zijn beurt:
 
 In dit geval verliezen beide legers een eenheid. We leggen dit als volgt uit: 
 * De 5 van de aanvaller wint immers van de 4 van de verdediging.
-* Maar de volgende hoogste waarde van de aanvaller, namelijk een 2, verlies van de volgende hoogste waarde van de verdediging, namelijk een 3.
+* Maar de volgende hoogste waarde van de aanvaller, namelijk een 2, verliest van de volgende hoogste waarde van de verdediging, namelijk een 3.
 
 Een nieuw voorbeeld waarin een **gelijkspel** voorkomt:
 

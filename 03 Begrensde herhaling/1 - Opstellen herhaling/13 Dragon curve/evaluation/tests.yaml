@@ -2,150 +2,39 @@
   contexts:
   - testcases:
     - stdin: "1.0\n5"
-      stdout: "De startlengte was 2.0 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 2.83 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        4.0 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 5.66 cm.\nIn
-        iteratie 4 bedraagt de lengte van de draakkromme 8.0 cm.\nIn iteratie 5 bedraagt
-        de lengte van de draakkromme 11.31 cm.\n"
+      stdout: "De startlengte was 1.0 cm.\nIn iteratie 1 bedraagt de lengte van de
+        draakkromme 1.41 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
+        2.0 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 2.83 cm.\nIn
+        iteratie 4 bedraagt de lengte van de draakkromme 4.0 cm.\nIn iteratie 5 bedraagt
+        de lengte van de draakkromme 5.66 cm.\n"
   - testcases:
     - stdin: "24.15\n10"
-      stdout: "De startlengte was 48.3 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 68.31 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        96.6 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 136.61 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 193.2 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 273.23 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 386.4 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 546.45 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        772.8 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 1092.9 cm.\n\
-        In iteratie 10 bedraagt de lengte van de draakkromme 1545.6 cm.\n"
-  - testcases:
-    - stdin: "8.4\n10"
-      stdout: "De startlengte was 16.8 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 23.76 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        33.6 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 47.52 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 67.2 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 95.04 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 134.4 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 190.07 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        268.8 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 380.14 cm.\n\
-        In iteratie 10 bedraagt de lengte van de draakkromme 537.6 cm.\n"
-  - testcases:
-    - stdin: "17.9\n9"
-      stdout: "De startlengte was 35.8 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 50.63 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        71.6 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 101.26 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 143.2 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 202.52 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 286.4 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 405.03 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        572.8 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 810.06 cm.\n"
+      stdout: "De startlengte was 24.15 cm.\nIn iteratie 1 bedraagt de lengte van de
+        draakkromme 34.15 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
+        48.3 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 68.31 cm.\n\
+        In iteratie 4 bedraagt de lengte van de draakkromme 96.6 cm.\nIn iteratie
+        5 bedraagt de lengte van de draakkromme 136.61 cm.\nIn iteratie 6 bedraagt
+        de lengte van de draakkromme 193.2 cm.\nIn iteratie 7 bedraagt de lengte van
+        de draakkromme 273.23 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
+        386.4 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 546.45 cm.\n\
+        In iteratie 10 bedraagt de lengte van de draakkromme 772.8 cm.\n"
   - testcases:
     - stdin: "3.5\n2"
-      stdout: "De startlengte was 7.0 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 9.9 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme 14.0
+      stdout: "De startlengte was 3.5 cm.\nIn iteratie 1 bedraagt de lengte van de
+        draakkromme 4.95 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme 7.0
         cm.\n"
   - testcases:
     - stdin: "5.55\n1"
-      stdout: "De startlengte was 11.1 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 15.7 cm.\n"
+      stdout: "De startlengte was 5.55 cm.\nIn iteratie 1 bedraagt de lengte van de
+        draakkromme 7.85 cm.\n"
   - testcases:
     - stdin: "29.75\n1"
-      stdout: "De startlengte was 59.5 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 84.15 cm.\n"
+      stdout: "De startlengte was 29.75 cm.\nIn iteratie 1 bedraagt de lengte van de
+        draakkromme 42.07 cm.\n"
   - testcases:
     - stdin: "25.55\n4"
-      stdout: "De startlengte was 51.1 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 72.27 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        102.2 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 144.53 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 204.4 cm.\n"
-  - testcases:
-    - stdin: "16.85\n1"
-      stdout: "De startlengte was 33.7 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 47.66 cm.\n"
-  - testcases:
-    - stdin: "15.35\n9"
-      stdout: "De startlengte was 30.7 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 43.42 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        61.4 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 86.83 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 122.8 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 173.67 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 245.6 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 347.33 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        491.2 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 694.66 cm.\n"
-  - testcases:
-    - stdin: "5.4\n2"
-      stdout: "De startlengte was 10.8 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 15.27 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        21.6 cm.\n"
-  - testcases:
-    - stdin: "12.05\n7"
-      stdout: "De startlengte was 24.1 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 34.08 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        48.2 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 68.17 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 96.4 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 136.33 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 192.8 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 272.66 cm.\n"
-  - testcases:
-    - stdin: "28.4\n9"
-      stdout: "De startlengte was 56.8 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 80.33 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        113.6 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 160.65 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 227.2 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 321.31 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 454.4 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 642.62 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        908.8 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 1285.24 cm.\n"
-  - testcases:
-    - stdin: "27.45\n7"
-      stdout: "De startlengte was 54.9 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 77.64 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        109.8 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 155.28 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 219.6 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 310.56 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 439.2 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 621.12 cm.\n"
-  - testcases:
-    - stdin: "6.05\n3"
-      stdout: "De startlengte was 12.1 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 17.11 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        24.2 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 34.22 cm.\n"
-  - testcases:
-    - stdin: "8.3\n9"
-      stdout: "De startlengte was 16.6 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 23.48 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        33.2 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 46.95 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 66.4 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 93.9 cm.\nIn iteratie 6 bedraagt de
-        lengte van de draakkromme 132.8 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 187.81 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        265.6 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 375.62 cm.\n"
-  - testcases:
-    - stdin: "13.75\n3"
-      stdout: "De startlengte was 27.5 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 38.89 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        55.0 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 77.78 cm.\n"
-  - testcases:
-    - stdin: "29.8\n10"
-      stdout: "De startlengte was 59.6 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 84.29 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        119.2 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 168.57 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 238.4 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 337.15 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 476.8 cm.\nIn iteratie 7 bedraagt de lengte van
-        de draakkromme 674.3 cm.\nIn iteratie 8 bedraagt de lengte van de draakkromme
-        953.6 cm.\nIn iteratie 9 bedraagt de lengte van de draakkromme 1348.59 cm.\n\
-        In iteratie 10 bedraagt de lengte van de draakkromme 1907.2 cm.\n"
-  - testcases:
-    - stdin: "15.05\n6"
-      stdout: "De startlengte was 30.1 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 42.57 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        60.2 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 85.14 cm.\n\
-        In iteratie 4 bedraagt de lengte van de draakkromme 120.4 cm.\nIn iteratie
-        5 bedraagt de lengte van de draakkromme 170.27 cm.\nIn iteratie 6 bedraagt
-        de lengte van de draakkromme 240.8 cm.\n"
-  - testcases:
-    - stdin: "20.35\n3"
-      stdout: "De startlengte was 40.7 cm.\nIn iteratie 1 bedraagt de lengte van de
-        draakkromme 57.56 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
-        81.4 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 115.12 cm.\n"
+      stdout: "De startlengte was 25.55 cm.\nIn iteratie 1 bedraagt de lengte van de
+        draakkromme 36.13 cm.\nIn iteratie 2 bedraagt de lengte van de draakkromme
+        51.1 cm.\nIn iteratie 3 bedraagt de lengte van de draakkromme 72.27 cm.\n\
+        In iteratie 4 bedraagt de lengte van de draakkromme 102.2 cm.\n"
+ 

@@ -32,16 +32,15 @@ module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
 # generate test data
-ntests= 20
-cases = [ (35,), (72,),(3,), (4,),(5, ),(6,)]
+ntests= 25
+cases = [ (357,),(557,),(282,)]
 
 while len( cases ) < ntests:
-    tijd = random.randint(1, 5*60)
-    case = (tijd, )
+    getal = random.randint(100,999)
+    case = (getal, )
     if case not in cases:
         cases.append( case )
 
-cases.sort()
 # generate unit tests for functions
 yamldata = []
 

@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Even of oneven?"
+      "nl": "Lineaire vergelijking"
     }
   },
   "evaluation": {
@@ -15,14 +15,13 @@
     "Robbe Wulgaert",
     "Python",
     "Python in de Klas",
-    "Sequentie",
-    "Concateneren",
+    "Selectie",
+    "Evaluatie",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "4nwPumM6yKXDynfhnrIMBn8HDmQyiC8Gvwz-TccHa7TPImGCmP5cncBbwgG8VgGi",
+    "token": "-sFrxs4S6jtgXVtPCfItMfUY_bJZhBw-5rUxU5EfZ_r_aEsXfkF_2AxVPTCr7fhg",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
