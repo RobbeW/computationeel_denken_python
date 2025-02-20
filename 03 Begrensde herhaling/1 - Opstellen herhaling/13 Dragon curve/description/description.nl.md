@@ -7,11 +7,6 @@ De draakkromme ontstaat door elk lijnstuk op een specifieke manier in **twee te 
 - **Het aantal segmenten** verdubbeld.
 
 Omdat het **aantal segmenten toeneemt** terwijl hun individuele **lengte afneemt**, groeit de totale lengte van de draakkromme bij elke iteratie. 
-Dit kan worden berekend met de formule:
-```
-Totale lengte na iteratie n = Startlengte × (√2)^n
-
-```
 
 ![Vorming van de draakkromme.](media/image.png "Vorming van de draakkromme."){:data-caption="Vorming van de draakkromme." .light-only width="354px"}
 
@@ -22,15 +17,12 @@ Schrijf een programma dat:
 
 1. De **startlengte** van één zijde als invoer vraagt (in centimeters).
 2. Het **aantal iteraties** als invoer vraagt.
-3. Start het **aantal segmenten op 1.** 
+3. Start het **aantal segmenten op 1**.
 4. Voor elke iteratie:
-   - De **lengte van elk segment** berekent door deling met `√2`.
+   - De **lengte van één segment** berekent door deling met $$\mathsf{\sqrt{2}}$$.
    - Het **aantal segmenten** verdubbelt.
-   - De **totale lengte** berekent met de formule:
-     ```
-     Totale lengte na iteratie n = Startlengte × (√2)^n
-     ```
-5. De totale lengte van de draakkromme voor elke iteratie print, **afgerond op 2 decimalen**, bijvoorbeeld:
+
+5. De totale lengte van de draakkromme voor elke iteratie weergeeft, **afgerond op 2 decimalen**, bijvoorbeeld:
 
 
 #### Voorbeeld
@@ -42,13 +34,4 @@ In iteratie 2 bedraagt de lengte van de draakkromme 2.0 cm.
 In iteratie 3 bedraagt de lengte van de draakkromme 2.83 cm.
 In iteratie 4 bedraagt de lengte van de draakkromme 4.0 cm.
 In iteratie 5 bedraagt de lengte van de draakkromme 5.66 cm.
-
 ```
-
-{: .callout.callout-info}
->#### Opmerking
-> De waarden zijn berekend met de formule:
->
-> ```
-> Lengte iteratie n = Startlengte × (√2)^n
-> ```
