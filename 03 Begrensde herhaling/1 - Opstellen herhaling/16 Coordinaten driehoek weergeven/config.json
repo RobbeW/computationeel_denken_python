@@ -20,5 +20,9 @@
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>"
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "AmZgZATrTWwX_iiu5f9uWhxcIvs3dD3C4CfHxr4hVIdkCdk4jnp2pRqrtwIzJ4vs",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
