@@ -27,4 +27,4 @@ Een vierkant met een zijde van 3 bevat deze punten:
 
 {: .callout.callout-info}
 >#### Tip 
-> Gebruik een geneste herhaling
+> Gebruik een **geneste** herhaling.
