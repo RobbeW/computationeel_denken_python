@@ -15,3 +15,7 @@ Voor invoer `9` verschijnt er:
 3 is een deler van 9
 9 is een deler van 9
 ```
+
+{: .callout.callout-info}
+>#### Tip 
+> Gebruik `%`...
