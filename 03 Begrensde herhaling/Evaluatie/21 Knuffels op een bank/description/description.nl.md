@@ -1,10 +1,8 @@
 Het telrijmpje "2 knuffels" gaat als volgt:
 
-> 2 knuffels zitten netjes op een rij
-  Eentje fluistert zachtjes: Mag ik er ook nog bij?
+> 2 knuffels zitten netjes op een rij<br>Eentje fluistert zachtjes: Mag ik er ook nog bij?
 >
-> 3 knuffels zitten netjes op een rij
-  Eentje fluistert zachtjes: Mag ik er ook nog bij?
+> 3 knuffels zitten netjes op een rij<br>Eentje fluistert zachtjes: Mag ik er ook nog bij?
 >
 > 4 knuffels zitten netjes op een rij
   ...
