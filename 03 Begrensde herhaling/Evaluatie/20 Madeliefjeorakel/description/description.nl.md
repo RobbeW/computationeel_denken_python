@@ -4,7 +4,7 @@
 
 ## Gevraagd
 
-Schrijf een programma dat naar het aantal bloemblaadjes vraagt en vervolgens het madeliefjesorakel afdrukt.
+Schrijf een programma dat naar het aantal bloemblaadjes vraagt en vervolgens evenveel regels van het madeliefjesorakel afdrukt.
 
 #### Voorbeeld
 
