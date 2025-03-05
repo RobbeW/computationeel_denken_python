@@ -1,8 +1,8 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "4\n8"
-      stdout: "Oplossingenverzameling = { -2.0 }\n"
+    - stdin: "4\n-8"
+      stdout: "Oplossingenverzameling = { 2.0 }\n"
   - testcases:
     - stdin: "4\n0"
       stdout: "Oplossingenverzameling = { 0.0 }\n"
