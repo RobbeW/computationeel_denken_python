@@ -32,14 +32,15 @@ module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
 # generate test data
-ntests= 20
-cases = [ (4,8), (4,0) ,(0,8), (0,0), (2,0), (-1,0), (0,5), (0,-1)]
+ntests= 25
+cases = [ (4,8), (4,0) ,(0,8), (0,0), (2,0), (3,0), (0,-5), (0,-1)]
 
 while len( cases ) < ntests:
     c = round(random.uniform(-9, 9), 1)
     a = random.randint(-9, 9)
     b = int(-a * c)
-    case = (a, b)
+    if not (b == 0 and a < 0):
+        case = (a, b)
     if case not in cases:
         cases.append( case )
 
