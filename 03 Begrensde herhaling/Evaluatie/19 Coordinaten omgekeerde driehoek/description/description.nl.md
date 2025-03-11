@@ -1,4 +1,4 @@
-Als je een gelijkbenig en rechthoekige driehoek in een orthornormaal assenstelsel tekent, dan liggen enkele gehele coördinatenkoppels **binnen** dit vierkant. In het onderstaande geval liggen er 6 gehele coördinatenkoppels binnen deze driehoek met rechthoekszijden van lengte 3.
+Als je een gelijkbenig en rechthoekige driehoek in een orthornormaal assenstelsel tekent, dan liggen enkele gehele coördinatenkoppels **binnen** deze driehoek. In het onderstaande geval liggen er 6 gehele coördinatenkoppels binnen deze driehoek met rechthoekszijden van lengte 3.
 
 ![Gehele coördinatenkoppels binnen een driehoek.](media/image.png "Gehele coördinatenkoppels binnen een driehoek."){:data-caption="Gehele coördinatenkoppels binnen een driehoek." .light-only width="250px"}
 
