@@ -7,6 +7,12 @@
     - stdin: "3\n3\n4"
       stdout: "Deze driehoek is gelijkbenig.\n"
   - testcases:
+    - stdin: "3\n4\n3"
+      stdout: "Deze driehoek is gelijkbenig.\n"
+  - testcases:
+    - stdin: "4\n3\n3"
+      stdout: "Deze driehoek is gelijkbenig.\n"
+  - testcases:
     - stdin: "8\n5\n5"
       stdout: "Deze driehoek is gelijkbenig.\n"
   - testcases:
