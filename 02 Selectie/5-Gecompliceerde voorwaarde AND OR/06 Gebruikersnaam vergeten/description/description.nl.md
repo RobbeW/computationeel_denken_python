@@ -2,7 +2,7 @@ Volgens onderzoek van <a href="https://www.digitalguardian.com/blog/uncovering-p
 
 ![Aantal accounts per emailadres.](media/accounts.png "Bron: Digital Guardian."){:data-caption="Aantal accounts per emailadres." width="400px"}
 
-Indien je ook je wachtwoord vergeten bent kan je meestal een nieuw wachtwoord laten instellen. Soms vraagt de website hierbij naar je emailadres **en** gebruikersnaam.
+Indien je ook je wachtwoord vergeten bent, kan je meestal een nieuw wachtwoord laten instellen. Soms vraagt de website hierbij naar je emailadres **en** gebruikersnaam.
 
 ## Gevraagd
 Schrijf een programma dat vraagt naar het emailadres **en** de gebruikersnaam en vervolgens controleert of dit overeenkomt met de gegevens van gebruiker `janedoe`.
