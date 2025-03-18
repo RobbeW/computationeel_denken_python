@@ -8,7 +8,7 @@ Voor invoer `4` verschijnt er:
 4 is een volkomen kwadraat.
 ```
 
-Voor invoer `9` verschijnt er:
+Voor invoer `24` verschijnt er:
 ```
 24 is geen volkomen kwadraat.
 ```
