@@ -16,10 +16,10 @@
     - stdin: "2\n0"
       stdout: "Oplossingenverzameling = { 0.0 }\n"
   - testcases:
-    - stdin: "-1\n0"
-      stdout: "Oplossingenverzameling = { -0.0 }\n"
+    - stdin: "3\n0"
+      stdout: "Oplossingenverzameling = { 0.0 }\n"
   - testcases:
-    - stdin: "0\n5"
+    - stdin: "0\n-5"
       stdout: "Ledige oplossingenverzameling, deze vergelijking is vals.\n"
   - testcases:
     - stdin: "0\n-1"
@@ -60,3 +60,18 @@
   - testcases:
     - stdin: "-7\n-46"
       stdout: "Oplossingenverzameling = { -6.6 }\n"
+  - testcases:
+    - stdin: "4\n9"
+      stdout: "Oplossingenverzameling = { -2.2 }\n"
+  - testcases:
+    - stdin: "8\n-52"
+      stdout: "Oplossingenverzameling = { 6.5 }\n"
+  - testcases:
+    - stdin: "-8\n-16"
+      stdout: "Oplossingenverzameling = { -2.0 }\n"
+  - testcases:
+    - stdin: "-3\n-20"
+      stdout: "Oplossingenverzameling = { -6.7 }\n"
+  - testcases:
+    - stdin: "3\n-16"
+      stdout: "Oplossingenverzameling = { 5.3 }\n"

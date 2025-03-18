@@ -1,0 +1,186 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '1'
+      stdout: "Hij houdt van me\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '8'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\n"
+  - testcases:
+    - stdin: '13'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\n"
+  - testcases:
+    - stdin: '18'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '25'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\n"
+  - testcases:
+    - stdin: '26'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\n"
+  - testcases:
+    - stdin: '27'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\n"
+  - testcases:
+    - stdin: '34'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\n"
+  - testcases:
+    - stdin: '35'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\n"
+  - testcases:
+    - stdin: '36'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '38'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '41'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\n"
+  - testcases:
+    - stdin: '42'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '44'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\n"
+  - testcases:
+    - stdin: '50'
+      stdout: "Hij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet
+        van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt
+        niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van me\nHij
+        houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt van
+        me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij houdt
+        van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van me\nHij
+        houdt van me\nHij houdt niet van me\nHij houdt van me\nHij houdt niet van
+        me\nHij houdt van me\nHij houdt niet van me\n"
