@@ -46,7 +46,7 @@ while len(cases) < 20:
         A = z**2
         
         A_2 /= 2
-        if round(A_2, 3) != round(A, 3):
+        if round(A_2, 4) != round(A, 4):
             equal = False
         
             
