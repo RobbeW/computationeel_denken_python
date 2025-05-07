@@ -2,7 +2,7 @@
 
 De <a href="https://nl.wikipedia.org/wiki/Driehoek_van_Sierpi%C5%84ski" target="_blank">driehoek van Sierpiński</a> is een <a href="https://nl.wikipedia.org/wiki/Fractal" target = "_blank">fractaal</a> gevonden door de Poolse wiskundige <a href="https://nl.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski" target="_blank">Wacław Sierpiński</a>.
 
-De driehoek ontstaat door te starten van een gelijkzijdige driehoek. Vervolgens wordt de driehoek gevormd door de middens van de zijden verwijderd. Dit proces wordt daarna opnieuw uitgevoerd voor elke nieuwe gelijkzijdige driehoek.
+De driehoek ontstaat door te starten van een gelijkzijdige driehoek. Men verbindt vervolgens alle middens van de zijden en verwijdert de middelste driehoek. Dit proces wordt daarna opnieuw uitgevoerd voor elke nieuwe gelijkzijdige driehoek.
 
 ![Vorming van de driehoek van Sierpiński.](media/image.png "Vorming van de driehoek van Sierpiński."){:data-caption="Vorming van de driehoek van Sierpiński." .light-only width="236px"}
 

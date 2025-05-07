@@ -5,7 +5,7 @@ Het Vlaams Instituut Gezond Leven lanceerde in 2022 de <a href="https://10000sta
 ![10 000 stappen zou gezond zijn.](media/steps.gif){:data-caption="10 000 stappen zou gezond zijn." width="40%"}
 
 ## Gevraagd
-Schrijf een programma dat vraagt hoeveel stappen je vandaag reeds gezet hebt en vervolgens berekent hoeveel stappen je nog moet zetten. Indien er reeds 10 000 stappen bereikt zijn geeft het programma een relevante melding. Let ook op de melding indien er **slechts één stap** meer gezet moet worden.
+Schrijf een programma dat vraagt hoeveel stappen je vandaag reeds gezet hebt en vervolgens berekent hoeveel stappen je nog moet zetten. Indien er reeds 10 000 stappen bereikt zijn, geeft het programma een relevante melding. Let ook op de melding indien er **slechts één stap** meer gezet moet worden.
 
 #### Voorbeelden
 De invoer `5342` levert als uitvoer:
