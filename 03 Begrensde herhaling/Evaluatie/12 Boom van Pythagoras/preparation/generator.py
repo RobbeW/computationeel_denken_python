@@ -3,6 +3,7 @@ import importlib.util
 import random
 import ruamel.yaml
 import subprocess
+import math
 
 yaml = ruamel.yaml.YAML()
 
@@ -36,8 +37,21 @@ cases = [(1.0,4), (6.25,3)]
 while len(cases) < 20:
     z = round(random.uniform(1,10),2)
     n = random.randint(2,20)
-    if (z,n) not in cases:
-        cases.append((z,n))
+    z_eerst = z
+    
+    equal = True
+    A_2 = z**2
+    for i in range(n):
+        z = z / math.sqrt(2)
+        A = z**2
+        
+        A_2 /= 2
+        if round(A_2, 3) != round(A, 3):
+            equal = False
+        
+            
+    if (z_eerst,n) not in cases and equal:
+        cases.append((z_eerst,n))
     
 
 
