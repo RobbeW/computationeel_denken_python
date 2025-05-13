@@ -33,8 +33,8 @@ De gebruiker tikt nu bijvoorbeeld **foutief** `11` in, er verschijnt vervolgens:
 Dit is geen deler!
 ```
 
-Dit herhaalt zich verder tot er **uiteindelijk** verschijnt:
+Na nog een laatste opgave verschijnt **uiteindelijk** iets van de vorm:
 
 ```
-Score: 1
+Score: 2
 ```
