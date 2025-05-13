@@ -19,5 +19,9 @@
     "Evaluatie",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
-  ]
+  ],
+  "internals": {
+    "token": "a-a7JpUMWXDSQxTA27f3N7JQpHYRxfXHfApjCnpE7bYb8HXwCi3TQPHuXBBWbTbq",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
