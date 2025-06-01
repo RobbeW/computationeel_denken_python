@@ -13,13 +13,17 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Voorwaardelijke Herhaling",
     "While-lus",
     "Collatz",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>"
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "nXWY2-JcnkqYAMdTYP4ebwwKcAIaECIpWIDvY8nPMKFZ-IYWk7JyAJehcS6VYtHK",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
