@@ -11,7 +11,12 @@
   },
   "labels": [
     "Vlaamse Programmeerwedstrijd",
-    "Editie 2021"
+    "Editie 2021",
+    "lijsten",
+    "functies",
+    "begrensde herhaling",
+    "for-lus",
+    "selectie"
   ],
   "access": "public",
   "internals": {

@@ -7,15 +7,15 @@
   },
   "evaluation": {
     "handler": "TESTed",
-    "test_suite": "tests.yaml",
-    "options": {
-      "mode": "batch",
-      "allow_fallback": true
-    }
+    "test_suite": "tests.yaml"
   },
   "labels": [
     "Vlaamse Programmeerwedstrijd",
-    "Editie 2022"
+    "Editie 2022",
+    "greedy",
+    "functies",
+    "lijsten",
+    "voorwaardelijke herhaling"
   ],
   "access": "public",
   "internals": {

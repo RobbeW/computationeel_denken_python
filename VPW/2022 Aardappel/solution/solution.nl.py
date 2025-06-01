@@ -1,31 +1,15 @@
-t = int(input())
-for j in range(t):
-    str = input( )
-    aantal = [int(n) for n in str.split()]
-    
-    G = aantal[0]
-    n = aantal[1]
-    aantal.pop(0)
-    aantal.pop(0)
-    
-    flag = True
-    n_cuts = 0
-    patat = aantal.copy()
-    while flag:
-        patat_temp = []
-        kleinste = min(patat)
-        for i in range(len(patat)):
-            size = patat[i]
-            # Perhaps this can be simplified
-            if not abs(size - kleinste) <= G : #cut once
-                n_cuts += 1
-                patat_temp.append(size // 2)
-                patat_temp.append(size // 2 + size % 2)
-                flag = False
-            else:
-                patat_temp.append(size)
-        patat = patat_temp
-        flag = not flag 
-        
-    print(j+1, n_cuts)
-
+def aardappel(groottes, G):
+    aantal = 0
+    groottes.sort()
+    i = 1
+    while max(groottes) - min(groottes) > G and i < len(groottes):
+        if groottes[i] - groottes[0] <= G:
+            i += 1
+        else:
+            aantal += 1
+            part1 = groottes[i] // 2
+            part2 = groottes[i] - part1
+            groottes[i] = part1
+            groottes.append(part2)
+            groottes.sort()
+    return aantal

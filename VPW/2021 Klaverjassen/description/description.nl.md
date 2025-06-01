@@ -39,7 +39,6 @@ Bestudeer grondig onderstaande voorbeelden.
 7
 ```
 
-
 {: .callout.callout-secondary}
 >#### Bron
-> Dit is een oefening uit de Vlaamse programmeerwedstrijd 2021 - categorie 1.
+> Geïnspireerd op een oefening uit de Vlaamse programmeerwedstrijd 2021 - categorie 1.
