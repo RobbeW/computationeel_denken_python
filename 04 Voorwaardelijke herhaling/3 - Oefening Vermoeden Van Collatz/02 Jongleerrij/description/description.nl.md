@@ -4,7 +4,7 @@ Men definieert een rij getallen waarbij men start met een willekeurig natuurlijk
 - als het getal even is, bereken dan $$\mathsf{\sqrt{a}}$$ en rond af naar beneden;
 - als het getal oneven is, bereken dan $$\mathsf{\sqrt{a^3}}$$ en rond af naar beneden.
 
-Neem dit uitkomst van deze bewerking als nieuw getal en herhaal het proces. Men vermoedt dat dit proces uiteindelijk steed eindig bij 1...
+Neem dit uitkomst van deze bewerking als nieuw getal en herhaal het proces. Men **vermoedt** dat dit proces uiteindelijk steeds eindig bij 1...
 
 ## Gevraagd
 
@@ -28,5 +28,5 @@ Bij invoer 3 verschijnt er:
 {: .callout.callout-primary}
 >#### Trivia
 > Men noemt dit een jongleerrij, omdat de rij getallen opeenvolgend stijgt en daalt, net zoals de ballen in de hand van een jongleur.
-
-![Een jongleur.](media/juggler.gif "Een jongleur."){:data-caption="Een jongleur." width="350px"}
+>
+> ![Een jongleur.](media/juggler.gif "Een jongleur."){:data-caption="Een jongleur." width="250px"}
