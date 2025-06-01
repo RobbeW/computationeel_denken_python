@@ -1,0 +1,74 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '3'
+      stdout: "3\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "6\n2\n1\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "9\n27\n140\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '168'
+      stdout: "168\n12\n3\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '214'
+      stdout: "214\n14\n3\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '478'
+      stdout: "478\n21\n96\n9\n27\n140\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '527'
+      stdout: "527\n12098\n109\n1137\n38338\n195\n2723\n142092\n376\n19\n82\n9\n27\n\
+        140\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '696'
+      stdout: "696\n26\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1052'
+      stdout: "1052\n32\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1065'
+      stdout: "1065\n34755\n6479267\n16492588200\n128423\n46021865\n312209649122\n\
+        558757\n417671137\n8535946743577\n24938914439347429376\n4993887707\n352905282191312\n\
+        18785773\n81422344846\n285346\n534\n23\n110\n10\n3\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1211'
+      stdout: "1211\n42142\n205\n2935\n159005\n63403929\n504863828660\n710537\n598935488\n\
+        24473\n3828519\n7491110616\n86551\n25462915\n128487885014\n358452\n598\n24\n\
+        4\n2\n1\n"
+  - testcases:
+    - stdin: '1216'
+      stdout: "1216\n34\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1251'
+      stdout: "1251\n44247\n9307343\n28394784608\n168507\n69171456\n8316\n91\n868\n\
+        29\n156\n12\n3\n5\n11\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1306'
+      stdout: "1306\n36\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1485'
+      stdout: "1485\n57225\n13689219\n50648665511\n11398613043317140\n106764287\n\
+        1103161269919\n1158666656277497600\n1076413794\n32808\n181\n2435\n120156\n\
+        346\n18\n4\n2\n1\n"
+  - testcases:
+    - stdin: '1506'
+      stdout: "1506\n38\n6\n2\n1\n"
+  - testcases:
+    - stdin: '1569'
+      stdout: "1569\n62149\n15493559\n60985527611\n15060527316396318\n122721340\n\
+        11077\n1165824\n1079\n35443\n6672609\n17236279002\n131287\n47569938\n6897\n\
+        572783\n433496085\n9025635060654\n3004269\n5207247554\n72161\n19384464\n4402\n\
+        66\n8\n2\n1\n"
+  - testcases:
+    - stdin: '1577'
+      stdout: "1577\n62624\n250\n15\n58\n7\n18\n4\n2\n1\n"
+  - testcases:
+    - stdin: '1595'
+      stdout: "1595\n63700\n252\n15\n58\n7\n18\n4\n2\n1\n"
+  - testcases:
+    - stdin: '1875'
+      stdout: "1875\n81189\n23133736\n4809\n333489\n192584916\n13877\n1634720\n1278\n\
+        35\n207\n2978\n54\n7\n18\n4\n2\n1\n"
