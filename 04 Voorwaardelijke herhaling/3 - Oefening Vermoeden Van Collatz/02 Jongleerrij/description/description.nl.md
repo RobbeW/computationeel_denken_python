@@ -4,7 +4,7 @@ Men definieert een rij getallen waarbij men start met een willekeurig natuurlijk
 - als het getal even is, bereken dan $$\mathsf{\sqrt{a}}$$ en rond af naar beneden;
 - als het getal oneven is, bereken dan $$\mathsf{\sqrt{a^3}}$$ en rond af naar beneden.
 
-Neem dit uitkomst van deze bewerking als nieuw getal en herhaal het proces. Men **vermoedt** dat dit proces uiteindelijk steeds eindig bij 1...
+Neem dit uitkomst van deze bewerking als nieuw getal en herhaal het proces. Men **vermoedt** dat dit proces uiteindelijk steeds eindigt bij 1...
 
 ## Gevraagd
 
