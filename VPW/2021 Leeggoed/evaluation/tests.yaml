@@ -1,6 +1,77 @@
 - tab: Feedback
-  testcases:
-  - stdin: "2\n2 2 3\n7 1 8"
-    stdout: "1 2 2\n2 0 7"
-  - stdin: "8\n2 2 3\n7 1 8\n50 2 4\n227 38 41\n142 51 63\n504 25 43\n982 59 71\n101 79 80"
-    stdout: "1 2 2\n2 0 7\n3 49 2\n4 2862 40\n5 599 54\n6 698 36\n7 4823 62\n8 7900 79"
+  contexts:
+  - testcases:
+    - expression: leeggoed(2, 2, 3)
+      return: 2
+  - testcases:
+    - expression: leeggoed(6, 6, 65)
+      return: 0
+  - testcases:
+    - expression: leeggoed(7, 1, 8)
+      return: 0
+  - testcases:
+    - expression: leeggoed(11, 15, 60)
+      return: 3
+  - testcases:
+    - expression: leeggoed(17, 3, 49)
+      return: 1
+  - testcases:
+    - expression: leeggoed(19, 43, 99)
+      return: 13
+  - testcases:
+    - expression: leeggoed(31, 12, 21)
+      return: 40
+  - testcases:
+    - expression: leeggoed(32, 14, 33)
+      return: 22
+  - testcases:
+    - expression: leeggoed(47, 8, 93)
+      return: 4
+  - testcases:
+    - expression: leeggoed(50, 2, 4)
+      return: 49
+  - testcases:
+    - expression: leeggoed(57, 35, 63)
+      return: 70
+  - testcases:
+    - expression: leeggoed(64, 66, 79)
+      return: 319
+  - testcases:
+    - expression: leeggoed(101, 79, 80)
+      return: 7900
+  - testcases:
+    - expression: leeggoed(109, 36, 37)
+      return: 3888
+  - testcases:
+    - expression: leeggoed(138, 32, 53)
+      return: 208
+  - testcases:
+    - expression: leeggoed(140, 9, 18)
+      return: 139
+  - testcases:
+    - expression: leeggoed(142, 51, 63)
+      return: 599
+  - testcases:
+    - expression: leeggoed(150, 25, 31)
+      return: 620
+  - testcases:
+    - expression: leeggoed(150, 66, 95)
+      return: 339
+  - testcases:
+    - expression: leeggoed(162, 25, 41)
+      return: 251
+  - testcases:
+    - expression: leeggoed(184, 11, 14)
+      return: 671
+  - testcases:
+    - expression: leeggoed(196, 47, 49)
+      return: 4582
+  - testcases:
+    - expression: leeggoed(227, 38, 41)
+      return: 2862
+  - testcases:
+    - expression: leeggoed(504, 25, 43)
+      return: 698
+  - testcases:
+    - expression: leeggoed(982, 59, 71)
+      return: 4823
