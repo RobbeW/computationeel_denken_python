@@ -12,7 +12,9 @@ $$
 $$
 
 ## Gevraagd
-Schrijf een programma dat de zijde van een regelmatige vijfhoek, $$\mathsf{a}$$, in cm vraagt en vervolgens de oppervlakte van het gebied tussen de omgeschreven en ingeschreven cirkel berekent. **Rond** hierbij **af** op 2 decimalen.
+* Schrijf een programma dat de **zijde** van een regelmatige vijfhoek, $$\mathsf{a}$$, in cm vraagt.
+* Bereken vervolgens het **verschil** in **oppervlakte** tussen de omgeschreven en ingeschreven cirkel.
+* **Rond** hierbij **af** op 2 decimalen.
 
 #### Voorbeeld
 Meet de zijde `3.0` cm, dan verschijnt:
