@@ -9,10 +9,13 @@ Sommige tegels zijn reeds stuk in de verpakking. Reken nog 7% extra tegels om di
 
 
 ## Gevraagd
-- Vraag naar de hoogte en de breedte van de muur **in m**.
-- Vraag naar zijde van de **vierkante** tegel **in cm**.
+- Vraag naar de **hoogte** en de **breedte** van de muur **in meter**.
+- Vraag naar zijde van de **vierkante** tegel **in centimeter**.
 - Vraag naar tegelsoort.
-- Bereken het **aantal tegels** dat je moet aankopen.
+- Bereken het **aantal tegels** dat je moet aankopen voor de **hoogte van de muur.**
+- Bereken het **aantal tegels** dat je moet aankopen voor de **breedte van de muur.**
+- Bereken het **totaal aantal tegels** dat je moet aankopen voor de **volledige muur.**
+- Rond af naar **boven**. Vergeet de extra tegels niet! 
 
 #### Voorbeelden
 Is de muur `2.1` m hoog en `3.2` m breed en wil je `marmeren` tegels aankopen met een zijde van `20` cm, dan verschijnt er:
