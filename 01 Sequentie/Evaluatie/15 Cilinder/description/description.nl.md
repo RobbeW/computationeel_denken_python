@@ -19,4 +19,5 @@ Volume: 248.644 cm³.
 {: .callout.callout-info}
 >#### Tip
 > Het volume bereken je via V = A<sub>grondvlak</sub> · h.
+>
 > De oppervlakte slaat op de volledige figuur. Dus twee grondvlakken én de rechthoekige mantel.
