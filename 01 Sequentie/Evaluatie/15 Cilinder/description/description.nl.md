@@ -4,8 +4,8 @@ Een cilinder is een meetkundig lichaam met een cirkelvormig grondvlak en evenwij
 
 ## Gevraagd
 
-* Schrijf een programma dat in **volgorde** de straal en de hoogte inleest. 
-* Bereken nadien de **oppervlakte** en het **volume** van de ruimtefiguur. 
+* Schrijf een programma dat de **straal** en de **hoogte** vraagt aan de gebruiker. 
+* Bereken nadien de **oppervlakte** en het **volume** van de volledige ruimtefiguur. 
 * Je **rondt af** op 3 cijfers na de komma.
 
 #### Voorbeeld
