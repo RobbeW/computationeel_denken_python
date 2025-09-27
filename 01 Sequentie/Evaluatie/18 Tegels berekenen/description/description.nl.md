@@ -15,7 +15,7 @@ Sommige tegels zijn reeds stuk in de verpakking. Reken nog 7% extra tegels om di
 - Bereken het **aantal tegels** dat je moet aankopen voor de **hoogte van de muur.** **Rond af naar boven!**
 - Bereken het **aantal tegels** dat je moet aankopen voor de **breedte van de muur.** **Rond af naar boven!**
 - Bereken het **totaal aantal tegels** dat je moet aankopen voor de **volledige muur.** **Rond af naar boven!**
-- Rond af naar **boven**. Vergeet de extra tegels niet! 
+- Vergeet de **7% extra tegels** niet! 
 
 #### Voorbeelden
 Is de muur `2.1` m hoog en `3.2` m breed en wil je `marmeren` tegels aankopen met een zijde van `20` cm, dan verschijnt er:
