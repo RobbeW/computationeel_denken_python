@@ -4,7 +4,9 @@ Een cilinder is een meetkundig lichaam met een cirkelvormig grondvlak en evenwij
 
 ## Gevraagd
 
-Schrijf een programma dat in **volgorde** de straal en de hoogte inleest en nadien de oppervlakte en het volume uitrekent. Je rondt hierbij af op 3 cijfers na de komma.
+* Schrijf een programma dat in **volgorde** de straal en de hoogte inleest. 
+* Bereken nadien de **oppervlakte** en het **volume** van de ruimtefiguur. 
+* Je **rondt af** op 3 cijfers na de komma.
 
 #### Voorbeeld
 Indien `r = 3.57` en `h = 6.21` dan verschijnt er:
@@ -17,3 +19,4 @@ Volume: 248.644 cm³.
 {: .callout.callout-info}
 >#### Tip
 > Het volume bereken je via V = A<sub>grondvlak</sub> · h.
+> De oppervlakte slaat op de volledige figuur. Dus twee grondvlakken én de rechthoekige mantel.
