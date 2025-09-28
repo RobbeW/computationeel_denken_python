@@ -5,6 +5,7 @@ Schrijf een programma waarbij je de lengte van de ```diagonalen``` vraagt van on
 
 ![Een prisma.](media/image_dark.png "Een prisma."){:data-caption="Een prisma." .dark-only width="25%"}
 
+* Bereken de ```oppervlakte``` van het grondvlak. 
 * Bereken daarna het ```volume``` van de prisma.
 * Bereken de ```oppervlakte``` van de prisma (=alle vlakken).
 * **Rond** het ```volume``` **af** op 2 decimalen.
