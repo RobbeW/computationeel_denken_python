@@ -23,3 +23,16 @@ Verschijnt:
 Hallo, Fred. Je moet € 9 betalen voor de toegang tot het museum.
 ```
 
+Voor de invoer:
+```
+Voer je naam in: Adam
+Voer je leeftijd in: 17
+```
+
+Verschijnt:
+```
+Hallo, Adam. Je hebt gratis toegang tot het museum.
+```
+
+
+
