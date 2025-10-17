@@ -14,7 +14,7 @@ Schrijf een programma dat het **aantal kubussen** in één enkele ribbe vraagt e
 
 Bij de invoer:
 ```
-Voer het aantal kubbussen in één ribbe in: 3
+Voer het aantal kubussen in één ribbe in: 3
 ```
 
 Verschijnt er:
@@ -25,7 +25,7 @@ Deze Rubiks kubus bevat 54 vierkanten.
 #### Voorbeeld 2
 Bij de invoer:
 ```
-Voer het aantal kubbussen in één ribbe in: 4
+Voer het aantal kubussen in één ribbe in: 4
 ```
 
 Verschijnt er:
