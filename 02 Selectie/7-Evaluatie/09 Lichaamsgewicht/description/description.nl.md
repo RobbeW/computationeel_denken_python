@@ -6,7 +6,7 @@ $$
 \mathsf{m = \dfrac{1}{2}\cdot a_m +4}
 $$
 
-met $$\mathsf{a_m}$$ de leeftijd in maanden.
+met $$\mathsf{a_m}$$ de leeftijd in aantal maanden.
 
 Voor kinderen **vanaf 1 tot en met 10 jaar** gebruikt men onderstaande formule:
 
@@ -14,7 +14,7 @@ $$
 \mathsf{m = 2 \cdot a_j+10}
 $$
 
-met $$\mathsf{a_j}$$ de leeftijd in jaren.
+met $$\mathsf{a_j}$$ de leeftijd in jaren (mogelijks een decimaal getal).
 
 Kinderen **ouder dan 10 jaar** zijn te oud om de formule van Leffler toe te passen. 
 
