@@ -13,9 +13,6 @@
     - stdin: '4'
       stdout: "De kostprijs is 9.21 euro.\n"
   - testcases:
-    - stdin: '5'
-      stdout: "De kostprijs is 11.51 euro.\n"
-  - testcases:
     - stdin: '6'
       stdout: "De kostprijs is 13.82 euro.\n"
   - testcases:
@@ -60,3 +57,6 @@
   - testcases:
     - stdin: '20'
       stdout: "De kostprijs is 46.06 euro.\n"
+  - testcases:
+    - stdin: '21'
+      stdout: "De kostprijs is 48.36 euro.\n"
