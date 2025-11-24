@@ -16,9 +16,9 @@
         overgebleven bedrag kan Lisa nog 16 sms'en versturen.\nMet het overgebleven
         bedrag kan Lisa nog 10 MB internet gebruiken.\n"
   - testcases:
-    - stdin: '1.9'
+    - stdin: '1.8'
       stdout: "Met het overgebleven bedrag kan Lisa nog 9 minuten bellen.\nMet het
-        overgebleven bedrag kan Lisa nog 19 sms'en versturen.\nMet het overgebleven
+        overgebleven bedrag kan Lisa nog 18 sms'en versturen.\nMet het overgebleven
         bedrag kan Lisa nog 12 MB internet gebruiken.\n"
   - testcases:
     - stdin: '1.92'
@@ -36,9 +36,9 @@
         overgebleven bedrag kan Lisa nog 23 sms'en versturen.\nMet het overgebleven
         bedrag kan Lisa nog 15 MB internet gebruiken.\n"
   - testcases:
-    - stdin: '2.9'
+    - stdin: '2.85'
       stdout: "Met het overgebleven bedrag kan Lisa nog 14 minuten bellen.\nMet het
-        overgebleven bedrag kan Lisa nog 29 sms'en versturen.\nMet het overgebleven
+        overgebleven bedrag kan Lisa nog 28 sms'en versturen.\nMet het overgebleven
         bedrag kan Lisa nog 19 MB internet gebruiken.\n"
   - testcases:
     - stdin: '2.98'
