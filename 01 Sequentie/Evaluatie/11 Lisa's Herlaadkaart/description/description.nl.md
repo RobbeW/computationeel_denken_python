@@ -40,9 +40,7 @@ Met het overgebleven bedrag kan Lisa nog 23 MB internet gebruiken.
 
 {: .callout.callout-info}
 >#### Tips
-> - Na het berekenen van de resterende waarden **rond** je best eerst **af** op 2 cijfers.
-> - Daarna kan je `math.floor()`-functie gebruiken om de berekende waarden zeker naar **beneden af te ronden.**
-> - Zorg ervoor dat de output volzinnen bevat met een onderwerp, hoofdletters, leestekens, enz.
+> Zorg ervoor dat de output volzinnen bevat met een onderwerp, hoofdletters, leestekens, enz.
 
 
 
