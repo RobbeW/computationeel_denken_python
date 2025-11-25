@@ -17,13 +17,13 @@ Lisa heeft nog een bepaald bedrag over op haar herlaadkaart. Haar bundel is echt
 #### Voorbeeld 1
 Bij de invoer: 
 ``` 
-Hoeveel heeft Lisa over op haar herlaadkaart? 2.9
+Hoeveel heeft Lisa over op haar herlaadkaart? 1.8
 ``` 
 Verschijnt er:
 ``` 
-Met het overgebleven bedrag kan Lisa nog 14 minuten bellen.
-Met het overgebleven bedrag kan Lisa nog 29 sms'en versturen.
-Met het overgebleven bedrag kan Lisa nog 19 MB internet gebruiken.
+Met het overgebleven bedrag kan Lisa nog 9 minuten bellen.
+Met het overgebleven bedrag kan Lisa nog 18 sms'en versturen.
+Met het overgebleven bedrag kan Lisa nog 12 MB internet gebruiken.
 ``` 
 
 #### Voorbeeld 2
