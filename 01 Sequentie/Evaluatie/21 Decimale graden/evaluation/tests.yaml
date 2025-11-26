@@ -1,62 +1,62 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: '4.235'
-      stdout: "Dit komt overeen met 4 graden 14 minuten en 6 seconden.\n"
+    - stdin: "3\n630"
+      stdout: "Dit komt overeen met 3 graden 37 minuten en 48 seconden.\n"
   - testcases:
-    - stdin: '6.645'
-      stdout: "Dit komt overeen met 6 graden 38 minuten en 42 seconden.\n"
+    - stdin: "5\n980"
+      stdout: "Dit komt overeen met 5 graden 58 minuten en 48 seconden.\n"
   - testcases:
-    - stdin: '7.325'
-      stdout: "Dit komt overeen met 7 graden 19 minuten en 30 seconden.\n"
+    - stdin: "12\n50"
+      stdout: "Dit komt overeen met 12 graden 3 minuten en 0 seconden.\n"
   - testcases:
-    - stdin: '22.65'
-      stdout: "Dit komt overeen met 22 graden 39 minuten en 0 seconden.\n"
+    - stdin: "12\n810"
+      stdout: "Dit komt overeen met 12 graden 48 minuten en 36 seconden.\n"
   - testcases:
-    - stdin: '25.75'
+    - stdin: "19\n445"
+      stdout: "Dit komt overeen met 19 graden 26 minuten en 42 seconden.\n"
+  - testcases:
+    - stdin: "25\n750"
       stdout: "Dit komt overeen met 25 graden 45 minuten en 0 seconden.\n"
   - testcases:
-    - stdin: '25.755'
+    - stdin: "25\n755"
       stdout: "Dit komt overeen met 25 graden 45 minuten en 18 seconden.\n"
   - testcases:
-    - stdin: '26.835'
-      stdout: "Dit komt overeen met 26 graden 50 minuten en 6 seconden.\n"
+    - stdin: "28\n615"
+      stdout: "Dit komt overeen met 28 graden 36 minuten en 54 seconden.\n"
   - testcases:
-    - stdin: '45.475'
+    - stdin: "32\n990"
+      stdout: "Dit komt overeen met 32 graden 59 minuten en 24 seconden.\n"
+  - testcases:
+    - stdin: "42\n155"
+      stdout: "Dit komt overeen met 42 graden 9 minuten en 18 seconden.\n"
+  - testcases:
+    - stdin: "45\n475"
       stdout: "Dit komt overeen met 45 graden 28 minuten en 30 seconden.\n"
   - testcases:
-    - stdin: '46.005'
-      stdout: "Dit komt overeen met 46 graden 0 minuten en 18 seconden.\n"
+    - stdin: "47\n920"
+      stdout: "Dit komt overeen met 47 graden 55 minuten en 12 seconden.\n"
   - testcases:
-    - stdin: '61.5'
+    - stdin: "58\n280"
+      stdout: "Dit komt overeen met 58 graden 16 minuten en 48 seconden.\n"
+  - testcases:
+    - stdin: "61\n500"
       stdout: "Dit komt overeen met 61 graden 30 minuten en 0 seconden.\n"
   - testcases:
-    - stdin: '68.79'
-      stdout: "Dit komt overeen met 68 graden 47 minuten en 24 seconden.\n"
+    - stdin: "65\n95"
+      stdout: "Dit komt overeen met 65 graden 5 minuten en 42 seconden.\n"
   - testcases:
-    - stdin: '82.31'
-      stdout: "Dit komt overeen met 82 graden 18 minuten en 36 seconden.\n"
+    - stdin: "69\n55"
+      stdout: "Dit komt overeen met 69 graden 3 minuten en 18 seconden.\n"
   - testcases:
-    - stdin: '86.9'
-      stdout: "Dit komt overeen met 86 graden 54 minuten en 0 seconden.\n"
+    - stdin: "70\n160"
+      stdout: "Dit komt overeen met 70 graden 9 minuten en 36 seconden.\n"
   - testcases:
-    - stdin: '88.185'
-      stdout: "Dit komt overeen met 88 graden 11 minuten en 6 seconden.\n"
+    - stdin: "75\n290"
+      stdout: "Dit komt overeen met 75 graden 17 minuten en 24 seconden.\n"
   - testcases:
-    - stdin: '100.665'
-      stdout: "Dit komt overeen met 100 graden 39 minuten en 54 seconden.\n"
+    - stdin: "75\n935"
+      stdout: "Dit komt overeen met 75 graden 56 minuten en 6 seconden.\n"
   - testcases:
-    - stdin: '129.65'
-      stdout: "Dit komt overeen met 129 graden 39 minuten en 0 seconden.\n"
-  - testcases:
-    - stdin: '129.78'
-      stdout: "Dit komt overeen met 129 graden 46 minuten en 48 seconden.\n"
-  - testcases:
-    - stdin: '137.03'
-      stdout: "Dit komt overeen met 137 graden 1 minuten en 48 seconden.\n"
-  - testcases:
-    - stdin: '137.79'
-      stdout: "Dit komt overeen met 137 graden 47 minuten en 24 seconden.\n"
-  - testcases:
-    - stdin: '145.725'
-      stdout: "Dit komt overeen met 145 graden 43 minuten en 30 seconden.\n"
+    - stdin: "77\n655"
+      stdout: "Dit komt overeen met 77 graden 39 minuten en 18 seconden.\n"

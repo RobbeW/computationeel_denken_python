@@ -33,11 +33,12 @@ spec.loader.exec_module(module)
 
 # generate test data
 ntests= 20
-cases = [(45.475,), (61.5,), (25.75, ), (25.755, )]
+cases = [(12,50), (45,475), (61,500), (25,750 ), (25,755 )]
 while len(cases) < ntests:
-    x = round( round( random.uniform(0,180), 2) + 0.005*random.randint(0,1), 3)
-    if (x, ) not in cases:
-        cases.append( (x, ) )
+    x = random.randint(0,90)
+    y = 5*random.randint(0,199)
+    if (x,y ) not in cases:
+        cases.append( (x, y) )
 cases.sort()
 # generate unit tests for functions
 yamldata = []
