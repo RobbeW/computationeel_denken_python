@@ -13,20 +13,20 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Sequentie",
     "Evaluatie",
     "Oppervlakte",
     "Afronden",
     "pi",
-    "import", 
+    "import",
     "import math",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
   "internals": {
-    "token": "Q9NQvxD4-HgsgZE_StUiCDtUA_7S9bvt7cjIYmqG_YpjCIHeCw8s-KwkzsSI5n8U",
+    "token": "pVvi5ywNaHagwTPkBStF3i38HgIx9pfsWsFvfCWMQnx7ZGRJJFn_nbRH5Qj3aYg3",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
