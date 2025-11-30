@@ -5,19 +5,19 @@
       stdout: "Aantal verpakkingen: 1\nTe betalen verpakkingen na XXL BONUS-actie: 1\nDe extra korting bedraagt 0 %.\nDe eindprijs is 5.99 euro.\n"
   - testcases:
     - stdin: "2\nhamster20\n"
-      stdout: "Aantal verpakkingen: 2\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 20 %.\nDe eindprijs is 9.58 euro.\n"
+      stdout: "Aantal verpakkingen: 2\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 20.0 %.\nDe eindprijs is 9.58 euro.\n"
   - testcases:
     - stdin: "2\nhamster30\n"
       stdout: "Aantal verpakkingen: 2\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 0 %.\nDe eindprijs is 11.98 euro.\n"
   - testcases:
     - stdin: "7\nhamster20\n"
-      stdout: "Aantal verpakkingen: 7\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 20 %.\nDe eindprijs is 9.58 euro.\n"
+      stdout: "Aantal verpakkingen: 7\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 20.0 %.\nDe eindprijs is 9.58 euro.\n"
   - testcases:
     - stdin: "7\nHAMSTER30\n"
-      stdout: "Aantal verpakkingen: 7\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 30 %.\nDe eindprijs is 8.39 euro.\n"
+      stdout: "Aantal verpakkingen: 7\nTe betalen verpakkingen na XXL BONUS-actie: 2\nDe extra korting bedraagt 30.0 %.\nDe eindprijs is 8.39 euro.\n"
   - testcases:
     - stdin: "10\nhamster30\n"
-      stdout: "Aantal verpakkingen: 10\nTe betalen verpakkingen na XXL BONUS-actie: 5\nDe extra korting bedraagt 30 %.\nDe eindprijs is 20.96 euro.\n"
+      stdout: "Aantal verpakkingen: 10\nTe betalen verpakkingen na XXL BONUS-actie: 5\nDe extra korting bedraagt 30.0 %.\nDe eindprijs is 20.96 euro.\n"
   - testcases:
     - stdin: "3\nHAMSTER20\n"
-      stdout: "Aantal verpakkingen: 3\nTe betalen verpakkingen na XXL BONUS-actie: 3\nDe extra korting bedraagt 20 %.\nDe eindprijs is 14.38 euro.\n"
+      stdout: "Aantal verpakkingen: 3\nTe betalen verpakkingen na XXL BONUS-actie: 3\nDe extra korting bedraagt 20.0 %.\nDe eindprijs is 14.38 euro.\n"
