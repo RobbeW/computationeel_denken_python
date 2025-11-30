@@ -20,6 +20,8 @@ if (code == "hamster30" or code == "HAMSTER30") and aantal >= 7:
     korting_procent = 0.30
 elif (code == "hamster20" or code == "HAMSTER20") and aantal >= 2:
     korting_procent = 0.20
+else: 
+    korting_procent = 0
 
 
 # Eindprijs berekenen met extra korting:
@@ -29,5 +31,5 @@ eindprijs = round(eindprijs, 2)
 # Uitvoer: 
 print("Aantal verpakkingen:", aantal)
 print("Te betalen verpakkingen na XXL BONUS-actie:", te_betalen_verpakkingen)
-print("De extra korting bedraagt", korting_procent, "%.")
+print("De extra korting bedraagt", korting_procent*100, "%.")
 print("De eindprijs is", eindprijs, "euro.")
