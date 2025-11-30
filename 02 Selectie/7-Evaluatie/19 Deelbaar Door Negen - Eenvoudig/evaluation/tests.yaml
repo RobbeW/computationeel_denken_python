@@ -1,0 +1,26 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '18'
+      stdout: "18 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '20'
+      stdout: "20 is niet deelbaar door 9.\n"
+  - testcases:
+    - stdin: '0'
+      stdout: "0 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '9'
+      stdout: "9 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '27'
+      stdout: "27 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "1 is niet deelbaar door 9.\n"
+  - testcases:
+    - stdin: '-9'
+      stdout: "-9 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '99'
+      stdout: "99 is deelbaar door 9.\n"

@@ -1,0 +1,26 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '754'
+      stdout: "Honderdtallen: 7, Tientallen: 5, Eenheden: 4\nVerschil = 738\n738 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "Honderdtallen: 0, Tientallen: 0, Eenheden: 1\nVerschil = 0\n0 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '999'
+      stdout: "Honderdtallen: 9, Tientallen: 9, Eenheden: 9\nVerschil = 972\n972 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "Honderdtallen: 0, Tientallen: 1, Eenheden: 0\nVerschil = 9\n9 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '35'
+      stdout: "Honderdtallen: 0, Tientallen: 3, Eenheden: 5\nVerschil = 27\n27 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '502'
+      stdout: "Honderdtallen: 5, Tientallen: 0, Eenheden: 2\nVerschil = 495\n495 is deelbaar door 9.\n"
+  - testcases:
+    - stdin: '0'
+      stdout: "Ongeldige invoer: het getal moet groter zijn dan 0.\n"
+  - testcases:
+    - stdin: '1000'
+      stdout: "Ongeldige invoer: het getal moet kleiner zijn dan 1000.\n"

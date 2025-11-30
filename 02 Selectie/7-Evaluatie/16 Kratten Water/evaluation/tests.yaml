@@ -1,0 +1,47 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '0'
+      stdout: "kratten 12: 0\nkratten 6: 0\nkratten 4: 0\noverschot flessen: 0\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "kratten 12: 0\nkratten 6: 0\nkratten 4: 0\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '4'
+      stdout: "kratten 12: 0\nkratten 6: 0\nkratten 4: 1\noverschot flessen: 0\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "kratten 12: 0\nkratten 6: 0\nkratten 4: 1\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "kratten 12: 0\nkratten 6: 1\nkratten 4: 0\noverschot flessen: 0\n"
+  - testcases:
+    - stdin: '7'
+      stdout: "kratten 12: 0\nkratten 6: 1\nkratten 4: 0\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '10'
+      stdout: "kratten 12: 0\nkratten 6: 1\nkratten 4: 1\noverschot flessen: 0\n"
+  - testcases:
+    - stdin: '11'
+      stdout: "kratten 12: 0\nkratten 6: 1\nkratten 4: 1\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '12'
+      stdout: "kratten 12: 1\nkratten 6: 0\nkratten 4: 0\noverschot flessen: 0\n"
+  - testcases:
+    - stdin: '17'
+      stdout: "kratten 12: 1\nkratten 6: 0\nkratten 4: 1\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '23'
+      stdout: "kratten 12: 1\nkratten 6: 1\nkratten 4: 1\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '30'
+      stdout: "kratten 12: 2\nkratten 6: 1\nkratten 4: 0\noverschot flessen: 0\n"
+  - testcases:
+    - stdin: '37'
+      stdout: "kratten 12: 3\nkratten 6: 0\nkratten 4: 0\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '53'
+      stdout: "kratten 12: 4\nkratten 6: 0\nkratten 4: 1\noverschot flessen: 1\n"
+  - testcases:
+    - stdin: '55'
+      stdout: "kratten 12: 4\nkratten 6: 1\nkratten 4: 0\noverschot flessen: 1\n"

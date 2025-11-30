@@ -1,0 +1,17 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Gent Zuid\n3\n0453\n"
+      stdout: "De bus naar Gent Zuid heeft lijn 3.\nDe ticketcode is: 30453\n"
+  - testcases:
+    - stdin: "Brugge\n28\n1200\n"
+      stdout: "De bus naar Brugge heeft lijn 28.\nDe ticketcode is: 281200\n"
+  - testcases:
+    - stdin: "Antwerpen Centraal\n6A\n0001\n"
+      stdout: "De bus naar Antwerpen Centraal heeft lijn 6A.\nDe ticketcode is: 6A0001\n"
+  - testcases:
+    - stdin: "Kortrijk\n88B\n9999\n"
+      stdout: "De bus naar Kortrijk heeft lijn 88B.\nDe ticketcode is: 88B9999\n"
+  - testcases:
+    - stdin: "Gent Sint-Pieters\n1\n2305\n"
+      stdout: "De bus naar Gent Sint-Pieters heeft lijn 1.\nDe ticketcode is: 12305\n"

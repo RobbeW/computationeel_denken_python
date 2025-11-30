@@ -1,0 +1,26 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '6.2'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 38.44 cm².\nDe straal van de cirkel is 3.5 cm.\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 1.00 cm².\nDe straal van de cirkel is 0.6 cm.\n"
+  - testcases:
+    - stdin: '2.5'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 6.25 cm².\nDe straal van de cirkel is 1.4 cm.\n"
+  - testcases:
+    - stdin: '3.3'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 10.89 cm².\nDe straal van de cirkel is 1.9 cm.\n"
+  - testcases:
+    - stdin: '4'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 16.00 cm².\nDe straal van de cirkel is 2.3 cm.\n"
+  - testcases:
+    - stdin: '5.5'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 30.25 cm².\nDe straal van de cirkel is 3.1 cm.\n"
+  - testcases:
+    - stdin: '7.5'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 56.25 cm².\nDe straal van de cirkel is 4.2 cm.\n"
+  - testcases:
+    - stdin: '8.9'
+      stdout: "De oppervlakte van zowel de cirkel als die van het vierkant zijn 79.21 cm².\nDe straal van de cirkel is 5.0 cm.\n"

@@ -1,0 +1,28 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Deelbaar door negen - eenvoudig"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "Robbe Wulgaert",
+    "Python", 
+    "Python in de Klas", 
+    "Selectie",
+    "Evaluatie",
+    "Modulo",
+    "Sint-Lievenscollege Gent",
+    "Dieter Vanderfaeillie"
+  ],
+  "internals": {
+    "token": "Q9NQvxD4-HgsgZE_StUiCDtUA_7S9bvt7cjIYmqG_YpjCIHeCw8s-KwkzsSI5n8U",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
