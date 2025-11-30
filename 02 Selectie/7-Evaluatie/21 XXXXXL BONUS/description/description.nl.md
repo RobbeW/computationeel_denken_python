@@ -60,6 +60,6 @@ Verschijnt er:
 ```
 Aantal verpakkingen: 7
 Te betalen verpakkingen na XXL BONUS-actie: 2
-De extra korting bedraagt 30 %.
+De extra korting bedraagt 30.0 %.
 De eindprijs is 8.39 euro.
 ```
