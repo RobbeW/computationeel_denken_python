@@ -20,7 +20,7 @@ Druk het resultaat duidelijk af, één gegeven per lijn.
 
 ## Voorbeelden
 
-Voor een invoer van `53` flessen verschijnt er:
+Voor een invoer van `55` flessen verschijnt er:
 ```
 kratten 12: 4
 kratten 6: 1
