@@ -4,6 +4,9 @@
     - stdin: "68\n102"
       stdout: "De prijs om het pakje te versturen is 6.9 euro.\n"
   - testcases:
+    - stdin: "20.1\n10.1"
+      stdout: "De prijs om het pakje te versturen is 3.4 euro.\n"
+  - testcases:
     - stdin: "35\n143.9"
       stdout: "De prijs om het pakje te versturen is 7.3 euro.\n"
   - testcases:
@@ -57,6 +60,3 @@
   - testcases:
     - stdin: "143\n135.0"
       stdout: "De prijs om het pakje te versturen is 9.4 euro.\n"
-  - testcases:
-    - stdin: "25\n97.0"
-      stdout: "De prijs om het pakje te versturen is 5.8 euro.\n"
