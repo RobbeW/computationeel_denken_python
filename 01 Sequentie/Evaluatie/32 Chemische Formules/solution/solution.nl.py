@@ -16,4 +16,5 @@ ondergrens = math.floor(R)
 bovengrens = ondergrens + 1
 
 # Uitvoer: 
-print(ondergrens, "<", R_afgerond, "<", bovengrens)
+print(ondergrens, "<", R, "<", bovengrens)
+
