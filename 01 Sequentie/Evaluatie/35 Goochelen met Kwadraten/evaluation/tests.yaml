@@ -1,17 +1,23 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "1235\n"
+    - stdin: '1235'
       stdout: "14925\n"
-    - stdin: "7893\n"
+  - testcases:
+    - stdin: '7893'
       stdout: "4964819\n"
-    - stdin: "1000\n"
+  - testcases:
+    - stdin: '1000'
       stdout: "1000\n"
-    - stdin: "2468\n"
+  - testcases:
+    - stdin: '2468'
       stdout: "4163664\n"
-    - stdin: "9090\n"
+  - testcases:
+    - stdin: '9090'
       stdout: "810810\n"
-    - stdin: "1203\n"
+  - testcases:
+    - stdin: '1203'
       stdout: "1409\n"
-    - stdin: "9999\n"
+  - testcases:
+    - stdin: '9999'
       stdout: "81818181\n"
