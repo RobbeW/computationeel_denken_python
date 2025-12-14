@@ -37,7 +37,7 @@ spec.loader.exec_module(module)
 ntests= 20
 cases = [(68, 102), (20.1,10.1)]
 while len(cases) < ntests:
-    cases.append( (random.randint(10,150), round(random.uniform(30, 210), 1) ) )
+    cases.append( (round(random.uniform(10, 150), 1), round(random.uniform(30, 210), 1) ) )
 
 # generate unit tests for functions
 yamldata = []

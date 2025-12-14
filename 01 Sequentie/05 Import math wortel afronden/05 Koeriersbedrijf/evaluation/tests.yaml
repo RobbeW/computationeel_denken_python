@@ -1,62 +1,62 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "68\n102"
+    - stdin: "68.0\n102.0"
       stdout: "De prijs om het pakje te versturen is 6.9 euro.\n"
   - testcases:
     - stdin: "20.1\n10.1"
       stdout: "De prijs om het pakje te versturen is 3.4 euro.\n"
   - testcases:
-    - stdin: "35\n143.9"
-      stdout: "De prijs om het pakje te versturen is 7.3 euro.\n"
+    - stdin: "110.8\n143.9"
+      stdout: "De prijs om het pakje te versturen is 8.9 euro.\n"
   - testcases:
-    - stdin: "68\n167.0"
-      stdout: "De prijs om het pakje te versturen is 8.7 euro.\n"
+    - stdin: "42.0\n75.5"
+      stdout: "De prijs om het pakje te versturen is 5.6 euro.\n"
   - testcases:
-    - stdin: "141\n135.6"
-      stdout: "De prijs om het pakje te versturen is 9.4 euro.\n"
+    - stdin: "94.8\n135.6"
+      stdout: "De prijs om het pakje te versturen is 8.2 euro.\n"
   - testcases:
-    - stdin: "140\n43.9"
+    - stdin: "137.5\n43.9"
       stdout: "De prijs om het pakje te versturen is 6.3 euro.\n"
   - testcases:
-    - stdin: "95\n52.1"
-      stdout: "De prijs om het pakje te versturen is 5.8 euro.\n"
+    - stdin: "56.9\n56.8"
+      stdout: "De prijs om het pakje te versturen is 5.0 euro.\n"
   - testcases:
-    - stdin: "99\n34.2"
-      stdout: "De prijs om het pakje te versturen is 5.2 euro.\n"
-  - testcases:
-    - stdin: "136\n37.3"
+    - stdin: "127.7\n34.2"
       stdout: "De prijs om het pakje te versturen is 6.0 euro.\n"
   - testcases:
-    - stdin: "104\n159.8"
-      stdout: "De prijs om het pakje te versturen is 9.2 euro.\n"
+    - stdin: "144.5\n119.0"
+      stdout: "De prijs om het pakje te versturen is 8.8 euro.\n"
   - testcases:
-    - stdin: "67\n116.9"
-      stdout: "De prijs om het pakje te versturen is 7.2 euro.\n"
-  - testcases:
-    - stdin: "21\n112.3"
-      stdout: "De prijs om het pakje te versturen is 6.4 euro.\n"
-  - testcases:
-    - stdin: "150\n53.0"
-      stdout: "De prijs om het pakje te versturen is 7.0 euro.\n"
-  - testcases:
-    - stdin: "27\n97.0"
-      stdout: "De prijs om het pakje te versturen is 5.8 euro.\n"
-  - testcases:
-    - stdin: "119\n185.9"
+    - stdin: "117.7\n180.9"
       stdout: "De prijs om het pakje te versturen is 10.1 euro.\n"
   - testcases:
-    - stdin: "88\n98.8"
-      stdout: "De prijs om het pakje te versturen is 7.0 euro.\n"
+    - stdin: "110.9\n70.5"
+      stdout: "De prijs om het pakje te versturen is 6.8 euro.\n"
   - testcases:
-    - stdin: "24\n52.6"
-      stdout: "De prijs om het pakje te versturen is 4.6 euro.\n"
+    - stdin: "85.8\n112.3"
+      stdout: "De prijs om het pakje te versturen is 7.6 euro.\n"
   - testcases:
-    - stdin: "65\n175.7"
-      stdout: "De prijs om het pakje te versturen is 9.0 euro.\n"
+    - stdin: "86.8\n76.0"
+      stdout: "De prijs om het pakje te versturen is 6.4 euro.\n"
   - testcases:
-    - stdin: "113\n118.2"
-      stdout: "De prijs om het pakje te versturen is 8.0 euro.\n"
+    - stdin: "62.1\n107.1"
+      stdout: "De prijs om het pakje te versturen is 6.9 euro.\n"
   - testcases:
-    - stdin: "143\n135.0"
-      stdout: "De prijs om het pakje te versturen is 9.4 euro.\n"
+    - stdin: "48.5\n179.5"
+      stdout: "De prijs om het pakje te versturen is 8.6 euro.\n"
+  - testcases:
+    - stdin: "147.8\n98.8"
+      stdout: "De prijs om het pakje te versturen is 8.2 euro.\n"
+  - testcases:
+    - stdin: "110.5\n52.6"
+      stdout: "De prijs om het pakje te versturen is 6.2 euro.\n"
+  - testcases:
+    - stdin: "40.4\n127.3"
+      stdout: "De prijs om het pakje te versturen is 7.1 euro.\n"
+  - testcases:
+    - stdin: "78.6\n188.1"
+      stdout: "De prijs om het pakje te versturen is 9.3 euro.\n"
+  - testcases:
+    - stdin: "91.7\n164.8"
+      stdout: "De prijs om het pakje te versturen is 9.1 euro.\n"
