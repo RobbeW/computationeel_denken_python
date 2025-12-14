@@ -1,0 +1,17 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Harry Potter\nFIC\nBL\n4567\n9\n"
+      stdout: "Het boek met cataloguscode FIC-BL-45679 heeft als titel: Harry Potter.\n"
+  - testcases:
+    - stdin: "De kleine prins\nFIC\nRD\n0001\n2\n"
+      stdout: "Het boek met cataloguscode FIC-RD-00012 heeft als titel: De kleine prins.\n"
+  - testcases:
+    - stdin: "Kosmos\nSCI\nGR\n1200\n0\n"
+      stdout: "Het boek met cataloguscode SCI-GR-12000 heeft als titel: Kosmos.\n"
+  - testcases:
+    - stdin: "Het menselijk lichaam\nBIO\nBL\n9876\n5\n"
+      stdout: "Het boek met cataloguscode BIO-BL-98765 heeft als titel: Het menselijk lichaam.\n"
+  - testcases:
+    - stdin: "1984\nFIC\nGR\n1111\n7\n"
+      stdout: "Het boek met cataloguscode FIC-GR-11117 heeft als titel: 1984.\n"

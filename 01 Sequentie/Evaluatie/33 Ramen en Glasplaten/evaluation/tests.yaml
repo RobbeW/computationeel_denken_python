@@ -1,0 +1,20 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: '600'
+      stdout: "De zijde van het vierkant is 24.49 cm.\nDe maximale straal van de cirkel is 12.2 cm.\nDe oppervlakte van de cirkel is 471.24 cm².\nDe oppervlakte van de gelijkbenige driehoek is 300.0 cm².\nDe opstaande zijden zijn 27.4 cm lang.\n"
+  - testcases:
+    - stdin: '100'
+      stdout: "De zijde van het vierkant is 10.0 cm.\nDe maximale straal van de cirkel is 5.0 cm.\nDe oppervlakte van de cirkel is 78.54 cm².\nDe oppervlakte van de gelijkbenige driehoek is 50.0 cm².\nDe opstaande zijden zijn 11.2 cm lang.\n"
+  - testcases:
+    - stdin: '50'
+      stdout: "De zijde van het vierkant is 7.07 cm.\nDe maximale straal van de cirkel is 3.5 cm.\nDe oppervlakte van de cirkel is 39.27 cm².\nDe oppervlakte van de gelijkbenige driehoek is 25.0 cm².\nDe opstaande zijden zijn 7.9 cm lang.\n"
+  - testcases:
+    - stdin: '625'
+      stdout: "De zijde van het vierkant is 25.0 cm.\nDe maximale straal van de cirkel is 12.5 cm.\nDe oppervlakte van de cirkel is 490.87 cm².\nDe oppervlakte van de gelijkbenige driehoek is 312.5 cm².\nDe opstaande zijden zijn 28.0 cm lang.\n"
+  - testcases:
+    - stdin: '2'
+      stdout: "De zijde van het vierkant is 1.41 cm.\nDe maximale straal van de cirkel is 0.7 cm.\nDe oppervlakte van de cirkel is 1.57 cm².\nDe oppervlakte van de gelijkbenige driehoek is 1.0 cm².\nDe opstaande zijden zijn 1.6 cm lang.\n"
+  - testcases:
+    - stdin: '1'
+      stdout: "De zijde van het vierkant is 1.0 cm.\nDe maximale straal van de cirkel is 0.5 cm.\nDe oppervlakte van de cirkel is 0.79 cm².\nDe oppervlakte van de gelijkbenige driehoek is 0.5 cm².\nDe opstaande zijden zijn 1.1 cm lang.\n"

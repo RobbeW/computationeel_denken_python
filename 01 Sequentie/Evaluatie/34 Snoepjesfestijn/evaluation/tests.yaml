@@ -1,0 +1,20 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "2\n15\n"
+      stdout: "Het kind kan 7 dag(en) snoep eten.\nEr blijven 1 snoepjes over.\n"
+  - testcases:
+    - stdin: "3\n9\n"
+      stdout: "Het kind kan 3 dag(en) snoep eten.\nEr blijven 0 snoepjes over.\n"
+  - testcases:
+    - stdin: "4\n3\n"
+      stdout: "Het kind kan 0 dag(en) snoep eten.\nEr blijven 3 snoepjes over.\n"
+  - testcases:
+    - stdin: "5\n25\n"
+      stdout: "Het kind kan 5 dag(en) snoep eten.\nEr blijven 0 snoepjes over.\n"
+  - testcases:
+    - stdin: "1\n8\n"
+      stdout: "Het kind kan 8 dag(en) snoep eten.\nEr blijven 0 snoepjes over.\n"
+  - testcases:
+    - stdin: "6\n20\n"
+      stdout: "Het kind kan 3 dag(en) snoep eten.\nEr blijven 2 snoepjes over.\n"

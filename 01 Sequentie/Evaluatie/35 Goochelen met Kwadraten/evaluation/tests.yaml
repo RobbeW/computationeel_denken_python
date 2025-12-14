@@ -1,0 +1,17 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "1235\n"
+      stdout: "14925\n"
+    - stdin: "7893\n"
+      stdout: "4964819\n"
+    - stdin: "1000\n"
+      stdout: "1000\n"
+    - stdin: "2468\n"
+      stdout: "4163664\n"
+    - stdin: "9090\n"
+      stdout: "810810\n"
+    - stdin: "1203\n"
+      stdout: "1409\n"
+    - stdin: "9999\n"
+      stdout: "81818181\n"
