@@ -3,10 +3,10 @@ Charlotte is een kunstzinnige architect en verwerkt in de huizen die ze ontwerpt
 
 Om deze ramen te maken, koopt de aannemer bij GLASANDCO **vierkante glasplaten** met een bepaalde **oppervlakte** (in cm²).
 
-Uit elke vierkante glasplaat wil men in het atelier twee vormen snijden:
+Uit elke vierkante glasplaat wil men in het atelier **één vorm snijden:**
 
 1. een **cirkel** met de maximaal mogelijke straal die in het vierkant past;
-2. een **scherphoekige gelijkbenige driehoek** die in het vierkant past, waarbij de **basis gelijk is aan één zijde van het vierkant**.
+2. **OF** een **scherphoekige gelijkbenige driehoek** die in het vierkant past, waarbij de **basis gelijk is aan één zijde van het vierkant**.
 
 Charlotte wil daarom voor elke glasplaat berekenen:
 
@@ -46,4 +46,5 @@ De maximale straal van de cirkel is 12.2 cm.
 De oppervlakte van de cirkel is 471.24 cm².
 De oppervlakte van de gelijkbenige driehoek is 300.0 cm².
 De opstaande zijden zijn 27.4 cm lang.
+
 ```
