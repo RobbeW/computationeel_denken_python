@@ -4,6 +4,18 @@
     - stdin: '2'
       stdout: "2 is priem.\n"
   - testcases:
+    - stdin: '3'
+      stdout: "3 is priem.\n"
+  - testcases:
+    - stdin: '4'
+      stdout: "4 is niet priem.\n"
+  - testcases:
+    - stdin: '5'
+      stdout: "5 is priem.\n"
+  - testcases:
+    - stdin: '6'
+      stdout: "6 is niet priem.\n"
+  - testcases:
     - stdin: '13'
       stdout: "13 is priem.\n"
   - testcases:

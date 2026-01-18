@@ -32,8 +32,8 @@ module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
 # generate test data
-ntests = 20
-cases = [(2,), (13,), (15,)]
+ntests = 25
+cases = [(2,), (13,), (15,), (2,),(3,),(4,),(5,),(6,)]
 while len(cases) < ntests:
     getal = random.randint(3, 500)
     if (getal,) not in cases:
