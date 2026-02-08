@@ -25,7 +25,7 @@
       stdout: "Het getal is deelbaar door 3 en 9.\nDit kan je controleren door: 9, 0, 0 en 0 op te tellen, zo bekom je 9.\nDeze som is deelbaar door 3 en 9.\n"
   - testcases:
     - stdin: "1110"
-      stdout: "Het getal is deelbaar door 3 en 9.\nDit kan je controleren door: 1, 1, 1 en 0 op te tellen, zo bekom je 3.\nDeze som is deelbaar door 3 en 9.\n"
+      stdout: "Het getal is deelbaar door 3 en niet door 9.\nDit kan je controleren door: 1, 1, 1 en 0 op te tellen, zo bekom je 3.\nDeze som is deelbaar door 3.\n"
   - testcases:
     - stdin: "2024"
       stdout: "Het getal is niet deelbaar door 9 en 3.\nDit kan je controleren door: 2, 0, 2 en 4 op te tellen, zo bekom je 8.\nDeze som is niet deelbaar door 9, noch door 3.\n"
