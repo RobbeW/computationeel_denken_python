@@ -1,5 +1,5 @@
 - tab: Feedback
-   contexts:
+  contexts:
   - testcases:
     - stdin: "1234567890\n02"
       stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
