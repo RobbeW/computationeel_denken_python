@@ -10,7 +10,7 @@
 
   - testcases:
     - stdin: "0.5\n1.0\n0.9\n0.5"
-      stdout: "Volume reactievat A: 0.20 m³.\nVolume reactievat B: 0.32 m³.\nReactievat B heeft het grootste volume.\n"
+      stdout: "Volume reactievat A: 0.2 m³.\nVolume reactievat B: 0.32 m³.\nReactievat B heeft het grootste volume.\n"
 
   - testcases:
     - stdin: "1.0\n1.0\n1.0\n1.0"
@@ -22,7 +22,7 @@
 
   - testcases:
     - stdin: "0.75\n1.8\n0.6\n2.5"
-      stdout: "Volume reactievat A: 0.80 m³.\nVolume reactievat B: 0.71 m³.\nReactievat A heeft het grootste volume.\n"
+      stdout: "Volume reactievat A: 0.8 m³.\nVolume reactievat B: 0.71 m³.\nReactievat A heeft het grootste volume.\n"
 
   - testcases:
     - stdin: "1.5\n0.5\n1.0\n1.0"
