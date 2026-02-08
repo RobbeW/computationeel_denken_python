@@ -20,7 +20,7 @@ Schrijf een programma dat:
 * en exact één van de zinnen hierboven print.
 
 
-## Voorbeeld
+## Voorbeelden
 #### Invoer
 ```
 24
