@@ -1,0 +1,35 @@
+- tab: Feedback
+   contexts:
+  - testcases:
+    - stdin: "1234567890\n02"
+      stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
+  - testcases:
+    - stdin: "1234567890\n45"
+      stdout: "Het controlegetal klopt niet. Het nummer is ongeldig.\n"
+  - testcases:
+    - stdin: "9700000000\n97"
+      stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
+  - testcases:
+    - stdin: "9700000000\n00"
+      stdout: "Het controlegetal klopt niet. Het nummer is ongeldig.\n"
+  - testcases:
+    - stdin: "0012345678\n03"
+      stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
+  - testcases:
+    - stdin: "1111111111\n70"
+      stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
+  - testcases:
+    - stdin: "1111111111\n69"
+      stdout: "Het controlegetal klopt niet. Het nummer is ongeldig.\n"
+  - testcases:
+    - stdin: "9999999999\n48"
+      stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
+  - testcases:
+    - stdin: "9999999999\n49"
+      stdout: "Het controlegetal klopt niet. Het nummer is ongeldig.\n"
+  - testcases:
+    - stdin: "1000000000\n34"
+      stdout: "Het controlegetal klopt. Het nummer is geldig.\n"
+  - testcases:
+    - stdin: "1000000000\n97"
+      stdout: "Het controlegetal klopt niet. Het nummer is ongeldig.\n"

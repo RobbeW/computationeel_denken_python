@@ -1,0 +1,35 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "24"
+      stdout: "Toegang verleend: Hoofdsysteem ontgrendeld!\n"
+  - testcases:
+    - stdin: "12"
+      stdout: "Toegang verleend: Hoofdsysteem ontgrendeld!\n"
+  - testcases:
+    - stdin: "48"
+      stdout: "Toegang verleend: Hoofdsysteem ontgrendeld!\n"
+  - testcases:
+    - stdin: "8"
+      stdout: "Bijna goed: De eerste deur is geopend.\n"
+  - testcases:
+    - stdin: "18"
+      stdout: "Bijna goed: De eerste deur is geopend.\n"
+  - testcases:
+    - stdin: "4"
+      stdout: "Bijna goed: De eerste deur is geopend.\n"
+  - testcases:
+    - stdin: "6"
+      stdout: "Bijna goed: De eerste deur is geopend.\n"
+  - testcases:
+    - stdin: "36"
+      stdout: "Bijna goed: De eerste deur is geopend.\n"
+  - testcases:
+    - stdin: "7"
+      stdout: "Toegang geweigerd!\n"
+  - testcases:
+    - stdin: "25"
+      stdout: "Toegang geweigerd!\n"
+  - testcases:
+    - stdin: "1"
+      stdout: "Toegang geweigerd!\n"

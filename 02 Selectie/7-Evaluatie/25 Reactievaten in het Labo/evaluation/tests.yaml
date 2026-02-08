@@ -1,0 +1,33 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "0.8\n1.5\n1.0\n1.2"
+      stdout: "Volume reactievat A: 0.75 m³.\nVolume reactievat B: 0.94 m³.\nReactievat B heeft het grootste volume.\n"
+
+  - testcases:
+    - stdin: "1.2\n2.0\n1.0\n2.0"
+      stdout: "Volume reactievat A: 2.26 m³.\nVolume reactievat B: 1.57 m³.\nReactievat A heeft het grootste volume.\n"
+
+  - testcases:
+    - stdin: "0.5\n1.0\n0.9\n0.5"
+      stdout: "Volume reactievat A: 0.20 m³.\nVolume reactievat B: 0.32 m³.\nReactievat B heeft het grootste volume.\n"
+
+  - testcases:
+    - stdin: "1.0\n1.0\n1.0\n1.0"
+      stdout: "Volume reactievat A: 0.79 m³.\nVolume reactievat B: 0.79 m³.\nReactievat A en B hebben een gelijk volume.\n"
+
+  - testcases:
+    - stdin: "2.0\n0.3\n1.0\n1.0"
+      stdout: "Volume reactievat A: 0.94 m³.\nVolume reactievat B: 0.79 m³.\nReactievat A heeft het grootste volume.\n"
+
+  - testcases:
+    - stdin: "0.75\n1.8\n0.6\n2.5"
+      stdout: "Volume reactievat A: 0.80 m³.\nVolume reactievat B: 0.71 m³.\nReactievat A heeft het grootste volume.\n"
+
+  - testcases:
+    - stdin: "1.5\n0.5\n1.0\n1.0"
+      stdout: "Volume reactievat A: 0.88 m³.\nVolume reactievat B: 0.79 m³.\nReactievat A heeft het grootste volume.\n"
+
+  - testcases:
+    - stdin: "1.3\n1.0\n1.4\n1.0"
+      stdout: "Volume reactievat A: 1.33 m³.\nVolume reactievat B: 1.54 m³.\nReactievat B heeft het grootste volume.\n"
