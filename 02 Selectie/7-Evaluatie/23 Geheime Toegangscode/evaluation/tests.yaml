@@ -23,7 +23,7 @@
       stdout: "Bijna goed: De eerste deur is geopend.\n"
   - testcases:
     - stdin: "36"
-      stdout: "Bijna goed: De eerste deur is geopend.\n"
+      stdout: "Toegang verleend: Hoofdsysteem ontgrendeld!\n"
   - testcases:
     - stdin: "7"
       stdout: "Toegang geweigerd!\n"
