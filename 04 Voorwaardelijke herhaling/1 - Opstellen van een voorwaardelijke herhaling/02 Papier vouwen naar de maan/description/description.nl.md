@@ -18,7 +18,7 @@ Aangezien de afstand van de aarde tot de maan bij benadering 384 400 km is, merk
 
 Hoeveel keer moet je vouwen om tot de planeet Mars te geraken? De afstand van de aarde tot Mars bedraagt gemiddeld ongeveer 225 miljoen kilometer. Of tot een andere planeet? 
 
-Pas het programma aan, zodat eerst de **dikte** van het blad papier gevraagd wordt (in cm), daarna de **afstand** die **minimaal** bereikt moet worden (in km). Toon uiteindelijk het aantal keer dat er gevouwen moeten worden.
+Schrijf een programma, zodat eerst de **dikte** van het blad papier gevraagd wordt (in cm) en daarna de **afstand** die **minimaal** bereikt moet worden (in km). Toon uiteindelijk het aantal keer dat er gevouwen moeten worden.
 
 #### Voorbeeld
 
