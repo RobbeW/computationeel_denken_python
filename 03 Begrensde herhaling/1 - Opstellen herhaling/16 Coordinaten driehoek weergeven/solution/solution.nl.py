@@ -1,6 +1,6 @@
 zijde = int(input("Geef de zijde van de driehoek in: "))
 
-print("Een gelijkbenige rechthoekige driehoek met benen van", zijde, "bevat deze punten:")
+print(f"Een gelijkbenige rechthoekige driehoek met {zijde} punten op de benen, bevat deze punten:")
 for i in range(zijde):
     for j in range(zijde - i):
-        print("(", i, ",", j, ")")
+        print(f"( {i} , {j} )")
