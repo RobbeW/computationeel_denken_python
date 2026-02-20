@@ -86,20 +86,21 @@
         4 jaar staat er € 1915.8 op de rekening.\nNa 5 jaar staat er € 1959.48 op
         de rekening.\nNa 6 jaar staat er € 2004.15 op de rekening.\n"
   - testcases:
-    - stdin: "1250.0\n2.33"
-      stdout: "Na 1 jaar staat er € 1279.12 op de rekening.\nNa 2 jaar staat er €
-        1308.93 op de rekening.\nNa 3 jaar staat er € 1339.43 op de rekening.\nNa
-        4 jaar staat er € 1370.64 op de rekening.\nNa 5 jaar staat er € 1402.57 op
-        de rekening.\nNa 6 jaar staat er € 1435.25 op de rekening.\nNa 7 jaar staat
-        er € 1468.69 op de rekening.\nNa 8 jaar staat er € 1502.91 op de rekening.\n\
-        Na 9 jaar staat er € 1537.93 op de rekening.\nNa 10 jaar staat er € 1573.76
-        op de rekening.\nNa 11 jaar staat er € 1610.43 op de rekening.\nNa 12 jaar
-        staat er € 1647.96 op de rekening.\nNa 13 jaar staat er € 1686.35 op de rekening.\n\
-        Na 14 jaar staat er € 1725.65 op de rekening.\nNa 15 jaar staat er € 1765.85
-        op de rekening.\nNa 16 jaar staat er € 1807.0 op de rekening.\nNa 17 jaar
-        staat er € 1849.1 op de rekening.\nNa 18 jaar staat er € 1892.18 op de rekening.\n\
-        Na 19 jaar staat er € 1936.27 op de rekening.\nNa 20 jaar staat er € 1981.39
-        op de rekening.\nNa 21 jaar staat er € 2027.55 op de rekening.\n"
+    - stdin: "1250.0\n2.32"
+      stdout: "Na 1 jaar staat er € 1279.0 op de rekening.\nNa 2 jaar staat er €
+        1308.67 op de rekening.\nNa 3 jaar staat er € 1339.03 op de rekening.\nNa
+        4 jaar staat er € 1370.1 op de rekening.\nNa 5 jaar staat er € 1401.89 op
+        de rekening.\nNa 6 jaar staat er € 1434.41 op de rekening.\nNa 7 jaar staat
+        er € 1467.69 op de rekening.\nNa 8 jaar staat er € 1501.74 op de rekening.\n\
+        Na 9 jaar staat er € 1536.58 op de rekening.\nNa 10 jaar staat er €
+        1572.23 op de rekening.\nNa 11 jaar staat er € 1608.7 op de rekening.\nNa
+        12 jaar staat er € 1646.02 op de rekening.\nNa 13 jaar staat er € 1684.21
+        op de rekening.\nNa 14 jaar staat er € 1723.29 op de rekening.\nNa 15 jaar
+        staat er € 1763.27 op de rekening.\nNa 16 jaar staat er € 1804.17 op de
+        rekening.\nNa 17 jaar staat er € 1846.03 op de rekening.Na 18 jaar staat
+        er € 1888.86 op de rekening.\nNa 19 jaar staat er € 1932.68 op de rekening.\n\
+        Na 20 jaar staat er € 1977.52 op de rekening.\nNa 21 jaar staat er € 2023.4
+        op de rekening.\n"
   - testcases:
     - stdin: "1650.75\n2.26"
       stdout: "Na 1 jaar staat er € 1688.06 op de rekening.\nNa 2 jaar staat er €
