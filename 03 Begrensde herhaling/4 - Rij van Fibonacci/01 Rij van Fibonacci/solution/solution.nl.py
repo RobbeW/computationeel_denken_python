@@ -1,13 +1,12 @@
 n = int(input("Geef het rangnummer in: ")) 
 
-if n <= 2: 
-    nieuw = 1
-else: 
-    voorlaatste = 1 
-    voorvoorlaatste = 1 
-    for i in range(n - 2): 
-        nieuw = voorlaatste + voorvoorlaatste 
-        voorvoorlaatste = voorlaatste 
-        voorlaatste = nieuw 
+nieuw = 1
 
-print(f"Het {n}e getal is {nieuw}")
+voorlaatste = 1 
+voorvoorlaatste = 1 
+for i in range(n - 1): 
+    nieuw = voorlaatste + voorvoorlaatste 
+    voorvoorlaatste = voorlaatste 
+    voorlaatste = nieuw 
+
+print(f"Het getal uit de rij van Fibonacci met rangnummer {n} is {nieuw}")

@@ -33,7 +33,7 @@ spec.loader.exec_module(module)
 
 # generate test data
 ntests= 20
-cases = [(3, ), (9, ), (1,),(2,)]
+cases = [(3, ), (9, ), (0,),(8,), (1,),(2,)]
 while len(cases) < ntests:
     n = random.randint(4,100)
     if (n,) not in cases:

@@ -5,7 +5,7 @@ De <a href="https://nl.wikipedia.org/wiki/Rij_van_Fibonacci" target="_blank">rij
 Je kan dit wiskundig noteren met behulp van een zogenaamd **recursief** voorschrift:
 
 $$
-    \mathsf{u_n = u_{n-1} + u_{n-2}, \quad\text{\textsf{waarbij}}\qquad u_1 = 1, \text{ \textsf{en} } u_2 = 1}
+    \mathsf{u_n = u_{n-1} + u_{n-2}, \quad\text{\textsf{waarbij}}\qquad u_0 = 1, \text{ \textsf{en} } u_1 = 1}
 $$
 
 De rij begint dus als volgt:
@@ -19,12 +19,12 @@ Schrijf een programma dat een rangnummer `n` aan de gebruiker vraagt. Daarna ber
 
 #### Voorbeelden
 
-Bij invoer `3` verschijnt:
+Bij invoer `2` verschijnt:
 ```
-Het 3e getal is 2
+Het getal uit de rij van Fibonacci met rangnummer 2 is 2
 ```
 
-Bij invoer `9` verschijnt:
+Bij invoer `8` verschijnt:
 ```
-Het 9e getal is 34
+Het getal uit de rij van Fibonacci met rangnummer 8 is 2
 ```

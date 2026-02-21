@@ -1,62 +1,62 @@
 - tab: Feedback
   contexts:
   - testcases:
+    - stdin: '0'
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 0 is 1\n"
+  - testcases:
     - stdin: '1'
-      stdout: "Het 1e getal is 1\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 1 is 1\n"
   - testcases:
     - stdin: '2'
-      stdout: "Het 2e getal is 1\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 2 is 2\n"
   - testcases:
     - stdin: '3'
-      stdout: "Het 3e getal is 2\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 3 is 3\n"
   - testcases:
-    - stdin: '7'
-      stdout: "Het 7e getal is 13\n"
+    - stdin: '8'
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 8 is 34\n"
   - testcases:
     - stdin: '9'
-      stdout: "Het 9e getal is 34\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 9 is 55\n"
   - testcases:
     - stdin: '13'
-      stdout: "Het 13e getal is 233\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 13 is 377\n"
   - testcases:
     - stdin: '16'
-      stdout: "Het 16e getal is 987\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 16 is 1597\n"
   - testcases:
     - stdin: '19'
-      stdout: "Het 19e getal is 4181\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 19 is 6765\n"
   - testcases:
     - stdin: '23'
-      stdout: "Het 23e getal is 28657\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 23 is 46368\n"
   - testcases:
     - stdin: '33'
-      stdout: "Het 33e getal is 3524578\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 33 is 5702887\n"
   - testcases:
     - stdin: '36'
-      stdout: "Het 36e getal is 14930352\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 36 is 24157817\n"
   - testcases:
     - stdin: '46'
-      stdout: "Het 46e getal is 1836311903\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 46 is 2971215073\n"
   - testcases:
     - stdin: '48'
-      stdout: "Het 48e getal is 4807526976\n"
-  - testcases:
-    - stdin: '67'
-      stdout: "Het 67e getal is 44945570212853\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 48 is 7778742049\n"
   - testcases:
     - stdin: '69'
-      stdout: "Het 69e getal is 117669030460994\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 69 is 190392490709135\n"
   - testcases:
     - stdin: '79'
-      stdout: "Het 79e getal is 14472334024676221\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 79 is 23416728348467685\n"
   - testcases:
     - stdin: '81'
-      stdout: "Het 81e getal is 37889062373143906\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 81 is 61305790721611591\n"
   - testcases:
     - stdin: '85'
-      stdout: "Het 85e getal is 259695496911122585\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 85 is 420196140727489673\n"
   - testcases:
     - stdin: '96'
-      stdout: "Het 96e getal is 51680708854858323072\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 96 is 83621143489848422977\n"
   - testcases:
     - stdin: '97'
-      stdout: "Het 97e getal is 83621143489848422977\n"
+      stdout: "Het getal uit de rij van Fibonacci met rangnummer 97 is 135301852344706746049\n"
