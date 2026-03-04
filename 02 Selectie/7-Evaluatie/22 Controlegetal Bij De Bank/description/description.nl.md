@@ -5,12 +5,11 @@
 Bij sommige nummers (zoals rekeningnummers) wordt een controlegetal gebruikt om fouten bij het invoeren te ontdekken. 
 Het controlegetal wordt berekend met een wiskundige regel:
 
-* Neem de eerste 10 cijfers van het rekeningnummer.
-* De BE en de eerste twee cijfers – het controlegetal – tellen niet mee.
-* Deel dit getal door 97 en bepaal de rest van de deling.
-* Vergelijk deze rest met het controlegetal:
-* Is de rest gelijk aan het controlegetal → het rekeningnummer is geldig
-* Anders → het rekeningnummer is ongeldig
+* Neem de **eerste 10 cijfers van het rekeningnummer** (zonder BE en zonder het controlegetal).
+* Deel dit getal door **97** en bepaal de **rest van de deling.**
+* **Speciale regel:**
+*  Speciale Belgische regel: als de rest 0 is, wordt die behandeld als 97. Verander elke restwaarde van precies nul naar 97 (het controlegetal kan niet 0 zijn).
+*  Vergelijk deze rest dan met het **controlegetal** (de laatste 2 cijfers van het rekeningnummer).
 
 
 ## Gevraagd
