@@ -1,0 +1,5 @@
+# Copyright 2026 - Educatief gebruik met expliciete naamsvermelding
+- tab: Feedback
+  testcases:
+    - stdin: "17\n4"
+      stdout: "17 delen door 4 heeft als rest 1\n"
