@@ -26,5 +26,5 @@ Het getal uit de rij van Fibonacci met rangnummer 2 is 2
 
 Bij invoer `8` verschijnt:
 ```
-Het getal uit de rij van Fibonacci met rangnummer 8 is 2
+Het getal uit de rij van Fibonacci met rangnummer 8 is 34
 ```
