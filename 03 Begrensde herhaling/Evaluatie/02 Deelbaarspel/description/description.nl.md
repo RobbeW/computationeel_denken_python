@@ -1,6 +1,6 @@
 ## Gevraagd
 
-* Schrijf een programma dat een **willekeurig** getal tussen 20 en 50 genereert en dit nadien weergeeft;
+* Schrijf een programma dat een **willekeurig** getal tussen 20 en 50 (grenzen inbegrepen) genereert en dit nadien weergeeft;
 * Vraag de gebruiker vervolgens om een deler van dit getal;
 * Indien de gebruiker een correcte deler gaf, toont het programma `Juist!`;
 * Gaf de gebruiker een echte deler (verschillend van 1 en het getal zelf), dan krijgt deze **twee punten**, anders krijgt deze **één punt**;
